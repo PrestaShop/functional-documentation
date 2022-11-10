@@ -62,6 +62,7 @@
       * [Filtering Components in Stats](functional-documentation/ux-ui/common-components/filtering-components-in-stats.md)
       * [Multistores dependent](functional-documentation/ux-ui/common-components/multistores-dependent.md)
       * [Help Button](functional-documentation/ux-ui/common-components/help-button.md)
+      * [Quick access dropdown](functional-documentation/ux-ui/common-components/quick-access-dropdown.md)
       * [Shop switcher with eye icon](functional-documentation/ux-ui/common-components/shop-switcher-with-eye-icon.md)
       * [Save and stay button](functional-documentation/ux-ui/common-components/save-and-stay-button.md)
       * [Settings wheel](functional-documentation/ux-ui/common-components/settings-wheel.md)
