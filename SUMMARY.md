@@ -43,6 +43,7 @@
           * [Localization](functional-documentation/ux-ui/back-office/improve/international/localization/README.md)
             * [Currencies](functional-documentation/ux-ui/back-office/improve/international/localization/currencies.md)
             * [Translations](functional-documentation/ux-ui/back-office/improve/international/localization/translations.md)
+            * [Geolocation](functional-documentation/ux-ui/back-office/improve/international/localization/geolocation.md)
         * [Marketing](functional-documentation/ux-ui/back-office/improve/marketing.md)
       * [Configure](functional-documentation/ux-ui/back-office/configure/README.md)
         * [Shop Parameters](functional-documentation/ux-ui/back-office/configure/shop-parameters.md)
