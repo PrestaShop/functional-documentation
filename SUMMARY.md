@@ -54,6 +54,7 @@
     * [Front office](functional-documentation/ux-ui/front-office.md)
       * [Image](functional-documentation/ux-ui/front-office/image.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
+      * [Language dropdown for input fields](functional-documentation/ux-ui/common-components/language-dropdown-for-input-fields.md)
       * [Checkmark navigation CTA buttons](functional-documentation/ux-ui/common-components/checkmark-navigation-cta-buttons.md)
       * [Heading of the page](functional-documentation/ux-ui/common-components/heading-of-the-page.md)
       * [Page header call to action buttons (modules)](functional-documentation/ux-ui/common-components/page-header-call-to-action-buttons-modules.md)
