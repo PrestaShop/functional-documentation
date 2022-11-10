@@ -40,6 +40,8 @@
         * [Shipping](functional-documentation/ux-ui/back-office/improve/shipping.md)
         * [Payment](functional-documentation/ux-ui/back-office/improve/payment.md)
         * [International](functional-documentation/ux-ui/back-office/improve/international.md)
+          * [Taxes](functional-documentation/ux-ui/back-office/improve/international/taxes/README.md)
+            * [Add or Edit Taxes](functional-documentation/ux-ui/back-office/improve/international/taxes/add-or-edit-taxes.md)
           * [Localization](functional-documentation/ux-ui/back-office/improve/international/localization/README.md)
             * [Currencies](functional-documentation/ux-ui/back-office/improve/international/localization/currencies.md)
             * [Translations](functional-documentation/ux-ui/back-office/improve/international/localization/translations.md)
