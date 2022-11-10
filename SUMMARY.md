@@ -56,6 +56,7 @@
       * [Filtering Components in Stats](functional-documentation/ux-ui/common-components/filtering-components-in-stats.md)
       * [Multistores dependent](functional-documentation/ux-ui/common-components/multistores-dependent.md)
       * [Help Button](functional-documentation/ux-ui/common-components/help-button.md)
+      * [Save and stay button](functional-documentation/ux-ui/common-components/save-and-stay-button.md)
       * [Settings wheel](functional-documentation/ux-ui/common-components/settings-wheel.md)
   * [Business rules](functional-documentation/business-rules/README.md)
     * [Stocks](functional-documentation/business-rules/stocks.md)
