@@ -78,5 +78,16 @@ When pressed, saves the configuration, shows a message: "Update successful"&#x20
 
 In the IP address whitelist section user can see the IP addresses that are available to access, it's possible to add your own IP address by just typing it and pressing "Save"
 
-## &#x20;
+## &#x20;Limitations
+
+"Select the countries from which your store is accessible" has a weird behavior.\
+Example :&#x20;
+
+1. Select All countries
+2. Uneselect some countries&#x20;
+3. Select All is still set
+
+
+
+###
 
