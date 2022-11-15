@@ -2,7 +2,7 @@
 
 The page contains webshop Currencies list.&#x20;
 
-![Currencies interface](<../../../../../../.gitbook/assets/image (2) (3).png>)
+![Currencies interface](<../../../../../../.gitbook/assets/image (2) (4).png>)
 
 ## Common components
 
