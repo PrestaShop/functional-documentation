@@ -28,6 +28,7 @@
           * [Stocks](functional-documentation/ux-ui/back-office/sell/catalog/stocks.md)
         * [Customers](functional-documentation/ux-ui/back-office/sell/customers.md)
         * [Customer service](functional-documentation/ux-ui/back-office/sell/customer-service.md)
+        * [Add or Edit Merchandise Returns](functional-documentation/ux-ui/back-office/sell/add-or-edit-merchandise-returns.md)
         * [Merchandise Returns](functional-documentation/ux-ui/back-office/sell/merchandise-returns/README.md)
           * [Order Messages](functional-documentation/ux-ui/back-office/sell/merchandise-returns/order-messages.md)
         * [Stats](functional-documentation/ux-ui/back-office/sell/stats.md)
