@@ -64,6 +64,7 @@
       * [Filtering Components in Stats](functional-documentation/ux-ui/common-components/filtering-components-in-stats.md)
       * [Multistores dependent](functional-documentation/ux-ui/common-components/multistores-dependent.md)
       * [Help Button](functional-documentation/ux-ui/common-components/help-button.md)
+      * [Shop switcher](functional-documentation/ux-ui/common-components/shop-switcher.md)
       * [Pagination](functional-documentation/ux-ui/common-components/pagination.md)
       * [Pagination with input](functional-documentation/ux-ui/common-components/pagination-with-input.md)
       * [Quick access dropdown](functional-documentation/ux-ui/common-components/quick-access-dropdown.md)
