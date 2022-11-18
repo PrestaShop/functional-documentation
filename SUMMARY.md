@@ -70,6 +70,7 @@
       * [Filtering Components in Stats](functional-documentation/ux-ui/common-components/filtering-components-in-stats.md)
       * [Multistores dependent](functional-documentation/ux-ui/common-components/multistores-dependent.md)
       * [Help Button](functional-documentation/ux-ui/common-components/help-button.md)
+      * [Account icon](functional-documentation/ux-ui/common-components/account-icon.md)
       * [PrestaShop version number](functional-documentation/ux-ui/common-components/prestashop-version-number.md)
       * [Save button](functional-documentation/ux-ui/common-components/save-button.md)
       * [E-Commerce logo](functional-documentation/ux-ui/common-components/e-commerce-logo.md)
