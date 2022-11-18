@@ -4,7 +4,7 @@
 
 This page interface allows editing existing or add a brand new Tax Rule to the Prestashop Tax system.
 
-<figure><img src="../../../../../../.gitbook/assets/Screenshot 2022-11-14 at 17-04-43 Tax Rules Add new • ps_1780 (1).png" alt="Add or Edit Tax Rules UI"><figcaption><p>Adding or Editing Tax Rules User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Screenshot 2022-11-14 at 17-04-43 Tax Rules Add new • ps_1780.png" alt="Add or Edit Tax Rules UI"><figcaption><p>Adding or Editing Tax Rules User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
