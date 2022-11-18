@@ -62,6 +62,7 @@
       * [Customer's shopping cart](functional-documentation/ux-ui/front-office/customers-shopping-cart/README.md)
         * [Cart Rules in customer's shopping cart page](functional-documentation/ux-ui/front-office/customers-shopping-cart/cart-rules-in-customers-shopping-cart-page.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
+      * [Color picker](functional-documentation/ux-ui/common-components/color-picker.md)
       * [Language dropdown for input fields](functional-documentation/ux-ui/common-components/language-dropdown-for-input-fields.md)
       * [Checkmark navigation CTA buttons](functional-documentation/ux-ui/common-components/checkmark-navigation-cta-buttons.md)
       * [Heading of the page](functional-documentation/ux-ui/common-components/heading-of-the-page.md)
