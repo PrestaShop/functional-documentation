@@ -2,7 +2,7 @@
 
 PrestaShop version number is next to the E-Commerce logo in the upper left corner. It is shown in all back office pages.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Version number UI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>Version number UI</p></figcaption></figure>
 
 ## Explanation of the version number
 
