@@ -2,4 +2,4 @@
 
 Describes the page name.
 
-![](../../../.gitbook/assets/image.png)
+<figure><img src="../../../.gitbook/assets/image.png" alt="Stats header User Interface"><figcaption><p>Stats header User Interface</p></figcaption></figure>
