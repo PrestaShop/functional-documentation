@@ -41,6 +41,7 @@
           * [Brand list](functional-documentation/ux-ui/back-office/improve/modules/brand-list.md)
           * [Contact form](functional-documentation/ux-ui/back-office/improve/modules/contact-form.md)
           * [New products block](functional-documentation/ux-ui/back-office/improve/modules/new-products-block.md)
+          * [Best-selling products](functional-documentation/ux-ui/back-office/improve/modules/best-selling-products.md)
         * [Design](functional-documentation/ux-ui/back-office/improve/design.md)
           * [Link Widget (Link Widget)](functional-documentation/ux-ui/back-office/improve/design/link-widget-link-widget.md)
         * [Shipping](functional-documentation/ux-ui/back-office/improve/shipping.md)
