@@ -1,6 +1,6 @@
 # Save and stay button
 
-<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Save and stay button UI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>Save and stay button UI</p></figcaption></figure>
 
 ## Description
 
