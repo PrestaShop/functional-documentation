@@ -2,4 +2,4 @@
 
 Describes the page name.
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (5).png>)
