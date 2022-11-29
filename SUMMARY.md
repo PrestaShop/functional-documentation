@@ -36,6 +36,7 @@
         * [Stats](functional-documentation/ux-ui/back-office/sell/stats.md)
       * [Improve](functional-documentation/ux-ui/back-office/improve/README.md)
         * [Modules](functional-documentation/ux-ui/back-office/improve/modules/README.md)
+          * [Product details (statsproduct)](functional-documentation/ux-ui/back-office/improve/modules/product-details-statsproduct.md)
           * [Dashboard Trends (dashtrends)](functional-documentation/ux-ui/back-office/improve/modules/dashboard-trends-dashtrends.md)
           * [Top-sellers block](functional-documentation/ux-ui/back-office/improve/modules/top-sellers-block.md)
           * [Brand list](functional-documentation/ux-ui/back-office/improve/modules/brand-list.md)
