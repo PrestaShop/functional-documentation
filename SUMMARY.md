@@ -57,6 +57,7 @@
         * [Marketing](functional-documentation/ux-ui/back-office/improve/marketing.md)
       * [Configure](functional-documentation/ux-ui/back-office/configure/README.md)
         * [Shop Parameters](functional-documentation/ux-ui/back-office/configure/shop-parameters.md)
+          * [Merchant expertise](functional-documentation/ux-ui/back-office/configure/shop-parameters/merchant-expertise.md)
           * [General](functional-documentation/ux-ui/back-office/configure/shop-parameters/general/README.md)
             * [Maintenance](functional-documentation/ux-ui/back-office/configure/shop-parameters/general/maintenance.md)
         * [Advanced Parameters](functional-documentation/ux-ui/back-office/configure/advanced-parameters.md)
