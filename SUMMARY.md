@@ -42,6 +42,7 @@
           * [Brand list](functional-documentation/ux-ui/back-office/improve/modules/brand-list.md)
           * [Contact form](functional-documentation/ux-ui/back-office/improve/modules/contact-form.md)
           * [New products block](functional-documentation/ux-ui/back-office/improve/modules/new-products-block.md)
+          * [Available quantities](functional-documentation/ux-ui/back-office/improve/modules/available-quantities.md)
           * [Best suppliers](functional-documentation/ux-ui/back-office/improve/modules/best-suppliers.md)
           * [Best vouchers](functional-documentation/ux-ui/back-office/improve/modules/best-vouchers.md)
           * [My account block](functional-documentation/ux-ui/back-office/improve/modules/my-account-block.md)
