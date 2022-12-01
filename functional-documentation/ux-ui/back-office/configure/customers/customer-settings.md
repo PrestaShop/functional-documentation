@@ -2,7 +2,7 @@
 
 This page defines the general Customer settings of the webshop.
 
-![Customers Settings UI](<../../../../../.gitbook/assets/image (13).png>)
+![Customers Settings UI](<../../../../../.gitbook/assets/image (7).png>)
 
 ## Common components
 

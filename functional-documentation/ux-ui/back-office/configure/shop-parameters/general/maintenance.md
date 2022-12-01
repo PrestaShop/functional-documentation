@@ -6,7 +6,7 @@ This page manages the setting for webshop administrators to temporary stop the a
 
 ![Maintenance interface](<../../../../../../.gitbook/assets/image (2) (2).png>)
 
-<figure><img src="../../../../../../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Multishop in Maintenance User Interface ( LABEL MULTISHOP ) </p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (6) (2) (1).png" alt=""><figcaption><p>Multishop in Maintenance User Interface ( LABEL MULTISHOP ) </p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

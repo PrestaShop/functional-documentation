@@ -4,7 +4,7 @@
 
 The purpose of this page is to edit or add a new State, according to the country.
 
-<figure><img src="../../../../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>States User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>States User Interface</p></figcaption></figure>
 
 ## Components description
 
@@ -115,7 +115,7 @@ Clicking the CTA button ([Buttons Outline UI Kit](https://build.prestashop-proje
 
 ### Pagination section
 
-Pagination from common components (todo link).
+[Pagination from common components ](../../../../common-components/pagination.md)
 
 ## Multistores functionality
 
