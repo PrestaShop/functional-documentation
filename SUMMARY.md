@@ -57,6 +57,8 @@
         * [Shipping](functional-documentation/ux-ui/back-office/improve/shipping.md)
         * [Payment](functional-documentation/ux-ui/back-office/improve/payment.md)
         * [International](functional-documentation/ux-ui/back-office/improve/international.md)
+          * [Locations](functional-documentation/ux-ui/back-office/improve/international/locations/README.md)
+            * [States](functional-documentation/ux-ui/back-office/improve/international/locations/states.md)
           * [Taxes](<functional-documentation/ux-ui/back-office/improve/international/taxes/README (1).md>)
             * [Add or Edit Tax Rule](functional-documentation/ux-ui/back-office/improve/international/taxes/add-or-edit-tax-rule.md)
           * [Taxes](functional-documentation/ux-ui/back-office/improve/international/taxes/README.md)
