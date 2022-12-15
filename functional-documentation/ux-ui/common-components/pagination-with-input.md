@@ -1,6 +1,6 @@
 # Pagination with input
 
-<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption><p>Pagination with input UI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Pagination with input UI</p></figcaption></figure>
 
 Pagination with input ([Pagination with input UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/pagination--with-input)) is a sequence of pages which are connected and have similar content. When list is opened allways shows first page. \
 Input allows to enter number of page that will be opened and allow move through list faster. Also available to move through pages by clicking on arrow. \
