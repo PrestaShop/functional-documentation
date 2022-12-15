@@ -4,9 +4,9 @@
 
 This page stores all the available Tax titles in PrestaShop application.
 
-<figure><img src="../../../../../../.gitbook/assets/image (3) (6).png" alt=""><figcaption><p>Taxes listing user interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Taxes listing user interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Tax options user interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Tax options user interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
@@ -74,7 +74,7 @@ See Sort behaviors ( todo link)
 
 ### **Add new tax** button behavior
 
-This is CTA button ([Buttons with icons UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--buttons-with-icons)) once clicked **** it opens [Tax creation page](add-or-edit-taxes.md). When hover mouse pointer on it, button color changes.
+This is CTA button ([Buttons with icons UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--buttons-with-icons)) once clicked **** it opens [Tax creation page](../taxes/add-or-edit-taxes.md). When hover mouse pointer on it, button color changes.
 
 ### ID input behavior
 
