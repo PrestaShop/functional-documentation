@@ -6,4 +6,4 @@ The component is found almost near every input field in the webshop back-office.
 
 Once the phrase or word is typed in the field
 
-![Language dropdown UI widget](<../../../.gitbook/assets/image (1) (3) (1) (1).png>)
+![Language dropdown UI widget](<../../../.gitbook/assets/image (1) (3) (1).png>)
