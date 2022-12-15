@@ -4,7 +4,7 @@
 
 In this page the employees of the shop can be set and edited.&#x20;
 
-<figure><img src="../../../../../../.gitbook/assets/Screenshot 2022-09-21 at 17-12-47 Employees • test.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Screenshot 2022-09-21 at 17-12-47 Employees • test.png" alt=""><figcaption></figcaption></figure>
 
 ## Components description
 
@@ -63,7 +63,7 @@ This button is used to add new employee : [`Call to action`](https://app.gitbook
 
 ### Settings wheel
 
-This is a [standard component](../../../../common-components/settings-wheel.md) for the list management
+This is a [standard component](../../common-components/settings-wheel.md) for the list management
 
 #### Bulk actions
 
