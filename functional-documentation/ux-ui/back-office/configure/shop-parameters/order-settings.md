@@ -2,7 +2,7 @@
 
 This page gathers all the General and Gift options settings, referring to the main Order functionalities behavior.&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Order Settings User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>Order Settings User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
