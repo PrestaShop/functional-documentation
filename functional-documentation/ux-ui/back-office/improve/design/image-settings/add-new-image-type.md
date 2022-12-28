@@ -4,7 +4,7 @@
 
 This configuration UI is about adding the new Image type into the Image type listing.
 
-<figure><img src="../../../../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Adding or Editing Image type User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Adding or Editing Image type User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
