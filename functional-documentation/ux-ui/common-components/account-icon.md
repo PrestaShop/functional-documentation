@@ -1,6 +1,6 @@
 # Account icon
 
-<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Account icon and its popup UI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Account icon and its popup UI</p></figcaption></figure>
 
 Account icon is multistore independent behavior icon. This logo is shown in the upper right corner in every page. Once clicked opens popup with following components.
 

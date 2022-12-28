@@ -4,7 +4,7 @@ description: Quick access dropdown allows to access the most frequently used pag
 
 # Quick access dropdown
 
-<figure><img src="../../../.gitbook/assets/image (6) (3).png" alt=""><figcaption><p>Quick access UI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Quick access UI</p></figcaption></figure>
 
 **Quick access** dropdown menu ([Dropdowns basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/dropdowns--basics)) is in the upper left corner in every back office page. In dropdown are these elements:
 
