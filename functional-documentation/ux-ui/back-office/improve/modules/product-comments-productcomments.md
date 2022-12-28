@@ -6,7 +6,7 @@ This feature is available together with the Prestashop module. Once the module i
 
 It is a great way to build more confidence to the webshop visitors. The module allows visitors to review or comment certain products or items. It enables the possibility to filter and manage all the reviews from the back-office, and to choose, what reviews will be in front-office.
 
-![Product Comments module User Interface](<../../../../../.gitbook/assets/image (1).png>)
+![Product Comments module User Interface](<../../../../../.gitbook/assets/image (1) (1).png>)
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

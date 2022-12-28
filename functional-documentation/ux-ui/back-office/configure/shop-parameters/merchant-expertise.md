@@ -2,7 +2,7 @@
 
 Merchant expertise page help PrestaShop users keep track of their progress. Unblocked badges helps to see how much expertise as e-merchants have grown and progressed during time.
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption><p>Merchant expertise user interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Merchant expertise user interface</p></figcaption></figure>
 
 ## Common components
 
