@@ -17,6 +17,6 @@ Once clicked, the popup will be prompted in the UI. The popup has the following 
 
 For example, _#ffffff_ value indicates white color. [Read more](https://htmlcolorcodes.com/color-chart/) about the HTML color values.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="Color picker User Interface"><figcaption><p>Color picker User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt="Color picker User Interface"><figcaption><p>Color picker User Interface</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt="Extended Color picker User Interface"><figcaption><p>Extended Color picker User Interface</p></figcaption></figure>

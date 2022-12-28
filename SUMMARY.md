@@ -67,7 +67,6 @@
           * [Taxes](functional-documentation/ux-ui/back-office/improve/international/taxes/README.md)
             * [Add or Edit Tax Rule](functional-documentation/ux-ui/back-office/improve/international/taxes/add-or-edit-tax-rule.md)
           * [Taxes](functional-documentation/ux-ui/back-office/improve/international/taxes-1/README.md)
-            * [Taxes listing](functional-documentation/ux-ui/back-office/improve/international/taxes-1/taxes-listing.md)
             * [Add or Edit Taxes](functional-documentation/ux-ui/back-office/improve/international/taxes-1/add-or-edit-taxes.md)
           * [Localization](functional-documentation/ux-ui/back-office/improve/international/localization/README.md)
             * [Currencies](functional-documentation/ux-ui/back-office/improve/international/localization/currencies.md)
