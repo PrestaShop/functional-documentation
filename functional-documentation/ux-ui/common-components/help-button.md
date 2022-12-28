@@ -8,7 +8,7 @@ Call-to-action button, which initiates a sidebar UI from the right side of the a
 
 After the Help sidebar is extended to the left side of the UI, there are particular components available. Down below the navigation components, there is the topic content shown.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt="Help Sidebar User Interface header"><figcaption><p>Help Sidebar User Interface header</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt="Help Sidebar User Interface header"><figcaption><p>Help Sidebar User Interface header</p></figcaption></figure>
 
 * **Menu list icon** - shows all the available topics for helping the users to learn and navigate through the Prestashop application.&#x20;
 * **Arrow left icon** - collapses the menu list back.
@@ -26,4 +26,4 @@ After the Help sidebar is extended to the left side of the UI, there are particu
 
 Component from [Forms Normal UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--normal). The field allows searching for the desired results in the Help content. The search results are displayed in the row blocks, containing the document icon, the headline, and the excerpt text from the targeted topics.
 
-<figure><img src="../../../.gitbook/assets/image (4) (2) (1).png" alt="Extended Help Sidebar User Interface"><figcaption><p>Extended Help Sidebar User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (2).png" alt="Extended Help Sidebar User Interface"><figcaption><p>Extended Help Sidebar User Interface</p></figcaption></figure>

@@ -1,6 +1,6 @@
 # View my shop
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>View my shop User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption><p>View my shop User Interface</p></figcaption></figure>
 
 ## Description
 
