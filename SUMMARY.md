@@ -149,3 +149,4 @@
     * [Stocks](functional-documentation/business-rules/stocks.md)
     * [Product attributes](functional-documentation/business-rules/product-attributes.md)
     * [Back-office shop metrics & data](functional-documentation/business-rules/back-office-shop-metrics-and-data.md)
+    * [Webservice's key management rules](functional-documentation/business-rules/webservices-key-management-rules.md)
