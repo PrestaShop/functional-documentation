@@ -4,7 +4,7 @@
 
 This UI allows configuring the Delivery Slips - download the PDF or manage the additional options.
 
-<figure><img src="../../../../../.gitbook/assets/image (8).png" alt="Delivery Slips User Interface"><figcaption><p>Delivery Slips User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image.png" alt="Delivery Slips User Interface"><figcaption><p>Delivery Slips User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
