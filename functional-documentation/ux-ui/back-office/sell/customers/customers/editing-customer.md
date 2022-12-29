@@ -6,7 +6,7 @@ This page contains the form to edit an existing customer in the BO.
 
 [Customers related tests](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/customers.html)
 
-TODO --> add screencap
+<figure><img src="../../../../../../.gitbook/assets/Capture d’écran du 2022-12-29 15-13-01.png" alt=""><figcaption></figcaption></figure>
 
 ### QA&#x20;
 
