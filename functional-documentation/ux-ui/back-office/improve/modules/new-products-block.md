@@ -4,7 +4,7 @@
 
 The page consists of 2 input fields that can have their own values inside.
 
-![](<../../../../../.gitbook/assets/Screenshot 2022-05-31 at 16-46-05 Module Manager • test.png>)
+![](<../../../../../.gitbook/assets/Screenshot 2022-05-31 at 16-46-05 Module Manager • test (1).png>)
 
 ## Components description
 

@@ -4,7 +4,7 @@
 
 This UI lists the Prestashop Search Engines entries.
 
-<figure><img src="../../../../../../.gitbook/assets/image (18) (1).png" alt="Search Engines User Interface"><figcaption><p>Search Engines User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (18).png" alt="Search Engines User Interface"><figcaption><p>Search Engines User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

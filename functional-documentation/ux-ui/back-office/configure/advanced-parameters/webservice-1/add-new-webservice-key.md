@@ -7,7 +7,7 @@ description: >-
 
 # Add new webservice key
 
-<figure><img src="../../../../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>Add new webservice key user interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Add new webservice key user interface</p></figcaption></figure>
 
 ## Common components
 

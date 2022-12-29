@@ -6,16 +6,20 @@ This UI shows the list of messages, that were sent by webshop customer, who crea
 
 <figure><img src="../../../../../.gitbook/assets/image (6) (1).png" alt="Order Messages UI"><figcaption><p>Order Messages User Interface</p></figcaption></figure>
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/customer-service/order-messages.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* Cancel button (todo link)
-* E-commerce logo (todo link)
-* Version number (todo link)
-* Quick access dropdown (todo link)
-* Search input (todo link)
+* [Cancel button](../../../common-components/cancel-button.md)&#x20;
+* [E-commerce logo ](../../../common-components/e-commerce-logo.md)
+* [Version number](../../../common-components/prestashop-version-number.md)
+* [Quick access dropdown ](../../../common-components/quick-access-dropdown.md)
+* [Search input ](../../../common-components/search-input-field.md)
 * Shop switcher with eye icon (todo link)
 * Bell icon (todo link)
 * Trophy icon (todo link)
@@ -36,7 +40,7 @@ This UI shows the list of messages, that were sent by webshop customer, who crea
 * **Export to SQL Manager** - the link with server icon. It redirects to **Prestashop SQL Manager**.
 * **Bulk actions dropdown** - it is disabled by default, once there is a Order message element selected, Bulk actions become enabled. The only action is **Delete** action, by clicking **Delete selected** dropdown. After clicking **Delete**, the pop-up with confirmation text will appear named _Delete selection Are you sure you want to delete the selected item(s)?_ and two buttons - one ghost button to **Cancel** the action and red CTA button to **Delete** the desired entry. Delete confirmation _The selection has been successfully deleted._ appears right after clicking the **Delete**, and pop-up closes right after clicking the **Close** button.
 
-## Arranging action in section
+## Sorting&#x20;
 
 There are **ID**, **Name**, **Message** arrangement column titles on the top row of the table. Once those column titles are clicked, the table column will arrange the information using the A-Z and 1-9 scheme, then Z-A and 9-1 method will be shown on second click. This functionality is not affecting **Actions** column title click. These components are from [Forms Normal UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--normal).
 

@@ -2,13 +2,13 @@
 
 Call-to-action button, which initiates a sidebar UI from the right side of the almost every page. The sidebar contains detailed text about the functionality in the middle part of the page. Once the CTA button is hovered, there is an alt text "Help" alternatively repeated.
 
-<figure><img src="../../../.gitbook/assets/image (2) (3).png" alt="Help button CTA UI"><figcaption><p>Help Button CTA User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="Help button CTA UI"><figcaption><p>Help Button CTA User Interface</p></figcaption></figure>
 
 ## Extended Help sidebar
 
 After the Help sidebar is extended to the left side of the UI, there are particular components available. Down below the navigation components, there is the topic content shown.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt="Help Sidebar User Interface header"><figcaption><p>Help Sidebar User Interface header</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2) (2).png" alt="Help Sidebar User Interface header"><figcaption><p>Help Sidebar User Interface header</p></figcaption></figure>
 
 * **Menu list icon** - shows all the available topics for helping the users to learn and navigate through the Prestashop application.&#x20;
 * **Arrow left icon** - collapses the menu list back.
