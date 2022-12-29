@@ -114,6 +114,7 @@
       * [Customer's shopping cart](functional-documentation/ux-ui/front-office/customers-shopping-cart/README.md)
         * [Cart Rules in customer's shopping cart page](functional-documentation/ux-ui/front-office/customers-shopping-cart/cart-rules-in-customers-shopping-cart-page.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
+      * [Configuration block](functional-documentation/ux-ui/common-components/configuration-block.md)
       * [Color picker](functional-documentation/ux-ui/common-components/color-picker.md)
       * [Language dropdown for input fields](functional-documentation/ux-ui/common-components/language-dropdown-for-input-fields.md)
       * [Checkmark navigation CTA buttons](functional-documentation/ux-ui/common-components/checkmark-navigation-cta-buttons.md)
