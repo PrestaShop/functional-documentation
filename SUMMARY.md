@@ -123,6 +123,7 @@
       * [Breadcrumbs](functional-documentation/ux-ui/common-components/breadcrumbs.md)
       * [Filtering Components in Stats](functional-documentation/ux-ui/common-components/filtering-components-in-stats.md)
       * [Multistores dependent](functional-documentation/ux-ui/common-components/multistores-dependent.md)
+      * [Multistores independent](functional-documentation/ux-ui/common-components/multistores-independent.md)
       * [Help Button](functional-documentation/ux-ui/common-components/help-button.md)
       * [Search input field](functional-documentation/ux-ui/common-components/search-input-field.md)
       * [Cancel button](functional-documentation/ux-ui/common-components/cancel-button.md)
