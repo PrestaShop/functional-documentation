@@ -1,42 +1,57 @@
-# Image slider
+# Image slider (ps\_imageslider)
 
 ## Description
 
 This module enables an image slider at the front-office of the shop, in the back-office it's possible to configure the slider.
 
-![](<../../../../../.gitbook/assets/Screenshot 2022-07-19 at 15-49-08 Module Manager • test.png>)
+<figure><img src="../../../../../.gitbook/assets/image (27).png" alt="Image Slider User Interface"><figcaption><p>Image Slider User Interface</p></figcaption></figure>
 
-## Components description
+## QA&#x20;
 
-The top 4 buttons specifications can be found [\[HERE\]](../../../common-components/page-header-call-to-action-buttons-modules.md).
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/modules.html)
 
-### Settings
+## Common components <a href="#common-components" id="common-components"></a>
+
+* [E-commerce logo](../../../common-components/e-commerce-logo.md).
+* [PrestaShop version number](../../../common-components/prestashop-version-number.md).
+* [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
+* [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
+* [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md).
+* Bell icon (todo link).
+* [Account icon](../../../common-components/account-icon.md).
+* [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help Button](../../../common-components/help-button.md) - [Buttons Outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Save button](../../../common-components/save-button.md) -  [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
+* [Page header call to action buttons](../../../common-components/page-header-call-to-action-buttons-modules.md).
+
+## Settings
 
 Below there are 3 components in settings box.
 
-#### Speed  : Number input field measured in milliseconds
+### Speed: Number input field measured in milliseconds
 
 | Description   | Value                                                | Error message    |
 | ------------- | ---------------------------------------------------- | ---------------- |
 | Mandatory     | No, but can be left empty                            | "Invalid values" |
-| Default value | 5000                                                 |                  |
-| Help text     | "The duration of the transition between two slides." |                  |
+| Default value | 5000                                                 | -                |
+| Help text     | "The duration of the transition between two slides." | -                |
 
-#### Pause On hover (toggle switch)
+### Pause On hover (toggle switch)
 
 | Description   | Value                                                       | Error message |
 | ------------- | ----------------------------------------------------------- | ------------- |
-| Mandatory     | Yes                                                         |               |
-| Default value |  By default is set to "Yes".                                |               |
-| Help text     | "Stop sliding when the mouse cursor is over the slideshow." |               |
+| Mandatory     | Yes                                                         | -             |
+| Default value |  By default is set to "Yes".                                | -             |
+| Help text     | "Stop sliding when the mouse cursor is over the slideshow." | -             |
 
-#### Loop forever (toggle switch)
+### Loop forever (toggle switch)
 
 | Description   | Value                                | Error message |
 | ------------- | ------------------------------------ | ------------- |
-| Mandatory     | Yes                                  |               |
-| Default value |  By default is set to "Yes".         |               |
-| Help text     | "Loop or stop after the last slide." |               |
+| Mandatory     | Yes                                  | -             |
+| Default value |  By default is set to "Yes".         | -             |
+| Help text     | "Loop or stop after the last slide." | -             |
 
 ****
 
@@ -60,13 +75,13 @@ Every slide has 3 buttons:
 
 * Enabled/Disabled - can be pressed, when the slide is disabled, it will turn the color to red.
 * Edit - redirects to the \[SLIDE INFORMATION] tab.&#x20;
-* Delete - when pressed deletes the slide, shows a messaage: "Successful deletion."
+* Delete - when pressed deletes the slide, shows a message: "Successful deletion."
 
 ![](<../../../../../.gitbook/assets/Screenshot 2022-07-20 at 14-38-38 Module Manager • test.png>)
 
 ## Slide information
 
-This section can only be accessed when editing a slide.
+This section can only be accessed when editing a slide or when you click on "add a new slide".
 
 ![](<../../../../../.gitbook/assets/Screenshot 2022-07-20 at 16-26-01 Module Manager • test.png>)
 
