@@ -10,7 +10,7 @@ When you enter the Cart rule editing UI, there are 3 separate tabs - Information
 
 <figure><img src="../../../../../../.gitbook/assets/Screenshot 2023-01-04 at 11-54-42 Cart Rules Edit CART_RULE • PrestaShop.png" alt="Edit or add Cart rule Actions tab UI"><figcaption><p>Edit or add Cart rule Actions tab UI</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/Screenshot 2023-01-04 at 12-00-41 Cart Rules Edit CART_RULE • PrestaShop.png" alt="Conditions tab Restrictions part UI"><figcaption><p>Conditions tab Restrictions part UI</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Screenshot 2023-01-04 at 12-00-41 Cart Rules Edit CART_RULE • PrestaShop (1).png" alt="Conditions tab Restrictions part UI"><figcaption><p>Conditions tab Restrictions part UI</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

@@ -1,6 +1,6 @@
 # Save button
 
-<figure><img src="../../../.gitbook/assets/image (1) (4).png" alt="Save Button UI"><figcaption><p>Save button UI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt="Save Button UI"><figcaption><p>Save button UI</p></figcaption></figure>
 
 ## Description
 

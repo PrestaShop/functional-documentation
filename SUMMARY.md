@@ -28,7 +28,7 @@
               * [Features list page](functional-documentation/ux-ui/back-office/sell/catalog/attributes-and-features/features/features-list-page.md)
           * [Brands & Suppliers](functional-documentation/ux-ui/back-office/sell/catalog/brands-and-suppliers.md)
           * [Files](functional-documentation/ux-ui/back-office/sell/catalog/files.md)
-          * [Discounts](functional-documentation/ux-ui/back-office/sell/catalog/discounts/README.md)
+          * [Discounts](functional-documentation/ux-ui/back-office/sell/catalog/discounts.md)
             * [Edit or Add Cart Rule](functional-documentation/ux-ui/back-office/sell/catalog/discounts/edit-or-add-cart-rule.md)
           * [Stocks](functional-documentation/ux-ui/back-office/sell/catalog/stocks.md)
         * [Customers](functional-documentation/ux-ui/back-office/sell/customers/README.md)
