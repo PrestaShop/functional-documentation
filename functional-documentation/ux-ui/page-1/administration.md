@@ -4,7 +4,7 @@
 
 This UI is responsible for General, Upload, and Notifications settings of the webshop.
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt="Administration User Interface"><figcaption><p>Administration User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (3).png" alt="Administration User Interface"><figcaption><p>Administration User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
