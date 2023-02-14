@@ -4,7 +4,7 @@
 
 This UI shows the list of features, that needs the attention from administrator.
 
-<figure><img src="../../../../../.gitbook/assets/image (19).png" alt="Monitoring UI"><figcaption><p>Monitoring User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (19) (1).png" alt="Monitoring UI"><figcaption><p>Monitoring User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
