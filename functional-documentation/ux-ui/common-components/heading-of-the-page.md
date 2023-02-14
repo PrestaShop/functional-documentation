@@ -2,4 +2,4 @@
 
 Describes the page name.
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt="Stats header User Interface"><figcaption><p>Stats header User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt="Stats header User Interface"><figcaption><p>Stats header User Interface</p></figcaption></figure>

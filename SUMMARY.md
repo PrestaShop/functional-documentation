@@ -47,7 +47,7 @@
           * [Customer data privacy block (ps\_dataprivacy)](functional-documentation/ux-ui/back-office/improve/modules/customer-data-privacy-block-ps\_dataprivacy.md)
           * [Product details (statsproduct)](functional-documentation/ux-ui/back-office/improve/modules/product-details-statsproduct.md)
           * [Dashboard Trends (dashtrends)](functional-documentation/ux-ui/back-office/improve/modules/dashboard-trends-dashtrends.md)
-          * [Top-sellers block](functional-documentation/ux-ui/back-office/improve/modules/top-sellers-block.md)
+          * [Top-sellers block (ps\_bestsellers)](functional-documentation/ux-ui/back-office/improve/modules/top-sellers-block-ps\_bestsellers.md)
           * [Image slider (ps\_imageslider)](functional-documentation/ux-ui/back-office/improve/modules/image-slider-ps\_imageslider.md)
           * [Shop search](functional-documentation/ux-ui/back-office/improve/modules/shop-search.md)
           * [Brand list](functional-documentation/ux-ui/back-office/improve/modules/brand-list.md)
