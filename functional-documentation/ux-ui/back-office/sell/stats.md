@@ -4,7 +4,7 @@
 
 This page displays all the Prestashop statistics information.
 
-![Stats interface](<../../../../.gitbook/assets/image (1).png>)
+![Stats interface](<../../../../.gitbook/assets/image (1) (1).png>)
 
 ## Components description
 

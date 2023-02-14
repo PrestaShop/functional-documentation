@@ -4,23 +4,23 @@
 
 This UI shows the list of features, that needs the attention from administrator.
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (3).png" alt="Monitoring User Interface"><figcaption><p>Monitoring User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (19).png" alt="Monitoring UI"><figcaption><p>Monitoring User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* Save button (todo link)
-* Cancel button (todo link)
-* E-commerce logo (todo link)
-* Version number (todo link)
-* Quick access dropdown (todo link)
-* Search input (todo link)
-* Shop switcher with eye icon (todo link)
+* [Save button](../../../common-components/save-button.md)
+* [Cancel button](../../../common-components/cancel-button.md)&#x20;
+* [E-commerce logo](../../../common-components/e-commerce-logo.md)&#x20;
+* [Version number](../../../common-components/prestashop-version-number.md)&#x20;
+* [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
+* [Search input](../../../common-components/search-input-field.md)&#x20;
+* [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)&#x20;
 * Bell icon (todo link)
-* Trophy icon (todo link)
-* Account icon (todo link)
+* [Account icon](../../../common-components/account-icon.md)&#x20;
+* [Gear icon](../../../common-components/settings-wheel.md)
 
 ## Commercial pop-up block
 
@@ -47,7 +47,7 @@ There are 7 sections for monitoring purposes. They are:
 
 ### **Title of the section**&#x20;
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="monitoring.md#title-of-the-section-1">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>-</td><td align="center">-</td><td></td></tr></tbody></table>
 
 ### **Gear icon** <mark style="color:red;"></mark>&#x20;
 
