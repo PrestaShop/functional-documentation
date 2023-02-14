@@ -4,7 +4,7 @@
 
 This dashboard is displaying the information about the Shopping Cart initiator - the customer, visitor or guest visitor who generated the Cart. It can be accessed by selecting the Shopping Cart row and clicking on the View button on the right of the row.
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (4) (1).png" alt="View Shoppinc Cart UI"><figcaption><p>View Shopping Cart User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (4) (1) (1).png" alt="View Shoppinc Cart UI"><figcaption><p>View Shopping Cart User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

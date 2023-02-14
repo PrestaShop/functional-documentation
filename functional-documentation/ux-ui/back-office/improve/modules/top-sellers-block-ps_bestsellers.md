@@ -4,7 +4,7 @@
 
 This is the main configuration page for the module that configures the product items number, that is showed in the top-sellers block.
 
-<figure><img src="../../../../../.gitbook/assets/image (1).png" alt="Top-sellers block UI"><figcaption><p>Top-sellers block User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (4).png" alt="Top-sellers block UI"><figcaption><p>Top-sellers block User Interface</p></figcaption></figure>
 
 ## QA
 

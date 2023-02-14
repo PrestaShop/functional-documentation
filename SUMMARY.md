@@ -43,6 +43,7 @@
         * [Stats](functional-documentation/ux-ui/back-office/sell/stats.md)
       * [Improve](functional-documentation/ux-ui/back-office/improve/README.md)
         * [Modules](functional-documentation/ux-ui/back-office/improve/modules/README.md)
+          * [Configure Mail Alerts (ps\_mailalerts)](functional-documentation/ux-ui/back-office/improve/modules/configure-mail-alerts-ps\_mailalerts.md)
           * [Product comments (productcomments)](functional-documentation/ux-ui/back-office/improve/modules/product-comments-productcomments.md)
           * [Customer data privacy block (ps\_dataprivacy)](functional-documentation/ux-ui/back-office/improve/modules/customer-data-privacy-block-ps\_dataprivacy.md)
           * [Product details (statsproduct)](functional-documentation/ux-ui/back-office/improve/modules/product-details-statsproduct.md)
