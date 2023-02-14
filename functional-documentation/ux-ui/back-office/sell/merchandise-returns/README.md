@@ -4,7 +4,7 @@
 
 This UI is listed as 2 sections - _Merchandise Returns_ and _Merchandise return (RMA) options_.
 
-<figure><img src="../../../../../.gitbook/assets/image (3) (2) (1).png" alt="Merchandise Returns User Interface"><figcaption><p>Merchandise Returns User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (3) (1).png" alt="Merchandise Returns User Interface"><figcaption><p>Merchandise Returns User Interface</p></figcaption></figure>
 
 ## Common Components
 
@@ -17,7 +17,7 @@ This UI is listed as 2 sections - _Merchandise Returns_ and _Merchandise return 
 
 ## Multishop case
 
-<figure><img src="../../../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Multishop Case</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Multishop Case</p></figcaption></figure>
 
 ## Merchandise Returns listing
 

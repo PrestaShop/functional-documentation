@@ -4,7 +4,7 @@
 
 This functionality able to make a return action of purchased goods via Prestashop. It is described as _Return Merchandise Authorization (RMA)_. All the Editing page UI elements are described below.
 
-<figure><img src="../../../../.gitbook/assets/image (13) (2).png" alt="Add or Edit Merchandise Returns UI"><figcaption><p>Add or Edit Merchandise Returns UI</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13).png" alt="Add or Edit Merchandise Returns UI"><figcaption><p>Add or Edit Merchandise Returns UI</p></figcaption></figure>
 
 ## Components description <a href="#common-components" id="common-components"></a>
 
