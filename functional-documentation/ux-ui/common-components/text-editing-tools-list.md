@@ -1,6 +1,6 @@
 # Text Editing Tools list
 
-![Text Editing Tools UI](<../../../.gitbook/assets/image (14).png>)
+![Text Editing Tools UI](<../../../.gitbook/assets/image (16).png>)
 
 ### **Source code**
 
