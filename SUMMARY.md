@@ -54,6 +54,7 @@
           * [Image slider (ps\_imageslider)](functional-documentation/ux-ui/back-office/improve/modules/image-slider-ps\_imageslider.md)
           * [Shop search](functional-documentation/ux-ui/back-office/improve/modules/shop-search.md)
           * [Brand list](functional-documentation/ux-ui/back-office/improve/modules/brand-list.md)
+          * [Custom text block](functional-documentation/ux-ui/back-office/improve/modules/custom-text-block.md)
           * [Contact form](functional-documentation/ux-ui/back-office/improve/modules/contact-form.md)
           * [Specials block](functional-documentation/ux-ui/back-office/improve/modules/specials-block.md)
           * [New products block](functional-documentation/ux-ui/back-office/improve/modules/new-products-block.md)
