@@ -54,7 +54,7 @@ This section COULD contains label (ex: multishop case ...)
 
 ## Error messages
 
-This section MUST list all errors messages / Exceptions for the page / workflow
+This section COULD list all errors messages / Exceptions for the page / workflow
 
 ## Limitations
 

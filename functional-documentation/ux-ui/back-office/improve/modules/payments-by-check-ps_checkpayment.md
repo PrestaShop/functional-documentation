@@ -4,7 +4,7 @@
 
 This module configures the Payments by Check functionality in the webshop.
 
-<figure><img src="../../../../../.gitbook/assets/image (11).png" alt="Payment by Check configuration User Interface"><figcaption><p>Payment by Check configuration User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (11) (3).png" alt="Payment by Check configuration User Interface"><figcaption><p>Payment by Check configuration User Interface</p></figcaption></figure>
 
 ## QA
 
