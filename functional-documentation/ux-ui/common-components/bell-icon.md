@@ -30,7 +30,7 @@ The **Setting bar** is located above the table . It allows you to have direct ac
 
 * **Export to SQL manager:** _Advanced Parameters_ --> _Import_
 
-![](<../../../.gitbook/assets/image (2).png>)
+![](<../../../.gitbook/assets/image (2) (8).png>)
 
 
 
