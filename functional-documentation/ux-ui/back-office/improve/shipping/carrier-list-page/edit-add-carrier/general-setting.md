@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this page is to add new or edit carrier
+The purpose of this page is to set up the general attributes of carrier.
 
 <figure><img src="../../../../../../../.gitbook/assets/Capture d’écran 2023-03-06 à 12.04.35.png" alt=""><figcaption></figcaption></figure>
 
@@ -72,8 +72,6 @@ This is input ([Forms files UI kit](https://build.prestashop-project.org/prestas
 ### Tracking URL input
 
 This is input ([Forms normal UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--normal)) to enter tracking URL.
-
-
 
 ### Previous button behavior
 
