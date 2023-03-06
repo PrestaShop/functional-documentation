@@ -124,6 +124,7 @@
           * [Personal data management](functional-documentation/ux-ui/back-office/modules/module-gdpr/personal-data-management.md)
           * [Consent checkbox customization](functional-documentation/ux-ui/back-office/modules/module-gdpr/consent-checkbox-customization.md)
           * [Customer activity tracking](functional-documentation/ux-ui/back-office/modules/module-gdpr/customer-activity-tracking.md)
+          * [Help](functional-documentation/ux-ui/back-office/modules/module-gdpr/help.md)
     * [Page 1](functional-documentation/ux-ui/page-1/README.md)
       * [Team - Employees](functional-documentation/ux-ui/page-1/team-employees/README.md)
         * [Add/edit employee](functional-documentation/ux-ui/page-1/team-employees/add-edit-employee.md)
