@@ -121,6 +121,7 @@
       * [Modules](functional-documentation/ux-ui/back-office/modules/README.md)
         * [Module GDPR](functional-documentation/ux-ui/back-office/modules/module-gdpr/README.md)
           * [Get started](functional-documentation/ux-ui/back-office/modules/module-gdpr/get-started.md)
+          * [Personal data management](functional-documentation/ux-ui/back-office/modules/module-gdpr/personal-data-management.md)
     * [Page 1](functional-documentation/ux-ui/page-1/README.md)
       * [Team - Employees](functional-documentation/ux-ui/page-1/team-employees/README.md)
         * [Add/edit employee](functional-documentation/ux-ui/page-1/team-employees/add-edit-employee.md)
