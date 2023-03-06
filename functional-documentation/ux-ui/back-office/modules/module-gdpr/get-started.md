@@ -10,17 +10,23 @@ This tab will help you become familiar with the General Data Protection Regulati
 
 ## Components description
 
-This section MUST describe each component one by one
+<mark style="color:red;"></mark>[<mark style="color:red;">https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar</mark>](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar)<mark style="color:red;"></mark>
 
 ### A component description
 
-Several cases
+<mark style="color:red;">**Several cases**</mark>
 
-1. The component is a common UI / UX (for example "Help button"): It MUST be a link to this [common components](../../../common-components.md) (we recommend creating a dedicated change request when adding a new common component to the documentation)
-2. The component is a common component with a standard behavior described in the [UI/KIT](https://build.prestashop.com/prestashop-ui-kit/?path=/story/modals--modal) or Design System : it must be a link to the UI/KIT or DS
-3. Otherwise the component MUST be described as a Table as described bellow
+1. <mark style="color:red;">**The component is a common UI / UX (for example "Help button"): It MUST be a link to this**</mark> [<mark style="color:red;">**common components**</mark>](../../../common-components.md) <mark style="color:red;">**(we recommend creating a dedicated change request when adding a new common component to the documentation)**</mark>
+2. <mark style="color:red;">**The component is a common component with a standard behavior described in the**</mark> [<mark style="color:red;">**UI/KIT**</mark>](https://build.prestashop.com/prestashop-ui-kit/?path=/story/modals--modal) <mark style="color:red;">**or Design System : it must be a link to the UI/KIT or DS**</mark>
+3. <mark style="color:red;">**Otherwise the component MUST be described as a Table as described bellow**</mark>
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>YES/NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td></td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>Default value</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>Help text</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>Tool tips text</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td></td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td></td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="get-started.md#behaviors-description">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+#### Section Welcome to your GDPR module
+
+Texte
+
+Button Manage
+
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Texte</td><td><p>This interface will help you to become familiar with the GDPR and give you some guidance to help you become compliant with this regulation.</p><p>This module meets the main regulation's requirements concerning personal data of your customers including :</p><ol><li>The right to access their personal data and data portability</li><li>The right to obtain rectification and/or erasure of their personal data</li><li>The right to give and withdraw consent</li></ol><p>It also allows you to keep a record of processing activities (especially for access, consent and erasure).</p><p>Follow our 3 steps to configure your module and help you to become GDPR compliant!</p></td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Manage</td><td>See our Personal data management tab to visualize the data collected by PrestaShop and community modules and manage your customers’ personal data.</td><td align="center"></td><td></td></tr><tr><td>Customize</td><td>Customize the consent confirmation checkboxes and consent request message on the different forms of your store, especially for account creation and newsletter subscription.</td><td align="center">-</td><td></td></tr><tr><td>Keep track</td><td>Customize the consent confirmation checkboxes and consent request message on the different forms of your store, especially for account creation and newsletter subscription.</td><td align="center">-</td><td></td></tr></tbody></table>
 
 This section COULD contains label (ex: multishop  ...)
 
