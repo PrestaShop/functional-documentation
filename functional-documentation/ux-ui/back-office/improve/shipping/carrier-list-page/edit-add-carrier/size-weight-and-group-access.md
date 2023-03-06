@@ -1,5 +1,9 @@
 # Size, weight and group access
 
+## Description
+
+The purpose of this page is to define the attribute ( width, height, ..) of the packages according to the group access
+
 <figure><img src="../../../../../../../.gitbook/assets/Capture d’écran 2023-03-06 à 16.42.59.png" alt=""><figcaption></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
@@ -33,7 +37,7 @@
 
 ### Group access checkboxes
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>Yes</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>All groups marked</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>Mark the group that are allowed access to this carrier.</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="size-weight-and-group-access.md#group-access-checkboxes-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>Yes</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td><em><code>All groups marked</code></em></td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>Mark the group that are allowed access to this carrier.</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="size-weight-and-group-access.md#group-access-checkboxes-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
 
 ## Behaviors description
 
@@ -53,15 +57,15 @@ This is input field ([Forms normal UI kit](https://build.prestashop-project.org/
 
 ### Maximum package height (Dimension unit) input
 
-This is input field ([Forms normal UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--normal)) to enter package height. The dimension unit mentioned in parenthesis is the one defined in International > Localization > Localization.
+This is input field ([Forms normal UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--normal)) to enter package height. The dimension unit mentioned in parenthesis is the one defined in International > Localization > _language_ Local units.
 
 ### Maximum package depth (Dimension unit) input behavior
 
-This is input field ([Forms normal UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--normal)) to enter package depth. The dimension unit mentioned in parenthesis is the one defined in International > Localization > Localization.
+This is input field ([Forms normal UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--normal)) to enter package depth. The dimension unit mentioned in parenthesis is the one defined in International > Localization > _language_ Local units.
 
 ### Maximum package weight (Dimension unit) input behavior
 
-This is input field ([Forms normal UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--normal)) to enter package weight. The weight dimension unit mentioned in parenthesis is the one defined in International > Localization > Localization.
+This is input field ([Forms normal UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--normal)) to enter package weight. The weight dimension unit mentioned in parenthesis is the one defined in International > Localization >_language_ Local units.
 
 ### Group access checkboxes behavior
 
