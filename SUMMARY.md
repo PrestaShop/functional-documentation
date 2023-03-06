@@ -118,6 +118,7 @@
           * [New & Experimental Features](functional-documentation/ux-ui/back-office/configure/advanced-parameters/new-and-experimental-features.md)
           * [Webservice](functional-documentation/ux-ui/back-office/configure/advanced-parameters/webservice-1/README.md)
             * [Add new webservice key](functional-documentation/ux-ui/back-office/configure/advanced-parameters/webservice-1/add-new-webservice-key.md)
+      * [Modules](functional-documentation/ux-ui/back-office/modules.md)
     * [Page 1](functional-documentation/ux-ui/page-1/README.md)
       * [Team - Employees](functional-documentation/ux-ui/page-1/team-employees/README.md)
         * [Add/edit employee](functional-documentation/ux-ui/page-1/team-employees/add-edit-employee.md)
