@@ -40,7 +40,7 @@ Keep track button
 
 Point d'attention
 
-
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td> <strong></strong> Note: Please make sure that you have access to the latest version of your installed module(s) to fully benefit the features of our GDPR module. If one or several of your modules do not provide their data list, we invite you to contact directly the developers of these modules.</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td>Loot at W3</td><td align="center">-</td><td></td></tr></tbody></table>
 
 #### Section More information about GDPR
 
