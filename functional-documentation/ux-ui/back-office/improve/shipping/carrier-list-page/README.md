@@ -21,7 +21,7 @@ The UI it’s the "Carriers" page. It presents you with a list of all your curre
 * [Account icon](../../../../common-components/account-icon.md).
 * [E-commerce logo](../../../../common-components/e-commerce-logo.md).
 * [Setting bar](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/366/functional-documentation/ux-ui/common-components/setting-bar)&#x20;
-* Bell icon&#x20;
+* [Bell icon ](../../../../common-components/bell-icon.md)
 
 ## The UI elements
 
