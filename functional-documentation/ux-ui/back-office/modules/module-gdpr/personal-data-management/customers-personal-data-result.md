@@ -77,7 +77,7 @@ If you click on Cancel action. The pop up vanished and nothing happens.
 
 else if you click on "Confirm Erasure" a pop up indicated that "The customer's data has been successfully deleted!". So his data will be removed permanently. You have to click on the blue button "OK"L to closed the pop up.
 
-![](../../../../../../.gitbook/assets/image.png)
+![](<../../../../../../.gitbook/assets/image (2).png>)
 
 
 
