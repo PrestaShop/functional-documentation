@@ -2,7 +2,7 @@
 
 ## Description
 
-
+The UI it’s the "Preferences" page, you can set some basic informations that will have an impact on the carierres page
 
 <figure><img src="../../../../../.gitbook/assets/Capture d’écran 2023-03-07 à 16.37.34.png" alt=""><figcaption></figcaption></figure>
 
@@ -87,7 +87,7 @@ The dropdown menu ([Dropdowns basics UI kit](https://build.prestashop-project.or
 The dropdown menu ([Dropdowns basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/dropdowns--basics)) displays to display option for front office.&#x20;
 
 * **Price** - the position of carriers will be determined with price.&#x20;
-* **Position -**the position of carries will be determined according to the settings of the "position" column of the [General setting](carrier/edit-add-carrier/general-setting.md) page .
+* **Position -**the position of carries will be determined according to the settings of the "position" column of the [General setting](carrier-list-page/edit-add-carrier/general-setting.md) page .
 
 ### Order by dropdown
 
