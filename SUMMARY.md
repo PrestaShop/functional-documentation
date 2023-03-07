@@ -175,4 +175,6 @@
     * [Customer's search](functional-documentation/business-rules/customers-search.md)
     * [Webservice's key management rules](functional-documentation/business-rules/webservices-key-management-rules.md)
     * [Modules](functional-documentation/business-rules/modules/README.md)
-      * [Module GDPR](functional-documentation/business-rules/modules/module-gdpr.md)
+      * [Module GDPR](functional-documentation/business-rules/modules/module-gdpr/README.md)
+        * [Personal data management](functional-documentation/business-rules/modules/module-gdpr/personal-data-management/README.md)
+          * [Customer's personal data](functional-documentation/business-rules/modules/module-gdpr/personal-data-management/customers-personal-data.md)
