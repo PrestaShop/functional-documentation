@@ -174,3 +174,5 @@
     * [Back-office shop metrics & data](functional-documentation/business-rules/back-office-shop-metrics-and-data.md)
     * [Customer's search](functional-documentation/business-rules/customers-search.md)
     * [Webservice's key management rules](functional-documentation/business-rules/webservices-key-management-rules.md)
+    * [Modules](functional-documentation/business-rules/modules/README.md)
+      * [Module GDPR](functional-documentation/business-rules/modules/module-gdpr.md)
