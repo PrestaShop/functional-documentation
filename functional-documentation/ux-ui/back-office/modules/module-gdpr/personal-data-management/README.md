@@ -75,13 +75,13 @@ This section COULD contains label (ex: multishop case ...)
 
 B1 with results :&#x20;
 
-When you enter letters in the search field, all the customers matching the research are displayed look at the ["Customer personal data - Result"](customers-personal-data-no-match.md) section
+When you enter some letters of your customer's contained in name or email address, all the customers matching the research are displayed look at the ["Customer personal data - Result"](customers-personal-data-no-match.md)[ ](customers-personal-data-result.md)section.
 
 
 
 B1 without result&#x20;
 
-When you enter letters in the search field, if no customer matched the research a message is displayed. Look at the Message ["Customer personal data - Result"](customers-personal-data-no-match.md) section
+When you enter letters in the search field, if no customer matched the research a message is displayed. Look at the Message ["Customer personal data - no match"](customers-personal-data-no-match.md) section.
 
 
 
