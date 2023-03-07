@@ -13,7 +13,7 @@ This tab allows you customize the consent confirmation checkboxes and the corres
 
 &#x20; [A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html) (TODO)
 
-<figure><img src="../../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Components description
 
@@ -86,7 +86,7 @@ else if you click on "Confirm Erasure" a pop up indicated that "The customer's d
 
 <mark style="color:red;">Point d'attention suppression des datas multipshop</mark>
 
-![](<../../../../../.gitbook/assets/image (36).png>)
+![](<../../../../../.gitbook/assets/image (1).png>)
 
 
 

@@ -137,6 +137,8 @@
       * [Image](functional-documentation/ux-ui/front-office/image.md)
       * [Customer's shopping cart](functional-documentation/ux-ui/front-office/customers-shopping-cart/README.md)
         * [Cart Rules in customer's shopping cart page](functional-documentation/ux-ui/front-office/customers-shopping-cart/cart-rules-in-customers-shopping-cart-page.md)
+      * [Modules](functional-documentation/ux-ui/front-office/modules/README.md)
+        * [Module GDPR](functional-documentation/ux-ui/front-office/modules/module-gdpr.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
       * [Text Editing Tools list](functional-documentation/ux-ui/common-components/text-editing-tools-list.md)
       * [Configuration block](functional-documentation/ux-ui/common-components/configuration-block.md)
