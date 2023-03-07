@@ -6,7 +6,7 @@ Next, you can search for a customer in your database and view all of this custom
 
 &#x20; [A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html) (TODO)
 
-<figure><img src="../../../../../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Sub section - result</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Sub section - result</p></figcaption></figure>
 
 ## Components description
 
@@ -63,7 +63,7 @@ Each component of the customer has
 
 ### Workflow
 
-W1 :  When you click on the "Manage" Button  you are redirected to ["Information about customer"](../../../sell/customers/customers/information-about-customer.md)
+W1 :  When you click on the "Manage" Button  you are redirected to ["Information about customer"](../../../../sell/customers/customers/information-about-customer.md)
 
 
 
@@ -77,7 +77,7 @@ If you click on Cancel action. The pop up vanished and nothing happens.
 
 else if you click on "Confirm Erasure" a pop up indicated that "The customer's data has been successfully deleted!". So his data will be removed permanently. You have to click on the blue button "OK"L to closed the pop up.
 
-![](<../../../../../../.gitbook/assets/image (2).png>)
+![](<../../../../../../../.gitbook/assets/image (36).png>)
 
 
 
