@@ -85,7 +85,7 @@ When you enter letters in the search field, if no customer matched the research 
 
 
 
-A FINIR
+
 
 ## Error messages
 
