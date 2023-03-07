@@ -9,7 +9,7 @@ If you consider that one or several modules collect personal data and that they 
 * Please make sure that you have access to the latest version of these modules to fully benefit the GDPR update.
 * If they are still not displayed in the list, we invite you to contact their respective developers to have more information about these modules. Next, you can search for a customer in your database and view all of this customer's data that has been collected by the PrestaShop solution and the GDPR-compliant modules installed on your store. To search for a customer, please enter the first letters of your customer's name or email address.
 
-Next, you can search for a customer in your database and view all of this customer's data that has been collected by the PrestaShop solution and the GDPR-compliant modules installed on your store. To search for a customer, please enter the first letters of your customer's name or email address.
+Next, you can search for a customer in your database and view all of this customer's data that has been collected by the PrestaShop solution and the GDPR-compliant modules installed on your store.&#x20;
 
 
 
@@ -53,11 +53,13 @@ Manage customer's personal data
 
 Search for a customer name or email
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td> <strong></strong> </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td></td><td align="center">-</td><td>cd829e07342f4c6e9017c9808ca68fba</td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td> <strong></strong> </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td>B1</td><td align="center">-</td><td>cd829e07342f4c6e9017c9808ca68fba</td></tr></tbody></table>
 
 ## Behaviors description
 
+B1 : Next, you can search for a customer in your database and view all of this customer's data that has been collected by the PrestaShop solution and the GDPR-compliant modules installed on your store. To search for a customer, please enter the first letters of your customer's name or email address.
 
+A FINIR
 
 ### Workflow
 
