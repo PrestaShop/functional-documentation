@@ -50,15 +50,13 @@ Next, you can search for a customer in your database and view all of this custom
 
 #### Section 2 : Manage customer's personal data
 
+You can search for a customer in your database and view all of this customer's data that has been collected by the PrestaShop solution and the GDPR-compliant modules installed on your store. To search for a customer, please enter the first letters of your customer's name or email address.
+
 **Search for a customer name or email**
 
 <table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td> <strong></strong> </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td>B1</td><td align="center">-</td><td>cd829e07342f4c6e9017c9808ca68fba</td></tr></tbody></table>
 
 ## Behaviors description
-
-B1 : Next, you can search for a customer in your database and view all of this customer's data that has been collected by the PrestaShop solution and the GDPR-compliant modules installed on your store. To search for a customer, please enter the first letters of your customer's name or email address.
-
-A FINIR
 
 ### Workflow
 
@@ -70,6 +68,24 @@ A FINIR
 * This sub-section COULD contains a link to the relevant [business rule](../../../../../how-to-write-functional-documentation/templates/business-rules-template.md)
 
 This section COULD contains label (ex: multishop case ...)
+
+
+
+
+
+B1 with results :&#x20;
+
+When you enter letters in the search field, all the customers matching the research are displayed look at the ["Customer personal data - Result"](customers-personal-data-no-match.md) section
+
+
+
+B1 without result&#x20;
+
+When you enter letters in the search field, if no customer matched the research a message is displayed. Look at the Message ["Customer personal data - Result"](customers-personal-data-no-match.md) section
+
+
+
+A FINIR
 
 ## Error messages
 

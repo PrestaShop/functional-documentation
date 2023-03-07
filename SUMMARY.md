@@ -120,7 +120,7 @@
         * [Module GDPR](functional-documentation/ux-ui/back-office/modules/module-gdpr/README.md)
           * [Get started](functional-documentation/ux-ui/back-office/modules/module-gdpr/get-started.md)
           * [Personal data management](functional-documentation/ux-ui/back-office/modules/module-gdpr/personal-data-management/README.md)
-            * [Customer's personal data - Result](functional-documentation/ux-ui/back-office/modules/module-gdpr/personal-data-management/customers-personal-data-result.md)
+            * [Customer's personal data - no match](functional-documentation/ux-ui/back-office/modules/module-gdpr/personal-data-management/customers-personal-data-no-match.md)
           * [Consent checkbox customization](functional-documentation/ux-ui/back-office/modules/module-gdpr/consent-checkbox-customization.md)
           * [Customer activity tracking](functional-documentation/ux-ui/back-office/modules/module-gdpr/customer-activity-tracking.md)
           * [Help](functional-documentation/ux-ui/back-office/modules/module-gdpr/help.md)
