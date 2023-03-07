@@ -75,7 +75,7 @@ This section COULD contains label (ex: multishop case ...)
 
 B1 with results :&#x20;
 
-When you enter some letters of your customer's contained in name or email address, all the customers matching the research are displayed look at the ["Customer personal data - Result"](customers-personal-data-no-match.md)[ ](customers-personal-data-result/)section.
+When you enter some letters of your customer's contained in name or email address, all the customers matching the research are displayed look at the ["Customer personal data - Result"](customers-personal-data-no-match.md)[ ](customers-personal-data-result.md)section.
 
 
 
