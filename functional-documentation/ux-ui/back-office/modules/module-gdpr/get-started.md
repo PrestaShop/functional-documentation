@@ -64,7 +64,7 @@ Point d'attention
 
 ### Workflow
 
-W1 :  When you click on the "Manage" Button  you are redirected to "[Personal data management](personal-data-management.md)"
+W1 :  When you click on the "Manage" Button  you are redirected to "[Personal data management](personal-data-management/)"
 
 W2 : When you click on the "Customize" Button  you are redirected to ["Consent checkbox customization"](consent-checkbox-customization.md)
 
