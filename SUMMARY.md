@@ -73,8 +73,6 @@
           * [Image Settings](functional-documentation/ux-ui/back-office/improve/design/image-settings/README.md)
             * [Add new Image type](functional-documentation/ux-ui/back-office/improve/design/image-settings/add-new-image-type.md)
         * [Shipping](functional-documentation/ux-ui/back-office/improve/shipping.md)
-          * [Carriers](functional-documentation/ux-ui/back-office/improve/shipping/carriers/README.md)
-            * [Add new / edit carrier](functional-documentation/ux-ui/back-office/improve/shipping/carriers/add-new-edit-carrier.md)
           * [Carrier list page](functional-documentation/ux-ui/back-office/improve/shipping/carrier-list-page/README.md)
             * [Edit/add carrier](functional-documentation/ux-ui/back-office/improve/shipping/carrier-list-page/edit-add-carrier/README.md)
               * [General setting](functional-documentation/ux-ui/back-office/improve/shipping/carrier-list-page/edit-add-carrier/general-setting.md)
