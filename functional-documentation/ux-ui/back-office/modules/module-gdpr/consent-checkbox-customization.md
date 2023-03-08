@@ -1,7 +1,3 @@
----
-description: Cette page est à mettre à finir de mettre à jour
----
-
 # Consent checkbox customization
 
 ## Description
