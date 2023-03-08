@@ -26,51 +26,89 @@ This tab allows you customize the consent confirmation checkboxes and the corres
 1. <mark style="color:red;">**The component is a common component with a standard behavior described in the**</mark> [<mark style="color:red;">**UI/KIT**</mark>](https://build.prestashop.com/prestashop-ui-kit/?path=/story/modals--modal) <mark style="color:red;">**or Design System : it must be a link to the UI/KIT or DS**</mark>
 2. <mark style="color:red;">**Otherwise the component MUST be described as a Table as described bellow**</mark>
 
-#### Sub-Section result
+
 
 Point d'attention
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>To visualize all the data that your store has collected from a specific customer, please click on the corresponding customer block</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>NA</td><td align="center">-</td><td></td></tr></tbody></table>
-
-Liste des customers
-
-Each component of the customer has
-
-1\) First Name and Name
-
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>First Name and Name</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>NA</td><td align="center">-</td><td></td></tr></tbody></table>
-
-2\) Identifier
-
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>Customer's identifier</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>NA</td><td align="center">-</td><td></td></tr></tbody></table>
-
-3\) Email
-
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>Customer's email</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>NA</td><td align="center">-</td><td></td></tr></tbody></table>
-
-4\) Order's number
-
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>Customer's order's number</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>NA</td><td align="center">-</td><td></td></tr></tbody></table>
-
-5\) Details Button
-
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>Details</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>W1</td><td align="center">-</td><td></td></tr></tbody></table>
-
-6\) Remove data Button
-
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>Remove data</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>B1</td><td align="center">-</td><td></td></tr></tbody></table>
-
-7\) Download invoices button
-
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>Download invoices</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>B2</td><td align="center">-</td><td></td></tr></tbody></table>
+We recommend you to put a link to your confidentiality policy page in each of your custom messages. Be aware that a dedicated confidentiality policy page is required on your website; if you do not have one yet, please click [here](https://maboutique801.demo-niak.prestashop.net/ps-admin/index.php/improve/design/cms-pages/?\_token=60HU2c9\_EfWtEJ3SUBe1-7lQzBocXZwtzEqE9maojd8).
 
 
+
+1\) Account creation form
+
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><mark style="color:red;">Yes ????</mark> </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><mark style="color:red;">Ajouter la condition si Yes on a le bloc Consent request message sinon non. A vérifier</mark></td><td align="center">-</td><td></td></tr></tbody></table>
+
+Consent request message
+
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>J'accepte les conditions générales et la politique de confidentialité</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>NA</td><td align="center">-</td><td></td></tr></tbody></table>
+
+Menu déroulant avec la langue <mark style="color:red;">**link to the UI/KIT or DS**</mark>
+
+<mark style="color:red;">****</mark>
+
+2\) Customer account area
+
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><mark style="color:red;">Yes ????</mark> </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><mark style="color:red;">Ajouter la condition si Yes on a le bloc Consent request message sinon non. A vérifier</mark></td><td align="center">-</td><td></td></tr></tbody></table>
+
+Consent request message
+
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>J'accepte les conditions générales et la politique de confidentialité</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>NA</td><td align="center">-</td><td></td></tr></tbody></table>
+
+Menu déroulant avec la langue <mark style="color:red;">**link to the UI/KIT or DS**</mark>
+
+<mark style="color:red;">****</mark>
+
+3\) Newsletter subscription <mark style="color:red;">(pourquoi en gras et pas les précédent ? et icône en plus)</mark>
+
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><mark style="color:red;">Yes ????</mark> </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><mark style="color:red;">Ajouter la condition si Yes on a le bloc Consent request message sinon non. A vérifier</mark></td><td align="center">-</td><td></td></tr></tbody></table>
+
+Consent request message
+
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><mark style="color:red;">Pourquoi vide ?</mark></td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>NA</td><td align="center">-</td><td></td></tr></tbody></table>
+
+Menu déroulant avec la langue <mark style="color:red;">**link to the UI/KIT or DS**</mark>
+
+<mark style="color:red;">****</mark>
+
+4\) Product Comments <mark style="color:red;">(pourquoi en gras et pas les précédent ? et icône en plus)</mark>
+
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><mark style="color:red;">Yes ????</mark> </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><mark style="color:red;">Ajouter la condition si Yes on a le bloc Consent request message sinon non. A vérifier</mark></td><td align="center">-</td><td></td></tr></tbody></table>
+
+Consent request message
+
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><mark style="color:red;">Pourquoi vide ?</mark></td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>NA</td><td align="center">-</td><td></td></tr></tbody></table>
+
+Menu déroulant avec la langue <mark style="color:red;">**link to the UI/KIT or DS**</mark>
+
+<mark style="color:red;">****</mark>
+
+5\) Contact form <mark style="color:red;">(pourquoi en gras et pas les précédent ? et icône en plus)</mark>
+
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><mark style="color:red;">Yes ????</mark> </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><mark style="color:red;">Ajouter la condition si Yes on a le bloc Consent request message sinon non. A vérifier</mark></td><td align="center">-</td><td></td></tr></tbody></table>
+
+Consent request message
+
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><mark style="color:red;">Pourquoi vide ?</mark></td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>NA</td><td align="center">-</td><td></td></tr></tbody></table>
+
+Menu déroulant avec la langue <mark style="color:red;">**link to the UI/KIT or DS**</mark>
+
+<mark style="color:red;">****</mark>
+
+Point d'attention
+
+For other installed modules requiring consent confirmation, they will be displayed in this tab only if they have done the GDPR update. The corresponding fields will automatically appear in order for you to customize the consent confirmation checkboxes
+
+
+
+Bouton Save <mark style="color:red;">**link to the UI/KIT or DS cf Behavior B6 W1 save the data of the form and stay on the form**</mark>
+
+##
 
 ## Behaviors description
 
 ### Workflow
 
-W1 :  When you click on the "Manage" Button  you are redirected to ["Information about customer"](../../sell/customers/customers/information-about-customer.md)
+W1 :  <mark style="color:red;">A compléter</mark>
 
 
 
@@ -78,19 +116,17 @@ W1 :  When you click on the "Manage" Button  you are redirected to ["Information
 
 
 
-B1 : When you click on the "Remove data" Button a pop up is displayed.
+B1 : <mark style="color:red;">A compléter</mark>
 
-If you click on Cancel action. The pop up vanished and nothing happens.
+B2 :&#x20;
 
-else if you click on "Confirm Erasure" a pop up indicated that "The customer's data has been successfully deleted!". So his data will be removed permanently. You have to click on the blue button "OK" to closed the pop up.
+B3 :thumbsup:
 
-<mark style="color:red;">Point d'attention suppression des datas multipshop</mark>
+B4
 
-![](<../../../../../.gitbook/assets/image (1).png>)
+B5
 
-
-
-B2 : When a customer click on Dowload invoices, he gets a copy of his personal data collected on his store in PDF. [Look at Invoices PDF](personal-data-management/customers-personal-data-result/invoices-pdf.md).
+B6
 
 
 
