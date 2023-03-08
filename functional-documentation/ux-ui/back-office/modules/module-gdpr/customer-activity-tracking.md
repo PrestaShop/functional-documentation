@@ -47,7 +47,7 @@ PDF
 
 4\) Search TODO add the component.&#x20;
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>PDF</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><mark style="color:red;">BO_GDPR_TRACKING_005 This search filter on Client name/Id and Type of request</mark></td><td align="center">-</td><td></td></tr><tr><td></td><td></td><td align="center"></td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>PDF</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td>BO_GDPR_TRACKING_005</td><td align="center">-</td><td></td></tr><tr><td></td><td></td><td align="center"></td><td></td></tr></tbody></table>
 
 5\) Summary table
 
@@ -67,7 +67,15 @@ W1 :  <mark style="color:red;">A compléter</mark>
 
 ### Behavior description
 
+BO\_GDPR\_TRACKING\_001 : à compléter
 
+BO\_GDPR\_TRACKING\_002
+
+BO\_GDPR\_TRACKING\_003
+
+BO\_GDPR\_TRACKING\_004
+
+BO\_GDPR\_TRACKING\_005 This search filter on Client name/Id and Type of request
 
 TODO
 
