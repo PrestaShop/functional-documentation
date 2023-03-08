@@ -57,5 +57,29 @@ In this summary table, you will find the information below:
 * Type of request: data accessibility, permission, or deletion
 * Date and time of the action
 
+## Behaviors description
+
+### Workflow
+
+W1 :  <mark style="color:red;">A compléter</mark>
+
+
+
+### Behavior description
+
+
+
+TODO
+
+
+
+## Error messages
+
+This section COULD list all errors messages / Exceptions for the page / workflow
+
+## Limitations
+
+This section SHOULD list limitations of the page.
+
 
 
