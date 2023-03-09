@@ -11,11 +11,13 @@ description: >-
 
 Below you will find all the information you need to understand and use this module. Contents:
 
-* Help tab
-* Customer activity tracking tab
-* Consent checkbox customization tab
-* Personal data management tab
-* Get Started tab
+* [Get Started tab](get-started.md)
+* [Personal data management tab](personal-data-management/)
+* [Consent checkbox customization tab](consent-checkbox-customization.md)
+* [Customer activity tracking tab](customer-activity-tracking.md)
+* [Help tab](help.md) test
+
+
 
 \
 
