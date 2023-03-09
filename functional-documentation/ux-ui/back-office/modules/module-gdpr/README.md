@@ -19,9 +19,6 @@ Below you will find all the information you need to understand and use this modu
 
 
 
-\
-
-
 3 fonctionnalités pour répondre aux obligations du RGPD concernées par ce module:
 
 1- Accès et portabilité des données personnelles
@@ -40,6 +37,10 @@ Ces 3 fonctionnalités sont gérées dans un seul module, décliné en 2 version
 
 \
 Pour plus d’informations sur l’impact du RGPD sur le logiciel et sur les modules, consulter [ce document](https://docs.google.com/document/d/1BDVk2Fni8tUSIi7LaXGi0afWP4x20xGxPTCrH6ZnAsQ/edit?usp=sharing).
+
+
+
+<mark style="color:red;">Question about BAck/Translate/Manage Hooks</mark>
 
 
 
