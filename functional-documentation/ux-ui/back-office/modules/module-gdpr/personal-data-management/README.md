@@ -59,24 +59,17 @@ You can search for a customer in your database and view all of this customer's d
 
 ### Behavior description
 
-* This sub-section MUST contains the description of the behavior / call to action.
-* This sub-section COULD contains a link to the relevant [business rule](../../../../../how-to-write-functional-documentation/templates/business-rules-template.md)
+B1&#x20;
 
-This section COULD contains label (ex: multishop case ...)
+With results :&#x20;
 
-
-
-
-
-B1 with results :&#x20;
-
-When you enter some letters of your customer's contained in name or email address, all the customers matching the research are displayed look at the ["Customer personal data - Result"](customers-personal-data-no-match.md)[ ](customers-personal-data-result.md)section.
+When you enter some letters of your customer contained in first name, name or email address, all the customers matching the research are displayed look at the ["Customer personal data - Result"](customers-personal-data-no-match.md)[ ](customers-personal-data-result.md)section.
 
 
 
-B1 without result&#x20;
+Without result&#x20;
 
-When you enter letters in the search field, if no customer matched the research a message is displayed. Look at the Message ["Customer personal data - no match"](customers-personal-data-no-match.md) section.
+When you enter some letters of your customer not contained  in first name, name or email address of a customera message is displayed. Look at the Message ["Customer personal data - no match"](customers-personal-data-no-match.md) section.
 
 
 

@@ -16,12 +16,7 @@ In this tab, you can view all your customers' actions related to their personal 
 
 ### A component description
 
-<mark style="color:red;">****</mark>
-
-1. <mark style="color:red;">**The component is a common component with a standard behavior described in the**</mark> [<mark style="color:red;">**UI/KIT**</mark>](https://build.prestashop.com/prestashop-ui-kit/?path=/story/modals--modal) <mark style="color:red;">**or Design System : it must be a link to the UI/KIT or DS**</mark>
-2. <mark style="color:red;">**Otherwise the component MUST be described as a Table as described bellow**</mark>
-
-#### Customer activity list
+Customer activity list
 
 1\) A text "Keep track of your customer activity related to data accessibility, consent and erasure."
 

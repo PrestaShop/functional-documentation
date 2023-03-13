@@ -6,7 +6,7 @@ Next, you can search for a customer in your database and view all of this custom
 
 [A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html) (TODO)
 
-<figure><img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FeRh5ljXXvELkmmdiRmg8%2Fuploads%2FknrMcowBs8qT9alDps85%2Fimage.png?alt=media&#x26;token=05c9afb5-6c71-45c4-bafa-009c194c8989" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Components description <a href="#components-description" id="components-description"></a>
 
@@ -18,13 +18,13 @@ Next, you can search for a customer in your database and view all of this custom
 
 Point d'attention
 
-| Description              | Value                                                                                                                                                                                               | Error message |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Mandatory                | NA                                                                                                                                                                                                  | -             |
-| Allowed/Forbidden values | NA                                                                                                                                                                                                  | ​             |
-| Default value            | <p>There is no result in the customer data base for : hj</p><p>If you are looking for someone without a customer account, please search for the complete email address or phone number he left.</p> | -             |
-| Help text                | NA                                                                                                                                                                                                  | -             |
-| Tool tips                | NA                                                                                                                                                                                                  | -             |
-| Lower limit              | NA                                                                                                                                                                                                  | ​             |
-| Upper limit              | NA                                                                                                                                                                                                  | ​             |
-| Behavior                 | NA                                                                                                                                                                                                  | -             |
+| Description              | Value                                                                                                                                                                                             | Error message |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Mandatory                | NA                                                                                                                                                                                                | -             |
+| Allowed/Forbidden values | NA                                                                                                                                                                                                | ​             |
+| Default value            | <p>There is no result in the customer data base for : </p><p>If you are looking for someone without a customer account, please search for the complete email address or phone number he left.</p> | -             |
+| Help text                | NA                                                                                                                                                                                                | -             |
+| Tool tips                | NA                                                                                                                                                                                                | -             |
+| Lower limit              | NA                                                                                                                                                                                                | ​             |
+| Upper limit              | NA                                                                                                                                                                                                | ​             |
+| Behavior                 | NA                                                                                                                                                                                                | -             |

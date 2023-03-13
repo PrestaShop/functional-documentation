@@ -17,13 +17,6 @@ This tab allows you customize the consent confirmation checkboxes and the corres
 
 ### A component description
 
-<mark style="color:red;">****</mark>
-
-1. <mark style="color:red;">**The component is a common component with a standard behavior described in the**</mark> [<mark style="color:red;">**UI/KIT**</mark>](https://build.prestashop.com/prestashop-ui-kit/?path=/story/modals--modal) <mark style="color:red;">**or Design System : it must be a link to the UI/KIT or DS**</mark>
-2. <mark style="color:red;">**Otherwise the component MUST be described as a Table as described bellow**</mark>
-
-
-
 Point d'attention
 
 We recommend you to put a link to your confidentiality policy page in each of your custom messages. Be aware that a dedicated confidentiality policy page is required on your website; if you do not have one yet, please click [here](https://maboutique801.demo-niak.prestashop.net/ps-admin/index.php/improve/design/cms-pages/?\_token=60HU2c9\_EfWtEJ3SUBe1-7lQzBocXZwtzEqE9maojd8).
