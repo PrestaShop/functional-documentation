@@ -49,7 +49,7 @@ You can search for a customer in your database and view all of this customer's d
 
 **Search for a customer name or email**
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td> <strong></strong> </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td>B1</td><td align="center">-</td><td>cd829e07342f4c6e9017c9808ca68fba</td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td> <strong></strong> </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td>Look at <a href="./#b1">B1</a></td><td align="center">-</td><td>cd829e07342f4c6e9017c9808ca68fba</td></tr></tbody></table>
 
 ## Behaviors description
 
@@ -59,19 +59,15 @@ You can search for a customer in your database and view all of this customer's d
 
 ### Behavior description
 
-B1&#x20;
+#### B1&#x20;
 
 With results :&#x20;
 
 When you enter some letters of your customer contained in first name, name or email address, all the customers matching the research are displayed look at the ["Customer personal data - Result"](customers-personal-data-no-match.md)[ ](customers-personal-data-result.md)section.
 
-
-
-Without result&#x20;
+Without result :
 
 When you enter some letters of your customer not contained  in first name, name or email address of a customera message is displayed. Look at the Message ["Customer personal data - no match"](customers-personal-data-no-match.md) section.
-
-
 
 
 
