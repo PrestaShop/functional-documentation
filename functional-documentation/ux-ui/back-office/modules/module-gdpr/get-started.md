@@ -20,7 +20,7 @@ Texte
 
 Manage button
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><p>  <strong>Manage</strong></p><p>See our Personal data management tab to visualize the data collected by PrestaShop and community modules and manage your customers’ personal data.</p></td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td>Look at W1</td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><p>  <strong>Manage</strong></p><p>See our Personal data management tab to visualize the data collected by PrestaShop and community modules and manage your customers’ personal data.</p></td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td>Look at <a href="get-started.md#w1">W1</a></td><td align="center">-</td><td></td></tr></tbody></table>
 
 Customize button
 
@@ -58,7 +58,9 @@ Point d'attention
 
 ### Workflow
 
-W1 # :  When you click on the "Manage" Button  you are redirected to "[Personal data management](personal-data-management/)"
+#### W1&#x20;
+
+&#x20; When you click on the "Manage" Button  you are redirected to "[Personal data management](personal-data-management/)"
 
 W2 : When you click on the "Customize" Button  you are redirected to ["Consent checkbox customization"](consent-checkbox-customization.md)
 
