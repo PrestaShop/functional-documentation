@@ -24,7 +24,7 @@ Manage button
 
 Customize button
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><p>  <strong>Customize</strong></p><p>Customize the consent confirmation checkboxes and consent request message on the different forms of your store, especially for account creation and newsletter subscription.</p></td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td>Look at W2</td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><p>  <strong>Customize</strong></p><p>Customize the consent confirmation checkboxes and consent request message on the different forms of your store, especially for account creation and newsletter subscription.</p></td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td>Look at <a href="get-started.md#w2">W2</a></td><td align="center">-</td><td></td></tr></tbody></table>
 
 Keep track button
 
@@ -62,19 +62,43 @@ Point d'attention
 
 &#x20; When you click on the "Manage" Button  you are redirected to "[Personal data management](personal-data-management/)"
 
-W2 : When you click on the "Customize" Button  you are redirected to ["Consent checkbox customization"](consent-checkbox-customization.md)
+#### W2
 
-W3 : When you click on the "Keep track" Button you are redirected to ["Customer activity tracking"](customer-activity-tracking.md)
+When you click on the "Customize" Button  you are redirected to ["Consent checkbox customization"](consent-checkbox-customization.md)
 
-W4 : When you click on the "Data protection authorities websites" Button you are redirected to [Data protection authorities websites](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/)
 
-W5 : When you click on the "Module's documentation" Button you are redirected to ["Module's documentation" ](https://xxx.prestashop.net/modules/psgdpr/docs/readme\_en.pdf)
 
-W6 : When you click on the "Video" Button you are redirected to [video](https://www.youtube.com/watch?v=xen38Xl5gRY)
+#### W3
 
-W7 : When you click on the "Build article" Button you are redirected to ["Build article"](https://build.prestashop-project.org/news/2018/prestashop-and-gdpr/)
+When you click on the "Keep track" Button you are redirected to ["Customer activity tracking"](customer-activity-tracking.md)
+
+
+
+#### W4
+
+When you click on the "Data protection authorities websites" Button you are redirected to [Data protection authorities websites](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/)
+
+
+
+#### W5
+
+When you click on the "Module's documentation" Button you are redirected to ["Module's documentation" ](https://xxx.prestashop.net/modules/psgdpr/docs/readme\_en.pdf)
+
+
+
+#### W6
+
+When you click on the "Video" Button you are redirected to [video](https://www.youtube.com/watch?v=xen38Xl5gRY)
+
+
+
+#### W7
+
+When you click on the "Build article" Button you are redirected to ["Build article"](https://build.prestashop-project.org/news/2018/prestashop-and-gdpr/)
 
 This sub-section MUST include a diagram of this worflow (using : [https://app.diagrams.net/](https://app.diagrams.net) or [figma](https://www.figma.com/file/14ptOoCqDdmBqtmq1Grc5M/BO-Core-Cartography?node-id=0%3A1) ) & the xml export of this workflow
+
+###
 
 ### Behavior description
 
