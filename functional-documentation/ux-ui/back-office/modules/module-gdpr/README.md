@@ -31,9 +31,9 @@ Contents:
 
 
 
-This documentation has been written for the module version XXX.
+This documentation has been written for the module version 2.0.0
 
-&#x20;The compatibility range of the module is between prestashop XXXX and XXX.&#x20;
+&#x20;The compatibility range of the module is from prestashop 1.7.8 or 8.0.&#x20;
 
 
 
