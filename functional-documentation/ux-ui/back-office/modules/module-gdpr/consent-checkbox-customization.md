@@ -107,15 +107,35 @@ W1 :  <mark style="color:red;">A compléter</mark>
 
 For other installed modules requiring consent confirmation, they will be displayed in this tab only if they have done the GDPR update. The corresponding fields will automatically appear in order for you to customize the consent confirmation checkboxes
 
-<mark style="color:red;">BO\_GDPR\_CONSENT\_001</mark> : Account creation form <mark style="color:red;">Ajouter la condition si Yes on a le bloc Consent request message sinon non. A vérifier</mark>
+#### BO\_GDPR\_CONSENT\_001 <mark style="color:red;"></mark> :&#x20;
 
-BO\_GDPR\_CONSENT\_002 : Customer account area
+In the Account creation form if you choose yes
 
-BO\_GDPR\_CONSENT\_003 : Newsletter subscription
+&#x20;       in the BO : the field "Consent request message" is displayed otherwise it doesn't          appear&#x20;
 
-BO\_GDPR\_CONSENT\_004 : Product Comments
+&#x20;       in the FO : when creating a new customer a check box will appear with the message present in the field "Consent request message"
 
-BO\_GDPR\_CONSENT\_005 : Contact form
+&#x20;                         If the customer check the box it datas will be collect <mark style="color:red;">otherwise no   count will be created.</mark>
+
+#### BO\_GDPR\_CONSENT\_002
+
+&#x20;In the Customer account area
+
+if you choose yes
+
+&#x20;       in the BO : the field "Consent request message" is displayed otherwise it doesn't          appear&#x20;
+
+&#x20;       in the FO : when consulting the information of the customer a check box will appear with the message present in the field "Consent request message"
+
+![](<../../../../../.gitbook/assets/image (4).png>)
+
+&#x20;                         If the customer check the box it datas will be collect ~~<mark style="color:red;">otherwise no   count will be created.</mark>~~
+
+#### BO\_GDPR\_CONSENT\_003 : Newsletter subscription
+
+#### BO\_GDPR\_CONSENT\_004 : Product Comments
+
+#### BO\_GDPR\_CONSENT\_005 : Contact form
 
 
 
