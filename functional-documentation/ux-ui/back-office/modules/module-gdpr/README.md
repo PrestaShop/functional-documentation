@@ -33,7 +33,7 @@ Contents:
 
 This documentation has been written for the module version 2.0.0
 
-&#x20;The compatibility range of the module is from prestashop 1.7.8 or 8.0.&#x20;
+To be update with the compatibility range of the module you have to check in the readme of the module.
 
 
 
