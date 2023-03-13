@@ -10,14 +10,14 @@ Next, you can search for a customer in your database and view all of this custom
 
 ## Components description <a href="#components-description" id="components-description"></a>
 
-​[https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar)​
+​[<mark style="color:red;">https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar</mark>](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar)​
 
 ### A component description <a href="#a-component-description" id="a-component-description"></a>
 
 **​**
 
-1. 1.**The component is a common component with a standard behavior described in the** [**UI/KIT**](https://build.prestashop.com/prestashop-ui-kit/?path=/story/modals--modal) **or Design System : it must be a link to the UI/KIT or DS**
-2. 2.**Otherwise the component MUST be described as a Table as described bellow**
+1. <mark style="color:red;">1.</mark><mark style="color:red;">**The component is a common component with a standard behavior described in the**</mark> [<mark style="color:red;">**UI/KIT**</mark>](https://build.prestashop.com/prestashop-ui-kit/?path=/story/modals--modal) <mark style="color:red;">**or Design System : it must be a link to the UI/KIT or DS**</mark>
+2. <mark style="color:red;">2.</mark><mark style="color:red;">**Otherwise the component MUST be described as a Table as described bellow**</mark>
 
 #### **Sub-Section result**
 
