@@ -20,7 +20,7 @@ Customer activity list
 
 1\) A text "Keep track of your customer activity related to data accessibility, consent and erasure."
 
-2\) Show x entries <mark style="color:red;">TODO add the component</mark>
+2\) Show x entries
 
 3\) Export
 
@@ -56,7 +56,7 @@ In this summary table, you will find the information below:
 
 ### Workflow
 
-W1 :  <mark style="color:red;">A compléter</mark>
+NA
 
 
 
@@ -79,10 +79,6 @@ BO\_GDPR\_TRACKING\_004 : : Let to download a PDF file with datas of the Summary
 {% file src="../../../../../.gitbook/assets/Module Manager • PrestaShop.pdf" %}
 
 BO\_GDPR\_TRACKING\_005 This search let to filter on Client name/Id and Type of request in the table.
-
-
-
-<mark style="color:red;">TODO : add component of navigation</mark>
 
 
 
