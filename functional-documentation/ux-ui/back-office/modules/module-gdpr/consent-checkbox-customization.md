@@ -111,6 +111,8 @@ For other installed modules requiring consent confirmation, they will be display
 
 #### BO\_GDPR\_CONSENT\_001 <mark style="color:red;"></mark> :&#x20;
 
+[https://github.com/PrestaShop/PrestaShop/issues/31789](https://github.com/PrestaShop/PrestaShop/issues/31789)
+
 In the Account creation toggle button if you choose yes
 
 &#x20;       in the BO : the field "Consent request message" is displayed otherwise it doesn't appear&#x20;
@@ -135,6 +137,8 @@ if you choose yes
 
 #### BO\_GDPR\_CONSENT\_003 &#x20;
 
+[https://github.com/PrestaShop/PrestaShop/issues/31789](https://github.com/PrestaShop/PrestaShop/issues/31789)
+
 In the Newsletter subscription toggle button
 
 if you choose yes
@@ -145,6 +149,8 @@ if you choose yes
 
 #### BO\_GDPR\_CONSENT\_004 : Product Comments
 
+[https://github.com/PrestaShop/PrestaShop/issues/31789](https://github.com/PrestaShop/PrestaShop/issues/31789)
+
 In the Product Comments subscription toggle button
 
 if you choose yes
@@ -154,6 +160,8 @@ if you choose yes
 &#x20;       in the FO : when consulting the product command a check box will appear with the message present in the field "Consent request message"
 
 #### BO\_GDPR\_CONSENT\_005 : Contact form
+
+[https://github.com/PrestaShop/PrestaShop/issues/31789](https://github.com/PrestaShop/PrestaShop/issues/31789)
 
 In the Product Contact form subscription toggle button
 
