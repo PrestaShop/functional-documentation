@@ -46,7 +46,7 @@ Get My data to CSV (button)
 
 #### FO\_W\_GDPR\_DATA\_001
 
-When you click on the contact page link you are redirected to&#x20;
+When you click on the contact page link you are redirected to <mark style="color:red;">(je n'ai pas trouvé cette page dans les specs. Confirmer avec Mateus.</mark>
 
 
 
@@ -66,7 +66,7 @@ Let to download a csv file with datas of the Summary table&#x20;
 
 #### FO\_W\_GDPR\_DATA\_003
 
-When you click on the contact page link you are redirected to&#x20;
+<mark style="color:red;">When you click on the contact page link you are redirected to</mark>&#x20;
 
 ## Error messages
 
