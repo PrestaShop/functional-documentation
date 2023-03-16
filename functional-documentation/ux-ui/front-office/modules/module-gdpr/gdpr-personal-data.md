@@ -48,8 +48,6 @@ Get My data to CSV (button)
 
 When you click on the contact page link you are redirected to[ <mark style="color:red;"></mark> Contact us](../../contact-us.md)
 
-[c](../../../back-office/improve/modules/contact-form.md)
-
 ### Behavior description (TODO ajouter un mapping décrivant les fichiers ci-dessous)
 
 #### FO\_B\_GDPR\_DATA\_001
@@ -65,10 +63,6 @@ Let to download a csv file with datas of the customer
 Separator is coma and is base on unicode in UTF-8
 
 {% file src="../../../../../.gitbook/assets/personalData-2023-03-16.csv" %}
-
-#### FO\_W\_GDPR\_DATA\_003
-
-<mark style="color:red;">When you click on the contact page link you are redirected to</mark>&#x20;
 
 ## Error messages
 
