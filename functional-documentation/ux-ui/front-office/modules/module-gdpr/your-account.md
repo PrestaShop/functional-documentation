@@ -2,6 +2,12 @@
 
 ## Description
 
+A link to acess to the page gathering the client's requests concerning
+
+&#x20;\- Access and portability of personal data&#x20;
+
+\-  Right to erasure
+
 
 
 [A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html) (TODO)
