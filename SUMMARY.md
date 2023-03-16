@@ -135,6 +135,7 @@
       * [Logs](functional-documentation/ux-ui/page-1/logs.md)
     * [Front office](functional-documentation/ux-ui/front-office.md)
       * [Image](functional-documentation/ux-ui/front-office/image.md)
+      * [Contact us](functional-documentation/ux-ui/front-office/contact-us.md)
       * [Customer's shopping cart](functional-documentation/ux-ui/front-office/customers-shopping-cart/README.md)
         * [Cart Rules in customer's shopping cart page](functional-documentation/ux-ui/front-office/customers-shopping-cart/cart-rules-in-customers-shopping-cart-page.md)
       * [Modules](functional-documentation/ux-ui/front-office/modules/README.md)
