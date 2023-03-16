@@ -28,7 +28,7 @@ Get My data to pdf (button)
 
 Get My data to CSV (button)
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td> <strong></strong> Get my data to csv</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td><a href="gdpr-personal-data.md#fo_b_gdpr_data_002">FO_W_GDPR_DATA_002</a></td><td align="center">-</td><td>cd829e07342f4c6e9017c9808ca68fba</td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td> <strong></strong> Get my data to csv</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td><a href="gdpr-personal-data.md#fo_b_gdpr_data_002">FO_B_GDPR_DATA_002</a></td><td align="center">-</td><td>cd829e07342f4c6e9017c9808ca68fba</td></tr></tbody></table>
 
 ### Rectification & Erasure requests
 
@@ -60,9 +60,11 @@ Let to download a pdf file with datas of the customer (warning multistore)
 
 #### FO\_B\_GDPR\_DATA\_002
 
-Let to download a csv file with datas of the Summary table&#x20;
+Let to download a csv file with datas of the customer
 
-{% file src="../../../../../.gitbook/assets/personalData-2023-03-15.csv" %}
+Separator is coma and is base on unicode in UTF-8
+
+{% file src="../../../../../.gitbook/assets/personalData-2023-03-16.csv" %}
 
 #### FO\_W\_GDPR\_DATA\_003
 
