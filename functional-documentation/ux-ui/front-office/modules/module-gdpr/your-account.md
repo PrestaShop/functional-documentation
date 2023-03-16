@@ -6,7 +6,7 @@
 
 [A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html) (TODO)
 
-<figure><img src="../../../../../.gitbook/assets/image (13) (3).png" alt=""><figcaption><p>Your account</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (13).png" alt=""><figcaption><p>Your account</p></figcaption></figure>
 
 GDPR - Personal data (button)
 

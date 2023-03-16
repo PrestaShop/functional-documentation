@@ -4,7 +4,7 @@
 
 ## Description
 
-<mark style="color:red;">Un nouvel onglet “Mes données personnelles” est ajouté au compte du client. Cet onglet réunit les demandes du client liées à :</mark>&#x20;
+This page gathers the client's requests concerning
 
 &#x20;\- Access and portability of personal data&#x20;
 
@@ -46,9 +46,9 @@ Get My data to CSV (button)
 
 #### FO\_W\_GDPR\_DATA\_001
 
-When you click on the contact page link you are redirected to <mark style="color:red;">(je n'ai pas trouvé cette page dans les specs. Confirmer avec Mateus.</mark>
+When you click on the contact page link you are redirected to[ <mark style="color:red;"></mark> Contact us](../../contact-us.md)
 
-
+[c](../../../back-office/improve/modules/contact-form.md)
 
 ### Behavior description (TODO ajouter un mapping décrivant les fichiers ci-dessous)
 
@@ -56,7 +56,7 @@ When you click on the contact page link you are redirected to <mark style="color
 
 Let to download a pdf file with datas of the customer (warning multistore)
 
-{% file src="../../../../../.gitbook/assets/personalData-2023-03-15.pdf" %}
+{% file src="../../../../../.gitbook/assets/personalData-2023-03-16-1.pdf" %}
 
 #### FO\_B\_GDPR\_DATA\_002
 
