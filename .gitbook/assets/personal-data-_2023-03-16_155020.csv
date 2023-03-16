@@ -1,0 +1,65 @@
+"PERSONAL INFORMATIONS"
+"Social title","First name","Last name",Birthday,Age,Email,Language,"Registration date","Last visit date","Is guest",Company,"Is newsletter subscribed","Is partner offers subscribed",Siret,Ape,Website,"Personal note"
+M.,Jonathan,Renard,1991-12-05,31,jonathan.renard@prestashop.com,"Français (French)","2023-03-16 15:04:27","2023-03-16 15:04:09",0,,1,1,,,,"Un commentaire privée sur l'utilisateur"
+
+ADDRESSES
+Alias,Company,"Full name","Full address",Phone,"Phone mobile","Country name","Date add"
+"Mon adresse personnelle",Prestashop,"Jonathan Renard","73 rue buffon Complément d'adresse 34070 MONTPELLIER",France,0771735701,,"2023-03-16 15:05:06"
+
+ORDERS
+Reference,Payment,status,"Total paid with taxes","Date of order"
+QFACELORX,Chèque,"En attente du paiement par chèque","29.00 EUR","2023-03-16 15:05:36"
+KXXOJLDTS,Chèque,"Paiement accepté","84.12 EUR","2023-03-16 15:05:13"
+
+"PRODUCTS ORDERED"
+"Order reference",Reference,Name,Quantity
+QFACELORX,demo_6,"Affiche encadrée The best is yet to come (Dimension : 40x60cm)",1
+KXXOJLDTS,demo_5,"Affiche encadrée The adventure begins (Dimension : 40x60cm)",1
+KXXOJLDTS,demo_7,"Affiche encadrée Today is a good day (Dimension : 40x60cm)",1
+KXXOJLDTS,demo_1,"T-shirt imprimé colibri (Taille : S - Couleur : Blanc)",1
+
+CARTS
+Id,Total,"Creation date"
+
+"PRODUCTS IN CART"
+"Cart id",Reference,Name,Quantity
+
+MESSAGES
+"Ip address",Message,"Creation date"
+,"Bonjour,
+
+Malheureusement, un article que vous avez commandé est actuellement en rupture de stock. Pour cette raison, il est possible que la livraison de votre commande soit légèrement retardée.
+Nous vous prions de bien vouloir accepter nos excuses. Nous faisons tout notre possible pour remédier à cette situation.
+
+Cordialement,","2023-03-16 15:07:19"
+,"Un test de message sur la commande en privée","2023-03-16 15:07:34"
+172.20.0.1,"Une info donné par l'utilisateur sur sa commande","2023-03-16 15:08:05"
+172.20.0.1,"Une information via le formulaire de contact","2023-03-16 15:08:25"
+
+"LAST CONNECTIONS"
+id,"Http referer","Pages viewed","Total time","Ip address",Date
+8,,0,,172.20.0.1,"2023-03-16 15:04:09"
+
+DISCOUNTS
+Id,Code,Name,Description
+1,TEEST10,Test,"Test de reduc"
+
+"LAST SENT EMAILS"
+Date,Language,Subject,Template
+
+GROUPS
+Id,Name
+3,Client
+
+"MODULE : INSCRIPTION à LA NEWSLETTER"
+Information
+"Inscription à la newsletter : aucun e-mail à exporter, le client n'est pas enregistré."
+
+"MODULE : COMMENTAIRES PRODUITS"
+name,id_product,id_product_comment,title,content,grade,validate,deleted,usefulness,date_add
+"Affiche encadrée Today is a good day",5,1,"Top produit !","Un test d'avis produit ! ",5,1,0,,"2023-03-16 14:05:55"
+
+"MODULE : ALERTES PAR E-MAIL"
+Information
+"Alerte mail : impossible d'exporter le client utilisant l'adresse email."
+
