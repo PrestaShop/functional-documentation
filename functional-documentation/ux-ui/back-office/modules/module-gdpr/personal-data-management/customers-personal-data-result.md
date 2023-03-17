@@ -78,6 +78,29 @@ else if you click on "Confirm Erasure" a pop up indicated that "The customer's d
 
 
 
+Le module permet 2 type de suppression.\
+
+
+* Suppression d'un customer complet via une adresse mail ;
+* Suppression des informations détenu par des modules tiers via une addresse email ou un numéro de téléphone
+
+Schéma de fonctionnement :\
+
+
+* Si le marchand entre une adresse email rattaché à un customer existant, et qu'il demande la suppression, ça supprimera l'utilisateur sur la boutique, et aussi les donnés stocké par des modules tiers rattaché à cette adresse email ;
+* Si le marchand entre une adresse email qui n'est rattaché à aucun customer existant, et qu'il demande la suppression, alors il n'y aura que la suppression des donnés stocké par des modules tiers rattaché à cette adresse email qui sera effectué ;
+* Si le marchand entre un numéro de téléphone, et qu'il demande la suppression, alors il n'y aura que la suppression des donnés stocké par des modules tiers rattaché à ce numéro qui sera effectué.
+
+Dans le cas d'une suppression d'un customer, voici ce qui est fait exactement :\
+
+
+* Nous créons un utilisateur anonyme sous l'adresse "[anonymous@psgdpr.com](mailto:anonymous@psgdpr.com)" ;
+* Nous rattachons les paniers de l'utilisateur réel, à l'utilisateur anonyme. Le but étant de garder des statistique sur les paniers au sein de prestashop. La donnée en elle même ne permettant aucune identification.
+* Nous supprimons les promotions rattaché à l'utilisateurs ;
+* Nous supprimons l'utilisateur au complet (utilise la fonctionnalité de suppression du core)
+
+
+
 B2 : When a customer click on Dowload invoices, he gets a copy of his personal data collected on his store in PDF. [Look at Invoices PDF](customers-personal-data-result/invoices-pdf.md).
 
 

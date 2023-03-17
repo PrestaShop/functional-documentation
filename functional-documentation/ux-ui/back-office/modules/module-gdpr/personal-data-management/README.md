@@ -63,7 +63,7 @@ You can search for a customer in your database and view all of this customer's d
 
 With results :&#x20;
 
-When you enter some letters of your customer contained in first name, name or email address, all the customers matching the research are displayed look at the ["Customer personal data - Result"](customers-personal-data-no-match.md)[ ](customers-personal-data-result.md)section.
+When you enter some letters of your customer contained in first name, name or email address, all the customers matching the research are displayed look at the ["Customer's personal data - result"](customers-personal-data-result.md)[ ](customers-personal-data-result.md)section.
 
 Without result :
 
