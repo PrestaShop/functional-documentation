@@ -10,11 +10,10 @@ This module is set for Customer data privacy text customization.
 
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../common-components/back-office-header/prestashop-version-number.md).
-* Search input (todo link).
+* [Search input ](../../../common-components/back-office-header/search-input-field.md)
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
 * [Account icon](../../../common-components/back-office-header/account-icon.md).
-* Trophy icon (todo link).
-* Bell icon (todo link).
+* [Bell icon](../../../common-components/back-office-header/bell-icon.md).
 * [Shop switcher with eye icon](../../../common-components/multistore-component/shop-switcher-with-eye-icon.md).
 * [Breadcrumbs navigation](../../../common-components/back-office-header/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](../../../common-components/back-office-header/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
