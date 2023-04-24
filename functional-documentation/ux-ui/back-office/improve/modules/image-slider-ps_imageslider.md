@@ -14,7 +14,7 @@ This module enables an image slider at the front-office of the shop, in the back
 
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md).
 * Bell icon (todo link).
@@ -23,7 +23,7 @@ This module enables an image slider at the front-office of the shop, in the back
 * [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](../../../common-components/help-button.md) - [Buttons Outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [Save button](../../../common-components/save-button.md) -  [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
-* [Page header call to action buttons](../../../common-components/page-header-call-to-action-buttons-modules.md).
+* [Page header call to action buttons](../../../common-components/module-page-specific-component/page-header-call-to-action-buttons-modules.md).
 * Text Editing Tools list (todo link) - [Buttons Toolbar UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar).
 
 ## Settings

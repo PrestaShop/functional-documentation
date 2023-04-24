@@ -4,13 +4,13 @@
 
 The purpose of this page is to add new or edit zone.
 
-<figure><img src="../../../../../../.gitbook/assets/image (9).png" alt="Add new or edit zone User Interface"><figcaption><p>Add new or edit zone User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image.png" alt="Add new or edit zone User Interface"><figcaption><p>Add new or edit zone User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * [Shop switcher](../../../../common-components/shop-switcher.md).
 * Bell icon (todo link)

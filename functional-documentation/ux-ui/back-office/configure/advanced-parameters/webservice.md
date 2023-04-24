@@ -23,7 +23,7 @@ Webservice is the page of webservice keys list and webservice configuration bloc
 * [Setting wheel](../../../common-components/settings-wheel.md)&#x20;
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * Search input (todo link)
 * [Shop switcher](../../../common-components/shop-switcher.md)
 * Bell icon (todo link)

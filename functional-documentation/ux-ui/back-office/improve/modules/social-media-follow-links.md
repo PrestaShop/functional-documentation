@@ -6,7 +6,7 @@ This module allows to put in use the social media buttons by adding links to the
 
 ![](<../../../../../.gitbook/assets/Screenshot 2022-07-28 at 16-57-37 Module Manager • test.png>)
 
-At the top the 4 call to action buttons specs can be found [\[HERE\]](../../../common-components/page-header-call-to-action-buttons-modules.md)
+At the top the 4 call to action buttons specs can be found [\[HERE\]](../../../common-components/module-page-specific-component/page-header-call-to-action-buttons-modules.md)
 
 If the shop is currently in "All shops" mode, a message will be shown: "Please choose a shop to edit the social media links."
 
