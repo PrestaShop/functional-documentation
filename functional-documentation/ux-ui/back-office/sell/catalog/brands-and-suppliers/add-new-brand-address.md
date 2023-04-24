@@ -4,22 +4,22 @@
 
 In this page brand address can be added or edited.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (29) (1) (1).png" alt="Add new brand address User Interface"><figcaption><p>Add new brand address User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (29) (1) (1).png" alt="Add new brand address User Interface"><figcaption><p>Add new brand address User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-* [E-commerce logo](../../../../../common-components/back-office-header/prestashop-logo.md).
-* [PrestaShop version number](../../../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../../../common-components/quick-access-dropdown.md).
-* [Search input](../../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
+* [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
+* [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
+* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * Bell icon (todo link)
-* [Account icon](../../../../../common-components/account-icon.md).
-* [Shop switcher](../../../../../common-components/shop-switcher.md).
-* [Breadcrumbs navigation](../../../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help button](../../../../../common-components/help-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Save button](../../../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
-* [Cancel button](../../../../../common-components/cancel-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Account icon](../../../../common-components/account-icon.md).
+* [Shop switcher](../../../../common-components/shop-switcher.md).
+* [Breadcrumbs navigation](../../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help button](../../../../common-components/help-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Save button](../../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
+* [Cancel button](../../../../common-components/cancel-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
 
 ## The UI elements
 
@@ -123,4 +123,4 @@ This is input field ([Forms normal UI kit](https://build.prestashop-project.org/
 
 ## Multistores functionality
 
-[Multistores independent](../../../../../common-components/multistores-independent.md) page.
+[Multistores independent](../../../../common-components/multistores-independent.md) page.
