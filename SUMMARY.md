@@ -155,6 +155,7 @@
           * [General](<functional-documentation/ux-ui/back-office/configure/shop-parameters/general/README (1).md>)
             * [Maintenance](functional-documentation/ux-ui/back-office/configure/shop-parameters/general/maintenance.md)
         * [Advanced Parameters](functional-documentation/ux-ui/back-office/configure/advanced-parameters.md)
+          * [Information](functional-documentation/ux-ui/back-office/configure/advanced-parameters/information.md)
           * [Webservice](functional-documentation/ux-ui/back-office/configure/advanced-parameters/webservice.md)
           * [Database](functional-documentation/ux-ui/back-office/configure/advanced-parameters/database/README.md)
             * [SQL Manager](functional-documentation/ux-ui/back-office/configure/advanced-parameters/database/sql-manager/README.md)
