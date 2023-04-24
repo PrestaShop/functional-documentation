@@ -16,7 +16,7 @@ This page gathers the client's requests concerning
 
 
 
-<figure><img src="../../../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>GDPR - Personal data</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (17) (2).png" alt=""><figcaption><p>GDPR - Personal data</p></figcaption></figure>
 
 ### Access to my data
 

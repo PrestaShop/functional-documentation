@@ -4,7 +4,7 @@
 
 This page allows managing the email themes.
 
-<figure><img src="../../../../../.gitbook/assets/image (29) (1) (1).png" alt="Email Theme User Interface"><figcaption><p>Email Theme User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (29).png" alt="Email Theme User Interface"><figcaption><p>Email Theme User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
@@ -86,6 +86,10 @@ are installed.
 #### Save
 
 The **button Save (**[save-button.md](../../../common-components/save-button.md "mention") UI) when is pressed, then the theme selected in **Select your default email theme dropdown** is used as the default email theme of the PrestaShop.
+
+What happened when the default theme is changed without being edited?
+
+
 
 ### Generate emails block behavior
 
