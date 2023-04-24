@@ -20,7 +20,7 @@ This module configures the Payments by Check functionality in the webshop.
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
 * [Search input](../../../common-components/back-office-header/search-input-field.md)
 * [Shop switcher with eye icon](../../../common-components/multistore-component/shop-switcher-with-eye-icon.md)
-* Bell icon (todo link)
+* [Bell icon](../../../common-components/back-office-header/bell-icon.md)
 * [Account icon](../../../common-components/back-office-header/account-icon.md)&#x20;
 * [Configuration block](../../../common-components/multistore-component/configuration-block.md)
 * [Page header CTA buttons](../../../common-components/page-header-call-to-action-buttons-modules.md)
