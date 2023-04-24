@@ -4,7 +4,7 @@
 
 The purpose of this page is to show zones list with ability to enable or disable zone.
 
-<figure><img src="../../../../../../.gitbook/assets/image (6) (4).png" alt="Zones list User Interface"><figcaption><p>Zones list User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (6) (2).png" alt="Zones list User Interface"><figcaption><p>Zones list User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

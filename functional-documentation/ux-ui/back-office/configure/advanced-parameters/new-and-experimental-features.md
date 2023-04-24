@@ -2,59 +2,72 @@
 
 ## Description
 
-This page allows to try any new features on the shop.
+This page allows to test new and experimental features in store.
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot 2022-12-07 at 16-49-52 New &#x26; Experimental Features • PrestaShop.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (78).png" alt="New &#x26; Experimental Features in single store User Interface"><figcaption><p>New &#x26; Experimental Features in single store User Interface</p></figcaption></figure>
 
-## Components description
+<figure><img src="../../../../../.gitbook/assets/image (87).png" alt="New &#x26; Experimental Features in multi store User Interface"><figcaption><p>New &#x26; Experimental Features in multi store User Interface</p></figcaption></figure>
 
-* Enabled/disabled toggle switch
-* [Help button](../../../common-components/help-button.md)
-* [Save button](../../../common-components/save-button.md)&#x20;
+### QA&#x20;
 
-## New features block
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/advanced-parameters/experimental-features.html)
 
-Displays an informative message - "New features are available. Feel free to try them out!".
+## **Common components**
 
-### New product page - single store
+* [​Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
+* ​[Help button](../../../common-components/help-button.md) - [Buttons outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* ​[Save button](../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
+* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
+* [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
+* [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
+* [Search input](../../../common-components/search-input-field.md)
+* [Shop switcher](../../../common-components/shop-switcher.md)
+* Bell icon (todo link)
+* [Account icon](../../../common-components/account-icon.md)&#x20;
 
-| Description              | Value                                                                                                                  | Error message |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Mandatory                | No                                                                                                                     | -             |
-| Allowed/Forbidden values | Enabled/Disabled                                                                                                       | -             |
-| Default value            | Disabled                                                                                                               |               |
-| Help text                | "This page benefits from increased performance and includes new features such as a new combination management system." | -             |
+## The UI elements
 
-### Experimental features
+### New product page - Single store toggle switch
 
-| Description              | Value                                                                                                                                                                                                                                                                                                                                                              | Error message |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- |
-| Mandatory                | No                                                                                                                                                                                                                                                                                                                                                                 | -             |
-| Allowed/forbidden values | Enabled/Disabled                                                                                                                                                                                                                                                                                                                                                   | -             |
-| Default value            | Disabled                                                                                                                                                                                                                                                                                                                                                           | -             |
-| Help text                | <p>"Testing a feature before its official release can be exciting. However, you must be aware of the potential risks of such experiments:</p><ul><li>Experimental features are still under development. Enabling them could therefore have unintended consequences and cause data loss.</li><li>In any case, you should never experiment in production."</li></ul> | -             |
-| Tool tips                | "Access the new product page, even in a multistore context. This is a work in progress and some features are not available."                                                                                                                                                                                                                                       | -             |
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>YES</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>                      -</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>Disabled</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>This page benefits from increased performance and includes new features such as a new combination management system.</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>                   -</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>                   -</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>                   -</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="new-and-experimental-features.md#new-product-page-single-store-toggle-switch-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
 
-## Behavior descriptions
+### New product page - Multi store toggle switch
 
-### New features
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>YES</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>                      -</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>Disabled</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>Access the new product page, even in a multistore context. This is a work in progress and some features are not available.</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>                   -</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>                   -</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>                   -</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="new-and-experimental-features.md#new-product-page-multi-store-toggle-switch-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
 
-Has a toggle switch - "New features are available. Feel free to try them out!". When shop is single context, the toggle switch becomes available to toggle either for enabled or disabled. When shop is in multi shop context, the field becomes impossible to edit and save.
+## Behaviors description
 
-#### Save call to action
+### Title of Experimental features section behavior
 
-User saves the toggle selection to enable or disable new features for a new product page.
+This title includes the title and settings icon.&#x20;
 
-### Experimental features
+### **Yellow alert message behavior**
 
-Has a toggle switch - "New product page - Multi store". When shop is in single context, the toggle switch is impossible to edit, when the store is in multi shop context, it appears as available to edit and save.
+On the top of the Experimental features section is an alert message ([Alerts basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/docs/alerts--basics)) and it is: _Testing a feature before its official release can be exciting. However, you must be aware of the potential risks of such experiments:_
 
-#### Save call to action
+* _Experimental features are still under development. Enabling them could therefore have unintended consequences and cause data loss._
+* _In any case, you should never experiment in production._
 
-User saves the toggle selection to enable or disable experimental features for a new product page when shop is in multi context.
+### New product page - Single store toggle switch behavior
 
-## Limitations
+This is on-off toggle switch ([Forms switch story UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/forms--switch-story)). \
+When toggle switch state is enabled, Save button is activated.
 
-"New features" available only in single shop context.
+### New product page - Multi store toggle switch behavior
 
-"Experimental features" available only in multi shop context.
+This is on-off toggle switch ([Forms switch story UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/forms--switch-story)). \
+When toggle switch state is enabled, Save button is activated.
+
+### Disabled text behavior
+
+In single store there is shown disabled text in Experimental features section and it is:\
+_New product page - Multi store. Access the new product page, even in the multistore context. This is a work in progress and some features are not available._
+
+In multi store there is shown disabled text in New features section and it is:\
+_New product page - Single store. This page benefits from increased performance and includes new features such as a new combination management system._
+
+## Multistores behavior
+
+This page is available in all shops contexts only. If this page is opened in one shop context, it is changed to all shops. Also, there is alert message ([Alerts basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/docs/alerts--basics)) and it is:\
+_Note that this page is available in all shops context only, this is why your context has just switched._

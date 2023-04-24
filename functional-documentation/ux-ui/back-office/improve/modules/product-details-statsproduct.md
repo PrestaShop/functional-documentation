@@ -2,7 +2,7 @@
 
 This module has no configuration, only Enabling or Disabling the module. If this module will be enabled, the interface will be displayed in the Stats page in the Back-Office.
 
-![Product details in Staus User interface](<../../../../../.gitbook/assets/image (3) (5) (1).png>)
+![Product details in Staus User interface](<../../../../../.gitbook/assets/image (3) (1).png>)
 
 ### QA&#x20;
 

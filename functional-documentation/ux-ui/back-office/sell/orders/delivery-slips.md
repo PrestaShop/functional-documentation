@@ -4,11 +4,17 @@
 
 This UI allows configuring the Delivery Slips - download the PDF or manage the additional options.
 
-<figure><img src="../../../../../.gitbook/assets/image (8) (1).png" alt="Delivery Slips User Interface"><figcaption><p>Delivery Slips User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (18).png" alt="Delivery Slips User Interface"><figcaption><p>Delivery Slips User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 
 [Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/orders/delivery-slips.html)
+
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/orders/delivery-slips.html)
+
+## Common components <a href="#common-components" id="common-components"></a>
 
 ### QA&#x20;
 

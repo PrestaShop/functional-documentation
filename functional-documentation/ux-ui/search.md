@@ -8,6 +8,10 @@ Prestashop search engine helps to find desired information by typing just words,
 
 ![Search output results interface](<../../.gitbook/assets/image (2) (7).png>)
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/bo-search-bar.html)
+
 ## Common components
 
 * [Heading of the page](common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).

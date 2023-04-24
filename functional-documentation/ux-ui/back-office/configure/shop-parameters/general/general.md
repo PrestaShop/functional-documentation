@@ -4,7 +4,7 @@
 
 In this page general settings are displayed.
 
-<figure><img src="../../../../../../.gitbook/assets/image (18) (2).png" alt="General User Interface"><figcaption><p>General User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (18) (3).png" alt="General User Interface"><figcaption><p>General User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

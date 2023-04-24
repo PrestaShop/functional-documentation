@@ -4,9 +4,9 @@
 
 This module is responsible for the webshop's top main menu links, and it's configuration.
 
-<figure><img src="../../../../../.gitbook/assets/image (9).png" alt="Main menu configuration UI - All Shops content"><figcaption><p>Main menu configuration User Interface - All Shops content</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (16).png" alt="Main menu configuration UI - All Shops content"><figcaption><p>Main menu configuration User Interface - All Shops content</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (18).png" alt="Main menu configuration UI"><figcaption><p>Main menu configuration User Interface - Single Shop content</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (25).png" alt="Main menu configuration UI"><figcaption><p>Main menu configuration User Interface - Single Shop content</p></figcaption></figure>
 
 ## QA
 

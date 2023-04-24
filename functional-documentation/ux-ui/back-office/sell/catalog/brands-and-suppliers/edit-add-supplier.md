@@ -4,7 +4,7 @@
 
 This page is responsible for Adding or Editing a specific Supplier.
 
-<figure><img src="../../../../../../.gitbook/assets/image (41).png" alt="Adding or Editing Supplier UI"><figcaption><p>Adding or Editing Supplier User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (41) (1).png" alt="Adding or Editing Supplier UI"><figcaption><p>Adding or Editing Supplier User Interface</p></figcaption></figure>
 
 ## QA
 

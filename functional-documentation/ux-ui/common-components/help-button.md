@@ -2,7 +2,7 @@
 
 Call-to-action button, which initiates a sidebar UI from the right side of the almost every page. The sidebar contains detailed text about the functionality in the middle part of the page. Once the CTA button is hovered, there is an alt text "Help" alternatively repeated.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="Help button CTA UI"><figcaption><p>Help Button CTA User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (3).png" alt="Help button CTA UI"><figcaption><p>Help Button CTA User Interface</p></figcaption></figure>
 
 ## Extended Help sidebar
 
@@ -26,4 +26,4 @@ After the Help sidebar is extended to the left side of the UI, there are particu
 
 Component from [Forms Normal UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--normal). The field allows searching for the desired results in the Help content. The search results are displayed in the row blocks, containing the document icon, the headline, and the excerpt text from the targeted topics.
 
-<figure><img src="../../../.gitbook/assets/image (4) (2) (1).png" alt="Extended Help Sidebar User Interface"><figcaption><p>Extended Help Sidebar User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (2) (1) (1).png" alt="Extended Help Sidebar User Interface"><figcaption><p>Extended Help Sidebar User Interface</p></figcaption></figure>

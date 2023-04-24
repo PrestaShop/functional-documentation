@@ -4,9 +4,9 @@
 
 This module allows customers to pay for their purchase in cash.&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (14).png" alt="Cash on delivery in Modules manager page User Interface"><figcaption><p>Cash on delivery in Modules manager page User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (22).png" alt="Cash on delivery in Modules manager page User Interface"><figcaption><p>Cash on delivery in Modules manager page User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (16).png" alt="Cash on delivery in Payment Methods page User Interface"><figcaption><p>Cash on delivery in Payment Methods page User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (24).png" alt="Cash on delivery in Payment Methods page User Interface"><figcaption><p>Cash on delivery in Payment Methods page User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

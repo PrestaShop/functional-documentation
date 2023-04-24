@@ -4,7 +4,7 @@
 
 In this page Brands and their addresses are displayed.
 
-<figure><img src="../../../../../../.gitbook/assets/image (11) (1) (1).png" alt="Brands User Interface"><figcaption><p>Brands User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (11).png" alt="Brands User Interface"><figcaption><p>Brands User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

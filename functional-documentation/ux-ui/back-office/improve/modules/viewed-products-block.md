@@ -4,7 +4,7 @@
 
 This is the module to show recently viewed products for the customers in product page.
 
-<figure><img src="../../../../../.gitbook/assets/image (49).png" alt="Viewed products block User Interface"><figcaption><p>Viewed products block User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (85).png" alt="Viewed products block User Interface"><figcaption><p>Viewed products block User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

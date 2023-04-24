@@ -4,7 +4,7 @@
 
 This is page of Social titles list.
 
-<figure><img src="../../../../../../.gitbook/assets/image (40).png" alt="Titles User interface"><figcaption><p>Titles User interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (40) (1).png" alt="Titles User interface"><figcaption><p>Titles User interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

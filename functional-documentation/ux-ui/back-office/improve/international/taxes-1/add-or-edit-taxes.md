@@ -4,7 +4,7 @@
 
 This interface provides the ability to add customized tax or edit the existing tax of the Prestashop tax list.
 
-<figure><img src="../../../../../../.gitbook/assets/image (5) (1) (1).png" alt="Add or Edit Taxes UI"><figcaption><p>Add or Edit Taxes User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (5) (3).png" alt="Add or Edit Taxes UI"><figcaption><p>Add or Edit Taxes User Interface</p></figcaption></figure>
 
 ## QA  <a href="#common-components" id="common-components"></a>
 

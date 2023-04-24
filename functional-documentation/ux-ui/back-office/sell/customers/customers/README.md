@@ -1,8 +1,6 @@
 # Customers
 
-##
 
-##
 
 ## Description
 
