@@ -6,6 +6,10 @@ This UI shows the list of features, that needs the attention from administrator.
 
 <figure><img src="../../../../../.gitbook/assets/image (19) (1).png" alt="Monitoring UI"><figcaption><p>Monitoring User Interface</p></figcaption></figure>
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/catalog/monitoring.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
