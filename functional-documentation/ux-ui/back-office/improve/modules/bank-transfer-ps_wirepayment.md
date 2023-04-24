@@ -2,7 +2,7 @@
 
 This one of the most important modules is responsible for the secure payment transaction via the webshop.&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (5) (2).png" alt="Bank transfer UI"><figcaption><p>Bank transfer User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (5) (3).png" alt="Bank transfer UI"><figcaption><p>Bank transfer User Interface</p></figcaption></figure>
 
 ## QA
 
