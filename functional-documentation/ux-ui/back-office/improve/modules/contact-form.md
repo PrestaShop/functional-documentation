@@ -6,6 +6,10 @@ The page consists of 2 toggle switches that can be enabled or disabled. The modu
 
 ![](<../../../../../.gitbook/assets/Screenshot 2022-05-25 at 14-13-03 Module Manager • test.png>)
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/contactform.html)
+
 ## Components description
 
 2 components are described below
