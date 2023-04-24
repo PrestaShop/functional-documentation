@@ -4,7 +4,7 @@
 
 This page provides history of products stock movements. This page does not allow to edit changes.
 
-<figure><img src="../../../../../../.gitbook/assets/image (11) (1).png" alt="Stock Movements User Interface"><figcaption><p>Stock Movements User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (11) (4).png" alt="Stock Movements User Interface"><figcaption><p>Stock Movements User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

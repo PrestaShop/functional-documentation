@@ -4,7 +4,7 @@
 
 This UI lets the administrator edit or add Search Engine value to the list.
 
-<figure><img src="../../../../../../.gitbook/assets/image (20) (2).png" alt=""><figcaption><p>Add or Edit Search Engine User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Add or Edit Search Engine User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

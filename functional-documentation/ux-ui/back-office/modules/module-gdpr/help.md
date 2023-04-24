@@ -6,7 +6,7 @@ In this tab, you will find a list of questions frequently asked by our merchants
 
 * [A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html) (TODO)
 
-<figure><img src="../../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ## <mark style="color:red;">La version du user guide est la version de quoi ?</mark>
 
