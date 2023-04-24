@@ -154,6 +154,8 @@
           * [Your account](functional-documentation/ux-ui/front-office/modules/module-gdpr/your-account.md)
           * [GDPR - Personal data](functional-documentation/ux-ui/front-office/modules/module-gdpr/gdpr-personal-data.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
+      * [Grid filtering & sorting](functional-documentation/ux-ui/common-components/grid-filtering-and-sorting.md)
+      * [Untitled](functional-documentation/ux-ui/common-components/untitled.md)
       * [Back office Header](functional-documentation/ux-ui/common-components/back-office-header/README.md)
         * [PrestaShop version number](functional-documentation/ux-ui/common-components/prestashop-version-number.md)
         * [Account icon](functional-documentation/ux-ui/common-components/account-icon.md)
