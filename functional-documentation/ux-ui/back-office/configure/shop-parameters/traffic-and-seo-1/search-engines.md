@@ -4,7 +4,11 @@
 
 This UI lists the Prestashop Search Engines entries.
 
-<figure><img src="../../../../../../.gitbook/assets/image (18).png" alt="Search Engines User Interface"><figcaption><p>Search Engines User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (18) (2).png" alt="Search Engines User Interface"><figcaption><p>Search Engines User Interface</p></figcaption></figure>
+
+## QA <a href="#common-components" id="common-components"></a>
+
+[Link to test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/shop-parameters/trafic-and-seo/search-engines.html)
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
@@ -116,6 +120,8 @@ Dropdown actions contain:
 * **Select all** - selecting all the Search Engine items.
 * **Unselect all** - unselecting all the Search Engine items.
 * **Delete selected** - deletes the certain selected Search Engine items.
+
+A screenshot for the new checkbox : ![](<../../../../../../.gitbook/assets/image (11).png>)&#x20;
 
 ### Pagination
 

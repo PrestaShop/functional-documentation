@@ -1,6 +1,6 @@
 # Configure Mail Alerts (ps\_mailalerts)
 
-<figure><img src="../../../../../.gitbook/assets/image (11) (2) (1).png" alt="Mail alerts Configuration UI"><figcaption><p>Mail alerts Configuration User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (11) (2).png" alt="Mail alerts Configuration UI"><figcaption><p>Mail alerts Configuration User Interface</p></figcaption></figure>
 
 ## QA
 

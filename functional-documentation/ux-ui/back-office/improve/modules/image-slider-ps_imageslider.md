@@ -4,7 +4,7 @@
 
 This module enables an image slider at the front-office of the shop, in the back-office it's possible to configure the slider.
 
-<figure><img src="../../../../../.gitbook/assets/image (27) (1).png" alt="Image Slider User Interface"><figcaption><p>Image Slider User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (27).png" alt="Image Slider User Interface"><figcaption><p>Image Slider User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
