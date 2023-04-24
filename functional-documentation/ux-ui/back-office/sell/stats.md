@@ -4,7 +4,7 @@
 
 This page displays all the Prestashop statistics information.
 
-![Stats interface](<../../../../.gitbook/assets/image (1) (1) (3) (1).png>)
+![Stats interface](<../../../../.gitbook/assets/image (1) (1).png>)
 
 ## Components description
 
@@ -31,7 +31,7 @@ This UI selective component is displayed as [List Group UI element](https://buil
 
 * [Available quantities](stats.md#available-quantities)
 * [Best categories](stats.md#best-categories)
-* ****[Best customers](stats.md#best-customers)
+* [Best customers](stats.md#best-customers)
 * [Best suppliers](stats.md#best-suppliers)
 * [Best vouchers](stats.md#best-vouchers)
 * [Best-selling products](stats.md#best-selling-products)
@@ -43,7 +43,7 @@ This UI selective component is displayed as [List Group UI element](https://buil
 * [Pages not found](stats.md#pages-not-found)
 * [Product details](stats.md#product-details)
 * [Registered customer information](stats.md#registered-customer-information)
-* ****[Sales and orders](stats.md#sales-and-orders)
+* [Sales and orders](stats.md#sales-and-orders)
 * [Shop search](stats.md#shop-search)
 * [Stats Dashboard](stats.md#stats-dashboard) (by default, displayed first)
 
@@ -318,7 +318,7 @@ _Specials, sales, promotions and/or contests typically demand a shoppers' attent
 
 _Design and user-friendliness are more important than ever in the world of online sales. An ill-chosen or hard-to-follow graphical theme can keep shoppers at bay. This means that you should aspire to find the right balance between beauty and functionality for your online store._
 
-&#x20;__ **X and Y statistics chart** _-_ shows the number of customer accounts created. The horizontal **X** graph shows the time numeration, and the vertical **Y** - the numeric amount of accounts being generated. The agenda near the chart is also included - small colored circle icon with text description _Number of customer accounts created._
+&#x20;**X and Y statistics chart** _-_ shows the number of customer accounts created. The horizontal **X** graph shows the time numeration, and the vertical **Y** - the numeric amount of accounts being generated. The agenda near the chart is also included - small colored circle icon with text description _Number of customer accounts created._
 
 **CSV Export CTA button** - button from [Buttons with Icons UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--buttons-with-icons). It exports the entries data in CSV format.&#x20;
 
@@ -543,9 +543,9 @@ This component is displayed as a conversion workflow diagram. First, the workflo
 
 _A simple statistical calculation lets you know the monetary value of your visitors:_\
 _On average, each visitor places an order for this amount: **{webshop calculates the average value with currency}.**_\
-_****On average, each registered visitor places an order for this amount: **{webshop calculates the average value with currency}**._
+_On average, each registered visitor places an order for this amount: **{webshop calculates the average value with currency}**._
 
-__
+
 
 There is a section named _Payment distribution_.
 

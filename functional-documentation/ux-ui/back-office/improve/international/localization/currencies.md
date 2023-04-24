@@ -2,7 +2,7 @@
 
 The page contains webshop Currencies list.&#x20;
 
-![Currencies interface](<../../../../../../.gitbook/assets/image (2) (1) (2) (1).png>)
+![Currencies interface](<../../../../../../.gitbook/assets/image (2) (5).png>)
 
 ## Common components
 
@@ -20,7 +20,7 @@ The active selected tab is highlighted using [Navigation Tab UI Kit](https://bui
 
 ## Currency table components
 
-Table header is **Currencies**. The header defines the numeric value of the entries in the currency table. The **Settings wheel** in the header **** has available dropdown functions as well. The table is generated from [Tables Hoverable UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/tables--hoverable).
+Table header is **Currencies**. The header defines the numeric value of the entries in the currency table. The **Settings wheel** in the header has available dropdown functions as well. The table is generated from [Tables Hoverable UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/tables--hoverable).
 
 **Bulk actions dropdown** - by default, it is displayed as inactive, but once there is a random entry selected, the dropdown becomes active. Bulk action has 3 options:
 
@@ -29,7 +29,7 @@ Table header is **Currencies**. The header defines the numeric value of the entr
 * **Delete selection** - deletes the selected Currency. After the action initiates, there will be a pop-up with the text:\
   _Delete selection_\
   _Are you sure you want to delete the selected item(s)?_\
-  __**Close** - closes the pop-up, **Delete** - finishes the action.
+  **Close** - closes the pop-up, **Delete** - finishes the action.
 
 After the action finishes, success notification is shown in the interface - _The status has been successfully updated_. It comes from the [Alerts Basics UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/alerts--basics).&#x20;
 

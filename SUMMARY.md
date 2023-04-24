@@ -59,6 +59,7 @@
           * [Specials block](functional-documentation/ux-ui/back-office/improve/modules/specials-block.md)
           * [New products block](functional-documentation/ux-ui/back-office/improve/modules/new-products-block.md)
           * [Dashboard activity (dashactivity)](functional-documentation/ux-ui/back-office/improve/modules/dashboard-activity-dashactivity.md)
+          * [Best categories (statsbestcategories)](functional-documentation/ux-ui/back-office/improve/modules/best-categories-statsbestcategories.md)
           * [Newsletter](functional-documentation/ux-ui/back-office/improve/modules/newsletter.md)
           * [Search bar](functional-documentation/ux-ui/back-office/improve/modules/search-bar.md)
           * [Registered customer information](functional-documentation/ux-ui/back-office/improve/modules/registered-customer-information.md)

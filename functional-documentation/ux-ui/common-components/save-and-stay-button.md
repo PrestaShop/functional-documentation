@@ -8,4 +8,3 @@
 Usually, if all appropriate fields are set correctly, will appear success notification displayed on the top of the interface right after the click of this button:\
 _Successful update._
 
-****

@@ -13,7 +13,7 @@ This tab allows you customize the consent confirmation checkboxes and the corres
 
 ## Components description
 
-<mark style="color:red;"></mark>[<mark style="color:red;">https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar</mark>](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar)<mark style="color:red;"></mark>
+[<mark style="color:red;">https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar</mark>](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar)
 
 ### A component description
 
@@ -35,7 +35,7 @@ Consent request message
 
 Menu déroulant avec la langue
 
-<mark style="color:red;">****</mark>
+
 
 2\) Customer account area
 
@@ -47,7 +47,7 @@ Consent request message
 
 Menu déroulant avec la langue
 
-<mark style="color:red;">****</mark>
+
 
 3\) Newsletter subscription <mark style="color:red;">(pourquoi en gras et pas les précédent ? et icône en plus)</mark>
 
@@ -59,7 +59,7 @@ Consent request message
 
 Menu déroulant avec la langue <mark style="color:red;">**link to the UI/KIT or DS**</mark>
 
-<mark style="color:red;">****</mark>
+
 
 4\) Product Comments <mark style="color:red;">(pourquoi en gras et pas les précédent ? et icône en plus)</mark>
 
@@ -71,7 +71,7 @@ Consent request message
 
 Menu déroulant avec la langue&#x20;
 
-<mark style="color:red;">****</mark>
+
 
 5\) Contact form <mark style="color:red;">(pourquoi en gras et pas les précédent ? et icône en plus)</mark>
 
@@ -83,7 +83,7 @@ Consent request message
 
 Menu déroulant avec la langue
 
-<mark style="color:red;">****</mark>
+
 
 Point d'attention
 
@@ -109,7 +109,7 @@ NA
 
 For other installed modules requiring consent confirmation, they will be displayed in this tab only if they have done the GDPR update. The corresponding fields will automatically appear in order for you to customize the consent confirmation checkboxes
 
-#### BO\_GDPR\_CONSENT\_001 <mark style="color:red;"></mark> :&#x20;
+#### BO\_GDPR\_CONSENT\_001 :&#x20;
 
 [https://github.com/PrestaShop/PrestaShop/issues/31789](https://github.com/PrestaShop/PrestaShop/issues/31789)
 
@@ -131,7 +131,7 @@ if you choose yes
 
 &#x20;       in the FO : when consulting the information of the customer a check box will appear with the message present in the field "Consent request message"
 
-![](<../../../../../.gitbook/assets/image (4).png>)
+![](<../../../../../.gitbook/assets/image (4) (4).png>)
 
 &#x20;                         If the customer check the box it datas will be collect ~~<mark style="color:red;">otherwise no   count will be created.</mark>~~
 

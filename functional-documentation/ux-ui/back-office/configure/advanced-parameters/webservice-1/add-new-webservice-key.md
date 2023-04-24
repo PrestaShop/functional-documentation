@@ -23,7 +23,7 @@ It is mandatory input with bottom helper ([Forms helper UI kit](https://build.pr
 _Webservice account key._ \
 Key input allows entering letters, numbers and symbols. Key should be 32 characters long. If it is too short or too long message appears: \
 _Key length must be 32 character long._\
-__Next to input is **Generate** CTA button ([Buttons outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline)) it generates webservice key.
+Next to input is **Generate** CTA button ([Buttons outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline)) it generates webservice key.
 
 ### Key description input
 
@@ -136,7 +136,7 @@ Under this message there is the table to set permissions.
 
 ### Webservice key saving
 
-Once clicked **Save** button in Add new webservice key page, if it is successful, opens Webservice page with newly created webservice key in the __ list and alert message ([Alerts basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/alerts--basics)):\
+Once clicked **Save** button in Add new webservice key page, if it is successful, opens Webservice page with newly created webservice key in the list and alert message ([Alerts basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/alerts--basics)):\
 _Successful creation._
 
 ### Multistores behavior

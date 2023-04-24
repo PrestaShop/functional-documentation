@@ -33,7 +33,7 @@ This block contains these elements:
     _The more progress your store makes, the more badges and points you earn. Take advantage and check it out below!_
 * **Find an expert** block - it has a person icon and a message:\
   _Our team of experts is available to help, feel free to contact them!_\
-  __It also has CTA button ([Buttons basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics)) with text: _Find an expert._ Button text become underlined when the button is hovered. Once button clicked opens page _Find a PrestaShop agency or expert_ in the same window.
+  It also has CTA button ([Buttons basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics)) with text: _Find an expert._ Button text become underlined when the button is hovered. Once button clicked opens page _Find a PrestaShop agency or expert_ in the same window.
 * **Completion level** - is shown in progress bar ([Progress bar UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/progress-bar--progress-bar)), level progress number and progress in percent.
 
 ## Merchant expertise badges
@@ -100,7 +100,7 @@ By default, filter is selected on All. When other filter option is chosen shows 
 
 By default, filter is selected on All. When other filter option is chosen shows only that level badges. When there are no badges after filtration appear notification and it is:\
 _No badge in this section._\
-__While filtering, badges appear or disappear with smooth animation.
+While filtering, badges appear or disappear with smooth animation.
 
 #### **Features badges**
 
@@ -261,7 +261,7 @@ By default, filter is selected on All. When the other filter option is chosen, i
 
 #### Filter unit
 
-This block has filtered unit for filtration by **** Status.&#x20;
+This block has filtered unit for filtration by Status.&#x20;
 
 **Status filter** has dropdown ([Dropdowns basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/dropdowns--basics)) with these options:
 

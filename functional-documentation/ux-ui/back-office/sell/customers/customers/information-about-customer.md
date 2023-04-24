@@ -101,7 +101,7 @@ The panel displays all the customer's carts as a table with the following column
 
 The panel header displays the title **Purchased products** followed by a blue badge with the total number of products purchased by the customer.
 
-****
+
 
 #### **Panel body**
 
@@ -163,7 +163,7 @@ The panel displays a table of messages sent by the customer. The table has the f
 
 ### **Vouchers**
 
-****
+
 
 #### **Panel header**
 
@@ -231,7 +231,7 @@ If the customer has never logged into their account the panel **Last connections
 
 The panel header displays the title **Groups** and the number of customer groups the customer is a member of in a blue badge. The right part of the panel header displays an edit button that redirects to \[specs of the add edit customer]\(\{{\<ref "add-edit-customer.md">\}} "Add edit customer")
 
-****
+
 
 #### **Panel body** 
 
@@ -244,7 +244,7 @@ The panel displays a table of groups the customer is a member of The table has t
 
 ### **Addresses**
 
-****
+
 
 #### **Panel header**
 

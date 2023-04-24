@@ -27,13 +27,13 @@ By default, in Quick access dropdown are added 6 pages links:
 
 
 
-[Elodie Prokhoroff](https://app.gitbook.com/u/tQmVYN9IbOba1zSzRdlrxKBckqf1 "mention") ( Figma or screenshot here ? )&#x20;
+[Elodie Prokhoroff](http://localhost:5000/u/tQmVYN9IbOba1zSzRdlrxKBckqf1 "mention") ( Figma or screenshot here ? )&#x20;
 
 **Add current page to QuickAccess** is CTA link, once clicked opens a popup with message: _Please name this shortcut:_ and input field with place holder ([Forms normal UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/forms--normal)).\
 In this popup, there are also two buttons:
 
 * **OK** CTA button ([Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics)) - once clicked, shows alert message ([Alerts basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/alerts--basics)): _Update successful._
-* ****[**Cancel** button](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/w2tBUTfRhT659erDUdNw/functional-documentation/ux-ui/common-components/cancel-button) - [Buttons outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).&#x20;
+* [**Cancel** button](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/w2tBUTfRhT659erDUdNw/functional-documentation/ux-ui/common-components/cancel-button) - [Buttons outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).&#x20;
 
 ## Manage quick accesses
 

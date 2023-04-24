@@ -10,7 +10,7 @@ Next, you can search for a customer in your database and view all of this custom
 
 ## Components description
 
-<mark style="color:red;"></mark>[<mark style="color:red;">https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar</mark>](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar)<mark style="color:red;"></mark>
+[<mark style="color:red;">https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar</mark>](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar)
 
 ### A component description
 
@@ -74,7 +74,7 @@ else if you click on "Confirm Erasure" a pop up indicated that "The customer's d
 
 <mark style="color:red;">Point d'attention suppression des datas multipshop</mark>
 
-![](<../../../../../../.gitbook/assets/image (1) (1).png>)
+![](<../../../../../../.gitbook/assets/image (1) (1) (3).png>)
 
 
 

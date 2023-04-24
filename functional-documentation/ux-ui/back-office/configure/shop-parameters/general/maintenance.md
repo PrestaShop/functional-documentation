@@ -4,9 +4,9 @@
 
 This page manages the setting for webshop administrators to temporary stop the access to the webshop Front-Office. Instead of accessing the webshop, there will be a maintenance page for the visitors.
 
-![Maintenance interface](<../../../../../../.gitbook/assets/image (2) (2) (2) (2).png>)
+![Maintenance interface](<../../../../../../.gitbook/assets/image (2) (2) (2).png>)
 
-<figure><img src="../../../../../../.gitbook/assets/image (6) (2) (1) (1).png" alt=""><figcaption><p>Multishop in Maintenance User Interface ( LABEL MULTISHOP ) </p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (6) (2) (1).png" alt=""><figcaption><p>Multishop in Maintenance User Interface ( LABEL MULTISHOP ) </p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
@@ -31,7 +31,7 @@ Required toggle switch from [Forms Switch UI Kit](https://build.prestashop.com/p
 
 _We recommend that you deactivate your store while performing maintenance. Note that it will not disable the webservice._
 
-### **Maintenance IP** __&#x20;
+### **Maintenance IP**&#x20;
 
 <table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>IP address or addresses can access the webshop Front-Office. All the IP addresses can be typed, separating with commas (,).</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>Empty or saved IP adresses </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>"Allow IP addresses to access the store, even in maintenance mode. Use a comma to separate them (e.g. 42.24.4.2,127.0.0.1,99.98.97.96)."</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>No limitations for number of characters (as seen in database).</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>No limitations for number of characters (as seen in database).</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="maintenance.md#behavior-of-the-maintenance-ip-field">Behavior</a> of Maintenance IP</td><td align="center">-</td><td></td></tr></tbody></table>
 
@@ -57,13 +57,13 @@ If the content is displayed on **All Shops** mode, there is an element from the 
 
 This sub-section MUST describe the page workflow
 
-[Tristan Lehot](https://app.gitbook.com/u/wxuQ8dEUfYTsCcCBbcFmmedKE5t2 "mention") ( TODO )&#x20;
+[Tristan Lehot](http://localhost:5000/u/wxuQ8dEUfYTsCcCBbcFmmedKE5t2 "mention") ( TODO )&#x20;
 
 This sub-section MUST include a diagram of this worflow (using : [https://app.diagrams.net/](https://app.diagrams.net) or [figma](https://www.figma.com/file/14ptOoCqDdmBqtmq1Grc5M/BO-Core-Cartography?node-id=0%3A1) ) & the xml export of this workflow
 
 ### Behavior descriptions
 
-#### **Behavior of the Maintenance IP field** __&#x20;
+#### **Behavior of the Maintenance IP field**&#x20;
 
 Input field of [Forms Normal UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/forms--normal). This field can be filled only with the IP addresses. If the webshop is on Maintenance mode, certain IP addresses can be as exceptions. That means, that devices with only certain IP address or addresses can access the webshop Front-Office. All the IP addresses can be typed, separating with commas (,).&#x20;
 

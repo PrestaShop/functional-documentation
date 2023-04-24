@@ -6,7 +6,7 @@ The purpose of this page is to show countries list with ability to enable or dis
 
 <figure><img src="../../../../../../.gitbook/assets/image (19) (2) (1).png" alt="Countries list User interface"><figcaption><p>Countries list User interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (23) (1).png" alt="Country options block User Interface"><figcaption><p>Country options block User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (23) (1) (1).png" alt="Country options block User Interface"><figcaption><p>Country options block User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
@@ -71,7 +71,7 @@ The purpose of this page is to show countries list with ability to enable or dis
 
 ### Add new country button behavior
 
-This is CTA button with plus icon ([Buttons with icons UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--buttons-with-icons)) once clicked **** it opens Add new country page. When hover mouse pointer on it, button color changes.
+This is CTA button with plus icon ([Buttons with icons UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--buttons-with-icons)) once clicked it opens Add new country page. When hover mouse pointer on it, button color changes.
 
 ### **Title of Countries** behavior
 

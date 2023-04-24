@@ -59,7 +59,7 @@ This is a toggle switch, by default is set to: "No". A help text below is shown:
 
 ### Add new Employee button
 
-This button is used to add new employee : [`Call to action`](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/AC6MLBkSBL33Yd0iYykc/functional-documentation/ux-ui/back-office/configure/advanced-parameters/team-employees#add-new-employeee-cta)``
+This button is used to add new employee : [`Call to action`](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/AC6MLBkSBL33Yd0iYykc/functional-documentation/ux-ui/back-office/configure/advanced-parameters/team-employees#add-new-employeee-cta)
 
 ### Settings wheel
 
@@ -84,7 +84,7 @@ Clicking on the _Bulk actions_ button allows users to perform bulk actions for s
 
 ## Behaviors description
 
-Here figma link ( TODO [Tristan Lehot](https://app.gitbook.com/u/wxuQ8dEUfYTsCcCBbcFmmedKE5t2 "mention") )
+Here figma link ( TODO [Tristan Lehot](http://localhost:5000/u/wxuQ8dEUfYTsCcCBbcFmmedKE5t2 "mention") )
 
 
 

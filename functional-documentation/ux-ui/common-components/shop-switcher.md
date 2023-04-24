@@ -37,7 +37,7 @@ The group must be created when user create second shop in Multistore page (TO DO
 
 Once clicked switches to chosen shop back office, shows this shop information and changes will be made only in this shop. \
 When hover mouse pointer on shop name in dropdown, shop name changes color. \
-In shop name row is link _View my shop_. When hover mouse pointer on this __ link it becomes underlined. Once clicked link opens this shop front office.
+In shop name row is link _View my shop_. When hover mouse pointer on this link it becomes underlined. Once clicked link opens this shop front office.
 
 ### Color
 

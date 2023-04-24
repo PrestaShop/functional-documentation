@@ -49,7 +49,7 @@ There are several input fields and few dropdowns, for filtering the table inform
 
 After clicking **Search CTA** ([Buttons with icons UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--buttons-with-icons)), the table returns the filtered results.
 
-If filtered results do not return any information that was searched, there will be an empty table with the placeholder with the black warning triangle sign in the center - _No records found._ Then, a cross icon X with the word Reset, will be shown in the right table position, to reset the filtering and return to full table list. **** The inputs of the filtering are:
+If filtered results do not return any information that was searched, there will be an empty table with the placeholder with the black warning triangle sign in the center - _No records found._ Then, a cross icon X with the word Reset, will be shown in the right table position, to reset the filtering and return to full table list. The inputs of the filtering are:
 
 * **Search ID** - Accepts only numbers.
 * **Name** - Accepts the numbers and letters.&#x20;
@@ -65,7 +65,7 @@ If filtered results do not return any information that was searched, there will 
     * **Oceania**
     * **South America**
 
-    ****
+
 *   **Country** - Dropdown with the selections (by default, no value selected, single dash symbol):
 
     * **Argentina**
@@ -79,7 +79,7 @@ If filtered results do not return any information that was searched, there will 
     * **Netherlands**
     * **United** **States**
 
-    ****
+
 * **Enabled** - Dropdown with the selections (by default, no value selected, single dash symbol):
   * **Yes**
   * **No**
