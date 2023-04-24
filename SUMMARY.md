@@ -113,6 +113,7 @@
           * [Locations](functional-documentation/ux-ui/back-office/improve/international/locations/README.md)
             * [Add new or edit zone](functional-documentation/ux-ui/back-office/improve/international/locations/add-new-or-edit-zone.md)
             * [Countries](functional-documentation/ux-ui/back-office/improve/international/locations/countries.md)
+            * [Zones](functional-documentation/ux-ui/back-office/improve/international/locations/zones.md)
             * [States](functional-documentation/ux-ui/back-office/improve/international/locations/states.md)
           * [Taxes](<functional-documentation/ux-ui/back-office/improve/international/taxes/README (1).md>)
             * [Add or Edit Tax Rule](functional-documentation/ux-ui/back-office/improve/international/taxes/add-or-edit-tax-rule.md)

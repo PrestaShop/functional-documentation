@@ -22,7 +22,7 @@ The **Setting bar** is located above the table . It allows you to have direct ac
 
 * **Add new** :  _Shipping_ --> [_Edit/add carrier_ ](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/366/functional-documentation/ux-ui/back-office/improve/shipping/carrier-list-page/edit-add-carrier)
 
-![](<../../../.gitbook/assets/image (5) (1) (1).png>)
+![](<../../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 * **Export to SQL manager:** _Advanced Parameters_ --> _Database_ --> _SQL manager_ (todo link)
 
