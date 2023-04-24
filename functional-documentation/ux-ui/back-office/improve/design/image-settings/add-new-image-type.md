@@ -13,7 +13,7 @@ This configuration UI is about adding the new Image type into the Image type lis
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
 * Search input (todo link)
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

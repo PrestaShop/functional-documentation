@@ -15,7 +15,7 @@ The UI it’s the "Carriers" page. It presents you with a list of all your curre
 * [Heading of the page](../../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
 * [Breadcrumbs navigation](../../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
-* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md).
+* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md).&#x20;
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md).&#x20;
 * [Account icon](../../../../common-components/account-icon.md).
@@ -73,7 +73,7 @@ The UI it’s the "Carriers" page. It presents you with a list of all your curre
 
 #### <mark style="color:purple;">Filter</mark>&#x20;
 
-### ID  input
+### ID &#x20;
 
 This is input [(Tables with filters UI kit ) ](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/tables--with-filters)to enter Carrier ID. It's for filter the list by carrier's ID
 

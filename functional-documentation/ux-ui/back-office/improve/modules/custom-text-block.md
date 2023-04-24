@@ -10,14 +10,14 @@ This module adds a custom text block at the bottom of the front-office page.&#x2
 
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md).
+* [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
 * [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * Bell icon (todo link)
 * [Account icon](../../../common-components/account-icon.md).
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md).
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Page header call to action buttons (modules)](../../../common-components/module-page-specific-component/page-header-call-to-action-buttons-modules.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Page header call to action buttons (modules)](../../../common-components/page-header-call-to-action-buttons-modules.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
 * [Language dropdown for input fields](../../../common-components/language-dropdown-for-input-fields.md).
 * [Text editing tools list](../../../common-components/text-editing-tools-list.md).
 * Shop association block (todo link)

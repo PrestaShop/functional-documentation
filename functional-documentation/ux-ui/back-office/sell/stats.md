@@ -75,7 +75,7 @@ The table is compiled from [Hoverable Table UI](https://build.prestashop.com/pre
 
 ### Best categories
 
-First part of the UI - [Filtering Components in Stats](../../common-components/stats-page-specific-component/filtering-components-in-stats.md).
+First part of the UI - [Filtering Components in Stats](../../common-components/filtering-components-in-stats.md).
 
 #### Table content
 
@@ -96,7 +96,7 @@ The table is compiled from [Hoverable Table UI](https://build.prestashop.com/pre
 
 ### Best customers
 
-First part of the UI - [Filtering Components in Stats](../../common-components/stats-page-specific-component/filtering-components-in-stats.md).
+First part of the UI - [Filtering Components in Stats](../../common-components/filtering-components-in-stats.md).
 
 #### Table content
 
@@ -125,7 +125,7 @@ The table is compiled from [Hoverable Table UI](https://build.prestashop.com/pre
 
 ### Best suppliers
 
-First part of the UI - [Filtering Components in Stats](../../common-components/stats-page-specific-component/filtering-components-in-stats.md).
+First part of the UI - [Filtering Components in Stats](../../common-components/filtering-components-in-stats.md).
 
 #### Table content
 
@@ -163,7 +163,7 @@ The table is compiled from [Hoverable Table UI](https://build.prestashop.com/pre
 
 ### Best-selling products
 
-First part of the UI - [Filtering Components in Stats](../../common-components/stats-page-specific-component/filtering-components-in-stats.md).
+First part of the UI - [Filtering Components in Stats](../../common-components/filtering-components-in-stats.md).
 
 #### Table content
 
@@ -187,7 +187,7 @@ The table is compiled from [Hoverable Table UI](https://build.prestashop.com/pre
 
 ### Carrier distribution
 
-First part of the UI - [Filtering Components in Stats](../../common-components/stats-page-specific-component/filtering-components-in-stats.md).
+First part of the UI - [Filtering Components in Stats](../../common-components/filtering-components-in-stats.md).
 
 #### Table content
 
@@ -381,7 +381,7 @@ There is ability to delete the URL logs by clicking one of those 2 CTA buttons:
 
 ### Product details
 
-First part of the UI - [Filtering Components in Stats](../../common-components/stats-page-specific-component/filtering-components-in-stats.md).
+First part of the UI - [Filtering Components in Stats](../../common-components/filtering-components-in-stats.md).
 
 #### Table content
 
@@ -410,7 +410,7 @@ The next following table component is from [Hoverable Table UI kit](https://buil
 
 ### Registered customer information
 
-First part of the UI - [Filtering Components in Stats](../../common-components/stats-page-specific-component/filtering-components-in-stats.md).
+First part of the UI - [Filtering Components in Stats](../../common-components/filtering-components-in-stats.md).
 
 #### Table content
 
@@ -445,7 +445,7 @@ Hovering the pie chart, displays the context blocks, with the statistics data.
 
 ### Shop search
 
-First part of the UI - [Filtering Components in Stats](../../common-components/stats-page-specific-component/filtering-components-in-stats.md).
+First part of the UI - [Filtering Components in Stats](../../common-components/filtering-components-in-stats.md).
 
 #### Table content
 
@@ -505,7 +505,7 @@ The last chart is pie-style chart, with the Orders distribution partitioning. Th
 
 ### Stats Dashboard
 
-First part of the UI - [Filtering Components in Stats](../../common-components/stats-page-specific-component/filtering-components-in-stats.md).
+First part of the UI - [Filtering Components in Stats](../../common-components/filtering-components-in-stats.md).
 
 #### Table content
 
@@ -645,7 +645,7 @@ There are the following table headers in the Attribute distribution table:
 
 ## Error messages
 
-Once the Date format is filled incorrectly, in the [Filtering Components in Stats](../../common-components/stats-page-specific-component/filtering-components-in-stats.md) UI component, the error message ([Alerts Basics UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/alerts--basics)) is prompted in the front-end:
+Once the Date format is filled incorrectly, in the [Filtering Components in Stats](../../common-components/filtering-components-in-stats.md) UI component, the error message ([Alerts Basics UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/alerts--basics)) is prompted in the front-end:
 
 _The specified date is invalid._
 

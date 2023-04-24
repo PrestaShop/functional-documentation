@@ -14,7 +14,7 @@ This page stores all the available Tax titles in PrestaShop application.
 * [Help Button](../../../../common-components/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../common-components/search-input-field.md)
 * [Shop switcher](../../../../common-components/shop-switcher.md)
 * Bell icon (todo link)
