@@ -4,7 +4,7 @@
 
 This page opens when in Brands page click on the "Add new brand" button. This creation form allows to create new brand. &#x20;
 
-<figure><img src="../../../../../../../.gitbook/assets/image (5) (2).png" alt="Add new brand User Interface"><figcaption><p>Add new brand User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (5) (2) (1).png" alt="Add new brand User Interface"><figcaption><p>Add new brand User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
@@ -18,7 +18,7 @@ This page opens when in Brands page click on the "Add new brand" button. This cr
 * [Breadcrumbs navigation](../../../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](../../../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help button](../../../../../common-components/help-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Text Editing Tools list](../../../../../common-components/text-editing-tools-list.md).
+* [Text Editing Tools list](../../../../../common-components/forms/text-editing-tools-list.md).
 * [Language dropdown for input fields](../../../../../common-components/language-dropdown-for-input-fields.md).
 * Shop association block (todo link)
 * [Save button](../../../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).

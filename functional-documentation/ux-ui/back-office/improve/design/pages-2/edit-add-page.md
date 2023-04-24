@@ -23,7 +23,7 @@ This page is responsible for Editing or Adding a new Design Page to the whole we
 * [Account icon](../../../../common-components/account-icon.md)
 * [Save button](../../../../common-components/save-button.md)
 * [Cancel button](../../../../common-components/cancel-button.md)
-* [Text Editing Tools list](../../../../common-components/text-editing-tools-list.md)
+* [Text Editing Tools list](../../../../common-components/forms/text-editing-tools-list.md)
 
 ## Page section
 
