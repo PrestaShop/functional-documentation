@@ -20,10 +20,9 @@ It is a great way to build more confidence to the webshop visitors. The module a
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../common-components/back-office-header/prestashop-version-number.md)&#x20;
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
-* Search input (todo link)
+* [Search input](../../../common-components/back-office-header/search-input-field.md)
 * [Shop switcher with eye icon](../../../common-components/multistore-component/shop-switcher-with-eye-icon.md)
-* Bell icon (todo link)
-* Trophy icon (todo link)
+* [Bell icon](../../../common-components/back-office-header/bell-icon.md)
 * [Account icon](../../../common-components/back-office-header/account-icon.md)&#x20;
 * [Language dropdown for input fields](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/KjeTPSLSN1LXBZMsI7JI/functional-documentation/ux-ui/common-components/language-dropdown-for-input-fields)
 * [Checkmark navigation CTA buttons](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/diff/\~/changes/nP8KXOMgKF7kv32ktPkt/functional-documentation/ux-ui/common-components/checkmark-navigation-cta-buttons)
