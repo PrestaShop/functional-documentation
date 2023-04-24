@@ -6,8 +6,6 @@ This section MUST describe the page shortly
 
 It MUST include
 
-* [A link to related tests](https://build.prestashop.com/test-scenarios/)
-
 This section MUST include a screenshot of the Page
 
 This section COULD include other screenshots of the page depending of the configuration (ex: B2B, Multistore ). Those screenshots MUST be labelled (ex : B2B ) for further uses ( see below)
@@ -15,6 +13,10 @@ This section COULD include other screenshots of the page depending of the config
 The screenshot COULD include some labels or numbers to some UI component if needed. So you can refer to this "label" bellow.
 
 ![](../../../../.gitbook/assets/clients-listing.png)
+
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/orders/orders.html)
 
 ## Components description
 
