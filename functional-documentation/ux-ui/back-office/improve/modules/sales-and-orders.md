@@ -6,7 +6,7 @@ This module does not have any configuration settings, it can only be enabled or 
 
 <figure><img src="../../../../../.gitbook/assets/image (2).png" alt="Sales and orders in Modules manager page User Interface"><figcaption><p>Sales and orders in Modules manager page User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (15).png" alt="Sales and orders in Stats User Interface"><figcaption><p>Sales and orders in Stats User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (14).png" alt="Sales and orders in Stats User Interface"><figcaption><p>Sales and orders in Stats User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

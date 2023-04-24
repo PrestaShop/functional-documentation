@@ -23,7 +23,7 @@ This page is responsible for Adding or Editing a specific Supplier.
 * [Account icon](../../../../common-components/account-icon.md)
 * [Cancel button](../../../../common-components/cancel-button.md)
 * [Save button](../../../../common-components/save-button.md)
-* [Text Editing Tools list](../../../../common-components/forms/text-editing-tools-list.md)
+* [Text Editing Tools list](../../../../common-components/text-editing-tools-list.md)
 
 ## Tabs
 
@@ -108,7 +108,7 @@ This association block lets user choose, which Multistores can be affected with 
 
 ### Description behavior
 
-[Text Editing Tools list](../../../../common-components/forms/text-editing-tools-list.md) common component. For editing the Description name.
+[Text Editing Tools list](../../../../common-components/text-editing-tools-list.md) common component. For editing the Description name.
 
 ### Phone behavior
 

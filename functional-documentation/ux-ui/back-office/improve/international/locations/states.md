@@ -4,7 +4,7 @@
 
 The purpose of this page is to edit or add a new State, according to the country.
 
-<figure><img src="../../../../../../.gitbook/assets/image (16) (2).png" alt=""><figcaption><p>States User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (16) (3).png" alt=""><figcaption><p>States User Interface</p></figcaption></figure>
 
 ## Components description
 

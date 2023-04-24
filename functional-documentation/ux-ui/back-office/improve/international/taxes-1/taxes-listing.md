@@ -6,7 +6,7 @@ This page stores all the available Tax titles in PrestaShop application.
 
 <figure><img src="../../../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Taxes list User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (9) (5).png" alt="Tax options User Interface"><figcaption><p>Tax options User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (9) (2) (2).png" alt="Tax options User Interface"><figcaption><p>Tax options User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

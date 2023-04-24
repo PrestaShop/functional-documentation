@@ -6,6 +6,12 @@ At the top of the page the statistics are displayed for:
 
 The statistics can be refreshed with a button on the top right of the block.
 
+
+
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/international/translations.html)
+
 #### Recommended&#x20;
 
 
@@ -23,7 +29,7 @@ This page consists of 4 different sections:
 
 4.  #### Copy
 
-    ![](<../../../../../../.gitbook/assets/image (4) (7).png>)
+    ![](<../../../../../../.gitbook/assets/image (4) (2).png>)
 
 ### Components description
 

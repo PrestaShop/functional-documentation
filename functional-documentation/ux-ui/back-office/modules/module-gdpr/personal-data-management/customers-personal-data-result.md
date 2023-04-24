@@ -58,7 +58,7 @@ Each component of the customer has
 
 ### Workflow
 
-W1 :  When you click on the "Details" Button  you are redirected to ["Information about customer"](../../../sell/customers/customers/information-about-customer.md)
+W1 :  When you click on the "Details" Button  you are redirected to ["Information about customer"](../../../sell/add-or-edit-merchandise-returns/information-about-customer.md)
 
 
 

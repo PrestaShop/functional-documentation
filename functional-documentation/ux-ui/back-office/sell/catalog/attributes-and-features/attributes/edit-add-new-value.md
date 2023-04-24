@@ -4,7 +4,7 @@
 
 This page is responsible for adding or editing the values of the particular Attributes.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (27).png" alt="Add Attribute Value UI"><figcaption><p>Add Attribute Value User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (113).png" alt="Add Attribute Value UI"><figcaption><p>Add Attribute Value User Interface</p></figcaption></figure>
 
 ## QA
 

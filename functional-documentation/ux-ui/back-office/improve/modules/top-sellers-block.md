@@ -43,7 +43,7 @@ This is the module to show top-selling products for the customers in homepage.
 
 #### Save - Call to action
 
-<figure><img src="../../../../../.gitbook/assets/image (76).png" alt="Top-sellers block User Interface"><figcaption><p>Top-sellers block User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (93).png" alt="Top-sellers block User Interface"><figcaption><p>Top-sellers block User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

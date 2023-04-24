@@ -4,7 +4,7 @@
 
 This page allows adding or editing the Order statuses which are managed in the Orders listing page.&#x20;
 
-<figure><img src="../../../../../../../.gitbook/assets/image (4) (3) (1).png" alt=""><figcaption><p>Order status Add or Edit User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Order status Add or Edit User Interface</p></figcaption></figure>
 
 ## Common components
 

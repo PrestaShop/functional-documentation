@@ -4,7 +4,7 @@
 
 It is an user interface where the user can view all the catalog price rules that has been created.&#x20;
 
-<figure><img src="../../../../../../.gitbook/assets/image (40).png" alt="Catalog price rules listing User Interface"><figcaption><p>Catalog price rules listing User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (52).png" alt="Catalog price rules listing User Interface"><figcaption><p>Catalog price rules listing User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
