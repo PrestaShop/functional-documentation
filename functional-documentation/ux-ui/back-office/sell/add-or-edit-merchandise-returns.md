@@ -6,6 +6,10 @@ This functionality able to make a return action of purchased goods via Prestasho
 
 <figure><img src="../../../../.gitbook/assets/image (13) (2).png" alt="Add or Edit Merchandise Returns UI"><figcaption><p>Add or Edit Merchandise Returns UI</p></figcaption></figure>
 
+## QA <a href="#common-components" id="common-components"></a>
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/customer-service/merchandise-returns.html)
+
 ## Components description <a href="#common-components" id="common-components"></a>
 
 ### Common components <a href="#common-components" id="common-components"></a>
@@ -28,7 +32,7 @@ The details of the customer - first and last name, and link to the Customer prof
 
 Text area, where customer can provide big amount of text as explanation to the PrestaShop administrators.
 
-****
+
 
 ### **Status**&#x20;
 
