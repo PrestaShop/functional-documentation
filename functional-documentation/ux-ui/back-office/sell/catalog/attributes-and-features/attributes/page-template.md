@@ -6,11 +6,11 @@ This page displays the list of [product attributes](../../../../../../business-r
 
 
 
-* [QA tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html)
-
 ![Attributes listing](../../../../../../../.gitbook/assets/attributes-list.png)
 
+### QA&#x20;
 
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html)
 
 ## Components description
 
