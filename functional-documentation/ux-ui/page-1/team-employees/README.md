@@ -6,6 +6,10 @@ In this page the employees of the shop can be set and edited.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2022-09-21 at 17-12-47 Employees • test.png" alt=""><figcaption></figcaption></figure>
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/advanced-parameters/team/employees.html)
+
 ## Components description
 
 ### Employees sorting
@@ -28,7 +32,7 @@ All the employees can be sorted using the common component rule which can be fou
 7 rows are presented in this section:
 
 1. ID: when searching, there are no limitations or allowed/forbidden values, pressing "Search" will list the needed selections, if there are none found will just show: "No records found".
-2. First name  when searching, there are no limitations or allowed/forbidden values, pressing "Search" will list the needed selections, if there are none found will just show: "No records found".
+2. First name: when searching, there are no limitations or allowed/forbidden values, pressing "Search" will list the needed selections, if there are none found will just show: "No records found".
 3. Last name: when searching, there are no limitations or allowed/forbidden values, pressing "Search" will list the needed selections, if there are none found will just show: "No records found".
 4. Email address: when searching, there are no limitations or allowed/forbidden values, pressing "Search" will list the needed selections, if there are none found will just show: "No records found".
 5. Profile: searching allows only the following selection from the drop-down (if more roles are added in the shop, they will appear in the drop-down):&#x20;
@@ -40,6 +44,7 @@ All the employees can be sorted using the common component rule which can be fou
 
 6\. Active : when searching, from the drop-down field the following available options are:
 
+* All
 * Yes
 * No
 
