@@ -22,7 +22,7 @@ The **Setting bar** is located above the table . It allows you to have direct ac
 
 * **Add new** :  _Shipping_ --> [_Edit/add carrier_ ](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/366/functional-documentation/ux-ui/back-office/improve/shipping/carrier-list-page/edit-add-carrier)
 
-![](<../../../.gitbook/assets/image (5) (1) (2).png>)
+![](<../../../.gitbook/assets/image (5) (1) (3).png>)
 
 * **Export to SQL manager:** _Advanced Parameters_ --> _Database_ --> _SQL manager_ (todo link)
 
@@ -30,7 +30,7 @@ The **Setting bar** is located above the table . It allows you to have direct ac
 
 * **Export to SQL manager:** _Advanced Parameters_ --> _Import_
 
-![](<../../../.gitbook/assets/image (2) (9).png>)
+![](<../../../.gitbook/assets/image (2) (8).png>)
 
 
 
@@ -40,11 +40,11 @@ The **Setting bar** is located above the table . It allows you to have direct ac
 
 * **Show SQL query:**&#x20;
 
-![](<../../../.gitbook/assets/image (3) (1) (2).png>)
+![](<../../../.gitbook/assets/image (3) (1) (3).png>)
 
 When you click on the _button (_UI Button : [Alert Basic](https://build.prestashop-project.org/prestashop-ui-kit/?path=/docs/alerts--basics) &[ Helpbox  ](https://build.prestashop-project.org/prestashop-ui-kit/?path=/docs/helpbox--helpbox))  a Alert Basic bar _(_UI : [Alert Basic](https://build.prestashop-project.org/prestashop-ui-kit/?path=/docs/alerts--basics)[ ](https://build.prestashop-project.org/prestashop-ui-kit/?path=/docs/helpbox--helpbox))  appears with _**SQL query**_
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Refresh list:** When you click on the _button (_UI Button : [Alert Basic](https://build.prestashop-project.org/prestashop-ui-kit/?path=/docs/alerts--basics) &[ Helpbox  ](https://build.prestashop-project.org/prestashop-ui-kit/?path=/docs/helpbox--helpbox)) the page refresh&#x20;
 
