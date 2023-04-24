@@ -12,6 +12,6 @@ This module does not have any configuration settings, it can only be enabled or 
 
 
 
-In the "Stats" section the every measure of the registered customers information can be filtered by date, the specifications can be found [\[HERE\]](../../../common-components/filtering-components-in-stats.md).
+In the "Stats" section the every measure of the registered customers information can be filtered by date, the specifications can be found [\[HERE\]](../../../common-components/stats-common-component/filtering-components-in-stats.md).
 
 * CSV Export - when pressed downloads instantly the data in CSV format.

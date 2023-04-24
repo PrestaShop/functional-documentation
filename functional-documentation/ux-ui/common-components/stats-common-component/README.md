@@ -1,0 +1,2 @@
+# Stats common component
+

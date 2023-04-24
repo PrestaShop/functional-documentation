@@ -12,7 +12,7 @@ The Back-Office module represents the specific UI block in the main Prestashop d
 
 ## Common components
 
-* [Filtering components in stats](../../../common-components/filtering-components-in-stats.md)
+* [Filtering components in stats](../../../common-components/stats-common-component/filtering-components-in-stats.md)
 * [Breadcrumbs navigation](../../../common-components/back-office-header/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](../../../common-components/back-office-header/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](../../../common-components/back-office-header/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
