@@ -1,6 +1,6 @@
 # Shop switcher with eye icon
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (2).png" alt=""><figcaption><p>Shop switcher with eye icon dropdown UI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2) (1).png" alt=""><figcaption><p>Shop switcher with eye icon dropdown UI</p></figcaption></figure>
 
 This shop switcher is dropdown ([Dropdowns basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/dropdowns--basics)) and it is shown on right upper corner. It has an eye icon, information what context is opened and dropdown arrow. When shop switched, shop name changes on switcher. When hover on it with mouse pointer, color of shop name and arrow changes. Once clicked opens dropdown with these components.
 

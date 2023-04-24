@@ -2,7 +2,7 @@
 
 The search widget is positioned in the top interface position and is visible in every Prestashop page in Back-Office.
 
-![Widget input interface](<../../.gitbook/assets/image (7) (2) (1).png>)
+![Widget input interface](<../../.gitbook/assets/image (7) (2) (1) (1).png>)
 
 Prestashop search engine helps to find desired information by typing just words, then pressing Enter on the keyboard. The interface will return the search results.
 
