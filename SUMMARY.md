@@ -146,7 +146,7 @@
           * [GDPR - Personal data](functional-documentation/ux-ui/front-office/modules/module-gdpr/gdpr-personal-data.md)
     * [Common components](functional-documentation/ux-ui/common-components.md)
       * [Stats common component](functional-documentation/ux-ui/common-components/stats-common-component/README.md)
-        * [Filtering Components in Stats](functional-documentation/ux-ui/common-components/stats-common-component/filtering-components-in-stats.md)
+        * [Filtering Components in Stats](functional-documentation/ux-ui/common-components/filtering-components-in-stats.md)
       * [Forms](functional-documentation/ux-ui/common-components/forms/README.md)
         * [Color picker](functional-documentation/ux-ui/common-components/forms/color-picker.md)
         * [Text Editing Tools list](functional-documentation/ux-ui/common-components/forms/text-editing-tools-list.md)

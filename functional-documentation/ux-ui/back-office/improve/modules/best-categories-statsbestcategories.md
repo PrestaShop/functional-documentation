@@ -12,7 +12,7 @@ This module does not have any settings, it can only be either enabled or disable
 
 ## Common components
 
-* [Filtering components in stats](../../../common-components/stats-common-component/filtering-components-in-stats.md)
+* [Filtering components in stats](../../../common-components/filtering-components-in-stats.md)
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
