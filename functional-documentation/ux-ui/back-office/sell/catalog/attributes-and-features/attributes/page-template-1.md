@@ -4,9 +4,13 @@
 
 This page allow to edit or add a product attribute
 
-[QA test](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html)
+
 
 ![Add, Edit attribute](../../../../../../../.gitbook/assets/attributes-add-edit.png)
+
+### QA&#x20;
+
+[Link to the test](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html)
 
 ## Components description
 
@@ -18,7 +22,7 @@ Allow to switch from attributes list to features list. [See call to action](page
 
 
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>YES</td><td align="center">Tht e field name is required at  least in "<em>default language</em>”</td><td>Error message if not allowed</td></tr><tr><td>Forbidden values</td><td>&#x3C;>;=#{}”</td><td align="center">The name field is invalid.</td><td></td></tr><tr><td>Default value</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>Help text</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>Your internal name for this attribute. Invalid characters &#x3C;>;=#{}” </td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td></td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td></td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="page-template-1.md#behaviors-description">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>YES</td><td align="center">The field name is required at  least in "<em>default language</em>”</td><td>Error message if not allowed</td></tr><tr><td>Forbidden values</td><td>&#x3C;>;=#{}”</td><td align="center">The name field is invalid.</td><td></td></tr><tr><td>Default value</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td></td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td></td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="page-template-1.md#behaviors-description">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
 
 
 
