@@ -8,6 +8,10 @@ description: This section is the back office settings of the module Brand list
 
 ![](<../../../../../.gitbook/assets/Screenshot 2022-05-23 at 17-56-43 Module Manager • test.png>)
 
+### QA&#x20;
+
+[Link to test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/catalog/brands-and-suppliers/brands.html)
+
 ### Front-Office
 
 The module when enabled displays list of brands possible on the shop.
