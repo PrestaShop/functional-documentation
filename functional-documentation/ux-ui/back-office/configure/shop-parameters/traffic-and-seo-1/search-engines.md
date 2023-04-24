@@ -4,7 +4,7 @@
 
 This UI lists the Prestashop Search Engines entries.
 
-<figure><img src="../../../../../../.gitbook/assets/image (18) (2).png" alt="Search Engines User Interface"><figcaption><p>Search Engines User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (18).png" alt="Search Engines User Interface"><figcaption><p>Search Engines User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
@@ -14,7 +14,7 @@ This UI lists the Prestashop Search Engines entries.
 * [Cancel button](../../../../common-components/cancel-button.md)
 * [E-commerce logo ](../../../../common-components/back-office-header/prestashop-logo.md)
 * [Version number](../../../../common-components/prestashop-version-number.md)
-* [Quick access dropdown ](../../../../common-components/back-office-header/quick-access-dropdown.md)
+* [Quick access dropdown ](../../../../common-components/quick-access-dropdown.md)
 * [Search input](../../../../common-components/search-input-field.md)&#x20;
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

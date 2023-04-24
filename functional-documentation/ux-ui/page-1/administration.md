@@ -4,7 +4,7 @@
 
 This UI is responsible for General, Upload, and Notifications settings of the webshop.
 
-<figure><img src="../../../.gitbook/assets/image (9) (1) (1).png" alt="Administration User Interface"><figcaption><p>Administration User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (4) (1).png" alt="Administration User Interface"><figcaption><p>Administration User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
@@ -14,7 +14,7 @@ This UI is responsible for General, Upload, and Notifications settings of the we
 * [Cancel button](../common-components/cancel-button.md)
 * [E-commerce logo ](../common-components/back-office-header/prestashop-logo.md)
 * Version number (todo link)
-* [Quick access dropdown ](../common-components/back-office-header/quick-access-dropdown.md)
+* [Quick access dropdown ](../common-components/quick-access-dropdown.md)
 * Search input (todo link)
 * [Shop switcher with eye icon](../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
