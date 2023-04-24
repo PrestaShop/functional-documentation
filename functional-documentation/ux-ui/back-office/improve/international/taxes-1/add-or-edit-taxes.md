@@ -6,6 +6,10 @@ This interface provides the ability to add customized tax or edit the existing t
 
 <figure><img src="../../../../../../.gitbook/assets/image (5) (1) (1).png" alt="Add or Edit Taxes UI"><figcaption><p>Add or Edit Taxes User Interface</p></figcaption></figure>
 
+## QA  <a href="#common-components" id="common-components"></a>
+
+
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
