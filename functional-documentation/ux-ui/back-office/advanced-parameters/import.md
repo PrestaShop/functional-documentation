@@ -6,7 +6,7 @@ This UI page and functionality is based on the import actions of the PrestaShop 
 
 <figure><img src="../../../../.gitbook/assets/image (79).png" alt="Import User Interface"><figcaption><p>Import User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (83) (1).png" alt="Match your data User Interface"><figcaption><p>Match your data User Interface</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (83).png" alt="Match your data User Interface"><figcaption><p>Match your data User Interface</p></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/image (69).png" alt="Importing your data popup User Interface"><figcaption><p>Importing your data popup User Interface</p></figcaption></figure>
 

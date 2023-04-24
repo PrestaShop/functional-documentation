@@ -4,7 +4,7 @@
 
 In the payment preferences page merchant is allowed to choose which payment method should be available to customers depending on the currency, the country, the group or the carrier.
 
-<figure><img src="../../../../../.gitbook/assets/image (46).png" alt="Preferences User Interface"><figcaption><p>Preferences User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (19).png" alt="Preferences User Interface"><figcaption><p>Preferences User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

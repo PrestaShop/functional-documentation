@@ -4,7 +4,7 @@
 
 This page enables the ability to configure the webshop's searching parameters.
 
-<figure><img src="../../../../../.gitbook/assets/image (88).png" alt="Search UI"><figcaption><p>Search User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (8).png" alt="Search UI"><figcaption><p>Search User Interface</p></figcaption></figure>
 
 ## QA
 

@@ -10,7 +10,7 @@ If you need to edit an existing store, you can modify the store's name, URL, lan
 
 Overall, the "Add or Edit Stores" feature in Prestashop makes it easy to manage multiple stores and customize the settings for each store. This is useful if you have different stores targeting different regions, or if you want to offer different product lines in each store.
 
-<figure><img src="../../../../../../.gitbook/assets/image (17) (2).png" alt="Add or Edit stores UI"><figcaption><p>Add or Edit stores User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (17) (1).png" alt="Add or Edit stores UI"><figcaption><p>Add or Edit stores User Interface</p></figcaption></figure>
 
 ## QA
 

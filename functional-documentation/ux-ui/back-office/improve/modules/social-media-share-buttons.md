@@ -4,7 +4,7 @@
 
 This module allows sharing social media buttons on product pages. The buttons need links configured in the "Social media follow links" in order for them to work correctly.
 
-<figure><img src="../../../../../.gitbook/assets/image (26).png" alt="Social media share buttons User Interface"><figcaption><p>Social media share buttons User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (114).png" alt="Social media share buttons User Interface"><figcaption><p>Social media share buttons User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

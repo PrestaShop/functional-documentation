@@ -4,7 +4,7 @@
 
 This page shows all the stock of the products that are in the shop, also it can be configured from this page.
 
-<figure><img src="../../../../../../.gitbook/assets/image (85) (1).png" alt="Stock management User Interface"><figcaption><p>Stock management User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (85).png" alt="Stock management User Interface"><figcaption><p>Stock management User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

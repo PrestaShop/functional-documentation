@@ -6,7 +6,7 @@ description: >-
 
 # Page header call to action buttons (modules)
 
-<figure><img src="../../../.gitbook/assets/image (28) (1).png" alt="Page header call to action buttons User Interface"><figcaption><p>Page header call to action buttons User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28).png" alt="Page header call to action buttons User Interface"><figcaption><p>Page header call to action buttons User Interface</p></figcaption></figure>
 
 ## Components description
 

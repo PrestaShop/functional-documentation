@@ -6,7 +6,7 @@ This module does not have any configuration settings, it can only be enabled or 
 
 The certain Customer accounts section is selected by navigating the menu on the left.
 
-<figure><img src="../../../../../.gitbook/assets/image (52).png" alt="Customer accounts in Stats UI"><figcaption><p>Customer accounts in Stats User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (31).png" alt="Customer accounts in Stats UI"><figcaption><p>Customer accounts in Stats User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

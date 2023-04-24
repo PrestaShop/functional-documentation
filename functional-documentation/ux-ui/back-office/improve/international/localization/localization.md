@@ -4,7 +4,7 @@
 
 Localization page enables to configure the units used for products. There are four settings block in the page: Import a localization pack, Configuration,  Local units  and Advanced.
 
-<figure><img src="../../../../../../.gitbook/assets/image (17) (3).png" alt="Localization User Interface"><figcaption><p>Localization User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (17) (2) (1).png" alt="Localization User Interface"><figcaption><p>Localization User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

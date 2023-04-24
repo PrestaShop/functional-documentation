@@ -8,9 +8,9 @@ The module does not have any settings page, it can only be installed, upgraded a
 
 Once navigated to the Module Manager and the _Read more_ link is clicked in the description, the module popup will appear.
 
-<figure><img src="../../../../../.gitbook/assets/image (89).png" alt=""><figcaption><p>Customer "Sign in" module popup User Interface - Overview tab</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (82).png" alt=""><figcaption><p>Customer "Sign in" module popup User Interface - Overview tab</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Customer "Sign in" module popup User Interface - Additional information tab</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (81).png" alt=""><figcaption><p>Customer "Sign in" module popup User Interface - Additional information tab</p></figcaption></figure>
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot 2022-07-12 at 15-58-06 Module manager • test.png" alt="Customer &#x22;Sign in&#x22; module popup UI - Features tab"><figcaption><p>Customer "Sign in" module popup User Interface - Features tab</p></figcaption></figure>
 
