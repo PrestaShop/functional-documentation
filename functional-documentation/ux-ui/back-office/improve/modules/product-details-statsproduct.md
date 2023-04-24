@@ -4,6 +4,10 @@ This module has no configuration, only Enabling or Disabling the module. If this
 
 ![Product details in Staus User interface](<../../../../../.gitbook/assets/image (3) (5).png>)
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/statsproduct.html)
+
 ## Product details in Stats
 
 There is no Configure button in this module, but only a separate Product details section in [Stats](../../sell/stats.md) page.

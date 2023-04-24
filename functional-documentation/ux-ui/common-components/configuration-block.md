@@ -1,6 +1,6 @@
 # Configuration block
 
-<figure><img src="../../../.gitbook/assets/image (3) (3) (1).png" alt=""><figcaption><p>Configuration block UI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p>Configuration block UI</p></figcaption></figure>
 
 ## Description
 
