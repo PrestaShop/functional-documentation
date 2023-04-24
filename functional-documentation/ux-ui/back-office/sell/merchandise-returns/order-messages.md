@@ -18,7 +18,7 @@ This UI shows the list of messages, that were sent by webshop customer, who crea
 * [Cancel button](../../../common-components/cancel-button.md)&#x20;
 * [E-commerce logo ](../../../common-components/back-office-header/prestashop-logo.md)
 * [Version number](../../../common-components/prestashop-version-number.md)
-* [Quick access dropdown ](../../../common-components/quick-access-dropdown.md)
+* [Quick access dropdown ](../../../common-components/back-office-header/quick-access-dropdown.md)
 * [Search input ](../../../common-components/search-input-field.md)
 * Shop switcher with eye icon (todo link)
 * Bell icon (todo link)
