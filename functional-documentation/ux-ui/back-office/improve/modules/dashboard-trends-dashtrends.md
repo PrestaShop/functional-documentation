@@ -2,7 +2,7 @@
 
 This widget is aligned with the module, that has to be installed into the Prestashop. Once the module is active, the chart will be visible in the main Dashboard page.
 
-![Dashboard Trends UI](<../../../../../.gitbook/assets/image (1) (8).png>)
+![Dashboard Trends UI](<../../../../../.gitbook/assets/image (1) (9).png>)
 
 ### QA&#x20;
 

@@ -4,11 +4,11 @@
 
 This module does not have any configuration/settings page, the only option is to either enable or disable it. If enabled, it will be displayed as Forecast block in the Dashboard section.
 
-<figure><img src="../../../../../.gitbook/assets/image (51).png" alt="Dashboard goals in Modules manager page User Interface"><figcaption><p>Dashboard goals in Modules manager page User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (10).png" alt="Dashboard goals in Modules manager page User Interface"><figcaption><p>Dashboard goals in Modules manager page User Interface</p></figcaption></figure>
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot 2022-06-17 at 14-38-33 Dashboard • test.png" alt="Dashboard goals in Dashboard User Interface"><figcaption><p>Dashboard goals in Dashboard User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (4).png" alt="Dashboard goals configuration board in Dashboard User Interface"><figcaption><p>Dashboard goals configuration board in Dashboard User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (72).png" alt="Dashboard goals configuration board in Dashboard User Interface"><figcaption><p>Dashboard goals configuration board in Dashboard User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

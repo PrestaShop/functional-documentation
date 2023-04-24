@@ -4,9 +4,9 @@
 
 This module does not have any configuration settings, it can only be enabled or disabled. The module itself when is enabled will show up in the back - office section "Stats". The module in the "Stats" section only allows to sort the Catalog evaluation.
 
-<figure><img src="../../../../../.gitbook/assets/image (49).png" alt="Catalog evaluation in Modules manager page User Interface"><figcaption><p>Catalog evaluation in Modules manager page User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (7).png" alt="Catalog evaluation in Modules manager page User Interface"><figcaption><p>Catalog evaluation in Modules manager page User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (69).png" alt="Catalog evaluation in Stats User Interface"><figcaption><p>Catalog evaluation in Stats User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (100).png" alt="Catalog evaluation in Stats User Interface"><figcaption><p>Catalog evaluation in Stats User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

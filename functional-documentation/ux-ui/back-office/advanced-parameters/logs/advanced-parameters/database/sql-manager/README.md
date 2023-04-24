@@ -4,7 +4,7 @@
 
 This is page that allows to explore a database using the SQL language.
 
-<figure><img src="../../../../../../../../.gitbook/assets/image (27) (1) (1).png" alt="SQL Manager User Interface"><figcaption><p>SQL Manager User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../../.gitbook/assets/image (27) (1).png" alt="SQL Manager User Interface"><figcaption><p>SQL Manager User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

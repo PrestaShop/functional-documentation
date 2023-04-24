@@ -29,7 +29,7 @@ This page consists of 4 different sections:
 
 4.  #### Copy
 
-    ![](<../../../../../../.gitbook/assets/image (4) (2).png>)
+    ![](<../../../../../../.gitbook/assets/image (4) (3).png>)
 
 ### Components description
 

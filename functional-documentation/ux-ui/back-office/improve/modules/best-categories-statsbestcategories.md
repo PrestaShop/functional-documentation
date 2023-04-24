@@ -4,7 +4,7 @@
 
 This module does not have any settings, it can only be either enabled or disabled.
 
-<figure><img src="../../../../../.gitbook/assets/image (37) (1).png" alt="Best categories in Stats UI"><figcaption><p>Best categories in Stats User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (37).png" alt="Best categories in Stats UI"><figcaption><p>Best categories in Stats User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

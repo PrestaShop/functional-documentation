@@ -4,7 +4,7 @@
 
 This module adds a custom text block at the bottom of the front-office page.&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (13) (1) (2).png" alt="Custom text block User Interface"><figcaption><p>Custom text block User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (13) (4).png" alt="Custom text block User Interface"><figcaption><p>Custom text block User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

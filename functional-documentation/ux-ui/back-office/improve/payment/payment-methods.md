@@ -4,7 +4,7 @@
 
 In this page there are show payment methods and their modules.
 
-<figure><img src="../../../../../.gitbook/assets/image (87).png" alt="Payment Methods User Interface"><figcaption><p>Payment Methods User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (41).png" alt="Payment Methods User Interface"><figcaption><p>Payment Methods User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

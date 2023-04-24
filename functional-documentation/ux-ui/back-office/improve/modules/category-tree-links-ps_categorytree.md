@@ -4,7 +4,7 @@
 
 This module is responsible for the Category Tree display in the front-office.&#x20;
 
-![Category tree links User Interface](<../../../../../.gitbook/assets/image (66).png>)
+![Category tree links User Interface](<../../../../../.gitbook/assets/image (67).png>)
 
 ## Common components
 

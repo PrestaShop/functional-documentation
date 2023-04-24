@@ -6,9 +6,9 @@ Webservice is the page of webservice keys list and webservice configuration bloc
 
 
 
-<figure><img src="../../../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Webservice user interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (21) (2).png" alt=""><figcaption><p>Webservice user interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (22) (2).png" alt=""><figcaption><p>Webservice list user interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p>Webservice list user interface</p></figcaption></figure>
 
 ### QA&#x20;
 
