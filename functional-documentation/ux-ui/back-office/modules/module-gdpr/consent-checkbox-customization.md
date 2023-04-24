@@ -9,7 +9,7 @@ This tab allows you customize the consent confirmation checkboxes and the corres
 
 &#x20; [A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html) (TODO)
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Components description
 

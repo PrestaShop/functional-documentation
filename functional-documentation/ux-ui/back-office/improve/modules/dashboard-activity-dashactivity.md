@@ -4,7 +4,7 @@
 
 The Back-Office module represents the specific UI block in the main Prestashop dashboard page. The block contains some segmented information returned from the Prestashop behavior. The part of the UI is called _Activity overview_.
 
-<figure><img src="../../../../../.gitbook/assets/image (9) (3).png" alt="Dashboard activity UI - full scale"><figcaption><p>Dashboard activity User Interface - full scale</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (9) (3) (1).png" alt="Dashboard activity UI - full scale"><figcaption><p>Dashboard activity User Interface - full scale</p></figcaption></figure>
 
 ## QA&#x20;
 

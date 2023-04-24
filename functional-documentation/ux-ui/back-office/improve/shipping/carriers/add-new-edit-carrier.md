@@ -10,7 +10,7 @@ The purpose of this page is to add new or edit carrier. It has these steps for n
 * Size, weight, and group access
 * Summary
 
-<figure><img src="../../../../../../.gitbook/assets/image (1) (5).png" alt="Add new / edit carrier General settings step User Interface"><figcaption><p>Add new / edit carrier General settings step User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (1) (6).png" alt="Add new / edit carrier General settings step User Interface"><figcaption><p>Add new / edit carrier General settings step User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
