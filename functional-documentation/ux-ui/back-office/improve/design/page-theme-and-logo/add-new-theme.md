@@ -4,7 +4,7 @@
 
 This page opens once clicked on Add new theme button in Theme & Logo page.  In this page theme for the shop can be uploaded.
 
-<figure><img src="../../../../../../.gitbook/assets/image (38) (1).png" alt=""><figcaption><p>Add new theme User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (38).png" alt=""><figcaption><p>Add new theme User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

@@ -4,7 +4,7 @@
 
 This page opens once clicked on certain brand View icon in Brands list. In this page the information about the brand and it's products is displayed.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (15) (1).png" alt="Brand View User Interface"><figcaption><p>Brand View User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (15) (3).png" alt="Brand View User Interface"><figcaption><p>Brand View User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

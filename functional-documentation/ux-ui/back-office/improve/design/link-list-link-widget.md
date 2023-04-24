@@ -4,7 +4,7 @@
 
 This UI shows the Link Widget management UI. It helps to manage and edit various webshop links, that are shown in static Front-Office pages, as well as in Pages section in Back-Office. By default, there is a single Footer widget with the links already installed in the webshop.
 
-<figure><img src="../../../../../.gitbook/assets/image (101).png" alt="Link list User Interface"><figcaption><p>Link list User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (16) (1).png" alt="Link list User Interface"><figcaption><p>Link list User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

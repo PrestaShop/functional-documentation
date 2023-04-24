@@ -4,7 +4,7 @@
 
 The purpose of this page is to add new or edit zone.
 
-<figure><img src="../../../../../../.gitbook/assets/image (5) (4).png" alt="Add new or edit zone User Interface"><figcaption><p>Add new or edit zone User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (6) (2) (1).png" alt="Add new or edit zone User Interface"><figcaption><p>Add new or edit zone User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

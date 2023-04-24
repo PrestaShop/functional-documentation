@@ -9,7 +9,7 @@ This tab allows you customize the consent confirmation checkboxes and the corres
 
 &#x20; [A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html) (TODO)
 
-<figure><img src="../../../../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (7).png" alt=""><figcaption></figcaption></figure>
 
 ## Components description
 
@@ -131,7 +131,7 @@ if you choose yes
 
 &#x20;       in the FO : when consulting the information of the customer a check box will appear with the message present in the field "Consent request message"
 
-![](<../../../../../.gitbook/assets/image (4) (5).png>)
+![](<../../../../../.gitbook/assets/image (4) (1) (1).png>)
 
 &#x20;                         If the customer check the box it datas will be collect ~~<mark style="color:red;">otherwise no   count will be created.</mark>~~
 

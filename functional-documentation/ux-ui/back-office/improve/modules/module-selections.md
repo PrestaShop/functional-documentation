@@ -2,7 +2,7 @@
 
 This page shows modules to help to improve store. Modules are selected in groups by their functions.
 
-<figure><img src="../../../../../.gitbook/assets/image (97).png" alt=""><figcaption><p>Module selection User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (97) (1).png" alt=""><figcaption><p>Module selection User Interface</p></figcaption></figure>
 
 ## Common components
 

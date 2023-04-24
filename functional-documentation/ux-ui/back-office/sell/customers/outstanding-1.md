@@ -4,7 +4,7 @@
 
 This UI is shown after Enabling the _Enable B2B mode_ toggle switch in _CONFIGURE > Customer Settings_ and it allows to track the B2B customer behavior.
 
-<figure><img src="../../../../../.gitbook/assets/image (12).png" alt="Outstanding User Interface"><figcaption><p>Outstanding User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (12) (3).png" alt="Outstanding User Interface"><figcaption><p>Outstanding User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

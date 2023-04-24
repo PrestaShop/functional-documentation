@@ -4,7 +4,7 @@
 
 This page defines and lists all the Tax Rules stored in the Prestashop application. Rule can be applied defining the Country and Multishop, and managing other additional properties.
 
-<figure><img src="../../../../../../.gitbook/assets/image (14).png" alt="Tax Rules listing User Interface"><figcaption><p>Tax Rules listing User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (53).png" alt="Tax Rules listing User Interface"><figcaption><p>Tax Rules listing User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 
