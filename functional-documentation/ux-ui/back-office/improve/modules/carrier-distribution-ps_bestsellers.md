@@ -4,7 +4,7 @@
 
 This module does not have any configuration settings, it can only be enabled or disabled. The module itself when is enabled will show up in the back - office section "Stats". The module in the "Stats" section only allows sorting the carrier distribution by date, and export the data.
 
-<figure><img src="../../../../../.gitbook/assets/image (119).png" alt="Carrier distribution in Stats UI"><figcaption><p>Carrier distribution in Stats User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (29).png" alt="Carrier distribution in Stats UI"><figcaption><p>Carrier distribution in Stats User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

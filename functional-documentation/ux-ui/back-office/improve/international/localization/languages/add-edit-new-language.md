@@ -4,7 +4,7 @@
 
 This page lets the administrator Add or Edit new Language for the whole webshop.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (44) (1).png" alt="Add or Edit Language UI"><figcaption><p>Add or Edit Language User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (5).png" alt="Add or Edit Language UI"><figcaption><p>Add or Edit Language User Interface</p></figcaption></figure>
 
 ## QA
 

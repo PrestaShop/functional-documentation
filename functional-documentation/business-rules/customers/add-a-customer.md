@@ -27,8 +27,8 @@ When a new customer is created in the shop's FO, a customer will have a delivery
 
 ## Impacted pages
 
-* [customers.md](../../ux-ui/back-office/sell/catalog/customers.md "mention")
-* [creating-a-new-customer.md](../../ux-ui/back-office/sell/customers/creating-a-new-customer.md "mention")
+* [customers](../../ux-ui/back-office/sell/customers/customers/ "mention")
+* [creating-a-new-customer.md](../../ux-ui/back-office/sell/customers/customers/creating-a-new-customer.md "mention")
 
 ## Behat test
 

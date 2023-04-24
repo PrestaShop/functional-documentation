@@ -4,9 +4,9 @@
 
 This module allows the user of the shop to create a wish list. 2 sections are in the back-office of the module "Configuration" and "Statistics" tabs.
 
-<figure><img src="../../../../../.gitbook/assets/image (43) (1).png" alt="Wishlist module Configuration tab User Interface"><figcaption><p>Wishlist module Configuration tab User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (83).png" alt="Wishlist module Configuration tab User Interface"><figcaption><p>Wishlist module Configuration tab User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (39) (1).png" alt="Wishlist module Statistics tab User Interface"><figcaption><p>Wishlist module Statistics tab User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (96).png" alt="Wishlist module Statistics tab User Interface"><figcaption><p>Wishlist module Statistics tab User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

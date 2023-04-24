@@ -4,7 +4,7 @@
 
 This page allows to create new profile or edit changes in profile.
 
-<figure><img src="../../../../../.gitbook/assets/image (98).png" alt="Add new / edit profile User interface"><figcaption><p>Add new / edit profile User interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (105).png" alt="Add new / edit profile User interface"><figcaption><p>Add new / edit profile User interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

@@ -4,7 +4,7 @@
 
 The page consists of 1 toggle switch, and a number input.
 
-<figure><img src="../../../../../.gitbook/assets/image (32).png" alt="Cross-selling User Interface"><figcaption><p>Cross-selling User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (54).png" alt="Cross-selling User Interface"><figcaption><p>Cross-selling User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

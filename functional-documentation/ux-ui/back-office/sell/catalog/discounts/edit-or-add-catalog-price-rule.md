@@ -8,7 +8,7 @@ Catalog price rules enable to assign price reductions by category, brand, suppli
 
 <figure><img src="../../../../../../.gitbook/assets/image (120).png" alt="Add new Catalog price rule Conditions User Interface"><figcaption><p>Add new Catalog price rule Conditions User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (95).png" alt="Add new Catalog price rule Condition group User Interface"><figcaption><p>Add new Catalog price rule Condition group User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (95) (1).png" alt="Add new Catalog price rule Condition group User Interface"><figcaption><p>Add new Catalog price rule Condition group User Interface</p></figcaption></figure>
 
 ## Common components
 
