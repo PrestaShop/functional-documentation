@@ -8,7 +8,7 @@ This is the main configuration page for the module that configures the product i
 
 ## QA
 
-[Link to the tests](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/modules/module-manager.html)
+[Link to the tests](https://build.prestashop-project.org/test-scenarios/scenarios/modules/ps-bestsellers.html)
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

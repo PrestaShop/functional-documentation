@@ -4,7 +4,7 @@
 
 This page allows managing the email themes.
 
-<figure><img src="../../../../../.gitbook/assets/image (29).png" alt="Email Theme User Interface"><figcaption><p>Email Theme User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (29) (1).png" alt="Email Theme User Interface"><figcaption><p>Email Theme User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

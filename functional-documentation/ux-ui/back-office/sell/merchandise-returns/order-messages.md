@@ -4,7 +4,7 @@
 
 This UI shows the list of messages, that were sent by webshop customer, who created an Order. By default, _Delay_ message is already created in the list.
 
-<figure><img src="../../../../../.gitbook/assets/image (6) (1) (1).png" alt="Order Messages UI"><figcaption><p>Order Messages User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (6) (1).png" alt="Order Messages UI"><figcaption><p>Order Messages User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 
