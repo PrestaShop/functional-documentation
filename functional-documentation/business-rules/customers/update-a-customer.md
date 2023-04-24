@@ -15,7 +15,7 @@ Updating a customer allows the user to modify the customer's information. The fi
 
 ## Impacted pages
 
-* [customers.md](../../ux-ui/back-office/sell/customers/customers.md "mention")
+* [customers-list.md](../../ux-ui/back-office/sell/customers/customers-list.md "mention")
 * [editing-customer.md](../../ux-ui/back-office/sell/customers/customers/editing-customer.md "mention")
 
 ## Behat test

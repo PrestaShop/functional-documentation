@@ -11,7 +11,7 @@ Deleting a customer allows the user to remove a customer from the shop with 2 op
 
 ## Impacted pages
 
-* [customers.md](../../ux-ui/back-office/sell/customers/customers.md "mention")
+* [customers-list.md](../../ux-ui/back-office/sell/customers/customers-list.md "mention")
 
 ## Behat test
 
