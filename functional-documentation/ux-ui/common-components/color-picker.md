@@ -19,4 +19,4 @@ For example, _#ffffff_ value indicates white color. [Read more](https://htmlcolo
 
 <figure><img src="../../../.gitbook/assets/image (6) (2) (2).png" alt="Color picker User Interface"><figcaption><p>Color picker User Interface</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (2).png" alt="Extended Color picker User Interface"><figcaption><p>Extended Color picker User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (2) (1).png" alt="Extended Color picker User Interface"><figcaption><p>Extended Color picker User Interface</p></figcaption></figure>

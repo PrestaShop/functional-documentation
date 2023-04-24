@@ -36,6 +36,7 @@
             * [Brands](functional-documentation/ux-ui/back-office/sell/catalog/brands-and-suppliers/brands-2.md)
             * [Brands](functional-documentation/ux-ui/back-office/sell/catalog/brands-and-suppliers/brands-3/README.md)
               * [View brand](functional-documentation/ux-ui/back-office/sell/catalog/brands-and-suppliers/brands-3/view-brand.md)
+            * [Edit / Add Supplier](functional-documentation/ux-ui/back-office/sell/catalog/brands-and-suppliers/edit-add-supplier.md)
           * [Files](functional-documentation/ux-ui/back-office/sell/catalog/files.md)
           * [Discounts](functional-documentation/ux-ui/back-office/sell/catalog/discounts.md)
             * [Edit or Add Cart Rule](functional-documentation/ux-ui/back-office/sell/catalog/discounts/edit-or-add-cart-rule.md)
