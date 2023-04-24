@@ -10,6 +10,6 @@ Once the icon is clicked, the icon rotates counterclockwise, and the additional 
 
 Once the icon is clicked again, or the click is made outside the block, the icon rotates clockwise, and the block disappears.
 
-<figure><img src="../../../.gitbook/assets/image (39).png" alt="Settings Wheel icon"><figcaption><p>Settings Wheel icon (collapsed)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68).png" alt="Settings Wheel icon"><figcaption><p>Settings Wheel icon (collapsed)</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (45).png" alt="Settings Wheel Icon (extended)"><figcaption><p>Settings Wheel Icon (extended)</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt="Settings Wheel Icon (extended)"><figcaption><p>Settings Wheel Icon (extended)</p></figcaption></figure>

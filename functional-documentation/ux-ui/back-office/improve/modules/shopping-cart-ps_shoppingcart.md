@@ -4,7 +4,7 @@
 
 This module displays a shopping cart icon with number of items it contains.
 
-![Shopping cart module User Interface](<../../../../../.gitbook/assets/image (2).png>)
+![Shopping cart module User Interface](<../../../../../.gitbook/assets/image (101).png>)
 
 ## Common components
 

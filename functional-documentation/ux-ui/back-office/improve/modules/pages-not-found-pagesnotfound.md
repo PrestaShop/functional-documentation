@@ -6,7 +6,7 @@ If this module is Enabled, the statistical information will be retrieved and gat
 
 If the page visitor mistype the URL, or the links are somehow expired, the visit will end with 404 response from the browser and the visitor will see the Page Not Found page in the front-office.
 
-![404 Page Not Found interface](<../../../../../.gitbook/assets/image (109).png>)
+![404 Page Not Found interface](<../../../../../.gitbook/assets/image (15).png>)
 
 ## Main components in front-office
 

@@ -4,9 +4,9 @@
 
 This page allows to test new and experimental features in store.
 
-<figure><img src="../../../../../../.gitbook/assets/image (51).png" alt="New &#x26; Experimental Features in single store User Interface"><figcaption><p>New &#x26; Experimental Features in single store User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (78).png" alt="New &#x26; Experimental Features in single store User Interface"><figcaption><p>New &#x26; Experimental Features in single store User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (63).png" alt="New &#x26; Experimental Features in multi store User Interface"><figcaption><p>New &#x26; Experimental Features in multi store User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (61).png" alt="New &#x26; Experimental Features in multi store User Interface"><figcaption><p>New &#x26; Experimental Features in multi store User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 

@@ -4,9 +4,9 @@
 
 This useful feature lets creating specific tags and associating them to the products. Webshop users will find the products more easily.
 
-<figure><img src="../../../../../../.gitbook/assets/image (71).png" alt="Tags UI"><figcaption><p>Tags User Interface - Empty table</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (30).png" alt="Tags UI"><figcaption><p>Tags User Interface - Empty table</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (107).png" alt=""><figcaption><p>Tags User Interface - Filled table</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (42).png" alt=""><figcaption><p>Tags User Interface - Filled table</p></figcaption></figure>
 
 ## QA
 

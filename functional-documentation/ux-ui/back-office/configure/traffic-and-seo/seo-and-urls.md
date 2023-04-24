@@ -4,7 +4,7 @@
 
 This page is responsible for the website's URL and SEO settings management.
 
-<figure><img src="../../../../../.gitbook/assets/image (4) (2).png" alt="SEO &#x26; URLs UI"><figcaption><p>SEO &#x26; URLs User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (4) (2) (2).png" alt="SEO &#x26; URLs UI"><figcaption><p>SEO &#x26; URLs User Interface</p></figcaption></figure>
 
 ## QA
 

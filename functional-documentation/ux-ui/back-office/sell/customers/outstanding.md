@@ -10,9 +10,9 @@ In order to use the Outstanding page feature in PrestaShop, merchants need to en
 
 This UI is shown after Enabling the _Enable B2B mode_ toggle switch in _CONFIGURE > Customer Settings_, and it allows tracking the B2B customer behavior.
 
-<figure><img src="../../../../../.gitbook/assets/image (13).png" alt="Outstanding User Interface - empty table"><figcaption><p>Outstanding UI - empty table</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (111).png" alt="Outstanding User Interface - empty table"><figcaption><p>Outstanding UI - empty table</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (46).png" alt="Outstanding User Interface - filled entries"><figcaption><p>Outstanding UI - filled entries</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (73).png" alt="Outstanding User Interface - filled entries"><figcaption><p>Outstanding UI - filled entries</p></figcaption></figure>
 
 ## QA
 

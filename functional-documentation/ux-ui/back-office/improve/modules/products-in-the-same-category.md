@@ -4,7 +4,7 @@
 
 The module when enabled shows products for the customers in the Front office as recommended products which are in the same category.
 
-<figure><img src="../../../../../.gitbook/assets/image (74).png" alt="Products in the same category User Interface"><figcaption><p>Products in the same category User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (37).png" alt="Products in the same category User Interface"><figcaption><p>Products in the same category User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

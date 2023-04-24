@@ -4,7 +4,7 @@
 
 This page allows to assign specific duties and rights to each employee who helps to manage the online shop.
 
-<figure><img src="../../../../../.gitbook/assets/image (16) (1).png" alt="Profiles User Interface"><figcaption><p>Profiles User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (16) (1) (1).png" alt="Profiles User Interface"><figcaption><p>Profiles User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

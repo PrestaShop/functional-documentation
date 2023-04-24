@@ -2,7 +2,7 @@
 
 This interface is shown after Disabling or Enabling the module in Module Manager. The module shows the statistical information from the Stats page.&#x20;
 
-![Stats Dashboard UI](<../../../../../.gitbook/assets/image (57).png>)
+![Stats Dashboard UI](<../../../../../.gitbook/assets/image (44).png>)
 
 ## Common components
 

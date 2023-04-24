@@ -1,6 +1,6 @@
 # Shop association block
 
-<figure><img src="../../../.gitbook/assets/image (59).png" alt="Shop association User Interface"><figcaption><p>Shop association User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (46).png" alt="Shop association User Interface"><figcaption><p>Shop association User Interface</p></figcaption></figure>
 
 ## Description
 
