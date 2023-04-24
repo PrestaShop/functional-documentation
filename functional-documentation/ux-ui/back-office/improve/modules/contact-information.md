@@ -4,7 +4,7 @@
 
 This module when enabled displays the contact information of the merchant in the footer of Front office.
 
-<figure><img src="../../../../../.gitbook/assets/image (95).png" alt="Contact information User Interface"><figcaption><p>Contact information User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (96).png" alt="Contact information User Interface"><figcaption><p>Contact information User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

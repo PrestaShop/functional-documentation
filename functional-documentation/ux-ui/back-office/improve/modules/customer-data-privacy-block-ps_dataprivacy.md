@@ -4,7 +4,7 @@
 
 This module is set for Customer data privacy text customization.
 
-![Customer data privacy block User Interface](<../../../../../.gitbook/assets/image (8) (2) (1).png>)
+![Customer data privacy block User Interface](<../../../../../.gitbook/assets/image (8) (2).png>)
 
 ## Common components
 

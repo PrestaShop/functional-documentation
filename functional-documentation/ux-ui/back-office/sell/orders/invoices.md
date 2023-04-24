@@ -4,7 +4,7 @@
 
 This UI displays the Invoices configuration page and allows generating the appropriate PDF invoices.
 
-<figure><img src="../../../../../.gitbook/assets/image (102).png" alt="Invoices configuration User Interface"><figcaption><p>Invoices configuration User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (71).png" alt="Invoices configuration User Interface"><figcaption><p>Invoices configuration User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 

@@ -4,7 +4,7 @@
 
 It is an user interface where the user can view all the cart rules that has been created.&#x20;
 
-<figure><img src="../../../../../../.gitbook/assets/image (107).png" alt=""><figcaption><p>Cart rules listing user interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (76).png" alt=""><figcaption><p>Cart rules listing user interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

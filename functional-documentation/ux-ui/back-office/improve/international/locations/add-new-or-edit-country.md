@@ -4,7 +4,7 @@
 
 The purpose of this page is to add new or edit country.
 
-<figure><img src="../../../../../../.gitbook/assets/image (119).png" alt="Add new or edit country User Interface"><figcaption><p>Add new or edit country User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (16).png" alt="Add new or edit country User Interface"><figcaption><p>Add new or edit country User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

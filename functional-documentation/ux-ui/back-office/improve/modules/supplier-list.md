@@ -4,7 +4,7 @@
 
 When module is enabled and configured, it will displays the possible suppliers accordingly to the settings configured in Front office.
 
-<figure><img src="../../../../../.gitbook/assets/image (14).png" alt="Supplier list module User Interface"><figcaption><p>Supplier list module User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (45).png" alt="Supplier list module User Interface"><figcaption><p>Supplier list module User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

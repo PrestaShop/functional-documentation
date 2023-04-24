@@ -4,7 +4,7 @@
 
 In this section, the performance of the shop can be edited.&#x20;
 
-<figure><img src="../../../../../../.gitbook/assets/image (1).png" alt="Performance UI"><figcaption><p>Performance User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (33).png" alt="Performance UI"><figcaption><p>Performance User Interface</p></figcaption></figure>
 
 ## QA
 

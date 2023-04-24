@@ -4,11 +4,11 @@
 
 Catalog price rules enable to assign price reductions by category, brand, supplier, attribute or feature. Catalog price rule, as its name implies, applies discount to a range of products.&#x20;
 
-<figure><img src="../../../../../../.gitbook/assets/image (45).png" alt="Add new Catalog price rule User Interface"><figcaption><p>Add new Catalog price rule User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (56).png" alt="Add new Catalog price rule User Interface"><figcaption><p>Add new Catalog price rule User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (64).png" alt="Add new Catalog price rule Conditions User Interface"><figcaption><p>Add new Catalog price rule Conditions User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (120).png" alt="Add new Catalog price rule Conditions User Interface"><figcaption><p>Add new Catalog price rule Conditions User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (94).png" alt="Add new Catalog price rule Condition group User Interface"><figcaption><p>Add new Catalog price rule Condition group User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (95).png" alt="Add new Catalog price rule Condition group User Interface"><figcaption><p>Add new Catalog price rule Condition group User Interface</p></figcaption></figure>
 
 ## Common components
 

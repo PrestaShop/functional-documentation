@@ -4,11 +4,11 @@
 
 This is store's emails list and settings page. There are 3 separate sections displayed in this page: Sent email list, Email settings and Test your email configuration.
 
-<figure><img src="../../../../../../.gitbook/assets/image (83).png" alt="Sent Email list User Interface"><figcaption><p>Sent Email list User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (118).png" alt="Sent Email list User Interface"><figcaption><p>Sent Email list User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (26).png" alt="Email settings section User Interface"><figcaption><p>Email settings section User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (53).png" alt="Email settings section User Interface"><figcaption><p>Email settings section User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (18).png" alt="Test your email configuration section User Interface"><figcaption><p>Test your email configuration section User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (48).png" alt="Test your email configuration section User Interface"><figcaption><p>Test your email configuration section User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

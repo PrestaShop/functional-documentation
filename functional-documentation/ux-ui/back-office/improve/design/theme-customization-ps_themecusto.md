@@ -4,7 +4,7 @@
 
 Theme customization page allows changing the look of the store. This page consists of three tabs: homepage, category page and product page. Each tab configures its page in front office.
 
-<figure><img src="../../../../../.gitbook/assets/image (74).png" alt="Pages configuration User Interface"><figcaption><p>Pages configuration User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (109).png" alt="Pages configuration User Interface"><figcaption><p>Pages configuration User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
