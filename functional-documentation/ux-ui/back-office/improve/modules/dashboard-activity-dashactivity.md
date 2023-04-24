@@ -13,17 +13,17 @@ The Back-Office module represents the specific UI block in the main Prestashop d
 ## Common components
 
 * [Filtering components in stats](../../../common-components/filtering-components-in-stats.md)
-* [Breadcrumbs navigation](../../../common-components/back-office-header/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../common-components/back-office-header/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help Button](../../../common-components/back-office-header/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help Button](../../../common-components/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
-* [PrestaShop version number](../../../common-components/back-office-header/prestashop-version-number.md)&#x20;
+* [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
 * Search input (todo link)
-* [Shop switcher with eye icon](../../../common-components/multistore-component/shop-switcher-with-eye-icon.md)
+* [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
-* [Account icon](../../../common-components/back-office-header/account-icon.md)&#x20;
-* [Save button](../../../common-components/forms/save-button.md)
+* [Account icon](../../../common-components/account-icon.md)&#x20;
+* [Save button](../../../common-components/save-button.md)
 
 ## Activity overview block
 

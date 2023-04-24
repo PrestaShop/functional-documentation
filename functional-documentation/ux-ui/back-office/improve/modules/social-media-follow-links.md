@@ -84,5 +84,5 @@ Call to action button - Save is located at the bottom, when pressed, if everythi
 
 ## Configuration
 
-The multistore configuration specifications can be found on this page [\[HERE\]](../../../common-components/multistore-component/multistores-dependent.md)
+The multistore configuration specifications can be found on this page [\[HERE\]](../../../common-components/multistores-dependent.md)
 

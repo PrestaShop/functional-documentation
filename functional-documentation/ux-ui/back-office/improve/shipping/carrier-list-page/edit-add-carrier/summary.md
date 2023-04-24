@@ -9,15 +9,15 @@ The purpose of this page is to summarize the information of carrier
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../../common-components/back-office-header/prestashop-logo.md).
-* [PrestaShop version number](../../../../../common-components/back-office-header/prestashop-version-number.md).
+* [PrestaShop version number](../../../../../common-components/prestashop-version-number.md).
 * [Quick access dropdown](../../../../../common-components/quick-access-dropdown.md).
-* [Search input](../../../../../common-components/back-office-header/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
-* [Shop switcher with eye icon](../../../../../common-components/multistore-component/shop-switcher-with-eye-icon.md).
-* [Bell icon](../../../../../common-components/back-office-header/bell-icon.md)-[Toolbar UI KIT](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar)
-* [Account icon](../../../../../common-components/back-office-header/account-icon.md).
-* [Breadcrumbs navigation](../../../../../common-components/back-office-header/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../../../common-components/back-office-header/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help Button](../../../../../common-components/back-office-header/help-button.md) - [Buttons Outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Search input](../../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
+* [Shop switcher with eye icon](../../../../../common-components/shop-switcher-with-eye-icon.md).
+* [Bell icon](../../../../../common-components/bell-icon.md)-[Toolbar UI KIT](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar)
+* [Account icon](../../../../../common-components/account-icon.md).
+* [Breadcrumbs navigation](../../../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help Button](../../../../../common-components/help-button.md) - [Buttons Outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 
 ## The UI elements
 

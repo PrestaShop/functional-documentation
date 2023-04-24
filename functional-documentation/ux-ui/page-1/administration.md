@@ -11,18 +11,18 @@ This UI is responsible for General, Upload, and Notifications settings of the we
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Cancel button](../common-components/forms/cancel-button.md)
+* [Cancel button](../common-components/cancel-button.md)
 * [E-commerce logo ](../common-components/back-office-header/prestashop-logo.md)
 * Version number (todo link)
 * [Quick access dropdown ](../common-components/quick-access-dropdown.md)
 * Search input (todo link)
-* [Shop switcher with eye icon](../common-components/multistore-component/shop-switcher-with-eye-icon.md)
+* [Shop switcher with eye icon](../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
 * Trophy icon (todo link)
-* [Account icon](../common-components/back-office-header/account-icon.md)
-* [Language dropdown for input fields](../common-components/forms/language-dropdown-for-input-fields.md)
-* [Save button](../common-components/forms/save-button.md)
-* [Cancel button](../common-components/forms/cancel-button.md)
+* [Account icon](../common-components/account-icon.md)
+* [Language dropdown for input fields](../common-components/language-dropdown-for-input-fields.md)
+* [Save button](../common-components/save-button.md)
+* [Cancel button](../common-components/cancel-button.md)
 
 ## General section
 
@@ -150,6 +150,6 @@ Required toggle button, by default it is enabled. This feature allows showing no
 
 ## Multistores functionality
 
-This page is [Multistores dependent](../common-components/multistore-component/multistores-dependent.md) page.
+This page is [Multistores dependent](../common-components/multistores-dependent.md) page.
 
 Each Multistore or Shop group can be configured in All Shops mode or in separate Shops or Shop groups in this page. The configuration is being stored in separate databases of Shops and Shop groups, so the stored data can not be mixed between content.

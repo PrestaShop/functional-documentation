@@ -131,7 +131,7 @@ if you choose yes
 
 &#x20;       in the FO : when consulting the information of the customer a check box will appear with the message present in the field "Consent request message"
 
-![](<../../../../../.gitbook/assets/image (4) (1).png>)
+![](<../../../../../.gitbook/assets/image (4) (4).png>)
 
 &#x20;                         If the customer check the box it datas will be collect ~~<mark style="color:red;">otherwise no   count will be created.</mark>~~
 

@@ -2,13 +2,13 @@
 
 This page defines the general Customer settings of the webshop.
 
-![Customers Settings UI](<../../../../../.gitbook/assets/image (6).png>)
+![Customers Settings UI](<../../../../../.gitbook/assets/image (6) (3).png>)
 
 ## Common components
 
-* [Breadcrumbs navigation](../../../common-components/back-office-header/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../common-components/back-office-header/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help Button](../../../common-components/back-office-header/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help Button](../../../common-components/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 
 ## Tabs section
 
@@ -61,7 +61,7 @@ No [Alerts Basics UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/
 
 ## Multistores
 
-This page is [multistores dependent](../../../common-components/multistore-component/multistores-dependent.md).
+This page is [multistores dependent](../../../common-components/multistores-dependent.md).
 
 
 

@@ -4,7 +4,7 @@
 
 This functionality able to make a return action of purchased goods via Prestashop. It is described as _Return Merchandise Authorization (RMA)_. All the Editing page UI elements are described below.
 
-<figure><img src="../../../../.gitbook/assets/image (13).png" alt="Add or Edit Merchandise Returns UI"><figcaption><p>Add or Edit Merchandise Returns UI</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (13) (2).png" alt="Add or Edit Merchandise Returns UI"><figcaption><p>Add or Edit Merchandise Returns UI</p></figcaption></figure>
 
 ## QA <a href="#common-components" id="common-components"></a>
 
@@ -84,6 +84,6 @@ Deletes the product from the return list package.
 
 ## Multistores compatibility
 
-This page is [Multistores dependent](../../common-components/multistore-component/multistores-dependent.md) page.
+This page is [Multistores dependent](../../common-components/multistores-dependent.md) page.
 
 Merchandise Editing functionality is separately maintained by each separate multistore shop. It means, that all the Merchandise Returns and Orders are managed separately in each multistore, by switching the Multistore Switcher to the appropriate shop. _All Shops_ view context is also available, it is comfortable to see all the Merchandise Returns in one list from all the shops.

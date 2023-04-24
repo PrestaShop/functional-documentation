@@ -9,14 +9,14 @@ This module is set for Customer data privacy text customization.
 ## Common components
 
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
-* [PrestaShop version number](../../../common-components/back-office-header/prestashop-version-number.md).
-* [Search input ](../../../common-components/back-office-header/search-input-field.md)
+* [PrestaShop version number](../../../common-components/prestashop-version-number.md).
+* [Search input ](../../../common-components/search-input-field.md)
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
-* [Account icon](../../../common-components/back-office-header/account-icon.md).
-* [Bell icon](../../../common-components/back-office-header/bell-icon.md).
-* [Shop switcher with eye icon](../../../common-components/multistore-component/shop-switcher-with-eye-icon.md).
-* [Breadcrumbs navigation](../../../common-components/back-office-header/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../common-components/back-office-header/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
+* [Account icon](../../../common-components/account-icon.md).
+* [Bell icon](../../../common-components/bell-icon.md).
+* [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md).
+* [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Text Editing Tools list](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/JoHY00TjQGJ6Tyc8mp3s/functional-documentation/ux-ui/common-components/text-editing-tools-list).
 * [Page header call to action buttons (modules)](../../../common-components/page-header-call-to-action-buttons-modules.md).
 * [Language dropdown for input fields](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/diff/\~/changes/KjeTPSLSN1LXBZMsI7JI/functional-documentation/ux-ui/common-components/language-dropdown-for-input-fields).
@@ -37,4 +37,4 @@ This module is set for Customer data privacy text customization.
 
 ## Multistores functionality
 
-[Multistores dependent](../../../common-components/multistore-component/multistores-dependent.md) page.
+[Multistores dependent](../../../common-components/multistores-dependent.md) page.

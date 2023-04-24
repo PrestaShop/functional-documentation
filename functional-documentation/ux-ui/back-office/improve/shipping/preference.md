@@ -10,19 +10,19 @@ The UI it’s the "Preferences" page, you can set some basic informations that w
 
 **Common components**&#x20;
 
-* [Checkmark navigation CTA buttons](../../../common-components/grid-component/checkmark-navigation-cta-buttons.md) - [Buttons with icons UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--buttons-with-icons).
-* [Help Button](../../../common-components/back-office-header/help-button.md) - [Buttons Outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Heading of the page](../../../common-components/back-office-header/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
-* [Breadcrumbs navigation](../../../common-components/back-office-header/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Search input](../../../common-components/back-office-header/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
+* [Checkmark navigation CTA buttons](../../../common-components/checkmark-navigation-cta-buttons.md) - [Buttons with icons UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--buttons-with-icons).
+* [Help Button](../../../common-components/help-button.md) - [Buttons Outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
+* [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
-* [PrestaShop version number](../../../common-components/back-office-header/prestashop-version-number.md).&#x20;
-* [Shop switcher with eye icon](../../../common-components/multistore-component/shop-switcher-with-eye-icon.md).&#x20;
-* [Account icon](../../../common-components/back-office-header/account-icon.md).
+* [PrestaShop version number](../../../common-components/prestashop-version-number.md).&#x20;
+* [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md).&#x20;
+* [Account icon](../../../common-components/account-icon.md).
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
 * [Setting bar](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/366/functional-documentation/ux-ui/common-components/setting-bar)&#x20;
-* [Bell icon ](../../../common-components/back-office-header/bell-icon.md)
-* [Save button ](../../../common-components/forms/save-button.md)
+* [Bell icon ](../../../common-components/bell-icon.md)
+* [Save button ](../../../common-components/save-button.md)
 
 ## The UI elements
 

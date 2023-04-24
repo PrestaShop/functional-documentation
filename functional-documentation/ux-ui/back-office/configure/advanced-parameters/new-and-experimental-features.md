@@ -9,8 +9,8 @@ This page allows to try any new features on the shop.
 ## Components description
 
 * Enabled/disabled toggle switch
-* [Help button](../../../common-components/back-office-header/help-button.md)
-* [Save button](../../../common-components/forms/save-button.md)&#x20;
+* [Help button](../../../common-components/help-button.md)
+* [Save button](../../../common-components/save-button.md)&#x20;
 
 ## New features block
 

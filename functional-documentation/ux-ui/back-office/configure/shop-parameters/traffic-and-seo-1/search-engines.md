@@ -11,19 +11,19 @@ This UI lists the Prestashop Search Engines entries.
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Cancel button](../../../../common-components/forms/cancel-button.md)
+* [Cancel button](../../../../common-components/cancel-button.md)
 * [E-commerce logo ](../../../../common-components/back-office-header/prestashop-logo.md)
-* [Version number](../../../../common-components/back-office-header/prestashop-version-number.md)
+* [Version number](../../../../common-components/prestashop-version-number.md)
 * [Quick access dropdown ](../../../../common-components/quick-access-dropdown.md)
-* [Search input](../../../../common-components/back-office-header/search-input-field.md)&#x20;
-* [Shop switcher with eye icon](../../../../common-components/multistore-component/shop-switcher-with-eye-icon.md)
+* [Search input](../../../../common-components/search-input-field.md)&#x20;
+* [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
 * Trophy icon (todo link)
-* [Account icon](../../../../common-components/back-office-header/account-icon.md)
-* [Language dropdown for input fields](../../../../common-components/forms/language-dropdown-for-input-fields.md)
-* [Save button](../../../../common-components/forms/save-button.md)
-* [Cancel button](../../../../common-components/forms/cancel-button.md)
-* [Sorting rules](../../../../common-components/grid-component/sorting-rules.md)
+* [Account icon](../../../../common-components/account-icon.md)
+* [Language dropdown for input fields](../../../../common-components/language-dropdown-for-input-fields.md)
+* [Save button](../../../../common-components/save-button.md)
+* [Cancel button](../../../../common-components/cancel-button.md)
+* [Sorting rules](../../../../common-components/sorting-rules.md)
 
 ### Meaning of this page
 
@@ -119,7 +119,7 @@ Dropdown actions contain:
 
 ### Pagination
 
-This page contains [Pagination](../../../../common-components/grid-component/pagination.md) common component details.
+This page contains [Pagination](../../../../common-components/pagination.md) common component details.
 
 The pagination can be selected by using the navigation widget, with the numbers and left and right sided arrows on the bottom-right of the UI. Search Engines lists can be displayed as 20, 50, 100, 300 and 1000 entries in a one page, by using a dropdown at the bottom-center of the UI.
 

@@ -4,24 +4,24 @@
 
 This page stores all the available Tax titles in PrestaShop application.
 
-<figure><img src="../../../../../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption><p>Taxes list User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Taxes list User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (9) (2) (1).png" alt="Tax options User Interface"><figcaption><p>Tax options User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (9).png" alt="Tax options User Interface"><figcaption><p>Tax options User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-* [Heading of the page](../../../../common-components/back-office-header/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help Button](../../../../common-components/back-office-header/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Heading of the page](../../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help Button](../../../../common-components/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
-* [PrestaShop version number](../../../../common-components/back-office-header/prestashop-version-number.md)&#x20;
+* [PrestaShop version number](../../../../common-components/prestashop-version-number.md)&#x20;
 * [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
-* [Search input](../../../../common-components/back-office-header/search-input-field.md)
-* [Shop switcher](../../../../common-components/multistore-component/shop-switcher.md)
+* [Search input](../../../../common-components/search-input-field.md)
+* [Shop switcher](../../../../common-components/shop-switcher.md)
 * Bell icon (todo link)
-* [Account icon](../../../../common-components/back-office-header/account-icon.md)&#x20;
-* [Pagination with input field](../../../../common-components/grid-component/pagination-with-input.md)
-* [Save button](../../../../common-components/forms/save-button.md) - [Buttons Basics UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
-* [Sorting rules](../../../../common-components/grid-component/sorting-rules.md)
+* [Account icon](../../../../common-components/account-icon.md)&#x20;
+* [Pagination with input field](../../../../common-components/pagination-with-input.md)
+* [Save button](../../../../common-components/save-button.md) - [Buttons Basics UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
+* [Sorting rules](../../../../common-components/sorting-rules.md)
 
 ## Taxes list UI elements
 
@@ -152,6 +152,6 @@ This _Ecotax_ dropdown ([Dropdowns basics UI kit](https://build.prestashop-proje
 
 ## Multistore behavior
 
-[Multistores independent](../../../../common-components/multistore-component/multistores-independent.md) page.
+[Multistores independent](../../../../common-components/multistores-independent.md) page.
 
 Multistores are not affected separately, while managing the Tax properties in Tax listings. It means, that customizing Tax for one country will impact all the Taxes for other shop groups and multistores.

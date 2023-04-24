@@ -28,7 +28,7 @@ Call to action : [Add new value behavior](page-template.md#add-new-value-call-to
 
 ### Help  button
 
-See [Help button](../../../../../common-components/back-office-header/help-button.md) ( common components)&#x20;
+See [Help button](../../../../../common-components/help-button.md) ( common components)&#x20;
 
 ### Attributes / Features tab
 
@@ -40,7 +40,7 @@ Display Attributes (_number of attributes_)&#x20;
 
 ### Setting wheels
 
-See[ settings wheel ](../../../../../common-components/grid-component/settings-wheel.md)(common component)
+See[ settings wheel ](../../../../../common-components/settings-wheel.md)(common component)
 
 ### Bulk Actions
 

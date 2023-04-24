@@ -14,7 +14,7 @@ Few messages are displayed in this page:
 
 ## Components description
 
-&#x20; \- [Settings Wheel](../../../../common-components/grid-component/settings-wheel.md)&#x20;
+&#x20; \- [Settings Wheel](../../../../common-components/settings-wheel.md)&#x20;
 
 ### Languages data columns
 

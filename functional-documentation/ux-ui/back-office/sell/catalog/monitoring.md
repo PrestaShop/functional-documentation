@@ -11,16 +11,16 @@ This UI shows the list of features, that needs the attention from administrator.
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Save button](../../../common-components/forms/save-button.md)
-* [Cancel button](../../../common-components/forms/cancel-button.md)&#x20;
+* [Save button](../../../common-components/save-button.md)
+* [Cancel button](../../../common-components/cancel-button.md)&#x20;
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
-* [Version number](../../../common-components/back-office-header/prestashop-version-number.md)&#x20;
+* [Version number](../../../common-components/prestashop-version-number.md)&#x20;
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
-* [Search input](../../../common-components/back-office-header/search-input-field.md)&#x20;
-* [Shop switcher with eye icon](../../../common-components/multistore-component/shop-switcher-with-eye-icon.md)&#x20;
+* [Search input](../../../common-components/search-input-field.md)&#x20;
+* [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)&#x20;
 * Bell icon (todo link)
-* [Account icon](../../../common-components/back-office-header/account-icon.md)&#x20;
-* [Gear icon](../../../common-components/grid-component/settings-wheel.md)
+* [Account icon](../../../common-components/account-icon.md)&#x20;
+* [Gear icon](../../../common-components/settings-wheel.md)
 
 ## Commercial pop-up block
 
@@ -233,6 +233,6 @@ Resets the search results back to empty search interface.
 
 ## Multistores functionality
 
-This page is [Multistores dependent](../../../common-components/multistore-component/multistores-dependent.md) page.
+This page is [Multistores dependent](../../../common-components/multistores-dependent.md) page.
 
 The listing is displayed separately from all the available Multistores in webshop, because of the separate databases in each Multistore.

@@ -63,7 +63,7 @@ This button is used to add new employee : [`Call to action`](https://app.gitbook
 
 ### Settings wheel
 
-This is a [standard component](../../common-components/grid-component/settings-wheel.md) for the list management
+This is a [standard component](../../common-components/settings-wheel.md) for the list management
 
 #### Bulk actions
 

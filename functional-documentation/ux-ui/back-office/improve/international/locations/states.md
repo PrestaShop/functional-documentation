@@ -14,8 +14,8 @@ The purpose of this page is to edit or add a new State, according to the country
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [4 table header links](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/u5LiWcNXkcWYIFiEJqil/functional-documentation/ux-ui/common-components/4-table-header-tools)
-* [Save button](../../../../common-components/forms/save-button.md)&#x20;
-* [Cancel button ](../../../../common-components/forms/cancel-button.md)
+* [Save button](../../../../common-components/save-button.md)&#x20;
+* [Cancel button ](../../../../common-components/cancel-button.md)
 
 ### Tabs section
 
@@ -41,7 +41,7 @@ The table list can be easily sorted by clicking the arrows at the beginning of t
 * **Zone**
 * **Country**
 
-See [sorting rules](../../../../common-components/grid-component/sorting-rules.md)
+See [sorting rules](../../../../common-components/sorting-rules.md)
 
 ### Filtering the table information <a href="#filtering-the-table-information" id="filtering-the-table-information"></a>
 
@@ -115,11 +115,11 @@ Clicking the CTA button ([Buttons Outline UI Kit](https://build.prestashop-proje
 
 ### Pagination section
 
-[Pagination from common components ](../../../../common-components/grid-component/pagination.md)
+[Pagination from common components ](../../../../common-components/pagination.md)
 
 ## Multistores functionality
 
-This page is [Multistores dependent](../../../../common-components/multistore-component/multistores-dependent.md) page.
+This page is [Multistores dependent](../../../../common-components/multistores-dependent.md) page.
 
 
 
