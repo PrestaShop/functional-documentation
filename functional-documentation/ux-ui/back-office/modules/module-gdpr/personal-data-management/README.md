@@ -15,11 +15,11 @@ Next, you can search for a customer in your database and view all of this custom
 
 [A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html) (TODO)
 
-<figure><img src="../../../../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Components description
 
-<mark style="color:red;"></mark>[<mark style="color:red;">https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar</mark>](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar)<mark style="color:red;"></mark>
+[<mark style="color:red;">https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar</mark>](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--toolbar)
 
 ### A component description
 
@@ -41,7 +41,7 @@ Next, you can search for a customer in your database and view all of this custom
 
 **Point d'attention**
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><p> <strong></strong> </p><ul><li>Please make sure that you have access to the latest version of these modules to fully benefit the GDPR update.</li><li>If they are still not displayed in the block above, we invite you to contact their respective developers to have more information about these modules.</li></ul></td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td></td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td><p> </p><ul><li>Please make sure that you have access to the latest version of these modules to fully benefit the GDPR update.</li><li>If they are still not displayed in the block above, we invite you to contact their respective developers to have more information about these modules.</li></ul></td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td></td><td align="center">-</td><td></td></tr></tbody></table>
 
 #### Section 2 : Manage customer's personal data
 
@@ -49,7 +49,7 @@ You can search for a customer in your database and view all of this customer's d
 
 **Search for a customer name or email**
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td> <strong></strong> </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td>Look at <a href="./#b1">B1</a></td><td align="center">-</td><td>cd829e07342f4c6e9017c9808ca68fba</td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NA</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>NA</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td> </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>NA</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>NA</td><td align="center"></td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>NA</td><td align="center"></td><td>Error message if up to the limit</td></tr><tr><td>Behavior/Workflow</td><td>Look at <a href="./#b1">B1</a></td><td align="center">-</td><td>cd829e07342f4c6e9017c9808ca68fba</td></tr></tbody></table>
 
 ## Behaviors description
 

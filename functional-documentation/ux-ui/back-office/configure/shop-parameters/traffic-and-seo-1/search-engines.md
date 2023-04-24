@@ -121,7 +121,7 @@ Dropdown actions contain:
 * **Unselect all** - unselecting all the Search Engine items.
 * **Delete selected** - deletes the certain selected Search Engine items.
 
-A screenshot for the new checkbox : ![](<../../../../../../.gitbook/assets/image (11).png>)&#x20;
+A screenshot for the new checkbox : ![](<../../../../../../.gitbook/assets/image (4).png>)&#x20;
 
 ### Pagination
 
