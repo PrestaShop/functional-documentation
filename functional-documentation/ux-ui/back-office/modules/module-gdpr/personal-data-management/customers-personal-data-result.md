@@ -74,7 +74,7 @@ else if you click on "Confirm Erasure" a pop up indicated that "The customer's d
 
 <mark style="color:red;">Point d'attention suppression des datas multipshop</mark>
 
-![](<../../../../../../.gitbook/assets/image (1) (4).png>)
+![](<../../../../../../.gitbook/assets/image (1) (1) (4).png>)
 
 
 
