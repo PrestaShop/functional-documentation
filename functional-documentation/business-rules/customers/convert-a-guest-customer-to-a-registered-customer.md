@@ -15,7 +15,7 @@ When clicking on this button :&#x20;
 
 ## Impacted pages
 
-* [customers](../../ux-ui/back-office/sell/customers/customers/ "mention")
+* [customers.md](../../ux-ui/back-office/sell/customers/customers.md "mention")
 * [information-about-customer.md](../../ux-ui/back-office/sell/customers/customers/information-about-customer.md "mention")
 
 ## Behat test

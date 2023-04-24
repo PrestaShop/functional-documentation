@@ -78,7 +78,7 @@ The user updates an customer and must ensure that at least the mandatory fields 
 | Upper limit              | ​                                                                                              | ​             |
 | Behavior                 | [update-a-customer.md](../../../../../business-rules/customers/update-a-customer.md "mention") |               |
 
-Then validates their creation by hitting the save button. The employee is then redirected to [.](./ "mention") which displays a success message in a green alert.
+Then validates their creation by hitting the save button. The employee is then redirected to [customers.md](../customers.md "mention") which displays a success message in a green alert.
 
 TODO : workflow diagram
 
