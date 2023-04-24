@@ -289,7 +289,7 @@ After the table matching corrections, there are 2 CTA buttons to proceed further
 
 ## Notifications and messages after the import submission
 
-<figure><img src="../../../.gitbook/assets/image (13) (1) (1).png" alt="Import pop-up UI"><figcaption><p>Import pop-up User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13) (1) (2).png" alt="Import pop-up UI"><figcaption><p>Import pop-up User Interface</p></figcaption></figure>
 
 After the successful importing action, the interface prompts the pop-up element, where there is a success message _Data imported Look at your listings to make sure it's all there as you wished._, progress bars with the percentage and numeric values of the processes - Validated and Imported - and the CTA button to perform the Close of the pop-up.
 
@@ -301,6 +301,6 @@ If the file is with the incorrect extension, the UI will be prompted with the er
 
 ## Multistore functionality
 
-This page is [Multistores dependent](../common-components/multistores-dependent.md) page.
+This page is [Multistores dependent](../common-components/multistore-component/multistores-dependent.md) page.
 
 Prestashop multistores maintaining the same configuration in the import page, for all the multistores and shop groups, as administrator switches them. All the data values from the import process in CSV will be directly transferred to the selected multistore independently.

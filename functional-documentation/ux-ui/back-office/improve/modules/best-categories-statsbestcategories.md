@@ -16,13 +16,13 @@ This module does not have any settings, it can only be either enabled or disable
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [E-commerce logo](../../../common-components/e-commerce-logo.md)&#x20;
-* [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
+* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
+* [PrestaShop version number](../../../common-components/back-office-header/prestashop-version-number.md)&#x20;
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
 * Search input (todo link)
-* [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
+* [Shop switcher with eye icon](../../../common-components/multistore-component/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
-* [Account icon](../../../common-components/account-icon.md)&#x20;
+* [Account icon](../../../common-components/back-office-header/account-icon.md)&#x20;
 
 ## Best categories section
 
@@ -48,7 +48,7 @@ There is a component named _Display final level categories only (that have no ch
 
 ## Multistore functionality
 
-The page is [Multistores dependent](../../../common-components/multistores-dependent.md) page.
+The page is [Multistores dependent](../../../common-components/multistore-component/multistores-dependent.md) page.
 
 
 

@@ -4,7 +4,7 @@
 
 This page displays all the Prestashop statistics information.
 
-![Stats interface](<../../../../.gitbook/assets/image (1) (1).png>)
+![Stats interface](<../../../../.gitbook/assets/image (1) (1) (3) (1).png>)
 
 ## Components description
 
@@ -12,7 +12,7 @@ This page displays all the Prestashop statistics information.
 
 * [Breadcrumbs navigation](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/vUPfu5uo7Nn5MPR2f1Pm/functional-documentation/ux-ui/common-components/breadcrumbs) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/vUPfu5uo7Nn5MPR2f1Pm/functional-documentation/ux-ui/common-components/heading-of-the-page) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help Button](../../common-components/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Help Button](../../common-components/back-office-header/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 
 ### Prestashop Metrics block (in some Prestashop versions)
 
@@ -651,4 +651,4 @@ _The specified date is invalid._
 
 ## Multistoring functionality&#x20;
 
-[Multistores dependent](../../common-components/multistores-dependent.md) page.
+[Multistores dependent](../../common-components/multistore-component/multistores-dependent.md) page.

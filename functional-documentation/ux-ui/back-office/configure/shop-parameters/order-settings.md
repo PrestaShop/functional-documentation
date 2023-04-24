@@ -168,4 +168,4 @@ _I would like to receive my order in recycled packaging._
 
 ## Multistores functionality
 
-This page is [Multistores dependent](../../../common-components/multistores-dependent.md) page.
+This page is [Multistores dependent](../../../common-components/multistore-component/multistores-dependent.md) page.

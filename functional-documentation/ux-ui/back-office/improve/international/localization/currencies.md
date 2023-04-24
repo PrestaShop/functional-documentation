@@ -2,13 +2,13 @@
 
 The page contains webshop Currencies list.&#x20;
 
-![Currencies interface](<../../../../../../.gitbook/assets/image (2) (5).png>)
+![Currencies interface](<../../../../../../.gitbook/assets/image (2) (1) (2) (1).png>)
 
 ## Common components
 
-* [Breadcrumbs navigation](../../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help Button](../../../../common-components/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Breadcrumbs navigation](../../../../common-components/back-office-header/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../../common-components/back-office-header/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help Button](../../../../common-components/back-office-header/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 
 ## Adding new currency
 
@@ -88,4 +88,4 @@ The main function of the table is to update the Currency rate for all the Curren
 
 ## Multistores
 
-This page is [Multistore dependent](../../../../common-components/multistores-dependent.md) page.
+This page is [Multistore dependent](../../../../common-components/multistore-component/multistores-dependent.md) page.

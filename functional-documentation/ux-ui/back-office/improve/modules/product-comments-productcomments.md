@@ -17,14 +17,14 @@ It is a great way to build more confidence to the webshop visitors. The module a
 * [Breadcrumbs navigation](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/bFfZ6x0W3PrldLavAttl/functional-documentation/ux-ui/common-components/breadcrumbs) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/bFfZ6x0W3PrldLavAttl/functional-documentation/ux-ui/common-components/heading-of-the-page) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * ​[Save button](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/bFfZ6x0W3PrldLavAttl/functional-documentation/ux-ui/common-components/save-button) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
-* [E-commerce logo](../../../common-components/e-commerce-logo.md)&#x20;
-* [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
+* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
+* [PrestaShop version number](../../../common-components/back-office-header/prestashop-version-number.md)&#x20;
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
 * Search input (todo link)
-* [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
+* [Shop switcher with eye icon](../../../common-components/multistore-component/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
 * Trophy icon (todo link)
-* [Account icon](../../../common-components/account-icon.md)&#x20;
+* [Account icon](../../../common-components/back-office-header/account-icon.md)&#x20;
 * [Language dropdown for input fields](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/KjeTPSLSN1LXBZMsI7JI/functional-documentation/ux-ui/common-components/language-dropdown-for-input-fields)
 * [Checkmark navigation CTA buttons](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/diff/\~/changes/nP8KXOMgKF7kv32ktPkt/functional-documentation/ux-ui/common-components/checkmark-navigation-cta-buttons)
 * [Configuration block](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/cReeZTZCiwqi5rIeUSjb/functional-documentation/ux-ui/common-components/configuration-block)
@@ -274,7 +274,7 @@ If there are no entries in the table, there will be a notification in the middle
 
 ## Multistores functionality
 
-Page is [Multistore dependent](../../../common-components/multistores-dependent.md).
+Page is [Multistore dependent](../../../common-components/multistore-component/multistores-dependent.md).
 
 ## Limitations
 

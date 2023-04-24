@@ -4,13 +4,13 @@
 
 This page allows adding or editing the Order statuses which are managed in the Orders listing page.&#x20;
 
-<figure><img src="../../../../../../../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Order status Add or Edit User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (4) (3) (1).png" alt=""><figcaption><p>Order status Add or Edit User Interface</p></figcaption></figure>
 
 ## Common components
 
-* [Breadcrumbs navigation](../../../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help button](../../../../../common-components/help-button.md) - [Buttons outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Breadcrumbs navigation](../../../../../common-components/back-office-header/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../../../common-components/back-office-header/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help button](../../../../../common-components/back-office-header/help-button.md) - [Buttons outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * Save button (todo link) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
 * Cancel button (todo link) - [Buttons outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * Language switcher near the input field (todo link)
@@ -82,4 +82,4 @@ Color picker (todo common component link when merge)
 
 ## Multistores functionality
 
-[Multistores dependent](../../../../../common-components/multistores-dependent.md) page.
+[Multistores dependent](../../../../../common-components/multistore-component/multistores-dependent.md) page.

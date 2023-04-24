@@ -11,18 +11,18 @@ This UI allows configuring the Delivery Slips - download the PDF or manage the a
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Cancel button](../../../common-components/cancel-button.md)
-* [E-commerce logo ](../../../common-components/e-commerce-logo.md)
-* [Version number](../../../common-components/prestashop-version-number.md)
+* [Cancel button](../../../common-components/forms/cancel-button.md)
+* [E-commerce logo ](../../../common-components/back-office-header/prestashop-logo.md)
+* [Version number](../../../common-components/back-office-header/prestashop-version-number.md)
 * [Quick access dropdown ](../../../common-components/quick-access-dropdown.md)
-* [Search input](../../../common-components/search-input-field.md)&#x20;
-* [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
+* [Search input](../../../common-components/back-office-header/search-input-field.md)&#x20;
+* [Shop switcher with eye icon](../../../common-components/multistore-component/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
 * Trophy icon (todo link)
-* [Account icon](../../../common-components/account-icon.md)
-* [Language dropdown for input fields](../../../common-components/language-dropdown-for-input-fields.md)
-* [Save button](../../../common-components/save-button.md)
-* [Cancel button](../../../common-components/cancel-button.md)
+* [Account icon](../../../common-components/back-office-header/account-icon.md)
+* [Language dropdown for input fields](../../../common-components/forms/language-dropdown-for-input-fields.md)
+* [Save button](../../../common-components/forms/save-button.md)
+* [Cancel button](../../../common-components/forms/cancel-button.md)
 
 ## Delivery Slips meaning
 
@@ -93,6 +93,6 @@ Enable or Disable toggle button, that Enables or Disables displaying product ima
 
 ## Multistores functionality
 
-This page is [Multistores dependent](../../../common-components/multistores-dependent.md) page.
+This page is [Multistores dependent](../../../common-components/multistore-component/multistores-dependent.md) page.
 
 All the configuration inputs and PDF downloads are separately maintained by separate Multistores, because these settings are saved in different databases. It means, that settings saved in one Multistore will not be reflected in the other ones.

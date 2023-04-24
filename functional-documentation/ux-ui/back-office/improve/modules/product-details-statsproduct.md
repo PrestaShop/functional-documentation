@@ -10,4 +10,4 @@ There is no Configure button in this module, but only a separate Product details
 
 ## Multistores functionality
 
-This module page is [Multistores dependent](../../../common-components/multistores-dependent.md), with separate different database saving on each.
+This module page is [Multistores dependent](../../../common-components/multistore-component/multistores-dependent.md), with separate different database saving on each.

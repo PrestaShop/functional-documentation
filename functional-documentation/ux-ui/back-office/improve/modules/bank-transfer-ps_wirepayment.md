@@ -10,17 +10,17 @@ This one of the most important modules is responsible for the secure payment tra
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-* [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
-* ​[Save button](../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
-* [E-commerce logo](../../../common-components/e-commerce-logo.md)&#x20;
-* [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
+* [Breadcrumbs navigation](../../../common-components/back-office-header/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../common-components/back-office-header/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
+* ​[Save button](../../../common-components/forms/save-button.md) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
+* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
+* [PrestaShop version number](../../../common-components/back-office-header/prestashop-version-number.md)&#x20;
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
-* [Search input](../../../common-components/search-input-field.md)
-* [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
+* [Search input](../../../common-components/back-office-header/search-input-field.md)
+* [Shop switcher with eye icon](../../../common-components/multistore-component/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
-* [Account icon](../../../common-components/account-icon.md)&#x20;
-* [Configuration block](../../../common-components/configuration-block.md)
+* [Account icon](../../../common-components/back-office-header/account-icon.md)&#x20;
+* [Configuration block](../../../common-components/multistore-component/configuration-block.md)
 * [Page header CTA buttons](../../../common-components/page-header-call-to-action-buttons-modules.md)
 
 ## Information alert
@@ -93,4 +93,4 @@ The block starts with the gear-styled icon and the title _Customization_.
 
 ## Multistores functionality
 
-Page is [Multistores independent](../../../common-components/multistores-independent.md) page.
+Page is [Multistores independent](../../../common-components/multistore-component/multistores-independent.md) page.

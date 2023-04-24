@@ -4,7 +4,7 @@
 
 This UI is listed as 2 sections - _Merchandise Returns_ and _Merchandise return (RMA) options_.
 
-<figure><img src="../../../../../.gitbook/assets/image (3) (1).png" alt="Merchandise Returns User Interface"><figcaption><p>Merchandise Returns User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (3) (1) (1).png" alt="Merchandise Returns User Interface"><figcaption><p>Merchandise Returns User Interface</p></figcaption></figure>
 
 ## Common Components
 
@@ -17,7 +17,7 @@ This UI is listed as 2 sections - _Merchandise Returns_ and _Merchandise return 
 
 ## Multishop case
 
-<figure><img src="../../../../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Multishop Case</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Multishop Case</p></figcaption></figure>
 
 ## Merchandise Returns listing
 
@@ -127,6 +127,6 @@ Specific alphabetic value, where prefix can be used for a return name in generat
 
 ## Multistores functionality
 
-This page is [Multistores dependent](../../../common-components/multistores-dependent.md) page.
+This page is [Multistores dependent](../../../common-components/multistore-component/multistores-dependent.md) page.
 
 Merchandise Returns functionality is separately maintained by each separate multistore shop. It can be Enabled or Disabled in different multistores. It means, that all the Merchandise Returns and Orders are managed separately in each multistore, by switching the Multistore Switcher to the appropriate shop. All Shops view context is also available, it is comfortable to see all the Settings and Merchandise Returns in one list from all the shops.

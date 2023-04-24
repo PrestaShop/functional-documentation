@@ -18,8 +18,8 @@ This section MUST describe each component one by one
 
 ### Common components
 
-* [heading-of-the-page.md](../../../../common-components/heading-of-the-page.md "mention")
-* [help-button.md](../../../../common-components/help-button.md "mention")
+* [heading-of-the-page.md](../../../../common-components/back-office-header/heading-of-the-page.md "mention")
+* [help-button.md](../../../../common-components/back-office-header/help-button.md "mention")
 
 ### Components
 

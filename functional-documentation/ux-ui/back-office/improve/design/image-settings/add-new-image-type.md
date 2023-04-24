@@ -4,23 +4,23 @@
 
 This configuration UI is about adding the new Image type into the Image type listing.
 
-<figure><img src="../../../../../../.gitbook/assets/image (17).png" alt=""><figcaption><p>Adding or Editing Image type User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Adding or Editing Image type User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [E-commerce logo](../../../../common-components/e-commerce-logo.md)&#x20;
-* [PrestaShop version number](../../../../common-components/prestashop-version-number.md)&#x20;
+* [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
+* [PrestaShop version number](../../../../common-components/back-office-header/prestashop-version-number.md)&#x20;
 * [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
 * Search input (todo link)
-* [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)
+* [Shop switcher with eye icon](../../../../common-components/multistore-component/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
 * Trophy icon (todo link)
-* [Account icon](../../../../common-components/account-icon.md)&#x20;
-* [Save button](../../../../common-components/save-button.md) - [Buttons Basics UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
-* [Cancel button](../../../../common-components/cancel-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Account icon](../../../../common-components/back-office-header/account-icon.md)&#x20;
+* [Save button](../../../../common-components/forms/save-button.md) - [Buttons Basics UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
+* [Cancel button](../../../../common-components/forms/cancel-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 
 ## Adding or editing Image type UI
 

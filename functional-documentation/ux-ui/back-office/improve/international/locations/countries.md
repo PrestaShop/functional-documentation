@@ -6,24 +6,24 @@ The purpose of this page is to show countries list with ability to enable or dis
 
 <figure><img src="../../../../../../.gitbook/assets/image (19) (2) (1).png" alt="Countries list User interface"><figcaption><p>Countries list User interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (23) (1) (1).png" alt="Country options block User Interface"><figcaption><p>Country options block User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (23) (1).png" alt="Country options block User Interface"><figcaption><p>Country options block User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-* [E-commerce logo](../../../../common-components/e-commerce-logo.md).
-* [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
+* [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
+* [PrestaShop version number](../../../../common-components/back-office-header/prestashop-version-number.md).
 * [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
-* [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
-* [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md).
+* [Search input](../../../../common-components/back-office-header/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
+* [Shop switcher with eye icon](../../../../common-components/multistore-component/shop-switcher-with-eye-icon.md).
 * Bell icon (todo link)
-* [Account icon](../../../../common-components/account-icon.md).
-* [Breadcrumbs navigation](../../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help Button](../../../../common-components/help-button.md) - [Buttons Outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Account icon](../../../../common-components/back-office-header/account-icon.md).
+* [Breadcrumbs navigation](../../../../common-components/back-office-header/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../../common-components/back-office-header/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help Button](../../../../common-components/back-office-header/help-button.md) - [Buttons Outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * 4 table header tools (todo link)
-* [Sorting rules](../../../../common-components/sorting-rules.md).
-* [Pagination](../../../../common-components/pagination.md).
-* [Save button](../../../../common-components/save-button.md) -  [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).&#x20;
+* [Sorting rules](../../../../common-components/grid-component/sorting-rules.md).
+* [Pagination](../../../../common-components/grid-component/pagination.md).
+* [Save button](../../../../common-components/forms/save-button.md) -  [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).&#x20;
 
 ## The UI elements
 
@@ -156,4 +156,4 @@ By default toggle switch ([Forms switch story UI kit](https://build.prestashop-p
 
 ## Multistores functionality
 
-[Multistores independent](../../../../common-components/multistores-independent.md) page. Multistore functionality depends on Shop association block settings.&#x20;
+[Multistores independent](../../../../common-components/multistore-component/multistores-independent.md) page. Multistore functionality depends on Shop association block settings.&#x20;

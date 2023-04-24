@@ -4,7 +4,7 @@
 
 This UI shows the list of messages, that were sent by webshop customer, who created an Order. By default, _Delay_ message is already created in the list.
 
-<figure><img src="../../../../../.gitbook/assets/image (6) (1) (1).png" alt="Order Messages UI"><figcaption><p>Order Messages User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (6) (1).png" alt="Order Messages UI"><figcaption><p>Order Messages User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 
@@ -15,11 +15,11 @@ This UI shows the list of messages, that were sent by webshop customer, who crea
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Cancel button](../../../common-components/cancel-button.md)&#x20;
-* [E-commerce logo ](../../../common-components/e-commerce-logo.md)
-* [Version number](../../../common-components/prestashop-version-number.md)
+* [Cancel button](../../../common-components/forms/cancel-button.md)&#x20;
+* [E-commerce logo ](../../../common-components/back-office-header/prestashop-logo.md)
+* [Version number](../../../common-components/back-office-header/prestashop-version-number.md)
 * [Quick access dropdown ](../../../common-components/quick-access-dropdown.md)
-* [Search input ](../../../common-components/search-input-field.md)
+* [Search input ](../../../common-components/back-office-header/search-input-field.md)
 * Shop switcher with eye icon (todo link)
 * Bell icon (todo link)
 * Trophy icon (todo link)
