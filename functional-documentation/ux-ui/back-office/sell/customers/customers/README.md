@@ -8,7 +8,7 @@ This page displays the lists of customers who registered or ordered on the shop.
 
 [Customers related tests](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/customers.html)
 
-<figure><img src="../../../../../.gitbook/assets/Capture d’écran 2022-10-07 à 11.26.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Capture d’écran 2022-10-07 à 11.26.14.png" alt=""><figcaption></figcaption></figure>
 
 ### QA&#x20;
 
@@ -20,9 +20,9 @@ This section MUST describe each component one by one
 
 ### Common components
 
-* [heading-of-the-page.md](../../../common-components/heading-of-the-page.md "mention")
-* [help-button.md](../../../common-components/help-button.md "mention")
-* [sorting-rules.md](../../../common-components/sorting-rules.md "mention")
+* [heading-of-the-page.md](../../../../common-components/heading-of-the-page.md "mention")
+* [help-button.md](../../../../common-components/help-button.md "mention")
+* [sorting-rules.md](../../../../common-components/sorting-rules.md "mention")
 
 ### Components
 

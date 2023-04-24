@@ -62,7 +62,7 @@ The employee creates a new customer by filling at least the mandatory fields :&#
 * Password (Text input)
 * Group access (checkbox)
 
-Then validates their creation by hitting the save button. The employee is then redirected to [customers-list.md](../customers-list.md "mention") which displays a success message in a green alert.
+Then validates their creation by hitting the save button. The employee is then redirected to [.](./ "mention") which displays a success message in a green alert.
 
 TODO : workflow diagram
 
