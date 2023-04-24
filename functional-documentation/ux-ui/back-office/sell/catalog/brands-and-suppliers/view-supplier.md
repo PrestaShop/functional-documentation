@@ -4,7 +4,7 @@
 
 This page displays the particular product Supplier information.
 
-<figure><img src="../../../../../../.gitbook/assets/image (4) (4) (1).png" alt="View Supplier UI"><figcaption><p>View Supplier User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (4) (4).png" alt="View Supplier UI"><figcaption><p>View Supplier User Interface</p></figcaption></figure>
 
 ## QA
 

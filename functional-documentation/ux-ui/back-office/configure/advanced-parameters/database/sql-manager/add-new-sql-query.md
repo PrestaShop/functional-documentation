@@ -4,7 +4,7 @@
 
 This page allows to create or edit SQL query. Created SQL queries are shown in SQL Manager page.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (39) (1).png" alt=""><figcaption><p>Add new SQL query User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (39) (2).png" alt=""><figcaption><p>Add new SQL query User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

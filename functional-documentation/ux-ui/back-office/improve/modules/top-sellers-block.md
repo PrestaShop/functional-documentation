@@ -4,7 +4,7 @@
 
 This is the module to show top-selling products for the customers in homepage.
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (4).png" alt="Top-sellers block UI"><figcaption><p>Top-sellers block User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (4) (2).png" alt="Top-sellers block UI"><figcaption><p>Top-sellers block User Interface</p></figcaption></figure>
 
 ## QA
 
