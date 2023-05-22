@@ -306,4 +306,5 @@
       * [Module GDPR](functional-documentation/business-rules/modules/module-gdpr/README.md)
         * [Personal data management](functional-documentation/business-rules/modules/module-gdpr/personal-data-management/README.md)
           * [Customer's personal data](functional-documentation/business-rules/modules/module-gdpr/personal-data-management/customers-personal-data.md)
-    * [Pricing](functional-documentation/business-rules/pricing.md)
+    * [Pricing](functional-documentation/business-rules/pricing/README.md)
+      * [Method Of Calculating a Cart Total](functional-documentation/business-rules/pricing/method-of-calculating-a-cart-total.md)

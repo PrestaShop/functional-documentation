@@ -34,20 +34,20 @@ Look at [Sort rules/Filter Rules](http://localhost:5000/s/vC6mdBD5H2USRjmzInGX/)
 
 ### Contacts table
 
-|                 | Sort rules            | Filter Rules                                  | Value          |
-| --------------- | --------------------- | --------------------------------------------- | -------------- |
-| ID              | Numeric\_sorting      | Numeric\_filtering                            | Textfield      |
-| Social title    | Alphanumeric\_sorting | Social Title (list of social title available) | Dropdown list  |
-| First name      | Alphanumeric\_sorting | Alphanumeric\_sorting                         | Textfield      |
-| Last name       | Alphanumeric\_sorting | Alphanumeric\_sorting                         | Textfield      |
-| Email address   | Alphanumeric\_sorting | Alphanumeric\_sorting                         | Textfield      |
-| Group           | Alphanumeric\_sorting | Group ( list of groups available)             | Dropdown list  |
-| Sales           | Numeric\_sorting      | Numeric\_filtering                            | Textfield      |
-| Enabled         | Boolean\_sorting      | Boolean\_filtering                            | Dropdown list  |
-| Newsletter      | Boolean\_sorting      | Boolean\_sorting                              | Dropdown list  |
-| Partener offers | Boolean\_sorting      | Boolean\_sorting                              | Dropdown list  |
-| Registration    | Timestamp\_sorting    | Between 2 Timestamp                           | 2 dates picker |
-| Last visit      | Timestamp\_sorting    | N/A                                           | N/A            |
+|                 | Filter Rules                                  | Value          |
+| --------------- | --------------------------------------------- | -------------- |
+| ID              | Numeric\_filtering                            | Textfield      |
+| Social title    | Social Title (list of social title available) | Dropdown list  |
+| First name      | Alphanumeric\_sorting                         | Textfield      |
+| Last name       | Alphanumeric\_sorting                         | Textfield      |
+| Email address   | Alphanumeric\_sorting                         | Textfield      |
+| Group           | Group ( list of groups available)             | Dropdown list  |
+| Sales           | Numeric\_filtering                            | Textfield      |
+| Enabled         | Boolean\_filtering                            | Dropdown list  |
+| Newsletter      | Boolean\_sorting                              | Dropdown list  |
+| Partener offers | Boolean\_sorting                              | Dropdown list  |
+| Registration    | Between 2 Timestamp                           | 2 dates picker |
+| Last visit      | N/A                                           | N/A            |
 
 &#x20;                                                                                    &#x20;
 
