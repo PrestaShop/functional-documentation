@@ -4,11 +4,11 @@
 
 This page allows any authorized user to connect to the PrestaShop back-office.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (2).png" alt="Prestashop Authentication Window UI"><figcaption><p>Prestashop Authentication Window User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1) (2).png" alt="Prestashop Authentication Window UI"><figcaption><p>Prestashop Authentication Window User Interface</p></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/flipped-login.png" alt=""><figcaption><p>Flipped send reset link</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/flipped-login.png" alt=""><figcaption><p>Flipped send reset link</p></figcaption></figure>
 
 
 

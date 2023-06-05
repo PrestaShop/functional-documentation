@@ -65,37 +65,15 @@ The column can be sort ascending & descending
 
 #### ID
 
-|                    |                                                                      |   |
-| ------------------ | -------------------------------------------------------------------- | - |
-| Allowed characters | all                                                                  |   |
-| Default value      |                                                                      |   |
-| Help text          |                                                                      |   |
-| Tool tips          |                                                                      |   |
-| Lower limit        |                                                                      |   |
-| Upper limit        |                                                                      |   |
-| Behavior           | [link to the behavior](page-template.md#one-component-description-1) |   |
+<table><thead><tr><th width="220.54393305439334"></th><th></th><th></th></tr></thead><tbody><tr><td>Allowed characters</td><td>all</td><td></td></tr><tr><td>Default value</td><td></td><td></td></tr><tr><td>Help text</td><td></td><td></td></tr><tr><td>Tool tips</td><td></td><td></td></tr><tr><td>Lower limit</td><td></td><td></td></tr><tr><td>Upper limit</td><td></td><td></td></tr><tr><td>Behavior</td><td><a href="page-template.md#one-component-description-1">link to the behavior</a></td><td></td></tr></tbody></table>
 
 #### Name
 
-| Allowed characters | all                                                                  |   |
-| ------------------ | -------------------------------------------------------------------- | - |
-| Default value      |                                                                      |   |
-| Help text          |                                                                      |   |
-| Tool tips          |                                                                      |   |
-| Lower limit        |                                                                      |   |
-| Upper limit        |                                                                      |   |
-| Behavior           | [link to the behavior](page-template.md#one-component-description-1) |   |
+<table data-header-hidden><thead><tr><th width="220.54393305439334"></th><th></th><th></th></tr></thead><tbody><tr><td>Allowed characters</td><td>all</td><td></td></tr><tr><td>Default value</td><td></td><td></td></tr><tr><td>Help text</td><td></td><td></td></tr><tr><td>Tool tips</td><td></td><td></td></tr><tr><td>Lower limit</td><td></td><td></td></tr><tr><td>Upper limit</td><td></td><td></td></tr><tr><td>Behavior</td><td><a href="page-template.md#one-component-description-1">link to the behavior</a></td><td></td></tr></tbody></table>
 
 #### Position
 
-| Allowed characters | all                                                                  |   |
-| ------------------ | -------------------------------------------------------------------- | - |
-| Default value      |                                                                      |   |
-| Help text          |                                                                      |   |
-| Tool tips          |                                                                      |   |
-| Lower limit        |                                                                      |   |
-| Upper limit        |                                                                      |   |
-| Behavior           | [link to the behavior](page-template.md#one-component-description-1) |   |
+<table data-header-hidden><thead><tr><th width="220.54393305439334"></th><th></th><th></th></tr></thead><tbody><tr><td>Allowed characters</td><td>all</td><td></td></tr><tr><td>Default value</td><td></td><td></td></tr><tr><td>Help text</td><td></td><td></td></tr><tr><td>Tool tips</td><td></td><td></td></tr><tr><td>Lower limit</td><td></td><td></td></tr><tr><td>Upper limit</td><td></td><td></td></tr><tr><td>Behavior</td><td><a href="page-template.md#one-component-description-1">link to the behavior</a></td><td></td></tr></tbody></table>
 
 ### Columns
 

@@ -53,12 +53,7 @@ On Sorting columns see the [sorting rules](https://app.gitbook.com/o/-MAz0PPl5s9
 
 #### ISO code
 
-| Description              | Value                                                       | Error message |
-| ------------------------ | ----------------------------------------------------------- | ------------- |
-| Mandatory                | -                                                           | -             |
-| Allowed/Forbidden values | All letters, numbers, symbols are allowed                   | -             |
-| Default value            | Empty field                                                 | -             |
-| Behavior                 | [Behavior](languages.md#search-cta) of the search text area | -             |
+<table><thead><tr><th>Description</th><th>Value</th><th width="249.33333333333331">Error message</th></tr></thead><tbody><tr><td>Mandatory</td><td>-</td><td>-</td></tr><tr><td>Allowed/Forbidden values</td><td>All letters, numbers, symbols are allowed</td><td>-</td></tr><tr><td>Default value</td><td>Empty field</td><td>-</td></tr><tr><td>Behavior</td><td><a href="languages.md#search-cta">Behavior</a> of the search text area</td><td>-</td></tr></tbody></table>
 
 #### Language code text area
 
