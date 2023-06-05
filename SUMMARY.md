@@ -220,6 +220,8 @@
           * [Customer activity tracking](functional-documentation/ux-ui/back-office/modules/module-gdpr/customer-activity-tracking.md)
           * [Help](functional-documentation/ux-ui/back-office/modules/module-gdpr/help.md)
       * [Advanced parameters](functional-documentation/ux-ui/advanced-parameters/README.md)
+        * [Search](functional-documentation/ux-ui/back-office/advanced-parameters/search/README.md)
+          * [Alias](functional-documentation/ux-ui/back-office/advanced-parameters/search/alias.md)
         * [Team - Employees](functional-documentation/ux-ui/page-1/team-employees/README.md)
           * [Profiles](functional-documentation/ux-ui/page-1/team-employees/profiles.md)
           * [Add new / edit profile](functional-documentation/ux-ui/back-office/advanced-parameters/team-employees/add-new-edit-profile.md)
