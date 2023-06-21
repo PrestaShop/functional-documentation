@@ -1,4 +1,4 @@
-# View Shopping Cart
+# Shopping Cart
 
 ## Description
 
