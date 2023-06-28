@@ -4,23 +4,23 @@
 
 This page allows to create new profile or edit changes in profile.
 
-<figure><img src="../../../../../.gitbook/assets/image (105).png" alt="Add new / edit profile User interface"><figcaption><p>Add new / edit profile User interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (105).png" alt="Add new / edit profile User interface"><figcaption><p>Add new / edit profile User interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
-* [PrestaShop version number](../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
-* [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
+* [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
+* [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
+* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * Bell icon (todo link)
-* [Account icon](../../../common-components/account-icon.md).
-* [Shop switcher](../../../common-components/shop-switcher.md).
-* [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help button](../../../common-components/help-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Cancel button](../../../common-components/cancel-button.md) -  [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Save button](../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
-* [Language dropdown for input fields](../../../common-components/language-dropdown-for-input-fields.md).
+* [Account icon](../../../../common-components/account-icon.md).
+* [Shop switcher](../../../../common-components/shop-switcher.md).
+* [Breadcrumbs navigation](../../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help button](../../../../common-components/help-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Cancel button](../../../../common-components/cancel-button.md) -  [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Save button](../../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
+* [Language dropdown for input fields](../../../../common-components/language-dropdown-for-input-fields.md).
 
 ## The UI elements
 

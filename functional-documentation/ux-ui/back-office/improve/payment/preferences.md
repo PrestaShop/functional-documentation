@@ -1,12 +1,16 @@
 # Preferences
 
-## Description
+## [Advanced parameters](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/663/functional-documentation/ux-ui/back-office/configure/advanced-parameters)Description
 
 In the payment preferences page merchant is allowed to choose which payment method should be available to customers depending on the currency, the country, the group or the carrier.
 
 <figure><img src="../../../../../.gitbook/assets/image (46).png" alt="Preferences User Interface"><figcaption><p>Preferences User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
+
+{% content-ref url="../../configure/advanced-parameters/" %}
+[advanced-parameters](../../configure/advanced-parameters/)
+{% endcontent-ref %}
 
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).

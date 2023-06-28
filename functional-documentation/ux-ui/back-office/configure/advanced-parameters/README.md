@@ -1,2 +1,2 @@
-# Advanced Parameters
+# Advanced parameters
 

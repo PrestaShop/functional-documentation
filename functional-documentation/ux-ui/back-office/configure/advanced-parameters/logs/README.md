@@ -4,9 +4,9 @@
 
 In this page, all of the logs from the shop are displayed, from modules as well, all the logs have information about the employee when the log was registered, and other information.
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-09-12 at 17-43-00 Logs • Faire178.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Screenshot 2022-09-12 at 17-43-00 Logs • Faire178.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-09-12 at 17-44-50 Logs • Faire178.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Screenshot 2022-09-12 at 17-44-50 Logs • Faire178.png" alt=""><figcaption></figcaption></figure>
 
 ## Components descriptions
 
@@ -37,13 +37,13 @@ The logs sorting rule can be found [here](https://app.gitbook.com/o/-MAz0PPl5s9u
 
 #### Call to action
 
-* Save, when pressed shows the following message: "Successful update." If the "Send emails to" field is input incorrectly, when saving will show: "Invalid email:" [(read here)](logs.md#logs-by-email).
+* Save, when pressed shows the following message: "Successful update." If the "Send emails to" field is input incorrectly, when saving will show: "Invalid email:" [(read here)](./#logs-by-email).
 
 
 
 ### Logs
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2022-09-13 at 15-41-03 Logs • test.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/Screenshot 2022-09-13 at 15-41-03 Logs • test.png" alt=""><figcaption></figcaption></figure>
 
 11 Rows are displayed in this section:
 

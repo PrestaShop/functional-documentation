@@ -4,11 +4,11 @@
 
 This UI page and functionality is based on the import actions of the PrestaShop application. The listing is specified of all the visible sections in page.
 
-<figure><img src="../../../../.gitbook/assets/image (79).png" alt="Import User Interface"><figcaption><p>Import User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (79).png" alt="Import User Interface"><figcaption><p>Import User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (83) (1).png" alt="Match your data User Interface"><figcaption><p>Match your data User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (83) (1).png" alt="Match your data User Interface"><figcaption><p>Match your data User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (69).png" alt="Importing your data popup User Interface"><figcaption><p>Importing your data popup User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (69).png" alt="Importing your data popup User Interface"><figcaption><p>Importing your data popup User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
@@ -16,17 +16,17 @@ This UI page and functionality is based on the import actions of the PrestaShop 
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-* [Breadcrumbs navigation](../../common-components/breadcrumbs.md)  -  [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../common-components/heading-of-the-page.md)   - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help Button](../../common-components/help-button.md)  - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [E-commerce logo](../../common-components/back-office-header/prestashop-logo.md)&#x20;
-* [PrestaShop version number](../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../common-components/quick-access-dropdown.md)&#x20;
-* [Search input](../../common-components/search-input-field.md)
-* [Shop switcher](../../common-components/shop-switcher.md)
+* [Breadcrumbs navigation](../../../common-components/breadcrumbs.md)  -  [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../common-components/heading-of-the-page.md)   - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help Button](../../../common-components/help-button.md)  - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
+* [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
+* [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
+* [Search input](../../../common-components/search-input-field.md)
+* [Shop switcher](../../../common-components/shop-switcher.md)
 * Bell icon (todo link)
-* [Account icon](../../common-components/account-icon.md)&#x20;
-* [Cancel button ](../../common-components/cancel-button.md) - [Buttons outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline)
+* [Account icon](../../../common-components/account-icon.md)&#x20;
+* [Cancel button ](../../../common-components/cancel-button.md) - [Buttons outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline)
 
 ## The UI elements
 
