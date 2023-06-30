@@ -2,7 +2,7 @@
 
 This module is responsible for showing favicon in the browser tabs.
 
-![Order Notifications on the Favicon UI](<../../../../../.gitbook/assets/image (62).png>)
+![Order Notifications on the Favicon UI](<../../../../../.gitbook/assets/image (2).png>)
 
 ### favicon into the tab
 

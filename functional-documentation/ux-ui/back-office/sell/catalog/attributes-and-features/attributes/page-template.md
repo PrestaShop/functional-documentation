@@ -106,7 +106,7 @@ Call to action : [Edit / Add attribute page](broken-reference)
 
 ### Add new value call to action
 
-Call to action : [Edit / Add value page](edit-add-new-value.md)
+Call to action : [Edit / Add value page](edit-add-new-attribute-value.md)
 
 ### Attributes / Features tab call to action
 

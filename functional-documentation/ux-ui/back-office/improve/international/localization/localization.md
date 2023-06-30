@@ -4,13 +4,13 @@
 
 Localization page enables to configure the units used for products. There are four settings block in the page: Import a localization pack, Configuration,  Local units  and Advanced.
 
-<figure><img src="../../../../../../.gitbook/assets/image (17) (3).png" alt="Localization User Interface"><figcaption><p>Localization User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (98).png" alt="Localization User Interface"><figcaption><p>Localization User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * Bell icon (todo link)
 * [Account icon](../../../../common-components/account-icon.md).

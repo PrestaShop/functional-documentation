@@ -4,7 +4,7 @@
 
 This module does not have any configuration/settings page, the only option is to reset, uninstall, enable or disable it. In the front-office the module displays all the installed currencies on the shop.
 
-<figure><img src="../../../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Currency block in Module manager page User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (148).png" alt=""><figcaption><p>Currency block in Module manager page User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

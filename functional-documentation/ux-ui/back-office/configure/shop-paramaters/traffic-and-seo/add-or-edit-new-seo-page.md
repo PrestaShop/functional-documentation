@@ -4,9 +4,9 @@
 
 This UI represents the function of adding / editing a SEO & URL page, which is dedicated to Meta Tags section.
 
-<figure><img src="../../../../../../.gitbook/assets/image (23) (3).png" alt="Adding or Editing SEO User Inteface"><figcaption><p>Adding or Editing SEO &#x26; URL page User Inteface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (123).png" alt="Adding or Editing SEO User Inteface"><figcaption><p>Adding or Editing SEO &#x26; URL page User Inteface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (68).png" alt="SEO &#x26; URL listing User Interface"><figcaption><p>SEO &#x26; URL listing User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (28).png" alt="SEO &#x26; URL listing User Interface"><figcaption><p>SEO &#x26; URL listing User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 
@@ -20,7 +20,7 @@ This UI represents the function of adding / editing a SEO & URL page, which is d
 * [Cancel button](../../../../common-components/cancel-button.md)
 * [E-commerce logo ](../../../../common-components/back-office-header/prestashop-logo.md)
 * [Version number](../../../../common-components/prestashop-version-number.md)
-* [Quick access dropdown ](../../../../common-components/quick-access-dropdown.md)
+* [Quick access dropdown ](../../../../common-components/back-office-header/quick-access-dropdown.md)
 * [Search input](../../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

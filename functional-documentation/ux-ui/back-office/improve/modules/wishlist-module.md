@@ -4,9 +4,9 @@
 
 This module allows the user of the shop to create a wish list. 2 sections are in the back-office of the module "Configuration" and "Statistics" tabs.
 
-<figure><img src="../../../../../.gitbook/assets/image (83).png" alt="Wishlist module Configuration tab User Interface"><figcaption><p>Wishlist module Configuration tab User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (18).png" alt="Wishlist module Configuration tab User Interface"><figcaption><p>Wishlist module Configuration tab User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (96).png" alt="Wishlist module Statistics tab User Interface"><figcaption><p>Wishlist module Statistics tab User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (86).png" alt="Wishlist module Statistics tab User Interface"><figcaption><p>Wishlist module Statistics tab User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
@@ -16,7 +16,7 @@ This module allows the user of the shop to create a wish list. 2 sections are in
 
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * [Shop switcher](../../../common-components/shop-switcher.md).
 * Bell icon (todo link)

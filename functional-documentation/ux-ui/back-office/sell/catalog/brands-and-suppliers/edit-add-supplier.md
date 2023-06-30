@@ -4,7 +4,7 @@
 
 This page is responsible for Adding or Editing a specific Supplier.
 
-<figure><img src="../../../../../../.gitbook/assets/image (41).png" alt="Adding or Editing Supplier UI"><figcaption><p>Adding or Editing Supplier User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (50).png" alt="Adding or Editing Supplier UI"><figcaption><p>Adding or Editing Supplier User Interface</p></figcaption></figure>
 
 ## QA
 
@@ -16,14 +16,14 @@ This page is responsible for Adding or Editing a specific Supplier.
 * [Heading of the page](../../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
 * [Account icon](../../../../common-components/account-icon.md)
 * [Cancel button](../../../../common-components/cancel-button.md)
 * [Save button](../../../../common-components/save-button.md)
-* [Text Editing Tools list](../../../../common-components/forms/text-editing-tools-list.md)
+* [Text Editing Tools list](../../../../common-components/text-editing-tools-list.md)
 
 ## Tabs
 
@@ -108,7 +108,7 @@ This association block lets user choose, which Multistores can be affected with 
 
 ### Description behavior
 
-[Text Editing Tools list](../../../../common-components/forms/text-editing-tools-list.md) common component. For editing the Description name.
+[Text Editing Tools list](../../../../common-components/text-editing-tools-list.md) common component. For editing the Description name.
 
 ### Phone behavior
 

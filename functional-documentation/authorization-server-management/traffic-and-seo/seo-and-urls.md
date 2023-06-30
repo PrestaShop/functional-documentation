@@ -4,7 +4,7 @@
 
 This page is responsible for the website's URL and SEO settings management.
 
-<figure><img src="../../../.gitbook/assets/image (4) (2) (2).png" alt="SEO &#x26; URLs UI"><figcaption><p>SEO &#x26; URLs User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (58).png" alt="SEO &#x26; URLs UI"><figcaption><p>SEO &#x26; URLs User Interface</p></figcaption></figure>
 
 ## QA
 
@@ -16,7 +16,7 @@ This page is responsible for the website's URL and SEO settings management.
 * [Heading of the page](../../ux-ui/common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [E-commerce logo](../../ux-ui/common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../ux-ui/common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../ux-ui/common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../ux-ui/common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../ux-ui/common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../ux-ui/common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

@@ -4,7 +4,7 @@
 
 This page is the one-step funnel to add a new authorized application to a PrestaShop shop.&#x20;
 
-![](<../../.gitbook/assets/Capture d’écran 2022-12-30 à 11.49.30.png>)
+![](<../../.gitbook/assets/Capture d’écran 2022-12-30 à 11.49.30 (1).png>)
 
 ## Components description
 

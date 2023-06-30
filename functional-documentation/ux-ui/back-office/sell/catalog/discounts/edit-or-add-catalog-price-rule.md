@@ -4,11 +4,11 @@
 
 Catalog price rules enable to assign price reductions by category, brand, supplier, attribute or feature. Catalog price rule, as its name implies, applies discount to a range of products.&#x20;
 
-<figure><img src="../../../../../../.gitbook/assets/image (56).png" alt="Add new Catalog price rule User Interface"><figcaption><p>Add new Catalog price rule User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (147).png" alt="Add new Catalog price rule User Interface"><figcaption><p>Add new Catalog price rule User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (120).png" alt="Add new Catalog price rule Conditions User Interface"><figcaption><p>Add new Catalog price rule Conditions User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (70).png" alt="Add new Catalog price rule Conditions User Interface"><figcaption><p>Add new Catalog price rule Conditions User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (95) (1).png" alt="Add new Catalog price rule Condition group User Interface"><figcaption><p>Add new Catalog price rule Condition group User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (87).png" alt="Add new Catalog price rule Condition group User Interface"><figcaption><p>Add new Catalog price rule Condition group User Interface</p></figcaption></figure>
 
 ## Common components
 
@@ -19,7 +19,7 @@ Catalog price rules enable to assign price reductions by category, brand, suppli
 * [Cancel button](../../../../common-components/cancel-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number ](../../../../common-components/prestashop-version-number.md)
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)&#x20;
 * Bell icon (todo link)

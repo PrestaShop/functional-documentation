@@ -2,7 +2,7 @@
 
 This module is used for the statistics gathering.&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (64).png" alt="Data mining for statistics UI"><figcaption><p>Data mining for statistics User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (162).png" alt="Data mining for statistics UI"><figcaption><p>Data mining for statistics User Interface</p></figcaption></figure>
 
 ## Todo add : multishop screenshot
 

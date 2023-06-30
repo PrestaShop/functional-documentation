@@ -4,7 +4,7 @@
 
 The module when enabled shows products for the customers in the Front office as recommended products which are in the same category.
 
-<figure><img src="../../../../../.gitbook/assets/image (90).png" alt="Products in the same category User Interface"><figcaption><p>Products in the same category User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (146).png" alt="Products in the same category User Interface"><figcaption><p>Products in the same category User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
@@ -14,14 +14,14 @@ The module when enabled shows products for the customers in the Front office as 
 
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md).&#x20;
 * Bell icon (todo link)
 * [Account icon](../../../common-components/account-icon.md).
 * [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
-* [Page header call to action buttons (modules)](../../../common-components/page-header-call-to-action-buttons-modules.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Page header call to action buttons (modules)](../../../common-components/module-page-specific-component/page-header-call-to-action-buttons-modules.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
 * [Save button](../../../common-components/save-button.md) -  [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).&#x20;
 * [Configuration block](../../../common-components/configuration-block.md).
 

@@ -4,7 +4,7 @@
 
 This page defines and lists all the Tax Rules stored in the Prestashop application. Rule can be applied defining the Country and Multishop, and managing other additional properties.
 
-<figure><img src="../../../../../../.gitbook/assets/image (53).png" alt="Tax Rules listing User Interface"><figcaption><p>Tax Rules listing User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (119).png" alt="Tax Rules listing User Interface"><figcaption><p>Tax Rules listing User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 
@@ -16,7 +16,7 @@ This page defines and lists all the Tax Rules stored in the Prestashop applicati
 * [Help Button](../../../../common-components/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

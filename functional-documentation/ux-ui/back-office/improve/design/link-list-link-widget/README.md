@@ -4,7 +4,7 @@
 
 This UI shows the Link Widget management UI. It helps to manage and edit various webshop links, that are shown in static Front-Office pages, as well as in Pages section in Back-Office. By default, there is a single Footer widget with the links already installed in the webshop.
 
-<figure><img src="../../../../../../.gitbook/assets/image (16) (1).png" alt="Link list User Interface"><figcaption><p>Link list User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (66).png" alt="Link list User Interface"><figcaption><p>Link list User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
@@ -14,7 +14,7 @@ This UI shows the Link Widget management UI. It helps to manage and edit various
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).&#x20;
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * [Shop switcher](../../../../common-components/shop-switcher.md).
 * Bell icon (todo link)

@@ -4,7 +4,7 @@
 
 Theme customization page allows changing the look of the store. This page consists of three tabs: homepage, category page and product page. Each tab configures its page in front office.
 
-<figure><img src="../../../../../../.gitbook/assets/image (109).png" alt="Pages configuration User Interface"><figcaption><p>Pages configuration User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (69).png" alt="Pages configuration User Interface"><figcaption><p>Pages configuration User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
@@ -17,7 +17,7 @@ Theme customization page allows changing the look of the store. This page consis
 * [Help button](../../../../common-components/help-button.md) - [Buttons outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

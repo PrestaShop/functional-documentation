@@ -4,9 +4,9 @@
 
 This useful feature lets creating specific tags and associating them to the products. Webshop users will find the products more easily.
 
-<figure><img src="../../../../../../.gitbook/assets/image (86).png" alt="Tags UI"><figcaption><p>Tags User Interface - Empty table</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (130).png" alt="Tags UI"><figcaption><p>Tags User Interface - Empty table</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Tags User Interface - Filled table</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (140).png" alt=""><figcaption><p>Tags User Interface - Filled table</p></figcaption></figure>
 
 ## QA
 
@@ -19,7 +19,7 @@ This useful feature lets creating specific tags and associating them to the prod
 * ​[Save button](../../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

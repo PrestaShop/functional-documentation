@@ -4,9 +4,9 @@
 
 These UIs, displayed in separate Alerts and Updates tabs, indicate the modules, that should be with full configuration in order to make the module fully operational, or to upgrade the module to the newest version.
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (9).png" alt="Module Alerts Tab User Interface"><figcaption><p>Module Alerts Tab User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (131).png" alt="Module Alerts Tab User Interface"><figcaption><p>Module Alerts Tab User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (3) (6).png" alt="Module Updates Tab User Interface"><figcaption><p>Module Updates Tab User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (110).png" alt="Module Updates Tab User Interface"><figcaption><p>Module Updates Tab User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
@@ -16,7 +16,7 @@ These UIs, displayed in separate Alerts and Updates tabs, indicate the modules, 
 * [Cancel button](../../../common-components/cancel-button.md)
 * [E-commerce logo ](../../../common-components/back-office-header/prestashop-logo.md)
 * [Version number](../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown ](../../../common-components/quick-access-dropdown.md)
+* [Quick access dropdown ](../../../common-components/back-office-header/quick-access-dropdown.md)
 * [Search input](../../../common-components/search-input-field.md)&#x20;
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

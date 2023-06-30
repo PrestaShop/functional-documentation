@@ -4,9 +4,9 @@
 
 This is the page for Google analytics module configuration. It has two blocks: information and settings.
 
-<figure><img src="../../../../../../.gitbook/assets/image (77).png" alt="Google analytics User Interface"><figcaption><p>Google analytics User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (21).png" alt="Google analytics User Interface"><figcaption><p>Google analytics User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (42).png" alt="Google analytics Settings block User Interface"><figcaption><p>Google analytics Settings block User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (40).png" alt="Google analytics Settings block User Interface"><figcaption><p>Google analytics Settings block User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
@@ -16,14 +16,14 @@ This is the page for Google analytics module configuration. It has two blocks: i
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md).&#x20;
 * Bell icon (todo link)
 * [Account icon](../../../../common-components/account-icon.md).
 * [Breadcrumbs navigation](../../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](../../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
-* [Page header call to action buttons (modules)](../../../../common-components/page-header-call-to-action-buttons-modules.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Page header call to action buttons (modules)](../../../../common-components/module-page-specific-component/page-header-call-to-action-buttons-modules.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
 * [Save button](../../../../common-components/save-button.md) -  [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).&#x20;
 * [Configuration block](../../../../common-components/configuration-block.md).
 

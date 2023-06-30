@@ -10,7 +10,7 @@ If you need to edit an existing store, you can modify the store's name, URL, lan
 
 Overall, the "Add or Edit Stores" feature in Prestashop makes it easy to manage multiple stores and customize the settings for each store. This is useful if you have different stores targeting different regions, or if you want to offer different product lines in each store.
 
-<figure><img src="../../../../../../.gitbook/assets/image (17) (2).png" alt="Add or Edit stores UI"><figcaption><p>Add or Edit stores User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (168).png" alt="Add or Edit stores UI"><figcaption><p>Add or Edit stores User Interface</p></figcaption></figure>
 
 ## QA
 
@@ -23,7 +23,7 @@ Overall, the "Add or Edit Stores" feature in Prestashop makes it easy to manage 
 * ​[Save button](../../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

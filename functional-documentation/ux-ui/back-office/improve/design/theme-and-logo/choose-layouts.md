@@ -4,13 +4,13 @@
 
 This page opens once clicked on Choose layouts button in Theme & Logo page. Depending on theme's options user can customize each kind of page layout.
 
-<figure><img src="../../../../../../.gitbook/assets/image (26) (1).png" alt=""><figcaption><p>Choose layouts User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (122).png" alt=""><figcaption><p>Choose layouts User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * Bell icon (todo link)
 * [Account icon](../../../../common-components/account-icon.md).

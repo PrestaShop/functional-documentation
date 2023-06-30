@@ -6,13 +6,13 @@ The purpose of this page is to show countries list with ability to enable or dis
 
 <figure><img src="../../../../../../.gitbook/assets/image (19) (2) (1).png" alt="Countries list User interface"><figcaption><p>Countries list User interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (23) (1).png" alt="Country options block User Interface"><figcaption><p>Country options block User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (23) (1) (1).png" alt="Country options block User Interface"><figcaption><p>Country options block User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md).
 * Bell icon (todo link)

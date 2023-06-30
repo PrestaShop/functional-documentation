@@ -4,9 +4,9 @@
 
 This module is responsible for the webshop's top main menu links, and it's configuration.
 
-<figure><img src="../../../../../.gitbook/assets/image (92).png" alt="Main menu configuration UI - All Shops content"><figcaption><p>Main menu configuration User Interface - All Shops content</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (102).png" alt="Main menu configuration UI - All Shops content"><figcaption><p>Main menu configuration User Interface - All Shops content</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (48).png" alt="Main menu configuration UI"><figcaption><p>Main menu configuration User Interface - Single Shop content</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (127).png" alt="Main menu configuration UI"><figcaption><p>Main menu configuration User Interface - Single Shop content</p></figcaption></figure>
 
 ## QA
 
@@ -19,13 +19,13 @@ This module is responsible for the webshop's top main menu links, and it's confi
 * ​[Save button](../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics) (becomes as Update button in Update link section, when Links are being updated)
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
 * [Account icon](../../../common-components/account-icon.md)&#x20;
 * [Configuration block](../../../common-components/configuration-block.md)
-* [Page header CTA buttons](../../../common-components/page-header-call-to-action-buttons-modules.md)
+* [Page header CTA buttons](../../../common-components/module-page-specific-component/page-header-call-to-action-buttons-modules.md)
 
 ## Menu Top Link block
 

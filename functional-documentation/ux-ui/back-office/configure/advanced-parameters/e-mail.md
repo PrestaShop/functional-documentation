@@ -4,11 +4,11 @@
 
 This is store's emails list and settings page. There are 3 separate sections displayed in this page: Sent email list, Email settings and Test your email configuration.
 
-<figure><img src="../../../../../.gitbook/assets/image (118).png" alt="Sent Email list User Interface"><figcaption><p>Sent Email list User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (48).png" alt="Sent Email list User Interface"><figcaption><p>Sent Email list User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (53) (1).png" alt="Email settings section User Interface"><figcaption><p>Email settings section User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (20).png" alt="Email settings section User Interface"><figcaption><p>Email settings section User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (48) (1).png" alt="Test your email configuration section User Interface"><figcaption><p>Test your email configuration section User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (31).png" alt="Test your email configuration section User Interface"><figcaption><p>Test your email configuration section User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
@@ -18,7 +18,7 @@ This is store's emails list and settings page. There are 3 separate sections dis
 
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * [Shop switcher](../../../common-components/shop-switcher.md)
 * Bell icon (todo link)

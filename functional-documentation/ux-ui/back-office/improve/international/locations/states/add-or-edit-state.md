@@ -4,7 +4,7 @@
 
 This page is for editing the existing or adding a new one State to the webshop localization.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (3) (2).png" alt="Add or Edit State UI"><figcaption><p>Add or Edit State User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (42).png" alt="Add or Edit State UI"><figcaption><p>Add or Edit State User Interface</p></figcaption></figure>
 
 ## QA
 
@@ -17,7 +17,7 @@ This page is for editing the existing or adding a new one State to the webshop l
 * ​[Save button](../../../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
 * [E-commerce logo](../../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

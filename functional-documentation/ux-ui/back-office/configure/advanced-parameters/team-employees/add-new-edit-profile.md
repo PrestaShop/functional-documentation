@@ -4,13 +4,13 @@
 
 This page allows to create new profile or edit changes in profile.
 
-<figure><img src="../../../../../../.gitbook/assets/image (105).png" alt="Add new / edit profile User interface"><figcaption><p>Add new / edit profile User interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (96).png" alt="Add new / edit profile User interface"><figcaption><p>Add new / edit profile User interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * Bell icon (todo link)
 * [Account icon](../../../../common-components/account-icon.md).

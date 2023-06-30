@@ -4,13 +4,13 @@
 
 This page presents all the content pages that were previously created on shop, for the currently selected page category. By default, the home page is the only category.
 
-<figure><img src="../../../../../../.gitbook/assets/image (23) (2).png" alt="Pages User Interface"><figcaption><p>Pages User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (63).png" alt="Pages User Interface"><figcaption><p>Pages User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * Bell icon (todo link)
 * [Account icon](../../../../common-components/account-icon.md).

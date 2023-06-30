@@ -6,4 +6,4 @@ This feature is created for the statistical data retrieval as a table, and the b
 
 This Simple HTML table display is used in various Prestashop back-office interfaces. One of them is Statistics.
 
-![Simple HTML table display interface](<../../../../../.gitbook/assets/image (95).png>)
+![Simple HTML table display interface](<../../../../../.gitbook/assets/image (106).png>)

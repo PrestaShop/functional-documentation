@@ -4,7 +4,7 @@
 
 This page lets the administrator Add or Edit new Language for the whole webshop.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (5).png" alt="Add or Edit Language UI"><figcaption><p>Add or Edit Language User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (142).png" alt="Add or Edit Language UI"><figcaption><p>Add or Edit Language User Interface</p></figcaption></figure>
 
 ## QA
 
@@ -16,7 +16,7 @@ This page lets the administrator Add or Edit new Language for the whole webshop.
 * [Heading of the page](../../../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [E-commerce logo](../../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

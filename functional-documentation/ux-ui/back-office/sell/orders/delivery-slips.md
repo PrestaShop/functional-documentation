@@ -4,7 +4,7 @@
 
 This UI allows configuring the Delivery Slips - download the PDF or manage the additional options.
 
-<figure><img src="../../../../../.gitbook/assets/image (8) (1) (1).png" alt="Delivery Slips User Interface"><figcaption><p>Delivery Slips User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (8) (1) (2).png" alt="Delivery Slips User Interface"><figcaption><p>Delivery Slips User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 
@@ -28,7 +28,7 @@ This UI allows configuring the Delivery Slips - download the PDF or manage the a
 * [Cancel button](../../../common-components/cancel-button.md)
 * [E-commerce logo ](../../../common-components/back-office-header/prestashop-logo.md)
 * [Version number](../../../common-components/prestashop-version-number.md)
-* [Quick access dropdown ](../../../common-components/quick-access-dropdown.md)
+* [Quick access dropdown ](../../../common-components/back-office-header/quick-access-dropdown.md)
 * [Search input](../../../common-components/search-input-field.md)&#x20;
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

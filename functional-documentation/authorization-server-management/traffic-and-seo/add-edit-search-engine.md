@@ -4,7 +4,7 @@
 
 This UI lets the administrator edit or add Search Engine value to the list.
 
-<figure><img src="../../../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Add or Edit Search Engine User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20) (2).png" alt=""><figcaption><p>Add or Edit Search Engine User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
@@ -14,7 +14,7 @@ This UI lets the administrator edit or add Search Engine value to the list.
 * [Cancel button](../../ux-ui/common-components/cancel-button.md)
 * [E-commerce logo ](../../ux-ui/common-components/back-office-header/prestashop-logo.md)
 * [Version number](../../ux-ui/common-components/prestashop-version-number.md)
-* [Quick access dropdown ](../../ux-ui/common-components/quick-access-dropdown.md)
+* [Quick access dropdown ](../../ux-ui/common-components/back-office-header/quick-access-dropdown.md)
 * [Search input](../../ux-ui/common-components/search-input-field.md)&#x20;
 * [Shop switcher with eye icon](../../ux-ui/common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

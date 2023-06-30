@@ -4,7 +4,7 @@
 
 It is an user interface where the user can view all the catalog price rules that has been created.&#x20;
 
-<figure><img src="../../../../../../.gitbook/assets/image (4) (2).png" alt="Catalog price rules listing User Interface"><figcaption><p>Catalog price rules listing User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (169).png" alt="Catalog price rules listing User Interface"><figcaption><p>Catalog price rules listing User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
@@ -13,7 +13,7 @@ It is an user interface where the user can view all the catalog price rules that
 * [Help Button](../../../../common-components/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)&#x20;
 * Bell icon (todo link)

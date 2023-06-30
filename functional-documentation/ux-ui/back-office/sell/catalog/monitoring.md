@@ -4,7 +4,7 @@
 
 This UI shows the list of features, that needs the attention from administrator.
 
-<figure><img src="../../../../../.gitbook/assets/image (19) (1) (2).png" alt="Monitoring UI"><figcaption><p>Monitoring User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (19) (1) (1).png" alt="Monitoring UI"><figcaption><p>Monitoring User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 
@@ -19,7 +19,7 @@ This UI shows the list of features, that needs the attention from administrator.
 * [Cancel button](../../../common-components/cancel-button.md)&#x20;
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [Version number](../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../../common-components/search-input-field.md)&#x20;
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)&#x20;
 * Bell icon (todo link)

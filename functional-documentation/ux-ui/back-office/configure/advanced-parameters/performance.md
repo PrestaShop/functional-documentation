@@ -4,7 +4,7 @@
 
 In this section, the performance of the shop can be edited.&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (57).png" alt="Performance UI"><figcaption><p>Performance User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (165).png" alt="Performance UI"><figcaption><p>Performance User Interface</p></figcaption></figure>
 
 ## QA
 
@@ -18,7 +18,7 @@ In this section, the performance of the shop can be edited.&#x20;
 * [Save button](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/cEqmt5dokN7isI6zTmSs/functional-documentation/ux-ui/common-components/save-button) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * Search input (todo link)
 * Bell icon (todo link)
 * [Account icon](../../../common-components/account-icon.md)&#x20;

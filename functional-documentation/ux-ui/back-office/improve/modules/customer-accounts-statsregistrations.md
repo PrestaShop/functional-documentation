@@ -6,7 +6,7 @@ This module does not have any configuration settings, it can only be enabled or 
 
 The certain Customer accounts section is selected by navigating the menu on the left.
 
-<figure><img src="../../../../../.gitbook/assets/image (52).png" alt="Customer accounts in Stats UI"><figcaption><p>Customer accounts in Stats User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (126).png" alt="Customer accounts in Stats UI"><figcaption><p>Customer accounts in Stats User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
@@ -14,13 +14,13 @@ The certain Customer accounts section is selected by navigating the menu on the 
 
 ## Common components
 
-* [Filtering components in stats](../../../common-components/filtering-components-in-stats.md)
+* [Filtering components in stats](../../../common-components/stats-page-specific-component/filtering-components-in-stats.md)
 * [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](../../../common-components/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * Search input (todo link)
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

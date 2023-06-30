@@ -4,7 +4,7 @@
 
 This page shows all the stock of the products that are in the shop, also it can be configured from this page.
 
-<figure><img src="../../../../../../.gitbook/assets/image (85) (1).png" alt="Stock management User Interface"><figcaption><p>Stock management User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (92).png" alt="Stock management User Interface"><figcaption><p>Stock management User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
@@ -14,7 +14,7 @@ This page shows all the stock of the products that are in the shop, also it can 
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * Bell icon (todo link)
 * [Account icon](../../../../common-components/account-icon.md).

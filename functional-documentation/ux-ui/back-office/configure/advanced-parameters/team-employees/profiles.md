@@ -4,13 +4,13 @@
 
 This page allows to assign specific duties and rights to each employee who helps to manage the online shop.
 
-<figure><img src="../../../../../../.gitbook/assets/image (16) (2).png" alt="Profiles User Interface"><figcaption><p>Profiles User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (128).png" alt="Profiles User Interface"><figcaption><p>Profiles User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md).
 * [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * Bell icon (todo link)
 * [Account icon](../../../../common-components/account-icon.md).

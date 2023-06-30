@@ -10,9 +10,9 @@ In order to use the Outstanding page feature in PrestaShop, merchants need to en
 
 This UI is shown after Enabling the _Enable B2B mode_ toggle switch in _CONFIGURE > Customer Settings_, and it allows tracking the B2B customer behavior.
 
-<figure><img src="../../../../../.gitbook/assets/image (6).png" alt="Outstanding User Interface - empty table"><figcaption><p>Outstanding UI - empty table</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (167).png" alt="Outstanding User Interface - empty table"><figcaption><p>Outstanding UI - empty table</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (21).png" alt="Outstanding User Interface - filled entries"><figcaption><p>Outstanding UI - filled entries</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (45).png" alt="Outstanding User Interface - filled entries"><figcaption><p>Outstanding UI - filled entries</p></figcaption></figure>
 
 ## QA
 
@@ -25,7 +25,7 @@ This UI is shown after Enabling the _Enable B2B mode_ toggle switch in _CONFIGUR
 * ​[Save button](../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

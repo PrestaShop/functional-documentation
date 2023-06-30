@@ -4,13 +4,13 @@
 
 This module displays a shopping cart icon with number of items it contains.
 
-![Shopping cart module User Interface](<../../../../../.gitbook/assets/image (70).png>)
+![Shopping cart module User Interface](<../../../../../.gitbook/assets/image (8).png>)
 
 ## Common components
 
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Account icon](../../../common-components/account-icon.md)&#x20;
 * Trophy icon (todo link)
 * Bell icon (todo link)

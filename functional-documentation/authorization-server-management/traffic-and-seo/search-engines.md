@@ -4,7 +4,7 @@
 
 This UI lists the Prestashop Search Engines entries.
 
-<figure><img src="../../../.gitbook/assets/image (18) (2).png" alt="Search Engines User Interface"><figcaption><p>Search Engines User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18) (1).png" alt="Search Engines User Interface"><figcaption><p>Search Engines User Interface</p></figcaption></figure>
 
 ## QA <a href="#common-components" id="common-components"></a>
 
@@ -18,7 +18,7 @@ This UI lists the Prestashop Search Engines entries.
 * [Cancel button](../../ux-ui/common-components/cancel-button.md)
 * [E-commerce logo ](../../ux-ui/common-components/back-office-header/prestashop-logo.md)
 * [Version number](../../ux-ui/common-components/prestashop-version-number.md)
-* [Quick access dropdown ](../../ux-ui/common-components/quick-access-dropdown.md)
+* [Quick access dropdown ](../../ux-ui/common-components/back-office-header/quick-access-dropdown.md)
 * [Search input](../../ux-ui/common-components/search-input-field.md)&#x20;
 * [Shop switcher with eye icon](../../ux-ui/common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
@@ -121,7 +121,7 @@ Dropdown actions contain:
 * **Unselect all** - unselecting all the Search Engine items.
 * **Delete selected** - deletes the certain selected Search Engine items.
 
-A screenshot for the new checkbox : ![](<../../../.gitbook/assets/image (13).png>)&#x20;
+A screenshot for the new checkbox : ![](<../../../.gitbook/assets/image (3).png>)&#x20;
 
 ### Pagination
 

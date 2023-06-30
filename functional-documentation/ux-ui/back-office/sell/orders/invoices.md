@@ -4,7 +4,7 @@
 
 This UI displays the Invoices configuration page and allows generating the appropriate PDF invoices.
 
-<figure><img src="../../../../../.gitbook/assets/image (71).png" alt="Invoices configuration User Interface"><figcaption><p>Invoices configuration User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (6).png" alt="Invoices configuration User Interface"><figcaption><p>Invoices configuration User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 
@@ -18,7 +18,7 @@ This UI displays the Invoices configuration page and allows generating the appro
 * [Cancel button](../../../common-components/cancel-button.md)
 * [E-commerce logo ](../../../common-components/back-office-header/prestashop-logo.md)
 * [Version number](../../../common-components/prestashop-version-number.md)
-* [Quick access dropdown ](../../../common-components/quick-access-dropdown.md)
+* [Quick access dropdown ](../../../common-components/back-office-header/quick-access-dropdown.md)
 * [Search input](../../../common-components/search-input-field.md)&#x20;
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

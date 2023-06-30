@@ -4,7 +4,7 @@
 
 This page is responsible for Adding or Editing the Contacts
 
-<figure><img src="../../../../../../.gitbook/assets/image (61).png" alt="Contact page UI"><figcaption><p>Contacts page User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (149).png" alt="Contact page UI"><figcaption><p>Contacts page User Interface</p></figcaption></figure>
 
 ## QA
 

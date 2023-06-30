@@ -4,9 +4,9 @@
 
 This module does not have any configuration settings, it can only be enabled or disabled. The module itself when is enabled will show up in the back - office section "Stats". The module in the "Stats" section only allows to sort the sales and orders.
 
-<figure><img src="../../../../../.gitbook/assets/image (85).png" alt="Sales and orders in Modules manager page User Interface"><figcaption><p>Sales and orders in Modules manager page User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (120).png" alt="Sales and orders in Modules manager page User Interface"><figcaption><p>Sales and orders in Modules manager page User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (91).png" alt="Sales and orders in Stats User Interface"><figcaption><p>Sales and orders in Stats User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (103).png" alt="Sales and orders in Stats User Interface"><figcaption><p>Sales and orders in Stats User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

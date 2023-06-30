@@ -4,9 +4,9 @@
 
 This page allows to test new and experimental features in store.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (25).png" alt="New &#x26; Experimental Features in single store User Interface"><figcaption><p>New &#x26; Experimental Features in single store User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (61).png" alt="New &#x26; Experimental Features in single store User Interface"><figcaption><p>New &#x26; Experimental Features in single store User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../../.gitbook/assets/image (39).png" alt="New &#x26; Experimental Features in multi store User Interface"><figcaption><p>New &#x26; Experimental Features in multi store User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (75).png" alt="New &#x26; Experimental Features in multi store User Interface"><figcaption><p>New &#x26; Experimental Features in multi store User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 
@@ -20,7 +20,7 @@ This page allows to test new and experimental features in store.
 * ​[Save button](../../../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
 * [E-commerce logo](../../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../../../common-components/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../../common-components/search-input-field.md)
 * [Shop switcher](../../../../../common-components/shop-switcher.md)
 * Bell icon (todo link)
