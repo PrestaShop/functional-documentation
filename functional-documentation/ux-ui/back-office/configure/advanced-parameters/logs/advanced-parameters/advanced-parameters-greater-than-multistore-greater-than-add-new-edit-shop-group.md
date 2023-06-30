@@ -2,7 +2,7 @@
 
 This page allows adding additional Shop Group in existing Multistore functionality. The certain options and fields can configure both in the Adding or Editing Shop Group functionality.
 
-![Add or Edit Shop Group User Interface](<../../../../../../../.gitbook/assets/image (112).png>)
+![Add or Edit Shop Group User Interface](<../../../../../../../.gitbook/assets/image (71).png>)
 
 ### Common components <a href="#common-components" id="common-components"></a>
 

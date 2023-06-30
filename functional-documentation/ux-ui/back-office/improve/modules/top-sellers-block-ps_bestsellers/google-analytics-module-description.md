@@ -4,9 +4,9 @@
 
 This is the page for Google analytics module configuration. It has two blocks: information and settings.
 
-<figure><img src="../../../../../../.gitbook/assets/image (21).png" alt="Google analytics User Interface"><figcaption><p>Google analytics User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (110).png" alt="Google analytics User Interface"><figcaption><p>Google analytics User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (40).png" alt="Google analytics Settings block User Interface"><figcaption><p>Google analytics Settings block User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (8).png" alt="Google analytics Settings block User Interface"><figcaption><p>Google analytics Settings block User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

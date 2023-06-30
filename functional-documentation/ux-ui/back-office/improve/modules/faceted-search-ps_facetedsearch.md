@@ -2,7 +2,7 @@
 
 The module is used for filtering the catalog and helping the visitors to see the category tree and to browse the webshop store easily.
 
-![Faceted search User Interface](<../../../../../.gitbook/assets/image (72).png>)
+![Faceted search User Interface](<../../../../../.gitbook/assets/image (107).png>)
 
 ## Common components
 

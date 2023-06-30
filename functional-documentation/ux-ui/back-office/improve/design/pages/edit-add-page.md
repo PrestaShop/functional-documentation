@@ -4,7 +4,7 @@
 
 This page is responsible for Editing or Adding a new Design Page to the whole webshop.
 
-<figure><img src="../../../../../../.gitbook/assets/image (97).png" alt="Add new or Edit Page UI"><figcaption><p>Add new or Edit Page User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (81).png" alt="Add new or Edit Page UI"><figcaption><p>Add new or Edit Page User Interface</p></figcaption></figure>
 
 ## QA
 

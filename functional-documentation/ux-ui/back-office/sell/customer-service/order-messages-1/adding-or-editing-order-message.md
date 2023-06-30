@@ -4,7 +4,7 @@
 
 This UI shows the Order Message adding or editing form.
 
-<figure><img src="../../../../../../.gitbook/assets/image (100).png" alt="Adding or Editing messages User Interface"><figcaption><p>Adding or Editing messages User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (45).png" alt="Adding or Editing messages User Interface"><figcaption><p>Adding or Editing messages User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

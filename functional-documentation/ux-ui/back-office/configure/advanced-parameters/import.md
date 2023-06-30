@@ -4,11 +4,11 @@
 
 This UI page and functionality is based on the import actions of the PrestaShop application. The listing is specified of all the visible sections in page.
 
-<figure><img src="../../../../../.gitbook/assets/image (159).png" alt="Import User Interface"><figcaption><p>Import User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (151).png" alt="Import User Interface"><figcaption><p>Import User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (143).png" alt="Match your data User Interface"><figcaption><p>Match your data User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (161).png" alt="Match your data User Interface"><figcaption><p>Match your data User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (17).png" alt="Importing your data popup User Interface"><figcaption><p>Importing your data popup User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (135).png" alt="Importing your data popup User Interface"><figcaption><p>Importing your data popup User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

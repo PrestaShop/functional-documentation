@@ -10,7 +10,7 @@ This functionality able to make a return action of purchased goods via Prestasho
 
 ## Components description <a href="#common-components" id="common-components"></a>
 
-<figure><img src="../../../../../../../.gitbook/assets/image (83).png" alt="Add or Edit Merchandise Return User Interface"><figcaption><p>Add or Edit Merchandise Return User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (87).png" alt="Add or Edit Merchandise Return User Interface"><figcaption><p>Add or Edit Merchandise Return User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

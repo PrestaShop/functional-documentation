@@ -4,7 +4,7 @@
 
 This page presents all the content pages that were previously created on shop, for the currently selected page category. By default, the home page is the only category.
 
-<figure><img src="../../../../../../.gitbook/assets/image (63).png" alt="Pages User Interface"><figcaption><p>Pages User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (20).png" alt="Pages User Interface"><figcaption><p>Pages User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

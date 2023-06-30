@@ -2,7 +2,7 @@
 
 Main interface of the Multistore configuration page. In this section, all the general Multistore settings can be adjusted.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (46).png" alt=""><figcaption><p>Multistores main page User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (109).png" alt=""><figcaption><p>Multistores main page User Interface</p></figcaption></figure>
 
 ### Common components <a href="#common-components" id="common-components"></a>
 

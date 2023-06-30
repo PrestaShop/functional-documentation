@@ -4,7 +4,7 @@
 
 This page is responsible for existing Feature editing or the adding of the new Feature.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (155).png" alt="Add or Edit UI"><figcaption><p>Add or Edit Feature User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (160).png" alt="Add or Edit UI"><figcaption><p>Add or Edit Feature User Interface</p></figcaption></figure>
 
 ## QA
 

@@ -4,7 +4,7 @@
 
 This UI is listed as 2 sections - _Merchandise Returns_ and _Merchandise return (RMA) options_.
 
-<figure><img src="../../../../../../.gitbook/assets/image (89).png" alt="Merchandise Returns UI"><figcaption><p>Merchandise Returns User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (47).png" alt="Merchandise Returns UI"><figcaption><p>Merchandise Returns User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 

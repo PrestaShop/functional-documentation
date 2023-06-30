@@ -8,7 +8,7 @@ description: >-
 
 ## Description
 
-<figure><img src="../../../../../../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 ### QA&#x20;
 

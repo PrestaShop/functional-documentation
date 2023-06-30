@@ -4,9 +4,9 @@
 
 These UIs, displayed in separate Alerts and Updates tabs, indicate the modules, that should be with full configuration in order to make the module fully operational, or to upgrade the module to the newest version.
 
-<figure><img src="../../../../../.gitbook/assets/image (131).png" alt="Module Alerts Tab User Interface"><figcaption><p>Module Alerts Tab User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (142).png" alt="Module Alerts Tab User Interface"><figcaption><p>Module Alerts Tab User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (110).png" alt="Module Updates Tab User Interface"><figcaption><p>Module Updates Tab User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (70).png" alt="Module Updates Tab User Interface"><figcaption><p>Module Updates Tab User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

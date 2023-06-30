@@ -4,7 +4,7 @@
 
 In this page, the administrators can edit the existing or add absolutely new CMS Category in the webshop system.
 
-<figure><img src="../../../../../../.gitbook/assets/image (132).png" alt="Adding or Editing new page category UI"><figcaption><p>Adding or Editing new page category User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (128).png" alt="Adding or Editing new page category UI"><figcaption><p>Adding or Editing new page category User Interface</p></figcaption></figure>
 
 ## QA
 

@@ -4,7 +4,7 @@
 
 In this page the information about the shop is provided.
 
-<figure><img src="../../../../../.gitbook/assets/image (56).png" alt=""><figcaption><p>Information User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (111).png" alt=""><figcaption><p>Information User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

@@ -2,7 +2,7 @@
 
 This dashboard is constructed as a module, but the front-end interface is shown in the Dashboard page. It shows valuable Traffic, Conversion, Average Cart Value and Sales forecasts, depending on the active sales through the timeline.
 
-<figure><img src="../../../../../.gitbook/assets/image (51).png" alt="Dashboard Goals Interface"><figcaption><p>Dashboard Goals Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (29).png" alt="Dashboard Goals Interface"><figcaption><p>Dashboard Goals Interface</p></figcaption></figure>
 
 ## Main block components
 

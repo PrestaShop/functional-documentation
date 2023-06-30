@@ -4,9 +4,9 @@
 
 An agreement document, generated right after the return of the product. After the merchant receives the product or item back from the buyer, a Credit Slip (sometimes a Credit Note or etc.) must be created. All the Slips are only listed in this section.
 
-<figure><img src="../../../../../.gitbook/assets/image (13).png" alt="Credit Slips User Interface, when there are no Slips"><figcaption><p>Credit Slips User Interface, when there are no Slips</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (21).png" alt="Credit Slips User Interface, when there are no Slips"><figcaption><p>Credit Slips User Interface, when there are no Slips</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (19).png" alt="Credit Slips User Interface, when there are at least one Slip"><figcaption><p>Credit Slips User Interface, when there is at least one Slip</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (61).png" alt="Credit Slips User Interface, when there are at least one Slip"><figcaption><p>Credit Slips User Interface, when there is at least one Slip</p></figcaption></figure>
 
 ## QA&#x20;
 
