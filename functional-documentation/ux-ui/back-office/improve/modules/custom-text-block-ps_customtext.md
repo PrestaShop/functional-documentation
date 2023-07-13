@@ -1,4 +1,4 @@
-# Custom text block
+# Custom text block (ps\_customtext)
 
 ## Description
 
@@ -28,7 +28,7 @@ This module adds a custom text block at the bottom of the front-office page.&#x2
 
 ### Text block input
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>Text example</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="custom-text-block.md#text-block-input-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>Text example</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="custom-text-block-ps_customtext.md#text-block-input-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
 
 ## Behaviors description
 
@@ -42,7 +42,7 @@ This is a text input ([Forms normal UI kit](https://build.prestashop-project.org
 
 ### **Shop association block behavior**
 
-This is [shop association block](custom-text-block.md#shop-association-block-behavior) it also has 4 outlined CTA buttons ([Buttons with icons UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--buttons-with-icons)) to configure shop associations:
+This is [shop association block](custom-text-block-ps\_customtext.md#shop-association-block-behavior) it also has 4 outlined CTA buttons ([Buttons with icons UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--buttons-with-icons)) to configure shop associations:
 
 * Collapse all - it has minus icon, once clicked it hides all shops.
 * Expand all - it has plus icon, once clicked it shows all shops.

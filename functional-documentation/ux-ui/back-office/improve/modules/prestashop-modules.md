@@ -1,2 +1,0 @@
-# Prestashop modules
-
