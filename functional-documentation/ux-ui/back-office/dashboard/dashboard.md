@@ -1,5 +1,9 @@
 # Dashboard
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/dashboard.html)
+
 ## Dashboard
 
 The dashboard is the default homepage of the back office, it gives a summary of the shop's daily activities and main statistics at a glance. The dashboard is divided into 4 main areas: a horizontal bar, and three columns.
