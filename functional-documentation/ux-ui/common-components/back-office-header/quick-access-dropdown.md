@@ -27,7 +27,7 @@ By default, in Quick access dropdown are added 6 pages links:
 
 
 
-[Elodie Prokhoroff](http://localhost:5000/u/tQmVYN9IbOba1zSzRdlrxKBckqf1 "mention") ( Figma or screenshot here ? )&#x20;
+[Elodie Prokhoroff](http://127.0.0.1:5000/u/tQmVYN9IbOba1zSzRdlrxKBckqf1 "mention") ( Figma or screenshot here ? )&#x20;
 
 **Add current page to QuickAccess** is CTA link, once clicked opens a popup with message: _Please name this shortcut:_ and input field with place holder ([Forms normal UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/forms--normal)).\
 In this popup, there are also two buttons:

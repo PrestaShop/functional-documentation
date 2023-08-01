@@ -1,5 +1,9 @@
 # Stock Movements
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/catalog/stocks.html)
+
 ## Description
 
 This page provides history of products stock movements. This page does not allow to edit changes.
