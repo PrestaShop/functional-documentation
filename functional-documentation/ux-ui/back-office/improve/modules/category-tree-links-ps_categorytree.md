@@ -6,6 +6,12 @@ This module is responsible for the Category Tree display in the front-office.&#x
 
 ![Category tree links User Interface](<../../../../../.gitbook/assets/image (27).png>)
 
+##
+
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/ps-categorytree.html)
+
 ## Common components
 
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
