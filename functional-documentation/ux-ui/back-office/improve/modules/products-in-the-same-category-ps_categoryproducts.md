@@ -8,7 +8,7 @@ The module when enabled shows products for the customers in the Front office as 
 
 ## QA&#x20;
 
-[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/modules/module-manager/modules.html)
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/ps-categoryproducts/configuration.html)
 
 ## Common components
 
