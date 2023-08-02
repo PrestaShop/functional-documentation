@@ -6,7 +6,15 @@ This module displays a shopping cart icon with number of items it contains.
 
 ![Shopping cart module User Interface](<../../../../../.gitbook/assets/image (138).png>)
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/ps-shoppingcart.html)
+
+
+
 ## Common components
+
+
 
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
