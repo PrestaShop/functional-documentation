@@ -21,7 +21,15 @@ A customer land on this page when :
 
 <figure><img src="../../../../.gitbook/assets/Frame 2.png" alt=""><figcaption><p>Fig. 5</p></figcaption></figure>
 
+###
+
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/fo/classic/cart.html)
+
 ### [Tests](https://github.com/PrestaShop/PrestaShop/blob/7f9fb70c179f3b014656c28a5157ec6739a16a81/tests/UI/pages/FO/cart/index.js)
+
+
 
 1 – Header
 
