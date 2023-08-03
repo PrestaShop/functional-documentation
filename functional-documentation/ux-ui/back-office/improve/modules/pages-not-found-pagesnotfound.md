@@ -8,6 +8,10 @@ If the page visitor mistype the URL, or the links are somehow expired, the visit
 
 ![404 Page Not Found interface](<../../../../../.gitbook/assets/image (41).png>)
 
+## QA
+
+[Link to the tests](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/fo/classic/search/fo-search-search-no-result.html)
+
 ## Main components in front-office
 
 The UI remains almost the same, as in each webshop page of the front-office. The header and the footer components remain the same as in 404 page, like in all other webshop front-office pages. But the middle components are the following:
