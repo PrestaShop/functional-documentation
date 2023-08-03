@@ -8,7 +8,7 @@ This module configures the Payments by Check functionality in the webshop.
 
 ## QA
 
-[Link to the tests](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/modules/module-manager.html)
+[Link to the tests](https://build.prestashop-project.org/test-scenarios/scenarios/modules/ps-checkpayment.html)
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
