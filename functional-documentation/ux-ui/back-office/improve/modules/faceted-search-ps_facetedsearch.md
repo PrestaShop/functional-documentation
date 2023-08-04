@@ -4,6 +4,10 @@ The module is used for filtering the catalog and helping the visitors to see the
 
 ![Faceted search User Interface](<../../../../../.gitbook/assets/image (107).png>)
 
+## QA
+
+[Link to the tests](https://build.prestashop-project.org/test-scenarios/scenarios/modules/ps-facetedsearch.html)
+
 ## Common components
 
 * [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
