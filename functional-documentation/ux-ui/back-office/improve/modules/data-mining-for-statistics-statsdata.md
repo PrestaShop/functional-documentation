@@ -4,6 +4,10 @@ This module is used for the statistics gathering.&#x20;
 
 <figure><img src="../../../../../.gitbook/assets/image (150).png" alt="Data mining for statistics UI"><figcaption><p>Data mining for statistics User Interface</p></figcaption></figure>
 
+## QA
+
+[Link to the tests](https://build.prestashop-project.org/test-scenarios/scenarios/modules/statsdata.html)
+
 ## Todo add : multishop screenshot
 
 ## Common components
