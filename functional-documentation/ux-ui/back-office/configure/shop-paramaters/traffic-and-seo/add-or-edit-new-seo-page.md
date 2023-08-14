@@ -6,7 +6,7 @@ This UI represents the function of adding / editing a SEO & URL page, which is d
 
 <figure><img src="../../../../../../.gitbook/assets/image (40).png" alt="Adding or Editing SEO User Inteface"><figcaption><p>Adding or Editing SEO &#x26; URL page User Inteface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (9).png" alt="SEO &#x26; URL listing User Interface"><figcaption><p>SEO &#x26; URL listing User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (9) (1).png" alt="SEO &#x26; URL listing User Interface"><figcaption><p>SEO &#x26; URL listing User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 

@@ -4,7 +4,7 @@
 
 This page is for editing the existing or adding a new one State to the webshop localization.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (6).png" alt="Add or Edit State UI"><figcaption><p>Add or Edit State User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (6) (3).png" alt="Add or Edit State UI"><figcaption><p>Add or Edit State User Interface</p></figcaption></figure>
 
 ## QA
 

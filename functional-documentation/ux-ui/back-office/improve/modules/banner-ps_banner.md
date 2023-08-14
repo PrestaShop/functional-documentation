@@ -4,7 +4,7 @@
 
 This module is responsible for generating and managing the graphical interface element called Banner. Usually, the Banner is displayed in the homepage of the webshop.&#x20;
 
-![Banner User Interface](<../../../../../.gitbook/assets/image (11).png>)
+![Banner User Interface](<../../../../../.gitbook/assets/image (11) (2).png>)
 
 ## Common components
 

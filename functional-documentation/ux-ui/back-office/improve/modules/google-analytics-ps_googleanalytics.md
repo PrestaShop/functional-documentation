@@ -6,7 +6,7 @@ This is the page for Google analytics module configuration. It has two blocks: i
 
 <figure><img src="../../../../../.gitbook/assets/image (110).png" alt="Google analytics User Interface"><figcaption><p>Google analytics User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (8).png" alt="Google analytics Settings block User Interface"><figcaption><p>Google analytics Settings block User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (8) (2).png" alt="Google analytics Settings block User Interface"><figcaption><p>Google analytics Settings block User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
