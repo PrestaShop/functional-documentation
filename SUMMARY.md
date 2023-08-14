@@ -298,4 +298,5 @@
         * [Personal data management](functional-documentation/business-rules/modules/module-gdpr/personal-data-management/README.md)
           * [Customer's personal data](functional-documentation/business-rules/modules/module-gdpr/personal-data-management/customers-personal-data.md)
     * [Pricing](functional-documentation/business-rules/pricing/README.md)
+      * [Test](functional-documentation/business-rules/pricing/test.md)
       * [Method Of Calculating a Cart Total](functional-documentation/business-rules/pricing/method-of-calculating-a-cart-total.md)
