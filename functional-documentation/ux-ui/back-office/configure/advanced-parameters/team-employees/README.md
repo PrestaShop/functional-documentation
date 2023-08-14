@@ -89,7 +89,7 @@ when pressed, a message is shown: "Successful update.".
 
 ## Behaviors description
 
-Here figma link ( TODO [Tristan Lehot](http://localhost:5000/u/wxuQ8dEUfYTsCcCBbcFmmedKE5t2 "mention") )
+Here figma link ( TODO [Tristan Lehot](http://127.0.0.1:5000/u/wxuQ8dEUfYTsCcCBbcFmmedKE5t2 "mention") )
 
 
 

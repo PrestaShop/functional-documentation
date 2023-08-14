@@ -57,7 +57,7 @@ If the content is displayed on **All Shops** mode, there is an element from the 
 
 This sub-section MUST describe the page workflow
 
-[Tristan Lehot](http://localhost:5000/u/wxuQ8dEUfYTsCcCBbcFmmedKE5t2 "mention") ( TODO )&#x20;
+[Tristan Lehot](http://127.0.0.1:5000/u/wxuQ8dEUfYTsCcCBbcFmmedKE5t2 "mention") ( TODO )&#x20;
 
 This sub-section MUST include a diagram of this worflow (using : [https://app.diagrams.net/](https://app.diagrams.net) or [figma](https://www.figma.com/file/14ptOoCqDdmBqtmq1Grc5M/BO-Core-Cartography?node-id=0%3A1) ) & the xml export of this workflow
 
