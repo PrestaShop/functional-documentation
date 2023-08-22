@@ -28,4 +28,68 @@ todo
 
 <table><thead><tr><th width="94">Level</th><th>Formula</th></tr></thead><tbody><tr><td><mark style="color:purple;">1</mark></td><td><h4><mark style="color:purple;">Step_SP</mark></h4><p><mark style="color:purple;">Description : Retrieve the standard price for </mark><del><mark style="color:purple;">one</mark></del> <mark style="color:red;">each</mark> <mark style="color:purple;">product (SP)</mark> </p><p><mark style="color:purple;">Formula : NA</mark></p><p><mark style="color:purple;">US : MOCCT-001,</mark> <mark style="color:red;">MOCCT_004</mark></p></td></tr><tr><td>2</td><td><h4><mark style="color:purple;">Step_IP</mark></h4><p><mark style="color:purple;">Description : Retrieve the impact Price (IP)</mark> <mark style="color:red;">for each product</mark></p><p><mark style="color:purple;">Formula : NA</mark></p><p><mark style="color:purple;">US : MOCCT-001,</mark> <mark style="color:red;">MOCCT_004</mark></p></td></tr><tr><td>2</td><td><h4><mark style="color:purple;">Step_CP</mark></h4><p><mark style="color:purple;">Description : Calculation of the price of the combination HT (CP)</mark> <mark style="color:red;">for each product</mark></p><p><mark style="color:purple;">Formula : CP = SP + IP</mark></p><p><mark style="color:purple;">US : MOCCT-001,</mark> <mark style="color:red;">MOCCT_004</mark></p></td></tr><tr><td>2</td><td><h4><mark style="color:purple;">Step_CP_Q</mark></h4><p><mark style="color:purple;">Description : Calculation of the price total (Tax excl) taking into account quantity (which is 1 for the MOCCT-001)</mark> <mark style="color:red;">for each product</mark></p><p><mark style="color:purple;">Formula : CP_Q = CP * 1</mark></p><p><mark style="color:purple;">US : MOCCT-001,</mark> <mark style="color:red;">MOCCT_004</mark></p></td></tr><tr><td>2</td><td><h4><mark style="color:purple;">Step_RVAT</mark> </h4><p><mark style="color:purple;">Description : Recovery of rate of VAT (RVAT)</mark> </p><p><mark style="color:purple;">Formula :  For now ARBITRARY fixed to 20% </mark><del><mark style="color:purple;">to dig into the specifications (Country, state, zip code) -</mark></del></p><p><mark style="color:purple;">US : MOCCT-001</mark></p></td></tr><tr><td>2</td><td><h4><mark style="color:purple;">Step_Total_Taxes_excluded</mark></h4><p><mark style="color:purple;">Description : Calculation of total taxes excluded (Total_Taxes_excluded)</mark> <mark style="color:red;">for all products</mark></p><p><mark style="color:purple;">Formula : The quantity Q is consider to 1 arbitrary</mark></p><p> <mark style="color:purple;">Total_Taxes_excluded = Step_CP_Q</mark>                    </p><p> <del><mark style="color:red;">For all products</mark> <mark style="color:orange;">Total_Taxes_excluded =</mark> <mark style="color:red;">For all products sum of</mark> <mark style="color:orange;">Q * CP</mark></del>     </p><p><mark style="color:purple;">US : MOCCT-001,</mark> <del><mark style="color:orange;">MOCCT-002,</mark> <mark style="color:red;">MOCCT_004</mark></del></p></td></tr><tr><td>2</td><td><h4><mark style="color:purple;">Step_AmountTVATaxExcluded</mark></h4><p><mark style="color:purple;">Description : Calculation of VAT amount on unit price before tax (AmountTVATaxExcluded)</mark> <mark style="color:red;">for each product</mark> </p><p><mark style="color:purple;">Formula</mark> <mark style="color:red;">:</mark> <mark style="color:purple;">AmountTVATaxExcluded = RVAT * CP</mark></p><p><mark style="color:purple;">US  : MOCCT-001,</mark> <mark style="color:red;">MOCCT_004</mark></p></td></tr><tr><td></td><td><h4><mark style="color:orange;">Step_Quantity_Recovery</mark> </h4><p><mark style="color:orange;">Description : Recovery of the quantité of CP (Q)</mark> <mark style="color:red;">for each product</mark></p><p><mark style="color:orange;">Formule : NA</mark></p><p><mark style="color:orange;">US : MOCCT-002,</mark> <mark style="color:red;">MOCCT_004</mark></p></td></tr><tr><td></td><td><h4><del><mark style="background-color:blue;">Step_Round_item</mark></del></h4><p><del><mark style="background-color:blue;">Description : It exist 6 round modes</mark></del></p><p><del><mark style="background-color:blue;">Formule : This mode have to be applicated on</mark></del> <del><mark style="background-color:red;">Step_CP or Step_RVAT ?</mark></del></p><p><del><mark style="background-color:blue;">US : MOCCT-005</mark></del></p></td></tr><tr><td></td><td><h4></h4></td></tr><tr><td></td><td><h4><del><mark style="color:purple;">Step_Shipping_costs</mark></del> </h4><p><del><mark style="color:purple;">Description : Recovery of Shipping cost Taxes excluded (Shipping_costs)</mark></del></p><p><del><mark style="color:purple;">Formule : Recovery of Shipping cost Taxes excluded (Shipping_costs)</mark></del></p><p><del><mark style="color:purple;">US : MOCCT-001</mark></del></p></td></tr><tr><td></td><td><h4><del><mark style="color:purple;">Step_Line_Tax_Excluded_with_Shipping_costs</mark></del></h4><p><del><mark style="color:purple;">Description : Calculation tax excluded of the total with shipping costs (Total_Tax_Excluded_with_Shipping_costs)</mark></del></p><p><del><mark style="color:purple;">Formule :</mark></del> </p><p><del><mark style="color:purple;">Line_Tax_Excluded_with_Shipping_costs</mark></del> </p><p><del><mark style="color:purple;"><strong>=</strong></mark> <mark style="color:red;">(</mark><mark style="color:purple;">CP * (1</mark> <mark style="color:orange;">Q</mark><mark style="color:purple;">+ RVAT + Shipping_costs)</mark><mark style="color:red;">)</mark></del></p><p></p><p><del><mark style="color:purple;">US : MOCCT-001,</mark> <mark style="color:orange;">MOCCT-002</mark></del></p></td></tr><tr><td></td><td><h4><mark style="color:purple;">Step_Total_Taxes_included</mark></h4><p><mark style="color:purple;">Description : Calculation of total taxes included(Total_Taxes_excluded)</mark> <del><mark style="color:red;">for all products</mark></del></p><p><mark style="color:purple;">Formula :</mark></p><p> <mark style="color:purple;">Total_Taxes_included =  Step_Total_Taxes_excluded + AmountTVATaxExcluded</mark>                    </p><p> <del><mark style="color:red;">For all products</mark> <mark style="color:orange;">Total_Taxes_excluded =</mark> <mark style="color:red;">For all products sum of</mark> <mark style="color:orange;">Q * CP</mark></del>     </p><p><mark style="color:purple;">US : MOCCT-001,</mark> <del><mark style="color:orange;">MOCCT-002,</mark> <mark style="color:red;">MOCCT_004</mark></del></p></td></tr><tr><td></td><td><h4><mark style="color:red;">Step_total</mark></h4><p><mark style="color:red;">Description :</mark> </p><p><mark style="color:red;">Formule : Sum for each products of Step_Line_Tax_Excluded_with_Shipping_costs</mark></p><p></p><p><mark style="color:red;">US : Sum for each products of Step_Line_Tax_Excluded_with_Shipping_costs</mark></p></td></tr></tbody></table>
 
+#### Round mode
+
+R1 : Round up away from zero, when it is half way there (recommended)&#x20;
+
+R2 : Round down towards zero, when it is half way there&#x20;
+
+R3 : Round towards the next even value&#x20;
+
+R4 : Round towards the next odd value&#x20;
+
+R5 : Round up to the nearest value R6 : Round down to the nearest value
+
+[https://www.php.net/manual/en/function.round.php](https://www.php.net/manual/en/function.round.php)
+
+
+
+Ce qui impacte le prix :
+
+Règles connues sont celles-ci
+
+* cart rules (où ?)
+* catalogues prices rules (où ?)
+* prix spécifiques (où ?)
+* TVA (où ?)
+* Ecotax&#x20;
+* Group client
+* Cadeaux ?
+* Modifications des prix selon les currencies
+* Pays ?
+
+
+
+Cf ITW Christophe :&#x20;
+
+5 outils de promo&#x20;
+
+* Prix spécifiques
+* Code promo (=règle panier = coupon de réduction)
+* Règles de prix catalogue
+* Groupe Client
+* Pack
+
+
+
+
+
+Par défaut règle de prix spécifique qui prend le dessus sur le prix catalogue
+
+
+
+Qu'est ce qui modifie le prix à quel moment à quel endroit et ce qu'on veut que ca fasse ?
+
+Quels sont tous les endroits où on retorouve la liste ci-dessus des règles de calcul
+
+
+
+Group client peut être dans prix spécifiques, dans catalogues prices rules et au niveau du groupe client
+
+Au niveau du groupe client tu peux avoir un discount gobal (sur tous les produits) et/ou au niveau de catégégorie de produit)
+
+
+
+Il faut pouvoir ajouter une règle à n'importe quelle étape sur TTC ou HT
+
 ### Behat test link
