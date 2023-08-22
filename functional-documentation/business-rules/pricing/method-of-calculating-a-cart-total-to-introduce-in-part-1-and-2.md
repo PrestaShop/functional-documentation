@@ -2,7 +2,7 @@
 description: Not used in course of maturation
 ---
 
-# Method Of Calculating a Cart Total
+# Method Of Calculating a Cart Total - to introduce in part 1 and 2
 
 ## Description
 
@@ -15,6 +15,10 @@ US
 <table><thead><tr><th width="113">US</th><th>Descpription</th><th>Examples</th></tr></thead><tbody><tr><td><mark style="color:purple;">MOCCT-001</mark></td><td><mark style="color:purple;">Case without reduction for ONE article and fixed VAT</mark> - without decimal and rounding</td><td><mark style="color:purple;">Examples for the case MOCCT-001. Click</mark> <a href="https://docs.google.com/spreadsheets/d/1yHwk9nc1Ab9T6s-fqybFpm6P8ejGac-SpO6miR39uOY/edit#gid=0"><mark style="color:purple;">here</mark></a></td></tr><tr><td><mark style="color:orange;">MOCCT-002</mark></td><td><mark style="color:orange;">MOCCT_001 for a product with more than one for quantity - without decimal and rounding</mark></td><td><mark style="color:orange;">Examples for the case MOCCT-002</mark>      <a href="https://docs.google.com/spreadsheets/d/1yHwk9nc1Ab9T6s-fqybFpm6P8ejGac-SpO6miR39uOY/edit#gid=43061852"><mark style="color:orange;">Click here</mark></a></td></tr><tr><td><mark style="color:green;">MOCCT_003</mark></td><td><mark style="color:green;">MOCCT_002 with rational number only</mark></td><td><mark style="color:green;">Examples for the case MOCCT-003</mark> <a href="https://docs.google.com/spreadsheets/d/1yHwk9nc1Ab9T6s-fqybFpm6P8ejGac-SpO6miR39uOY/edit#gid=1249928607"><mark style="color:green;">Click here</mark></a></td></tr><tr><td><mark style="color:red;">MOCCT_004</mark></td><td><mark style="color:red;">MOCCT- 004 : Case without reduction for differents articles with a quantity > 1/ fixed VAT/with rational numbers</mark></td><td><mark style="color:red;">Examples for the case MOCCT-004</mark> <a href="https://docs.google.com/spreadsheets/d/1yHwk9nc1Ab9T6s-fqybFpm6P8ejGac-SpO6miR39uOY/edit#gid=1249928607"><mark style="color:red;">Click here</mark></a></td></tr><tr><td><mark style="background-color:blue;">MOCCT_005</mark></td><td><mark style="background-color:blue;">[US-Pricing][MOC] : MOCCT- 005 : Round product with different round modes and precisions</mark></td><td><mark style="background-color:blue;">Examples for the case MOCCT-005</mark><a href="http://127.0.0.1:5000/s/jyL8OZq59yY3Nomb341u/user-guide/connecting-back-office"> </a></td></tr></tbody></table>
 
 ### Steps of the price calculation
+
+<table><thead><tr><th width="113">Level</th><th>Formula</th><th>Examples</th></tr></thead><tbody><tr><td><mark style="color:purple;">1</mark></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+####
 
 #### <mark style="color:purple;">Step\_SP</mark>
 
