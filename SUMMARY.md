@@ -311,4 +311,4 @@
       * [Part 3 : Taxes](functional-documentation/business-rules/pricing/part-3-taxes/README.md)
         * [1 - Retrieve cost of shipping](functional-documentation/business-rules/pricing/part-3-taxes/1-retrieve-cost-of-shipping.md)
         * [2 - Calculation of TVA](functional-documentation/business-rules/pricing/part-3-taxes/2-calculation-of-tva.md)
-      * [Method Of Calculating a Cart Total - to introduce in part 1 and 2](functional-documentation/business-rules/pricing/method-of-calculating-a-cart-total-to-introduce-in-part-1-and-2.md)
+      * [Method Of Calculating a Cart Total](functional-documentation/business-rules/pricing/method-of-calculating-a-cart-total.md)

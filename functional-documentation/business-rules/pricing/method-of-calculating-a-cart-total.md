@@ -2,15 +2,13 @@
 description: Not used in course of maturation
 ---
 
-# Method Of Calculating a Cart Total - to introduce in part 1 and 2
+# Method Of Calculating a Cart Total
 
 ## Description
 
 
 
-US
-
-<table><thead><tr><th width="113">US</th><th>Descpription</th><th>Examples</th></tr></thead><tbody><tr><td><mark style="color:purple;">MOCCT-001</mark></td><td><mark style="color:purple;">MOCCT-001 : For one article, Quantity 1, Without Ecotax, Price without decimal point, without reduction, fixed VAT, no shipping</mark></td><td><mark style="color:purple;">Examples for the case MOCCT-001. Click</mark> <a href="https://docs.google.com/spreadsheets/d/1yHwk9nc1Ab9T6s-fqybFpm6P8ejGac-SpO6miR39uOY/edit#gid=0"><mark style="color:purple;">here</mark></a></td></tr></tbody></table>
+<table><thead><tr><th width="113">US (link to Github)</th><th>Descpription</th></tr></thead><tbody><tr><td><a href="https://github.com/PrestaShop/PrestaShop/issues/32592"><mark style="color:purple;">MOCCT-001</mark></a></td><td><mark style="color:purple;">MOCCT-001 : For one article, Quantity 1, Without Ecotax, Price without decimal point, without reduction, fixed VAT, no shipping</mark></td></tr></tbody></table>
 
 ### Steps of the price calculation
 
