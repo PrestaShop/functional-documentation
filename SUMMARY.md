@@ -307,7 +307,7 @@
         * [4 - Discount - Customer Group](functional-documentation/business-rules/pricing/part-1-discount-on-a-product-in-the-catalog-fo/4-discount-customer-group.md)
         * [5 - Discount - Pack Produit](functional-documentation/business-rules/pricing/part-1-discount-on-a-product-in-the-catalog-fo/5-discount-pack-produit.md)
       * [Part 2 : Discount in the cart](functional-documentation/business-rules/pricing/part-2-discount-in-the-cart/README.md)
-        * [1 - Discount - Cart rules](functional-documentation/business-rules/pricing/part-2-discount-in-the-cart/1-discount-cart-rules.md)
+        * [1 - Cart rule - amount](functional-documentation/business-rules/pricing/part-2-discount-in-the-cart/1-cart-rule-amount.md)
       * [Part 3 : Taxes](functional-documentation/business-rules/pricing/part-3-taxes/README.md)
         * [1 - Retrieve cost of shipping](functional-documentation/business-rules/pricing/part-3-taxes/1-retrieve-cost-of-shipping.md)
         * [2 - Calculation of TVA](functional-documentation/business-rules/pricing/part-3-taxes/2-calculation-of-tva.md)
