@@ -300,6 +300,7 @@
     * [Pricing](functional-documentation/business-rules/pricing/README.md)
       * [Rounding](functional-documentation/business-rules/pricing/rounding.md)
       * [Ecotax](functional-documentation/business-rules/pricing/ecotax.md)
+      * [Part 0 - Calculation before discount](functional-documentation/business-rules/pricing/part-0-calculation-before-discount.md)
       * [Part 1 : Discount on a product in the catalog - FO](functional-documentation/business-rules/pricing/part-1-discount-on-a-product-in-the-catalog-fo/README.md)
         * [1 - Calculation Standard price vs Impact Price](functional-documentation/business-rules/pricing/part-1-discount-on-a-product-in-the-catalog-fo/1-calculation-standard-price-vs-impact-price.md)
         * [2 - Discount - Specific price](functional-documentation/business-rules/pricing/part-1-discount-on-a-product-in-the-catalog-fo/2-discount-specific-price.md)
