@@ -6,6 +6,10 @@ The purpose of this page is to define the attribute ( width, height, ..) of the 
 
 <figure><img src="../../../../../../../.gitbook/assets/Capture d’écran 2023-03-06 à 16.42.59.png" alt=""><figcaption></figcaption></figure>
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/shipping/carriers/bo-shipping-carriers-crud.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../../common-components/back-office-header/prestashop-logo.md).
