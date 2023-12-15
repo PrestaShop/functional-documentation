@@ -8,7 +8,7 @@ When module is enabled and configured, it will displays the possible suppliers a
 
 ## QA&#x20;
 
-[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/modules/module-manager/modules.html)
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/ps-supplierlist.html)
 
 ## Common components
 
