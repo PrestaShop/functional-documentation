@@ -211,7 +211,7 @@
             * [Currencies](functional-documentation/ux-ui/back-office/improve/international/localization/currencies.md)
             * [Translations](functional-documentation/ux-ui/back-office/improve/international/localization/translations.md)
             * [Geolocation](functional-documentation/ux-ui/back-office/improve/international/localization/geolocation.md)
-            * [Languages](functional-documentation/ux-ui/back-office/improve/international/localization/languages/README.md)
+            * [Languages](functional-documentation/ux-ui/back-office/improve/shipping/localization/languages.md)
               * [Add / Edit New Language](functional-documentation/ux-ui/back-office/improve/international/localization/languages/add-edit-new-language.md)
           * [Locations](functional-documentation/ux-ui/back-office/improve/international/locations/README.md)
             * [Add new or edit zone](functional-documentation/ux-ui/back-office/improve/international/locations/add-new-or-edit-zone.md)
