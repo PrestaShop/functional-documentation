@@ -6,6 +6,10 @@ This UI shows the Link Widget management UI. It helps to manage and edit various
 
 <figure><img src="../../../../../../.gitbook/assets/image (2) (6) (1).png" alt="Link Widget (Link Widget) User Interface"><figcaption><p>Link Widget (Link Widget) User Interface</p></figcaption></figure>
 
+## QA  <a href="#common-components" id="common-components"></a>
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/design/link-widget.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
@@ -26,8 +30,6 @@ This UI shows the Link Widget management UI. It helps to manage and edit various
 ## Top UI elements
 
 ### **(+) New block**&#x20;
-
-### &#x20;
 
 <table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center"></td><td></td></tr><tr><td>Default value</td><td>Default value</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>Alt text when hoverd -  "New block"</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="link-widget-link-widget.md#+-new-block-cta">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
 
