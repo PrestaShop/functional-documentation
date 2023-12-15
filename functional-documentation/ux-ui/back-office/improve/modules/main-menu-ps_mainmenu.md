@@ -10,7 +10,7 @@ This module is responsible for the webshop's top main menu links, and it's confi
 
 ## QA
 
-[Link to the tests](https://build.prestashop-project.org/test-scenarios/scenarios/modules.html)
+[Link to the tests](https://build.prestashop-project.org/test-scenarios/scenarios/modules/ps-mainmenu.html)
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
