@@ -6,6 +6,10 @@ Localization page enables to configure the units used for products. There are fo
 
 <figure><img src="../../../../../../.gitbook/assets/image (95).png" alt="Localization User Interface"><figcaption><p>Localization User Interface</p></figcaption></figure>
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/international/localization/localization.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
