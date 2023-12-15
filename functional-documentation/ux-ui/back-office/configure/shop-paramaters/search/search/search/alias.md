@@ -2,6 +2,10 @@
 
 ## **SPECIFICATIONS - SEARCH PAGE**
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/shop-parameters/search/search.html)
+
 ### Search
 
 _As a merchant, I want to make sure visitors can find the product they are looking for on my online store._
