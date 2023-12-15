@@ -6,6 +6,10 @@ The purpose of this page is to add new or edit zone.
 
 <figure><img src="../../../../../../.gitbook/assets/image (39).png" alt="Add new or edit zone User Interface"><figcaption><p>Add new or edit zone User Interface</p></figcaption></figure>
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/international/locations/zones/bo-international-locations-zones-crud.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
