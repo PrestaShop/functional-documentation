@@ -4,6 +4,10 @@ This page allows adding additional Shop Group in existing Multistore functionali
 
 ![Add or Edit Shop Group User Interface](<../../../../../../../.gitbook/assets/image (71).png>)
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/advanced-parameters/multistore/bo-advanced-parameters-multistore-crud-shop-groups.html)
+
 ### Common components <a href="#common-components" id="common-components"></a>
 
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
