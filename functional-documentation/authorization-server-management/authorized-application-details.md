@@ -6,13 +6,13 @@ This page is the one-step funnel to add a new authorized application to a Presta
 
 ![](<../../.gitbook/assets/Capture d’écran 2022-12-30 à 11.49.30.png>)
 
+## QA
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/advanced-parameters/authorization-server.html)
+
 ## Components description
 
-This section MUST describe each component one by one
 
-### A component description
-
-Common components
 
 * [heading-of-the-page.md](../ux-ui/common-components/heading-of-the-page.md "mention")
 * [help-button.md](../ux-ui/common-components/help-button.md "mention")
