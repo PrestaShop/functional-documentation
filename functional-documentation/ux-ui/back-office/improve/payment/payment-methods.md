@@ -6,6 +6,10 @@ In this page there are show payment methods and their modules.
 
 <figure><img src="../../../../../.gitbook/assets/image (22).png" alt="Payment Methods User Interface"><figcaption><p>Payment Methods User Interface</p></figcaption></figure>
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/payment/payment-methods.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
