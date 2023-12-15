@@ -12,4 +12,4 @@ This interface is shown after Disabling or Enabling the module in Module Manager
 
 ## Stats block section
 
-Once the Configure button is clicked, there will be a redirection to the _Stats Dashboard_ tab. All the _Stats Dashboard_ information is specified in [Stats](../../sell/stats/) section.
+Once the Configure button is clicked, there will be a redirection to the _Stats Dashboard_ tab. All the _Stats Dashboard_ information is specified in [Stats](../../sell/stats.md) section.

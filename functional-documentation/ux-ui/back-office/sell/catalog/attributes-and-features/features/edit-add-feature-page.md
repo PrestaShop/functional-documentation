@@ -17,7 +17,7 @@ This page is responsible for existing Feature editing or the adding of the new F
 * ​[Save button](../../../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
 * [E-commerce logo](../../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../../common-components/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

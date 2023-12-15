@@ -12,13 +12,13 @@ The Back-Office module represents the specific UI block in the main Prestashop d
 
 ## Common components
 
-* [Filtering components in stats](../../../common-components/stats-page-specific-component/filtering-components-in-stats.md)
+* [Filtering components in stats](../../../common-components/filtering-components-in-stats.md)
 * [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](../../../common-components/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
-* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
 * Search input (todo link)
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)

@@ -19,7 +19,7 @@ This UI shows the Order Message adding or editing form.
 * [Save button](../../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
 * [E-commerce logo ](../../../../common-components/back-office-header/prestashop-logo.md)
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md)
-* [Quick access dropdown ](../../../../common-components/back-office-header/quick-access-dropdown.md)
+* [Quick access dropdown ](../../../../common-components/quick-access-dropdown.md)
 * [Search input](../../../../common-components/search-input-field.md)
 * [Shop switcher](../../../../common-components/shop-switcher.md)
 * Bell icon (todo link)

@@ -4,7 +4,7 @@ description: Quick access dropdown allows to access the most frequently used pag
 
 # Quick access dropdown
 
-<figure><img src="../../../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Quick access UI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (3) (1).png" alt=""><figcaption><p>Quick access UI</p></figcaption></figure>
 
 **Quick access** dropdown menu ([Dropdowns basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/dropdowns--basics)) is in the upper left corner in every back office page. In dropdown are these elements:
 
@@ -27,7 +27,7 @@ By default, in Quick access dropdown are added 6 pages links:
 
 
 
-[Elodie Prokhoroff](http://localhost:5000/u/tQmVYN9IbOba1zSzRdlrxKBckqf1 "mention") ( Figma or screenshot here ? )&#x20;
+[Elodie Prokhoroff](https://app.gitbook.com/u/tQmVYN9IbOba1zSzRdlrxKBckqf1 "mention") ( Figma or screenshot here ? )&#x20;
 
 **Add current page to QuickAccess** is CTA link, once clicked opens a popup with message: _Please name this shortcut:_ and input field with place holder ([Forms normal UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/forms--normal)).\
 In this popup, there are also two buttons:

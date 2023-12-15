@@ -16,7 +16,7 @@ This module is responsible for the Category Tree display in the front-office.&#x
 
 * [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md).
+* [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
 * Search input (todo link).
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md).
 * Bell icon (todo link).
@@ -24,7 +24,7 @@ This module is responsible for the Category Tree display in the front-office.&#x
 * [Account icon](../../../common-components/account-icon.md).
 * [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
-* [Page header call to action buttons (modules)](../../../common-components/module-page-specific-component/page-header-call-to-action-buttons-modules.md).
+* [Page header call to action buttons (modules)](../../../common-components/page-header-call-to-action-buttons-modules.md).
 * ​[Save button](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/bFfZ6x0W3PrldLavAttl/functional-documentation/ux-ui/common-components/save-button) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
 * [Configuration block](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/cReeZTZCiwqi5rIeUSjb/functional-documentation/ux-ui/common-components/configuration-block).
 

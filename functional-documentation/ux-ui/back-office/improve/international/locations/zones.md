@@ -10,7 +10,7 @@ The purpose of this page is to show zones list with ability to enable or disable
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md).
+* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
 * [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * [Shop switcher](../../../../common-components/shop-switcher.md).
 * Bell icon (todo link)

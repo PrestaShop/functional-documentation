@@ -1,90 +1,45 @@
 # Dashboard Goals (dashgoals)
 
-## Description
+This dashboard is constructed as a module, but the front-end interface is shown in the Dashboard page. It shows valuable Traffic, Conversion, Average Cart Value and Sales forecasts, depending on the active sales through the timeline.
 
-This module does not have any configuration/settings page, the only option is to either enable or disable it. If enabled, it will be displayed as Forecast block in the Dashboard section.
+<figure><img src="../../../../../.gitbook/assets/image (29).png" alt="Dashboard Goals Interface"><figcaption><p>Dashboard Goals Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (15).png" alt="Dashboard goals in Modules manager page User Interface"><figcaption><p>Dashboard goals in Modules manager page User Interface</p></figcaption></figure>
+## Main block components
 
-<figure><img src="../../../../../.gitbook/assets/Screenshot 2022-06-17 at 14-38-33 Dashboard • test.png" alt="Dashboard goals in Dashboard User Interface"><figcaption><p>Dashboard goals in Dashboard User Interface</p></figcaption></figure>
+### Header part of the block
 
-<figure><img src="../../../../../.gitbook/assets/image (49).png" alt="Dashboard goals configuration board in Dashboard User Interface"><figcaption><p>Dashboard goals configuration board in Dashboard User Interface</p></figcaption></figure>
+* **Chart material icon** - icon identifying the block.
+* **Forecast** - the title of the block.
+* **Active year** - displays the current year information.
+* **Arrows** - switching the year forward or backward by one step.&#x20;
+* **Refresh icon** - once clicked, refreshes the whole block with the updated information.
 
-## QA&#x20;
+### Configuration grid wheel
 
-[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/modules/module-manager/modules.html)
+Allows to manually update the values of the Forecast chart. Once clicked, there will be a UI animation in the same block, flipping down the configuration table from [Tables Hoverable UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/tables--hoverable). There are these elements:&#x20;
 
-## The UI elements
+* **12 months**.
+* Each has **Traffic**.
+* **Conversion Rate** (percentage value).
+* **Average Cart Value**.
+* **Sales** (automatically generated).
+* **Save** - this call-to-action button (from [Button Basics UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics)), saves the desired configuration and closes the table, refreshes the page.
 
-### Settings icon
+### Tabs
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>Configure</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="dashboard-goals-dashgoals.md#settings-icon-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+The component is made from the [Button With Radio Buttons UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--button-group-with-radio-buttons). Custom tabs are made with different color circles and titles. These are:
 
-### Refresh icon
+* **Purple** circle and **Traffic.**
+* **Green** circle and **Conversion.**
+* **Blue** circle and **Average Cart Value.**
+* **Orange** circle and **Sales.**
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>Refresh</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="dashboard-goals-dashgoals.md#refresh-icon-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+If the one of the tabs is active and showing the information, it will be shown as selected and greyed.&#x20;
 
-### Traffic inputs
+### The chart
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>All characters can be entered but only numbers are saved</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>0</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="dashboard-goals-dashgoals.md#traffic-inputs-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+The information chart is made aligned with the **X** and **Y** coordinates.&#x20;
 
-### Conversion Rate inputs
+**X** - shows the timeline of the annual year, with the 4 months.
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>All characters can be entered but only numbers are saved</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>0</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="dashboard-goals-dashgoals.md#conversion-rate-inputs-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
-
-### Average Cart Value inputs
-
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>All characters can be entered but only numbers are saved</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>0</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="dashboard-goals-dashgoals.md#average-cart-value-inputs-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
-
-## Behaviors description
-
-### Title of Forecast behavior
-
-This title includes the title and statistics icon. Next to title there are years shown and left-right arrows to change years to earlier or later ones.
-
-### Settings icon behavior
-
-Once clicked it opens configuration board. There statistics can be customizable.
-
-### Refresh icon behavior
-
-Once clicked it refreshes Forecast block.
-
-### Forecast buttons group behavior
-
-This block has buttons group of 4 buttons ([Buttons group UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--button-group)) and they are:
-
-* **Traffic** with purple dot
-* **Conversion** with green dot
-* **Average Cart Value** with light blue dot
-* **Sales** with orange dot
-
-Once clicked chosen button, its statistic is shown in block. When hover mouse pointer on button, its color changes.
-
-### Forecast Configuration block behavior
-
-This block allows to customize statistics. It contains one year table divided into months. Table has these columns:
-
-* [Traffic](dashboard-goals-dashgoals.md#traffic-inputs-behavior)
-* [Conversion Rate](dashboard-goals-dashgoals.md#conversion-rate-inputs-behavior)
-* [Average Cart Value](dashboard-goals-dashgoals.md#average-cart-value-inputs-behavior)
-* Sales&#x20;
-
-Each table cells in Traffic, Conversion Rate and Average Cart Value columns has input fields. Sales cell shows the result immediately after data entered in this row  inputs.\
-Once clicked Save button, entered data saved, Configuration block closes and Forecast block statistic is shown.
-
-### Traffic inputs behavior
-
-This is number input ([Forms number UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--number)) to enter traffic data.
-
-### Conversion Rate inputs behavior
-
-This is number input ([Forms number UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--number)) to enter conversion rate data. Next to input is percent sign.
-
-### Average Cart Value inputs behavior
-
-This is number input ([Forms number UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--number)) to enter average cart value data. Next to input is shown currency of shop.
-
-## Multistores functionality
-
-[Multistores dependent](../../../common-components/multistores-dependent.md) page.
+**Y** - shows the value coordinates from negative to positive.

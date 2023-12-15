@@ -8,8 +8,12 @@ This module does not have any configuration settings, it can only be enabled or 
 
 ![](<../../../../../.gitbook/assets/Screenshot 2022-08-01 at 15-49-50 Stats • test.png>)
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/statsbestvouchers.html)
+
 ## Components description
 
-In the "Stats" section the best vouchers can be filtered by date, the specifications can be found [\[HERE\]](../../../common-components/stats-page-specific-component/filtering-components-in-stats.md).
+In the "Stats" section the best vouchers can be filtered by date, the specifications can be found [\[HERE\]](../../../common-components/filtering-components-in-stats.md).
 
 * CSV Export - when pressed downloads instantly the data in CSV format.

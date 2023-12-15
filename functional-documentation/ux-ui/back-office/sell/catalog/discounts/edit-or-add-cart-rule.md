@@ -28,7 +28,7 @@ When you enter the Cart rule editing UI, there are 3 separate tabs - Information
 * [Cancel button](../../../../common-components/cancel-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md)
-* [Quick access dropdown](../../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
+* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../common-components/search-input-field.md)
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)&#x20;
 * Bell icon (todo link)
