@@ -6,6 +6,10 @@ This page allows to assign specific duties and rights to each employee who helps
 
 <figure><img src="../../../../../../.gitbook/assets/image (143).png" alt="Profiles User Interface"><figcaption><p>Profiles User Interface</p></figcaption></figure>
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/advanced-parameters/team/profiles.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
