@@ -6,6 +6,10 @@ This page allows to create new profile or edit changes in profile.
 
 <figure><img src="../../../../../../.gitbook/assets/image (92).png" alt="Add new / edit profile User interface"><figcaption><p>Add new / edit profile User interface</p></figcaption></figure>
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/advanced-parameters/team/profiles/bo-advanced-parameters-team-roles-crud.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
