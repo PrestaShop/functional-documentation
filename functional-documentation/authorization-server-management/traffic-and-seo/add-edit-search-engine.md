@@ -6,6 +6,10 @@ This UI lets the administrator edit or add Search Engine value to the list.
 
 <figure><img src="../../../.gitbook/assets/image (20) (2).png" alt=""><figcaption><p>Add or Edit Search Engine User Interface</p></figcaption></figure>
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/shop-parameters/trafic-and-seo/search-engines.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
