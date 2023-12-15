@@ -8,7 +8,7 @@ This module when enabled displays the contact information of the merchant in the
 
 ## QA&#x20;
 
-[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/modules/module-manager/modules.html)
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/ps-contactinfo/configuration.html)
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
