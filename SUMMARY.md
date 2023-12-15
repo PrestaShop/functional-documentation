@@ -263,7 +263,7 @@
           * [Database](functional-documentation/ux-ui/back-office/configure/advanced-parameters/database/README.md)
             * [SQL Manager](functional-documentation/ux-ui/back-office/configure/advanced-parameters/database/sql-manager/README.md)
               * [Add new SQL query](functional-documentation/ux-ui/back-office/configure/advanced-parameters/database/sql-manager/add-new-sql-query.md)
-          * [Logs](functional-documentation/ux-ui/back-office/configure/advanced-parameters/logs/README.md)
+          * [Logs](functional-documentation/ux-ui/page-1/logs.md)
             * [Advanced Parameters](functional-documentation/ux-ui/back-office/configure/advanced-parameters/logs/advanced-parameters/README.md)
               * [Multistore](functional-documentation/ux-ui/back-office/configure/advanced-parameters/logs/advanced-parameters/multistore.md)
               * [New & Experimental Features](functional-documentation/ux-ui/back-office/configure/advanced-parameters/logs/advanced-parameters/new-and-experimental-features.md)
