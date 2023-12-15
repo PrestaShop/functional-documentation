@@ -8,7 +8,7 @@ This is the module to show recently viewed products for the customers in product
 
 ## QA&#x20;
 
-[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/modules/module-manager/modules.html)
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/ps-viewedproduct.html)
 
 ## Common components <a href="#common-components" id="common-components"></a>
 

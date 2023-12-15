@@ -66,7 +66,7 @@ Save button CTA (common component link todo)
 
 ## Behaviors descriptions
 
-Add figma link here ( [Tristan Lehot](http://127.0.0.1:5000/u/wxuQ8dEUfYTsCcCBbcFmmedKE5t2 "mention"))
+Add figma link here ( [Tristan Lehot](https://app.gitbook.com/u/wxuQ8dEUfYTsCcCBbcFmmedKE5t2 "mention"))
 
 ### Behavior of the Status name field
 

@@ -30,7 +30,7 @@ Several cases
 
 3\) A chart like example belows
 
-Look at [Sort rules/Filter Rules](http://127.0.0.1:5000/s/vC6mdBD5H2USRjmzInGX/) lists
+Look at [Sort rules/Filter Rules](https://app.gitbook.com/s/vC6mdBD5H2USRjmzInGX/) lists
 
 ### Contacts table
 

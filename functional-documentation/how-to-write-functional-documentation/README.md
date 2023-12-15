@@ -11,7 +11,7 @@ This documentation is part of the PrestaShop project documentation package which
 * [This functional documentation](./)
 * [Developers documentation](https://devdocs.prestashop.com)
 * [Tests documentation](https://build.prestashop.com/test-scenarios/)
-* [User documentation](http://127.0.0.1:5000/o/-MAz0PPl5s9ulE9xyliu/s/tBUT2FaUMQ8aGrzosLWv/)
+* [User documentation](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/tBUT2FaUMQ8aGrzosLWv/)
 * Content Style Guide
 * UI Kit / Design system
 

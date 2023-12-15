@@ -21,7 +21,7 @@ This module does not have any settings, it can only be either enabled or disable
 * [Quick access dropdown](../../../common-components/back-office-header/quick-access-dropdown.md)&#x20;
 * Search input&#x20;
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
-* [Bell icon ](http://127.0.0.1:5000/o/6xEtMtELrAxy06GNiu8U/s/vC6mdBD5H2USRjmzInGX/)
+* [Bell icon ](https://app.gitbook.com/o/6xEtMtELrAxy06GNiu8U/s/vC6mdBD5H2USRjmzInGX/)
 * [Account icon](../../../common-components/account-icon.md)&#x20;
 
 ## Best categories section
