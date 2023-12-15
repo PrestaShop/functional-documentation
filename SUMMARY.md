@@ -218,7 +218,7 @@
             * [Countries](functional-documentation/ux-ui/back-office/improve/international/locations/countries.md)
             * [Zones](functional-documentation/ux-ui/back-office/improve/international/locations/zones.md)
             * [Add new or edit country](functional-documentation/ux-ui/back-office/improve/international/locations/add-new-or-edit-country.md)
-            * [States](functional-documentation/ux-ui/back-office/improve/international/locations/states/README.md)
+            * [States](functional-documentation/ux-ui/back-office/improve/international/locations/states.md)
               * [Add or Edit State](functional-documentation/ux-ui/back-office/improve/international/locations/states/add-or-edit-state.md)
           * [Taxes](functional-documentation/ux-ui/back-office/improve/international/taxes/README.md)
             * [Taxes listing](functional-documentation/ux-ui/back-office/improve/international/taxes/taxes-listing.md)
