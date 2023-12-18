@@ -19,7 +19,7 @@ This documentation is part of the PrestaShop project documentation package which
 
 1. To let testers & QA analysts know what test to build and run.
 2. To help people (and especially testers, QA analysts) to qualify an issue as a bug or a feature request
-3. To help developers, product managers, designers (...) know what they are getting
+3. To help developers, product managers, designers (...) understand how the application works
 
 ## Structure
 
