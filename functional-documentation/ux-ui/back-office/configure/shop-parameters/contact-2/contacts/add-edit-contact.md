@@ -20,7 +20,7 @@ This page is responsible for Adding or Editing the Contacts
 There are 2 [Navigation Pills UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/navigation--navigation-pills) tabs in the UI:
 
 * Contacts (active)
-* [**Stores**](../../contact-1/add-or-edit-stores.md)
+* [**Stores**](../../../shop-paramaters/contacts/add-or-edit-stores.md)
 
 ## Contacts section
 
