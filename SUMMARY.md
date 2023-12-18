@@ -278,7 +278,7 @@
           * [Team - Employees](functional-documentation/ux-ui/page-1/team-employees/README.md)
             * [Profiles](functional-documentation/ux-ui/page-1/team-employees/profiles.md)
             * [Add new / edit profile](functional-documentation/ux-ui/back-office/advanced-parameters/team-employees/add-new-edit-profile.md)
-            * [Add/edit employee](functional-documentation/ux-ui/back-office/advanced-parameters/team-employees/add-edit-employee.md)
+            * [Add/edit employee](functional-documentation/ux-ui/back-office/configure/advanced-parameters/team-employees/add-edit-employee.md)
           * [Database](functional-documentation/ux-ui/back-office/configure/advanced-parameters/database/README.md)
             * [SQL Manager](functional-documentation/ux-ui/back-office/configure/advanced-parameters/database/sql-manager/README.md)
               * [Add new SQL query](functional-documentation/ux-ui/back-office/configure/advanced-parameters/database/sql-manager/add-new-sql-query.md)
