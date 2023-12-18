@@ -34,7 +34,7 @@
         * [Pagination with input](functional-documentation/ux-ui/common-components/pagination-with-input.md)
       * [Forms](functional-documentation/ux-ui/common-components/forms/README.md)
         * [Color picker](functional-documentation/ux-ui/common-components/color-picker.md)
-        * [Text Editing Tools list](functional-documentation/ux-ui/common-components/forms/text-editing-tools-list.md)
+        * [Text Editing Tools list](functional-documentation/ux-ui/common-components/text-editing-tools-list.md)
         * [Language dropdown for input fields](functional-documentation/ux-ui/common-components/language-dropdown-for-input-fields.md)
         * [Save button](functional-documentation/ux-ui/common-components/save-button.md)
         * [Cancel button](functional-documentation/ux-ui/common-components/cancel-button.md)

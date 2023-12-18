@@ -1,6 +1,6 @@
 # Text Editing Tools list
 
-![Text Editing Tools UI](<../../../../.gitbook/assets/image (7) (2).png>)
+![Text Editing Tools UI](<../../../.gitbook/assets/image (7) (2).png>)
 
 ### **Source code**
 
@@ -90,7 +90,7 @@
 * Possibility to insert a table into the text editor field.&#x20;
 * The dropdown of the tool suggests **inserting a table**, by choosing maximum 10 x 10 square insertion widget.&#x20;
 * Also, If the table is created, there will be **Table properties**. The pop-up will appear, with the name Table properties.
-* **Width**, **Height**, **Cell spacing**, **Cell padding**, **Border, Caption**, **Alignment** (None, Left, Center, Right) can be adjusted by typing the pixel value in the input fields.
+* **Width**, **Height**, **Cell spacing**, **Cell padding**, **Border, Caption**, **Alignment** (None, Left, Center, Right), **cell, row and column** can be adjusted by typing the pixel value in the input fields.
 * The buttons **OK** will lead to saving the form and **Cancel** - will cancel and close the pop-up.
 
 ### **Insert/edit image**&#x20;
