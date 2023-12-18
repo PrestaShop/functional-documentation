@@ -1,4 +1,4 @@
-# Customers list
+# Customers
 
 
 
@@ -6,23 +6,17 @@
 
 This page displays the lists of customers who registered or ordered on the shop.
 
-[Customers related tests](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/customers.html)
-
 <figure><img src="../../../../../../.gitbook/assets/Capture d’écran 2022-10-07 à 11.26.14.png" alt=""><figcaption></figcaption></figure>
 
 ### QA&#x20;
 
 [Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/customers.html)
 
-## Components description
-
-This section MUST describe each component one by one
-
 ### Common components
 
-* [heading-of-the-page.md](../../../../common-components/heading-of-the-page.md "mention")
-* [help-button.md](../../../../common-components/help-button.md "mention")
 * [sorting-rules.md](../../../../common-components/sorting-rules.md "mention")
+* [Heading of the page](../../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help button](../../../../common-components/help-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
 
 ### Components
 
