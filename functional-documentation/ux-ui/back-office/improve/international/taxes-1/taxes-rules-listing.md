@@ -101,7 +101,7 @@ Once clicked on Bulk actions dropdown opens these options:&#x20;
 
 * **Select all** - selecting all the Tax Rules items.
 * **Unselect all** - unselecting all the Tax Rules items.
-* **Enable selected** - option to enable selected taxes.
+* **Enable selection** - option to enable selected taxes.
 * **Disable selection** - option to disable selected taxes. &#x20;
 * **Delete selected** - option to delete selected taxes.
 
