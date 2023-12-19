@@ -52,7 +52,11 @@ When you click on the contact page link you are redirected to[ Contact us](../..
 
 Let to download a pdf file with datas of the customer (warning multistore)
 
-{% file src="../../../../../.gitbook/assets/personal-data-2023-03-16.pdf" %}
+<figure><img src="../../../../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
 #### FO\_B\_GDPR\_DATA\_002
 
@@ -60,4 +64,4 @@ Let to download a csv file with datas of the customer
 
 Separator is coma and is base on unicode in UTF-8
 
-{% file src="../../../../../.gitbook/assets/personal-data-_2023-03-16_155020.csv" %}
+<figure><img src="../../../../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
