@@ -77,6 +77,4 @@ TODO : workflow diagram
 * The user must have at least 1 item checked in the group access checkbox table otherwise when clicking the save button a red alert message is displayed with the text : \
   "A default customer group must be selected in group box."
 
-## Limitations
-
-It is not possible to create guest customers from this page.
+##
