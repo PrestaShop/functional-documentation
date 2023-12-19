@@ -1,6 +1,6 @@
 # Ecotax
 
-## Add ecotax on the general workflow look at [this page](../pricing.md)
+## Add ecotax on the general workflow look at [this page](./)
 
 ## Business rule description
 

@@ -8,7 +8,7 @@ This module enables an image slider at the front-office of the shop, in the back
 
 ## QA&#x20;
 
-[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/modules.html)
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/ps-imageslider.html)
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
