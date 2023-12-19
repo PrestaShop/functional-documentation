@@ -10,7 +10,9 @@ This page allows any authorized user to connect to the PrestaShop back-office.
 
 <figure><img src="../../.gitbook/assets/flipped-login.png" alt=""><figcaption><p>Flipped send reset link</p></figcaption></figure>
 
+### QA&#x20;
 
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/login.html)
 
 ## Components description
 
