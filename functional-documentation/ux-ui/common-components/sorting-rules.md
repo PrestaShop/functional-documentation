@@ -1,7 +1,3 @@
----
-description: 'TODO : Requires dev review'
----
-
 # Sorting rules
 
 Sorting can be done by pressing a selected arrow (up or down) near the topic, from lowest to highest and the other way around.&#x20;
