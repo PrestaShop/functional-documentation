@@ -6,6 +6,10 @@ This dashboard is displaying the information about the Shopping Cart initiator -
 
 <figure><img src="../../../../../.gitbook/assets/image (1) (4) (1).png" alt="View Shoppinc Cart UI"><figcaption><p>View Shopping Cart User Interface</p></figcaption></figure>
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/orders/shopping-carts.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
@@ -38,7 +42,7 @@ This dashboard is displaying the information about the Shopping Cart initiator -
 
 The whole section table, where the orders of the customer are displayed. The elements of UI are basic: product image, product name with the link into the product editing, unit price, quantity, stock and total cart sum.
 
-**Total cost of products** and **Total** summary is also defined, counting the total sum from the products.
+**Total cost of products, Total shipping costs** and **Total** summary is also defined, counting the total sum from the products.
 
 Tax included or Tax excluded yellow warning notification is displayed _For this particular customer group, prices are displayed as: Tax included_ or _For this particular customer group, prices are displayed as: Tax excluded_ in the end of the Cart summary list.
 

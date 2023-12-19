@@ -4,11 +4,11 @@
 
 This is store's emails list and settings page. There are 3 separate sections displayed in this page: Sent email list, Email settings and Test your email configuration.
 
-<figure><img src="../../../../../.gitbook/assets/image (7) (1).png" alt="Sent Email list User Interface"><figcaption><p>Sent Email list User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (7) (1).png" alt="Sent Email list User Interface"><figcaption><p>Sent Email list User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (102).png" alt="Email settings section User Interface"><figcaption><p>Email settings section User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (102).png" alt="Email settings section User Interface"><figcaption><p>Email settings section User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (99).png" alt="Test your email configuration section User Interface"><figcaption><p>Test your email configuration section User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (99).png" alt="Test your email configuration section User Interface"><figcaption><p>Test your email configuration section User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
@@ -16,19 +16,19 @@ This is store's emails list and settings page. There are 3 separate sections dis
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
-* [PrestaShop version number](../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
-* [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
-* [Shop switcher](../../../common-components/shop-switcher.md)
+* [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
+* [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
+* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
+* [Shop switcher](../../../../common-components/shop-switcher.md)
 * Bell icon (todo link)
-* [Account icon](../../../common-components/account-icon.md)
-* [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help Button](../../../common-components/help-button.md) - [Buttons Outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Save button](../../../common-components/save-button.md) -  [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
-* [Sorting rules](../../../common-components/sorting-rules.md)
-* [Setting wheel](../../../common-components/settings-wheel.md)
+* [Account icon](../../../../common-components/account-icon.md)
+* [Breadcrumbs navigation](../../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help Button](../../../../common-components/help-button.md) - [Buttons Outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Save button](../../../../common-components/save-button.md) -  [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
+* [Sorting rules](../../../../common-components/sorting-rules.md)
+* [Setting wheel](../../../../common-components/settings-wheel.md)
 
 ## The UI elements
 
@@ -275,5 +275,5 @@ _A test email has been sent to the email address you provided._
 
 ## Multistores functionality
 
-[Multistores dependent](../../../common-components/multistores-dependent.md) page.
+[Multistores dependent](../../../../common-components/multistores-dependent.md) page.
 
