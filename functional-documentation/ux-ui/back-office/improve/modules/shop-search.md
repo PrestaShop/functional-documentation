@@ -10,6 +10,10 @@ This module does not have any configuration settings, it can only be enabled or 
 
 
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/statssearch.html)
+
 ## Components description
 
 
