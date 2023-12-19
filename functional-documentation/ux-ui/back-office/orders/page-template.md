@@ -2,6 +2,12 @@
 
 ## Description
 
+When “all shops” is selected, all the orders should be displayed from all the shops. A “shop” column is filled in by the shop where the order was made.
+
+When a group of shops is selected, only the orders belonging to the shops of this group are displayed.
+
+When a specific shop is selected, only the orders belonging to this shop are displayed.
+
 <figure><img src="../../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 ### QA&#x20;
