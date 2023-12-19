@@ -46,7 +46,7 @@ Get My data to CSV (button)
 
 When you click on the contact page link you are redirected to[ Contact us](../../contact-us.md)
 
-### Behavior description (TODO ajouter un mapping décrivant les fichiers ci-dessous)
+### Behavior description
 
 #### FO\_B\_GDPR\_DATA\_001
 
@@ -61,11 +61,3 @@ Let to download a csv file with datas of the customer
 Separator is coma and is base on unicode in UTF-8
 
 {% file src="../../../../../.gitbook/assets/personal-data-_2023-03-16_155020.csv" %}
-
-## Error messages
-
-This section COULD list all errors messages / Exceptions for the page / workflow
-
-## Limitations
-
-This section SHOULD list limitations of the page.
