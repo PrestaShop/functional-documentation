@@ -4,7 +4,9 @@
 
 The page consists of 2 toggle switches that can be enabled or disabled. The module by default provides an informative message with a link: at the top of the page: "For even more security on your website forms, consult our Security & Access modules category on the [PrestaShop Addons Marketplace](https://addons.prestashop.com/en/429-website-security-access?utm\_source=back-office\&utm\_medium=native-contactform\&utm\_campaign=back-office-EN\&utm\_content=security)".
 
-![](<../../../../../.gitbook/assets/Screenshot 2022-05-25 at 14-13-03 Module Manager • test.png>)
+
+
+<figure><img src="../../../../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 ### QA&#x20;
 
@@ -46,11 +48,7 @@ When pressed redirect back to the module manager (Modules > Module manager).
 
 When pressed, a pop-up opens with a drop-down, from which it is possible to select one of the languages installed on the shop to translate the module.
 
-**3. Check update**
-
-Checks for updates on the module.
-
-**4. Manage hooks**
+**3. Manage hooks**
 
 When pressed redirects to the (Design > Positions).
 
