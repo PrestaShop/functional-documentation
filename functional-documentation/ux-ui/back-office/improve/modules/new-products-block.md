@@ -6,6 +6,10 @@ The page consists of 2 input fields that can have their own values inside.
 
 ![](<../../../../../.gitbook/assets/Screenshot 2022-05-31 at 16-46-05 Module Manager • test (1).png>)
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/ps-newproducts/configuration.html)
+
 ## Components description
 
 #### 2 Components are present within the module settings:

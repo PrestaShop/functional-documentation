@@ -4,7 +4,7 @@
 
 This is the configuration page for the module.
 
-![](<../../../../../.gitbook/assets/Screenshot 2022-06-02 at 16-38-33 Module Manager • test.png>)
+<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Front - office
 
@@ -33,10 +33,6 @@ When pressed redirects back to the module manager (Modules > Module manager).
 #### &#x20; **Translate**
 
 When pressed, a pop-up opens with a drop-down, from which it is possible to select one of the languages installed on the shop to translate the module.
-
-#### &#x20;**Check update**
-
-When pressed, checks for updates on the module.
 
 #### &#x20; **Manage hooks**
 
