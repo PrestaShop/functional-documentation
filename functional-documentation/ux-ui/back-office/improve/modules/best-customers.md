@@ -8,6 +8,10 @@ This module does not have any configuration settings, it can only be enabled or 
 
 ![](<../../../../../.gitbook/assets/Screenshot 2022-07-29 at 11-22-59 Stats • test.png>)
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/statsbestcustomers.html)
+
 ## Components description
 
 In the "Stats" section the best customers can be filtered by date, the specifications can be found [\[HERE\]](../../../common-components/filtering-components-in-stats.md).
