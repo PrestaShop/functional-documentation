@@ -8,6 +8,10 @@ This module does not have any configuration settings, it can only be enabled or 
 
 ![](<../../../../../.gitbook/assets/Screenshot 2022-08-08 at 16-33-48 Stats • test.png>)
 
+## QA
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/statsstock.html)
+
 ## Components description
 
 Only component is the drop-down filter.
