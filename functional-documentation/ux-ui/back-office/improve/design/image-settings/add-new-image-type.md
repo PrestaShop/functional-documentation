@@ -6,6 +6,10 @@ This configuration UI is about adding the new Image type into the Image type lis
 
 <figure><img src="../../../../../../.gitbook/assets/image (17) (2).png" alt=""><figcaption><p>Adding or Editing Image type User Interface</p></figcaption></figure>
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/design/image-settings/bo-design-image-settings-crud.html)&#x20;
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
