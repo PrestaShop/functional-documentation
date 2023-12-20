@@ -10,6 +10,10 @@ At the top the 4 call to action buttons specs can be found [\[HERE\]](../../../c
 
 If the shop is currently in "All shops" mode, a message will be shown: "Please choose a shop to edit the social media links."
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/ps-socialfollow.html)
+
 ## Components description
 
 8 Components can be found in this section, all of the components are multilanguage, and can be translated to a different language which is installed on the shop:
@@ -77,6 +81,22 @@ If the shop is currently in "All shops" mode, a message will be shown: "Please c
 | Default value            |                                                                                                 |                |
 | Allowed/Forbidden values | The structure should be correct: "[https://www.](https://www.facebook.com/pages/create)example" | "Invalid URL:" |
 | Help text                | Your official LinkedIn account.                                                                 |                |
+
+* TikTok URL
+
+| Description              | Value                                                  | Error message  |
+| ------------------------ | ------------------------------------------------------ | -------------- |
+| Default value            |                                                        |                |
+| Allowed/Forbidden values | The structure should be correct: "https://www.example" | "Invalid URL:" |
+| Help text                | Your official TikTok account.                          |                |
+
+* Discord URL
+
+| Description              | Value                                                  | Error message  |
+| ------------------------ | ------------------------------------------------------ | -------------- |
+| Default value            |                                                        |                |
+| Allowed/Forbidden values | The structure should be correct: "https://www.example" | "Invalid URL:" |
+| Help text                | Your official Discord account.                         |                |
 
 
 
