@@ -8,6 +8,10 @@ This module does not have any configuration settings, it can only be enabled or 
 
 ![](<../../../../../.gitbook/assets/Screenshot 2022-08-04 at 14-04-25 Stats • test.png>)
 
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/modules/statsnewsletter.html)
+
 ## Components description
 
 
