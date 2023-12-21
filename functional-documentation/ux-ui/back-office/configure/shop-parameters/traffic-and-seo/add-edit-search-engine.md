@@ -8,6 +8,10 @@ This UI lets the administrator edit or add Search Engine value to the list.
 
 ## QA&#x20;
 
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/shop-parameters/trafic-and-seo/search-engines/bo-shop-parameters-traffic-and-seo-search-engines-crud.html)
+
+## QA&#x20;
+
 [Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/shop-parameters/trafic-and-seo/search-engines.html)
 
 ## Common components <a href="#common-components" id="common-components"></a>
@@ -22,11 +26,8 @@ This UI lets the administrator edit or add Search Engine value to the list.
 * [Search input](../../../../common-components/search-input-field.md)&#x20;
 * [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
-* Trophy icon (todo link)
 * [Account icon](../../../../common-components/account-icon.md)
-* [Language dropdown for input fields](../../../../common-components/language-dropdown-for-input-fields.md)
 * [Save button](../../../../common-components/save-button.md)
-* [Cancel button](../../../../common-components/cancel-button.md)
 
 ### Top UI elements
 
@@ -41,11 +42,11 @@ This UI lets the administrator edit or add Search Engine value to the list.
 
 ### **Server**&#x20;
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>YES</td><td align="center">The server field is required.</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>Empty or editable value</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>0</td><td align="center">The field name is required at least in your default language.</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>34</td><td align="center">This value is too long. It should have 34 characters or less. - Language: English (English)</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="add-edit-search-engine.md#server-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>YES</td><td align="center">The server field is required.</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>Empty or editable value</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>0</td><td align="center">The field name is required at least in your default language.</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>64</td><td align="center">This value is too long. It should have 34 characters or less. - Language: English (English)</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="add-edit-search-engine.md#server-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
 
 ### **$ GET variable**&#x20;
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>YES</td><td align="center">The getvar field is required.</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>Empty or editable value</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>0</td><td align="center">The field name is required at least in your default language.</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>6</td><td align="center">This value is too long. It should have 6 characters or less. - Language: English (English)</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="add-edit-search-engine.md#usd-get-variable-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>YES</td><td align="center">The getvar field is required.</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>Empty or editable value</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>0</td><td align="center">The field name is required at least in your default language.</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>16</td><td align="center">This value is too long. It should have 6 characters or less. - Language: English (English)</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="add-edit-search-engine.md#usd-get-variable-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
 
 ## Behavior descriptions
 
