@@ -6,6 +6,10 @@ In this section the options for geolocations can be found, as well as IP address
 
 <figure><img src="../../../../../../.gitbook/assets/Screenshot 2022-09-16 at 14-55-25 Geolocation • test.png" alt=""><figcaption><p>Geolocation tab</p></figcaption></figure>
 
+## QA
+
+[Link to the tests](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/international/localization/geolocation.html)
+
 ## Components description&#x20;
 
 
