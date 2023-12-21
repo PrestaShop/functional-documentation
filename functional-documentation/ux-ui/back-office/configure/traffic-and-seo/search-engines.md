@@ -31,54 +31,54 @@ This UI lists the Prestashop Search Engines entries.
 
 ### Meaning of this page
 
-Once the visitors are accessing the webshop, some of them come from Search Engines, like Google. Google Search Engine is added in the listing by default, after the Prestashop installation. The purpose of this page is to gather all the available Search Engines, that Prestashop can recognize. Then the shop administrators can manage those queries, and can be informed, where the visitors are coming from.
+Once the visitors are accessing the webshop, some of them come from Search Engines, like Google. Google Search Engine is added in the listing by default (look at the complete list below), after the Prestashop installation. The purpose of this page is to gather all the available Search Engines, that Prestashop can recognize. Then the shop administrators can manage those queries, and can be informed, where the visitors are coming from.
 
 ### Default Search Engines
 
 There are 38 default Search Engines stored in Prestashop already:
 
-* Google
-* Aol
-* Yandex
-* Ask.com
-* Nhl.com
-* Yahoo
-* Baidu
-* Lycos
-* Exalead
-* Search.live
-* Voila
-* Altavista
-* Bing
-* Daum
-* Eniro
-* Naver
-* Msn
-* Netscape
-* Cnn
-* About
-* Mamma
-* Alltheweb
-* Virgilio
-* Alice
-* Najdi
-* Mama
-* Seznam
-* Onet
-* Szukacz
-* Yam
-* Pchome
-* Kvasir
-* Sesam
-* Ozu
-* Terra
-* Mynet
-* Ekolay
-* Rembler
+* Google with GET variable : q
+* Aol with GET variable : q
+* Yandex with GET variable : text
+* Ask.com with GET variable : q
+* Nhl.com with GET variable : q
+* Yahoo with GET variable : p
+* Baidu  with GET variable : wd
+* Lycos with GET variable : query
+* Exalead with GET variable : q
+* Search.live with GET variable : q
+* Voila with GET variable : rdata
+* Altavista with GET variable : q
+* Bing with GET variable : q
+* Daum with GET variable : q
+* Eniro with GET variable : search\_word
+* Naver with GET variable : query
+* Msn with GET variable : q
+* Netscape with GET variable : query
+* Cnn  with GET variable : query
+* About with GET variable : terms
+* Mamma with GET variable : query
+* Alltheweb with GET variable : q
+* Virgilio with GET variable : qs
+* Alice with GET variable : qs
+* Najdi with GET variable : q
+* Mama with GET variable : query
+* Seznam with GET variable : q
+* Onet with GET variable : qt
+* Szukacz with GET variable : q
+* Yam with GET variable : k
+* Pchome with GET variable : q
+* Kvasir with GET variable : q
+* Sesam with GET variable : q
+* Ozu with GET variable : q
+* Terra with GET variable : query
+* Mynet with GET variable : q
+* Ekolay with GET variable : q
+* Rambler with GET variable : words
 
 ### Top UI elements
 
-* **(+) Add new search engine** - CTA button for adding a new Search Engine entry. Component is from [Button Basics UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
+* **(+) Add new search engine** - CTA button for adding a new Search Engine entry. The component is from [Button Basics UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
 * **Tabs** - component is from [Navigation Pills UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/navigation--navigation-pills) and for Traffic & SEO menu:
   * SEO & URLs.
   * Search Engines - highlighted tab.
@@ -88,10 +88,9 @@ There are 38 default Search Engines stored in Prestashop already:
 
 This parent component is containing a [4 table header tools Common Component](search-engines.md#description)&#x20;
 
-* **Search Engines** - table title with.
-* **Numeric value** - total sum of Search Engines identified.
-* **Plus icon** - the same as **(+) Add new search engine** CTA button in top-right UI - adds new Search Engine entry.
-* **Export icon** - when clicked, a file is generated with all **displayed** Search Engines from the data list in CSV format.
+* **Search Engines** - table title and between brackets **Numeric value** - total sum of Search Engines identified.
+* **Show SQL query** - the query to export the search engine
+* **Export to SQL Manager** - when clicked, a file is generated with all **displayed** Search Engines from the data list in CSV format.
 * **Refresh** - once clicked, the whole page reloads to display the latest data.
 
 ### Filtering
@@ -117,11 +116,14 @@ This parent component is containing a [4 table header tools Common Component](se
 
 Dropdown actions contain:
 
-* **Select all** - selecting all the Search Engine items.
-* **Unselect all** - unselecting all the Search Engine items.
 * **Delete selected** - deletes the certain selected Search Engine items.
 
-A screenshot for the new checkbox : ![](<../../../../../.gitbook/assets/image (157).png>)&#x20;
+### CheckBox Select all or Unselect all : &#x20;
+
+<figure><img src="../../../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+
+* **Select all** - selecting all the Search Engine items.
+* **Unselect all** - unselecting all the Search Engine items.
 
 ### Pagination
 
@@ -133,7 +135,7 @@ The pagination can be selected by using the navigation widget, with the numbers 
 
 ### Search button behavior
 
-Executes the filtering action, shows the results. If the button is clicked without filling the filter inputs, the UI will be prompted with the warning message _Please fill at least one field to perform a search in this list._
+Executes the filtering action and shows the results. If the button is clicked without filling the filter inputs, the UI will be prompted with the warning message _Please fill at least one field to perform a search in this list._
 
 ## Multistores functionality
 
