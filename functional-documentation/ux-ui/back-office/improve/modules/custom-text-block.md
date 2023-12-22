@@ -8,7 +8,7 @@ This module adds a custom text block at the bottom of the front-office page.&#x2
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).&#x20;
+* [E-commerce logo](../../../common-components/e-commerce-logo.md).&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
 * [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
@@ -19,7 +19,7 @@ This module adds a custom text block at the bottom of the front-office page.&#x2
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Page header call to action buttons (modules)](../../../common-components/page-header-call-to-action-buttons-modules.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
 * [Language dropdown for input fields](../../../common-components/language-dropdown-for-input-fields.md).
-* [Text editing tools list](../../../common-components/forms/text-editing-tools-list.md).
+* [Text editing tools list](../../../common-components/text-editing-tools-list.md).
 * Shop association block (todo link)
 * [Configuration block](../../../common-components/configuration-block.md).&#x20;
 * [Save button](../../../common-components/save-button.md) - [Buttons basics UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
@@ -38,7 +38,7 @@ This is title of the block that has two elements: Text block and Shop associatio
 
 ### Text block input behavior
 
-This is a text input ([Forms normal UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--normal)) here it's possible select in which language the text will be written. Above the text field there is a [Text editing tools list](../../../common-components/forms/text-editing-tools-list.md).
+This is a text input ([Forms normal UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--normal)) here it's possible select in which language the text will be written. Above the text field there is a [Text editing tools list](../../../common-components/text-editing-tools-list.md).
 
 ### **Shop association block behavior**
 

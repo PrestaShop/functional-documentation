@@ -19,7 +19,7 @@ The UI it’s the "Preferences" page, you can set some basic informations that w
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).&#x20;
 * [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md).&#x20;
 * [Account icon](../../../common-components/account-icon.md).
-* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
+* [E-commerce logo](../../../common-components/e-commerce-logo.md).
 * [Setting bar](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/366/functional-documentation/ux-ui/common-components/setting-bar)&#x20;
 * [Bell icon ](../../../common-components/bell-icon.md)
 * [Save button ](../../../common-components/save-button.md)

@@ -17,7 +17,7 @@ This UI shows the list of features, that needs the attention from administrator.
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [Save button](../../../common-components/save-button.md)
 * [Cancel button](../../../common-components/cancel-button.md)&#x20;
-* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
+* [E-commerce logo](../../../common-components/e-commerce-logo.md)&#x20;
 * [Version number](../../../common-components/prestashop-version-number.md)&#x20;
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
 * [Search input](../../../common-components/search-input-field.md)&#x20;

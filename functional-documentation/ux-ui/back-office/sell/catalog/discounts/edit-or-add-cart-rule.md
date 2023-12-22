@@ -26,7 +26,7 @@ When you enter the Cart rule editing UI, there are 3 separate tabs - Information
 * [Save button](../../../../common-components/save-button.md) - [Buttons basics UI Kit.](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics)
 * [Save and Stay button](../../../../common-components/save-and-stay-button.md) - [Buttons basics UI Kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
 * [Cancel button](../../../../common-components/cancel-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)
+* [E-commerce logo](../../../../common-components/e-commerce-logo.md)
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md)
 * [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../common-components/search-input-field.md)

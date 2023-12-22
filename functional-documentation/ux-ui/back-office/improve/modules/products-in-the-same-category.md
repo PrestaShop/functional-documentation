@@ -12,7 +12,7 @@ The module when enabled shows products for the customers in the Front office as 
 
 ## Common components
 
-* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
+* [E-commerce logo](../../../common-components/e-commerce-logo.md).
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
 * [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).

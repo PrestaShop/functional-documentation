@@ -10,7 +10,7 @@ This functionality able to make a return action of purchased goods via Prestasho
 
 ## Components description <a href="#common-components" id="common-components"></a>
 
-<figure><img src="../../../../../../.gitbook/assets/image (87).png" alt="Add or Edit Merchandise Return User Interface"><figcaption><p>Add or Edit Merchandise Return User Interface</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (87).png" alt="Add or Edit Merchandise Return User Interface"><figcaption><p>Add or Edit Merchandise Return User Interface</p></figcaption></figure>
 
 ## QA&#x20;
 
@@ -18,24 +18,24 @@ This functionality able to make a return action of purchased goods via Prestasho
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-* [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)
-* [PrestaShop version number](../../../../common-components/prestashop-version-number.md)
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)
-* [Search input](../../../../common-components/search-input-field.md)
-* [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)
+* [E-commerce logo](../../common-components/e-commerce-logo.md)
+* [PrestaShop version number](../../common-components/prestashop-version-number.md)
+* [Quick access dropdown](../../common-components/quick-access-dropdown.md)
+* [Search input](../../common-components/search-input-field.md)
+* [Shop switcher with eye icon](../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
-* [Account icon](../../../../common-components/account-icon.md)&#x20;
-* [Breadcrumbs navigation](../../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help Button](../../../../common-components/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Save button](../../../../common-components/save-button.md) -  [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
-* [Cancel button](../../../../common-components/cancel-button.md) -  [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Account icon](../../common-components/account-icon.md)&#x20;
+* [Breadcrumbs navigation](../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help Button](../../common-components/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Save button](../../common-components/save-button.md) -  [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
+* [Cancel button](../../common-components/cancel-button.md) -  [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 
 ## The UI elements&#x20;
 
 ### Status dropdown
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>Yes</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>Current return status </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>Merchandise return (RMA) status.</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="./#status-dropdown-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>Yes</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>Current return status </td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>Merchandise return (RMA) status.</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="add-or-edit-merchandise-returns.md#status-dropdown-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
 
 ## Behaviors description
 
@@ -71,7 +71,7 @@ There are these elements in the list:&#x20;
 * _Reference_
 * _Product name_
 * _Quantity_
-* _Action_ : [Delete button](./#delete-button-behavior)
+* _Action_ : [Delete button](add-or-edit-merchandise-returns.md#delete-button-behavior)
 
 ### Delete button behavior&#x20;
 
@@ -85,6 +85,6 @@ There is helper text under document: _The link is only available after validatio
 
 ## Multistores compatibility
 
-This page is [Multistores dependent](../../../../common-components/multistores-dependent.md) page.
+This page is [Multistores dependent](../../common-components/multistores-dependent.md) page.
 
 Merchandise Editing functionality is separately maintained by each separate multistore shop. It means, that all the Merchandise Returns and Orders are managed separately in each multistore, by switching the Multistore Switcher to the appropriate shop. _All Shops_ view context is also available, it is comfortable to see all the Merchandise Returns in one list from all the shops.

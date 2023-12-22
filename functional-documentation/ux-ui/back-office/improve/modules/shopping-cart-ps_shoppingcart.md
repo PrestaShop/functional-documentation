@@ -16,7 +16,7 @@ This module displays a shopping cart icon with number of items it contains.
 
 
 
-* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
+* [E-commerce logo](../../../common-components/e-commerce-logo.md)&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
 * [Account icon](../../../common-components/account-icon.md)&#x20;

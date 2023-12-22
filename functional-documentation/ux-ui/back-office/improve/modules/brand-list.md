@@ -1,3 +1,7 @@
+---
+description: This section is the back office settings of the module Brand list
+---
+
 # Brand list (ps\_brandlist)
 
 ## Description

@@ -17,7 +17,7 @@ This module is responsible for the webshop's top main menu links, and it's confi
 * [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * ​[Save button](../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics) (becomes as Update button in Update link section, when Links are being updated)
-* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
+* [E-commerce logo](../../../common-components/e-commerce-logo.md)&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
 * [Search input](../../../common-components/search-input-field.md)

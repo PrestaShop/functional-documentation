@@ -12,7 +12,7 @@ This UI is responsible for General, Upload, and Notifications settings of the we
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [Cancel button](../common-components/cancel-button.md)
-* [E-commerce logo ](../common-components/back-office-header/prestashop-logo.md)
+* [E-commerce logo ](../common-components/e-commerce-logo.md)
 * Version number (todo link)
 * [Quick access dropdown ](../common-components/quick-access-dropdown.md)
 * Search input (todo link)

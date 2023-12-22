@@ -17,7 +17,7 @@ Catalog price rules enable to assign price reductions by category, brand, suppli
 * [Help Button](../../../../common-components/help-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [Save button](../../../../common-components/save-button.md) - [Buttons Basics UI Kit.](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics)
 * [Cancel button](../../../../common-components/cancel-button.md) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md)&#x20;
+* [E-commerce logo](../../../../common-components/e-commerce-logo.md)&#x20;
 * [PrestaShop version number ](../../../../common-components/prestashop-version-number.md)
 * [Quick access dropdown](../../../../common-components/quick-access-dropdown.md)&#x20;
 * [Search input](../../../../common-components/search-input-field.md)

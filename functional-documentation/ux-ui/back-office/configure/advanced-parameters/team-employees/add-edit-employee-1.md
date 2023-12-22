@@ -4,22 +4,22 @@
 
 This is page to create new employee or edit employee data.
 
-<figure><img src="../../../../../.gitbook/assets/image (124).png" alt="Add new / edit employee User Interface"><figcaption><p>Add new / edit employee User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (124).png" alt="Add new / edit employee User Interface"><figcaption><p>Add new / edit employee User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
-* [PrestaShop version number](../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
-* [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
+* [E-commerce logo](../../../../common-components/e-commerce-logo.md).
+* [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
+* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
+* [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * Bell icon (todo link)
-* [Account icon](../../../common-components/account-icon.md).
-* [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help button](../../../common-components/help-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Account icon](../../../../common-components/account-icon.md).
+* [Breadcrumbs navigation](../../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help button](../../../../common-components/help-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
 * Shop association block (todo link)
-* [Cancel button](../../../common-components/cancel-button.md) -  [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Save button](../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
+* [Cancel button](../../../../common-components/cancel-button.md) -  [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Save button](../../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
 
 ## The UI elements
 

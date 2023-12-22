@@ -277,7 +277,7 @@ If the customer has no address, the panel displays "\[Customer name] has not reg
 
 This page proposes 3 workflows :&#x20;
 
-* Accessing the [add-customer.md](../add-customer.md "mention") page
+* Accessing the [editing-customer.md](editing-customer.md "mention") page
 * [convert-a-guest-customer-to-a-registered-customer.md](../../../../../business-rules/customers/convert-a-guest-customer-to-a-registered-customer.md "mention")(BR)
 * Adding a private note to a customer
 
