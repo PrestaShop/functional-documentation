@@ -4,7 +4,7 @@
 
 This UI lists the Prestashop Search Engines entries.
 
-<figure><img src="../../../../../../.gitbook/assets/image (18) (1).png" alt="Search Engines User Interface"><figcaption><p>Search Engines User Interface</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (18) (1).png" alt="Search Engines User Interface"><figcaption><p>Search Engines User Interface</p></figcaption></figure>
 
 ## QA <a href="#common-components" id="common-components"></a>
 
@@ -15,19 +15,19 @@ This UI lists the Prestashop Search Engines entries.
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Cancel button](../../../../common-components/cancel-button.md)
-* [E-commerce logo ](../../../../common-components/back-office-header/prestashop-logo.md)
-* [Version number](../../../../common-components/prestashop-version-number.md)
-* [Quick access dropdown ](../../../../common-components/quick-access-dropdown.md)
-* [Search input](../../../../common-components/search-input-field.md)&#x20;
-* [Shop switcher with eye icon](../../../../common-components/shop-switcher-with-eye-icon.md)
+* [Cancel button](../../../common-components/cancel-button.md)
+* [E-commerce logo ](../../../common-components/back-office-header/prestashop-logo.md)
+* [Version number](../../../common-components/prestashop-version-number.md)
+* [Quick access dropdown ](../../../common-components/quick-access-dropdown.md)
+* [Search input](../../../common-components/search-input-field.md)&#x20;
+* [Shop switcher with eye icon](../../../common-components/shop-switcher-with-eye-icon.md)
 * Bell icon (todo link)
 * Trophy icon (todo link)
-* [Account icon](../../../../common-components/account-icon.md)
-* [Language dropdown for input fields](../../../../common-components/language-dropdown-for-input-fields.md)
-* [Save button](../../../../common-components/save-button.md)
-* [Cancel button](../../../../common-components/cancel-button.md)
-* [Sorting rules](../../../../common-components/sorting-rules.md)
+* [Account icon](../../../common-components/account-icon.md)
+* [Language dropdown for input fields](../../../common-components/language-dropdown-for-input-fields.md)
+* [Save button](../../../common-components/save-button.md)
+* [Cancel button](../../../common-components/cancel-button.md)
+* [Sorting rules](../../../common-components/sorting-rules.md)
 
 ### Meaning of this page
 
@@ -120,14 +120,14 @@ Dropdown actions contain:
 
 ### CheckBox Select all or Unselect all : &#x20;
 
-<figure><img src="../../../../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
 * **Select all** - selecting all the Search Engine items.
 * **Unselect all** - unselecting all the Search Engine items.
 
 ### Pagination
 
-This page contains [Pagination](../../../../common-components/pagination.md) common component details.
+This page contains [Pagination](../../../common-components/pagination.md) common component details.
 
 The pagination can be selected by using the navigation widget, with the numbers and left and right sided arrows on the bottom-right of the UI. Search Engines lists can be displayed as 20, 50, 100, 300 and 1000 entries in a one page, by using a dropdown at the bottom-center of the UI.
 

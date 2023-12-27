@@ -12,7 +12,7 @@ Webservice is the page of webservice keys list and webservice configuration bloc
 
 ### QA&#x20;
 
-[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/advanced-parameters/webservice1.html)
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/advanced-parameters/webservice.html)
 
 ## Common components
 
