@@ -6,6 +6,10 @@ This page allows adding or editing the Order statuses which are managed in the O
 
 <figure><img src="../../../../../../../.gitbook/assets/image (4) (3) (1).png" alt=""><figcaption><p>Order status Add or Edit User Interface</p></figcaption></figure>
 
+## QA
+
+[Link to the tests](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/shop-parameters/order-settings/statuses/bo-shop-parameters-order-statuses-crud.html)
+
 ## Common components
 
 * [Breadcrumbs navigation](../../../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
@@ -34,7 +38,7 @@ The section contains a clock icon, a title _Order status_ in the header and the 
 
 ### Icon
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>All graphical extensions: JPG, GIF, PNG.</td><td align="center">Image format not recognized, allowed formats are: .gif, .jpg, .png</td><td></td></tr><tr><td>Default value</td><td>Empty field</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>Upload an icon from your computer (File type: .gif, suggested size: 16x16).</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">Your entry in field name (language English (English)) exceeds max length 64 chars (incl. HTML tags).</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="add-new-edit-order-status.md#behavior-of-the-icon">Behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>NO</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>All graphical extensions: GIF, JPG, JPEG, JPE, PNG, WEBP.</td><td align="center">Image format not recognized, allowed formats are: .gif, .jpg, .jpeg, .jpe, .png, .webp</td><td></td></tr><tr><td>Default value</td><td>Empty field</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>Upload an icon from your computer (File type: .gif, suggested size: 16x16).</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">Your entry in field name (language English (English)) exceeds max length 64 chars (incl. HTML tags).</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="add-new-edit-order-status.md#behavior-of-the-icon">Behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
 
 ### Color title
 
