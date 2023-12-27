@@ -1,8 +1,8 @@
 ---
 description: >-
-  This page is displayed when Add new webservice key button is clicked. This
-  form allows to create a webservice key. Each key gives access only to certain
-  selected resources of the store.
+  This page opens when in Webservice page clicked Add new webservice key button.
+  It is form for creating new webservice key. Each key gives access only to
+  certain selected resources of the store.
 ---
 
 # Add new webservice key
