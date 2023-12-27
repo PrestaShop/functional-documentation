@@ -1,13 +1,17 @@
 ---
 description: >-
-  This page opens when in Webservice page clicked Add new webservice key button.
-  It is form for creating new webservice key. Each key gives access only to
-  certain selected resources of the store.
+  This page is displayed when Add new webservice key button is clicked. This
+  form allows to create a webservice key. Each key gives access only to certain
+  selected resources of the store.
 ---
 
 # Add new webservice key
 
 <figure><img src="../../../../../../.gitbook/assets/image (1) (2) (3).png" alt=""><figcaption><p>Add new webservice key user interface</p></figcaption></figure>
+
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/advanced-parameters/webservice.html)
 
 ## Common components
 
@@ -19,17 +23,16 @@ description: >-
 
 ### Key input
 
-It is mandatory input with bottom helper ([Forms helper UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/forms--helpers)). Helpers text is: \
-_Webservice account key._ \
-Key input allows entering letters, numbers and symbols. Key should be 32 characters long. If it is too short or too long message appears: \
-_Key length must be 32 character long._\
-Next to input is **Generate** CTA button ([Buttons outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline)) it generates webservice key.
+<table><thead><tr><th width="200">Description</th><th width="203">Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>YES</td><td align="center">The Zip/Postal code is invalid. It must be typed as follows: </td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>Key input allows entering letters, numbers and symbols (@? # - _). </td><td align="center">Only non-accented characters, numbers, and the following special characters are allowed: @? # -</td><td></td></tr><tr><td>Default value</td><td>Empty</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td><p>Webservice account key. </p><p>The key must be 32 characters long.</p></td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>Key input should be 32 characters long. If it is too short a message appears: <br></td><td align="center">Key length must be 32 characters long.</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>Key input should be 32 characters long. If it is too long, a message appears: <br></td><td align="center">Key length must be 32 characters long.</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/~/changes/554/functional-documentation/ux-ui/back-office/configure/shop-parameters/webservice-1/add-new-webservice-key/~/comments/eRjdjIPo4WAUo4DvjTco?node=bbb6783b542f41519a1234d616d9eaa4#key">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+
+###
 
 ### Key description input
 
 It is input with bottom helper ([Forms helper UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/forms--helpers)). Helpers text is: \
-_Quick description of the key: who it is for, what permissions it has, etc._\
-Key input allows to enter letters, numbers and symbols.&#x20;
+The Key description input allows you to add details about the Webservice key. Helpers text is: \
+Quick description of the key: who it is for, what permissions it has, etc.\
+
 
 ### Enable webservice key toggle switch
 
@@ -37,7 +40,7 @@ It is on-off toggle switch ([Forms switch story UI kit](https://build.prestashop
 
 ### Permissions
 
-This block has alert message ([Alerts basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/alerts--basics)) and it is:\
+This block has an alert message ([Alerts basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/alerts--basics)) and it is:\
 _Set the resource permissions for this key:_
 
 Under this message there is the table to set permissions.
@@ -46,28 +49,36 @@ Under this message there is the table to set permissions.
 
 **Resource column** - There are resources listed by alphabet from A to Z.
 
-**All** - when marked checkbox, enable all row checkboxes.
+**All** - When the checkbox All is clicked, all the checkboxes for the resource are checked or unchecked.
 
-**View (GET)** - once clicked this link on top of table, enable all column checkboxes.
+**View (GET)** - once clicked this link on top of table, all the resources are checked or unchecked for View column.
 
-**Modify (PUT)** - once clicked this link on top of table, enable all column checkboxes.
+**Modify (PUT)** - once clicked this link on top of table, all the resources are checked or unchecked for Modify column.
 
-**Add (POST)** - once clicked this link on top of table, enable all column checkboxes.
+**Add (POST)** - once clicked this link on top of table, all the resources are checked or unchecked for Add column.
 
-**Delete (DELETE)** - once clicked this link on top of table, enable all column checkboxes.
+**Patch (PATCH)** - once clicked, all the resources are checked for Patch column
 
-**Fast view (HEAD)** - once clicked this link on top of table, enable all column checkboxes.
+**Delete (DELETE)** - once clicked this link on top of table, all the resources are checked or unchecked for Delete column.
 
-**Scroll bar** - there is a vertical table scroll bar that helps to scroll the table up and down.
+**Fast view (HEAD)** - once clicked this link on top of table, all the resources are checked or unchecked for Fast view (Head) column.
+
+**Scroll bar** - there is a vertical scroll bar that helps to scroll the table up and down.
 
 ###
 
-## Behaviors desciption
+## Behavior desciption
 
 ### Webservice key saving
 
 Once clicked **Save** button in Add new webservice key page, if it is successful, opens Webservice page with newly created webservice key in the list and alert message ([Alerts basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/alerts--basics)):\
 _Successful creation._
+
+
+
+### Key
+
+The Generate button (Buttons outline UI kit) is on the right side of the Key input, it generates automatically the webservice key.
 
 ### Multistores behavior
 

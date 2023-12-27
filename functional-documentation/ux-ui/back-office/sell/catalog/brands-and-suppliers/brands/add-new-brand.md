@@ -4,25 +4,25 @@
 
 This page opens when in Brands page click on the "Add new brand" button. This creation form allows to create new brand. &#x20;
 
-<figure><img src="../../../../../../.gitbook/assets/image (130).png" alt="Add new brand User Interface"><figcaption><p>Add new brand User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../../.gitbook/assets/image (130).png" alt="Add new brand User Interface"><figcaption><p>Add new brand User Interface</p></figcaption></figure>
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-* [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
-* [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
-* [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
-* [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
+* [E-commerce logo](../../../../../common-components/back-office-header/prestashop-logo.md).
+* [PrestaShop version number](../../../../../common-components/prestashop-version-number.md).
+* [Quick access dropdown](../../../../../common-components/quick-access-dropdown.md).
+* [Search input](../../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
 * Bell icon (todo link)
-* [Account icon](../../../../common-components/account-icon.md).
-* [Shop switcher](../../../../common-components/shop-switcher.md).
-* [Breadcrumbs navigation](../../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
-* [Heading of the page](../../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
-* [Help button](../../../../common-components/help-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
-* [Text Editing Tools list](../../../../common-components/forms/text-editing-tools-list.md).
-* [Language dropdown for input fields](../../../../common-components/language-dropdown-for-input-fields.md).
+* [Account icon](../../../../../common-components/account-icon.md).
+* [Shop switcher](../../../../../common-components/shop-switcher.md).
+* [Breadcrumbs navigation](../../../../../common-components/breadcrumbs.md) - [Breadcrumb UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
+* [Heading of the page](../../../../../common-components/heading-of-the-page.md) - [Headings UI ](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings)[kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/headings--headings).
+* [Help button](../../../../../common-components/help-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Text Editing Tools list](../../../../../common-components/text-editing-tools-list.md).
+* [Language dropdown for input fields](../../../../../common-components/language-dropdown-for-input-fields.md).
 * Shop association block (todo link)
-* [Save button](../../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
-* [Cancel button](../../../../common-components/cancel-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
+* [Save button](../../../../../common-components/save-button.md) - [Buttons basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--basics).
+* [Cancel button](../../../../../common-components/cancel-button.md) - [Buttons outline UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/buttons--outline).
 
 ## The UI elements
 
@@ -98,4 +98,4 @@ This toggle switch ([Forms switch story UI kit](https://build.prestashop-project
 
 ## Multistores functionality
 
-[Multistores independent](../../../../common-components/multistores-independent.md) page. Multistore functionality depends on Shop association block settings.&#x20;
+[Multistores independent](../../../../../common-components/multistores-independent.md) page. Multistore functionality depends on Shop association block settings.&#x20;
