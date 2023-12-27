@@ -8,6 +8,10 @@ This page manages the setting for webshop administrators to temporary stop the a
 
 <figure><img src="../../../../../../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Multishop in Maintenance User Interface ( LABEL MULTISHOP ) </p></figcaption></figure>
 
+## QA
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/shop-parameters/general/maintenance.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [Breadcrumbs navigation](broken-reference) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).
@@ -41,7 +45,7 @@ _We recommend that you deactivate your store while performing maintenance. Note 
 
 ### Custom maintenance text area
 
-<table><thead><tr><th>Description</th><th width="311">Value</th><th width="205.33333333333331" align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>YES</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td><strong>-</strong></td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>Empty field or defined text earlier</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td><em>0 of 21844 characters allowed</em></td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="maintenance.md#behavior-of-the-custom-maintenance-text-area">Behavior</a> of the custom maintenance text area</td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th width="311">Value</th><th width="205.33333333333331" align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>YES</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td><strong>-</strong></td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>We are currently updating our shop and will be back really soon. Thanks for your patience.</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td><em>0 of 21844 characters allowed</em></td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="maintenance.md#behavior-of-the-custom-maintenance-text-area">Behavior</a> of the custom maintenance text area</td><td align="center">-</td><td></td></tr></tbody></table>
 
 ### Multistores dropdown component
 
