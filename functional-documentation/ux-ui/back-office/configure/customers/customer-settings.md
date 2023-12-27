@@ -4,6 +4,10 @@ This page defines the general Customer settings of the webshop.
 
 ![Customers Settings UI](<../../../../../.gitbook/assets/image (6) (1).png>)
 
+## QA
+
+[Link to the tests](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/shop-parameters/customers-setting/customers.html)
+
 ## Common components
 
 * [Breadcrumbs navigation](../../../common-components/breadcrumbs.md) - [Breadcrumb UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/breadcrumb--breadcrumb).

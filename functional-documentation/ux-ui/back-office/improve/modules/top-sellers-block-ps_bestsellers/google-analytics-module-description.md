@@ -14,7 +14,7 @@ This is the page for Google analytics module configuration. It has two blocks: i
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-* [E-commerce logo](../../../../common-components/e-commerce-logo.md).
+* [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../../common-components/prestashop-version-number.md).
 * [Quick access dropdown](../../../../common-components/quick-access-dropdown.md).
 * [Search input](../../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).

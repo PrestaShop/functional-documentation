@@ -18,7 +18,7 @@ This UI represents the function of adding / editing a SEO & URL page, which is d
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [Cancel button](../../../../common-components/cancel-button.md)
-* [E-commerce logo ](../../../../common-components/e-commerce-logo.md)
+* [E-commerce logo ](../../../../common-components/back-office-header/prestashop-logo.md)
 * [Version number](../../../../common-components/prestashop-version-number.md)
 * [Quick access dropdown ](../../../../common-components/quick-access-dropdown.md)
 * [Search input](../../../../common-components/search-input-field.md)

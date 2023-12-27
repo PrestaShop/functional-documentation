@@ -8,7 +8,7 @@ This module is responsible for generating and managing the graphical interface e
 
 ## Common components
 
-* [E-commerce logo](../../../common-components/e-commerce-logo.md).
+* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
 * [Search input](../../../common-components/search-input-field.md).

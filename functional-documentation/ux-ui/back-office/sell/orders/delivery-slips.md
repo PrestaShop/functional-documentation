@@ -26,7 +26,7 @@ This UI allows configuring the Delivery Slips - download the PDF or manage the a
 * [Heading of the page](broken-reference) - [Headings UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help Button](broken-reference) - [Buttons Outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [Cancel button](../../../common-components/cancel-button.md)
-* [E-commerce logo ](../../../common-components/e-commerce-logo.md)
+* [E-commerce logo ](../../../common-components/back-office-header/prestashop-logo.md)
 * [Version number](../../../common-components/prestashop-version-number.md)
 * [Quick access dropdown ](../../../common-components/quick-access-dropdown.md)
 * [Search input](../../../common-components/search-input-field.md)&#x20;

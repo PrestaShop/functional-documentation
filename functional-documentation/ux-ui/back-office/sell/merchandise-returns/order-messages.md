@@ -16,7 +16,7 @@ This UI shows the list of messages, that were sent by webshop customer, who crea
 * [Heading of the page](../../../common-components/heading-of-the-page.md) - [Headings UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/headings--headings).
 * [Help button](../../../common-components/help-button.md) - [Buttons outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [Cancel button](../../../common-components/cancel-button.md) - [Buttons outline UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
-* [E-commerce logo ](../../../common-components/e-commerce-logo.md)
+* [E-commerce logo ](../../../common-components/back-office-header/prestashop-logo.md)
 * [PrestaShop Version number](../../../common-components/prestashop-version-number.md)
 * [Quick access dropdown ](../../../common-components/quick-access-dropdown.md)
 * [Search input ](../../../common-components/search-input-field.md)

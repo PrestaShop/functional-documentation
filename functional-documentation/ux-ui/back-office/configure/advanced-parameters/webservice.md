@@ -21,7 +21,7 @@ Webservice is the page of webservice keys list and webservice configuration bloc
 * [Help button](../../../common-components/help-button.md) - [Buttons outline UI Kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--outline).
 * [Save button](https://app.gitbook.com/o/-MAz0PPl5s9ulE9xyliu/s/eRh5ljXXvELkmmdiRmg8/\~/changes/cEqmt5dokN7isI6zTmSs/functional-documentation/ux-ui/common-components/save-button) - [Buttons basics UI kit](https://build.prestashop.com/prestashop-ui-kit/?path=/story/buttons--basics).
 * [Setting wheel](../../../common-components/settings-wheel.md)&#x20;
-* [E-commerce logo](../../../common-components/e-commerce-logo.md)&#x20;
+* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md)&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md)&#x20;
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md)&#x20;
 * Search input (todo link)

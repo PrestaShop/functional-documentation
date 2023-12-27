@@ -8,7 +8,7 @@ This module is set for Customer data privacy text customization.
 
 ## Common components
 
-* [E-commerce logo](../../../common-components/e-commerce-logo.md).
+* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).
 * [Search input ](../../../common-components/search-input-field.md)
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md).

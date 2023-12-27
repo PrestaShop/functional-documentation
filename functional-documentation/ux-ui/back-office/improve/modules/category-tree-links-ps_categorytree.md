@@ -14,7 +14,7 @@ This module is responsible for the Category Tree display in the front-office.&#x
 
 ## Common components
 
-* [E-commerce logo](../../../common-components/e-commerce-logo.md).
+* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
 * Search input (todo link).

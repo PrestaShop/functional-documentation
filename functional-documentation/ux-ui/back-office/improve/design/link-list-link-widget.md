@@ -12,7 +12,7 @@ This UI shows the Link Widget management UI. It helps to manage and edit various
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-* [E-commerce logo](../../../common-components/e-commerce-logo.md).&#x20;
+* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).&#x20;
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
 * [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).

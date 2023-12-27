@@ -8,11 +8,11 @@ In the payment preferences page merchant is allowed to choose which payment meth
 
 ## Common components <a href="#common-components" id="common-components"></a>
 
-{% content-ref url="../../../page-1/" %}
-[page-1](../../../page-1/)
+{% content-ref url="../../../advanced-parameters/" %}
+[advanced-parameters](../../../advanced-parameters/)
 {% endcontent-ref %}
 
-* [E-commerce logo](../../../common-components/e-commerce-logo.md).
+* [E-commerce logo](../../../common-components/back-office-header/prestashop-logo.md).
 * [PrestaShop version number](../../../common-components/prestashop-version-number.md).
 * [Quick access dropdown](../../../common-components/quick-access-dropdown.md).
 * [Search input](../../../common-components/search-input-field.md) - [Forms input with dropdown UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--input-with-dropdown).
