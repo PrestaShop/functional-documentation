@@ -31,7 +31,7 @@ When hover mouse pointer on All shops in dropdown, text changes color.
 
 Once clicked shop group name switches to this shop group, shows group shops information and changes will be made in all this group shops. \
 When hover mouse pointer on shop group name in dropdown, text changes color. \
-The group must be created when user create second shop in Multistore page (TO DO link to Multishop page documetation). First group is named Default but user can enter and change shop group name.
+The group must be created when user create second shop in Multistore page ([Multishop page](https://docs.prestashop-project.org/1.7-documentation/user-guide/configuring-shop/advanced-parameters/multistore)). First group is named Default but user can enter and change shop group name.
 
 ### Shop
 
@@ -41,4 +41,4 @@ In shop name row is link _View my shop_. When hover mouse pointer on this link i
 
 ### Color
 
-All shops, each shop group and shop could have it color (TO DO link to color picker). All shops color by default is blue. Color for shop groups and shops is added in Multistore page (TO DO link to Multishop page documetation). When all shops, shop group or shop is switched, color applied  in subheader under main PrestaShop header.
+All shops, each shop group and shop could have it color ([color picker](color-picker.md)). All shops color by default is blue. Color for shop groups and shops is added in Multistore page ([Multishop page](https://docs.prestashop-project.org/1.7-documentation/user-guide/configuring-shop/advanced-parameters/multistore)). When all shops, shop group or shop is switched, color applied  in subheader under main PrestaShop header.
