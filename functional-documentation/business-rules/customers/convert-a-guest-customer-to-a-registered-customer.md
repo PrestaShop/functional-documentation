@@ -13,6 +13,10 @@ When clicking on this button :&#x20;
 * The customer is moved from the **Guest** customer's group to the **Customer** customer's group
 * The button "Transform to a customer account" disappears from the page [information-about-customer.md](../../ux-ui/back-office/sell/customer-service/add-or-edit-merchandise-returns/information-about-customer.md "mention")
 
+## QA
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/customers.html)
+
 ## Impacted pages
 
 * [customers](../../ux-ui/back-office/sell/customers/customers/ "mention")
