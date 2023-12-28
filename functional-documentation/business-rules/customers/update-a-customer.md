@@ -13,6 +13,10 @@ Updating a customer allows the user to modify the customer's information. The fi
 * Birthdate -> must be complete with a year, a month and a day otherwise it will be considered invalid
 * A group access selected -> must have at least 1 group checked
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/customers/customers/bo-customers-filter-and-quick-edit.html)
+
 ## Impacted pages
 
 * [customers](../../ux-ui/back-office/sell/customers/customers/ "mention")
