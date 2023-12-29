@@ -6,6 +6,10 @@ The purpose of this page is to show zones list with ability to enable or disable
 
 <figure><img src="../../../../../../.gitbook/assets/image (114).png" alt="Zones list User Interface"><figcaption><p>Zones list User Interface</p></figcaption></figure>
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/international/locations/zones.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
@@ -101,7 +105,7 @@ When there are multiple zones created, Bulk Actions dropdown ([Dropdowns basics 
 **Checkboxes** ([Forms checkboxes UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/forms--checkboxes)) in each zone line can be used, if there is need to manage zones separately and use for Bulk Actions for adjusting the zones. \
 Once clicked on Bulk actions dropdown opens these options:&#x20;
 
-* **Enable selected** - option to enable selected zones.
+* **Enable selection** - option to enable selected zones.
 * **Disable selection** - option to disable selected zones. &#x20;
 * **Delete selected** - option to delete selected zones.
 
