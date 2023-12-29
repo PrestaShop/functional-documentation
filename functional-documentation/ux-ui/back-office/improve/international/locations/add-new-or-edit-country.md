@@ -6,6 +6,10 @@ The purpose of this page is to add new or edit country.
 
 <figure><img src="../../../../../../.gitbook/assets/image (74).png" alt="Add new or edit country User Interface"><figcaption><p>Add new or edit country User Interface</p></figcaption></figure>
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/international/locations/countries/bo-international-locations-countries-crud.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
@@ -56,7 +60,7 @@ The purpose of this page is to add new or edit country.
 
 ### Address format input
 
-<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>No</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td>firstname lastname company <br>vat_number <br>address1 <br>address2 <br>postcode city Country:name <br>phone</td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>Some countries require different elements than others. Click on the button below to get the valid default address format for this country.</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="add-new-or-edit-country.md#address-format-input-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
+<table><thead><tr><th>Description</th><th>Value</th><th align="center">Error message</th><th data-hidden></th></tr></thead><tbody><tr><td>Mandatory</td><td>No</td><td align="center">-</td><td>Error message if not allowed</td></tr><tr><td>Allowed/Forbidden values</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Default value</td><td><p>firstname lastname company <br>vat_number <br>address1 <br>address2 <br>postcode city </p><p>Country:name <br>phone</p></td><td align="center">-</td><td></td></tr><tr><td>Help text</td><td>Some countries require different elements than others. Click on the button below to get the valid default address format for this country.</td><td align="center">-</td><td></td></tr><tr><td>Tool tips</td><td>-</td><td align="center">-</td><td></td></tr><tr><td>Lower limit</td><td>-</td><td align="center">-</td><td>Error message if bellow the limit</td></tr><tr><td>Upper limit</td><td>-</td><td align="center">-</td><td>Error message if up to the limit</td></tr><tr><td>Behavior</td><td><a href="add-new-or-edit-country.md#address-format-input-behavior">link to the behavior</a></td><td align="center">-</td><td></td></tr></tbody></table>
 
 ### Use the last registered format button
 
