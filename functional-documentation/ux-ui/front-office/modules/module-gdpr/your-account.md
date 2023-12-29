@@ -2,7 +2,7 @@
 
 ## Description
 
-A link to acess to the page gathering the client's requests concerning
+A link to access to the page gathering the client's requests concerning
 
 &#x20;\- Access and portability of personal data&#x20;
 
@@ -10,9 +10,15 @@ A link to acess to the page gathering the client's requests concerning
 
 
 
-[A link to related tests](https://build.prestashop.com/test-scenarios/scenarios/core/functional/bo/catalog/attributes-and-features/attributes.html) (TODO)
-
 <figure><img src="../../../../../.gitbook/assets/image (13) (2).png" alt=""><figcaption><p>Your account</p></figcaption></figure>
+
+### QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/fo/classic/user-account/fo-user-account-get-gdpr-data-in-csv.html)
+
+
+
+## Components description
 
 GDPR - Personal data (button)
 
