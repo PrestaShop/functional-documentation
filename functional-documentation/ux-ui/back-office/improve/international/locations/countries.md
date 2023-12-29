@@ -105,7 +105,7 @@ Zone dropdown ([Dropdowns basics UI kit](https://build.prestashop-project.org/pr
 
 Enabled dropdown ([Dropdowns basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/dropdowns--basics)) allows to filter enabled and disabled zones. Dropdown has these options:
 
-* All - shows all zones
+* \- - shows all zones
 * Yes - shows enabled zones
 * No - shows disabled zones
 
