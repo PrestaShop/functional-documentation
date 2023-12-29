@@ -2,7 +2,7 @@
 
 <figure><img src="../../../.gitbook/assets/image (7) (4).png" alt=""><figcaption><p>Shop switcher with eye icon dropdown UI</p></figcaption></figure>
 
-This shop switcher is dropdown ([Dropdowns basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/dropdowns--basics)) and it is shown on right upper corner. It has an eye icon, information what context is opened and dropdown arrow. When shop switched, shop name changes on switcher. When hover on it with mouse pointer, color of shop name and arrow changes. Once clicked opens dropdown with these components.
+This shop switcher is dropdown ([Dropdowns basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/dropdowns--basics)) and it is shown on right upper corner. It has an eye icon, information what context is opened and dropdown arrow. When shop switched, shop name changed on switcher. When hover on it with mouse pointer, color of shop name and arrow changes. Once clicked opens dropdown with these components.
 
 ## Components description
 
@@ -12,9 +12,9 @@ Once clicked switches to all shop context, shows all shops information and chang
 
 ### **Shop group**
 
-&#x20;Once clicked shop group name switches to this group, shows shop group information and changes will be made in all this group shops. When hover mouse pointer on shop group name, text becomes underlined. The group must be created when user create second shop in Multistore (TO DO link to Multishop page documetation). First group is named Default but user can enter and change shop group name.
+&#x20;Once clicked shop group name switches to this group, shows shop group information and changes will be made in all this group shops. When hover mouse pointer on shop group name, text becomes underlined. The group must be created when user creates second shop in Multistore ([Multishop page](https://docs.prestashop-project.org/1.7-documentation/user-guide/configuring-shop/advanced-parameters/multistore)). First group is named Default but user can enter and change shop group name.
 
 ### Shop
 
-Once clicked switches to chosen shop back office, shows this shop information and changes will be made only in this shop. In shop name row is an eye icon. When hover mouse pointer on shop name, shop name becomes underlined and icon changes color. Once clicked shop eye icon opens this shop front office.
+Once clicked switches to chosen shop back office, it shows this shop information and changes will be made only in this shop. In shop name row is an eye icon. When hover mouse pointer on shop name, shop name becomes underlined and icon changes color. Once clicked shop eye icon opens this shop front office.
 
