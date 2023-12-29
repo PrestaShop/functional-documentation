@@ -14,7 +14,13 @@ Each key has the following attributes which are optional :&#x20;
 
 * A free text description
 * A state : Active or Inactive
-* A list of permissions allowing to query the Webservice using certain verbs from the HTTP syntax on specific resources
+* A list of permissions allowing to query the Webservice using certain verbs from the HTTP syntax on specific resource
+
+The Save button let to save the Webservice.
+
+## QA
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/advanced-parameters/webservice.html)
 
 ### UX/UI impact of this BR
 
