@@ -8,6 +8,10 @@ The purpose of this page is to show countries list with ability to enable or dis
 
 <figure><img src="../../../../../../.gitbook/assets/image (23) (1) (1).png" alt="Country options block User Interface"><figcaption><p>Country options block User Interface</p></figcaption></figure>
 
+## QA&#x20;
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/international/locations/countries.html)
+
 ## Common components <a href="#common-components" id="common-components"></a>
 
 * [E-commerce logo](../../../../common-components/back-office-header/prestashop-logo.md).
