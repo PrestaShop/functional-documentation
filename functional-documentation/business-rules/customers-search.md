@@ -5,12 +5,16 @@
 The search feature allows users to search for customers with the following criterias :
 
 * Searching for customer(s) is possible by using words that might be found in one of the following fields :&#x20;
+  * **Social title**
   * **First name**
-  * **Name**
+  * **Last name**
   * **Email address**
+  * **Group**
   * **Company** (Note that this field is only available to edit on customer's profile if B2B features are activated on the shop)
-* It is not possible to search for customers using their birthdate
-* It is not possible to search for customers using their social title
+
+## QA
+
+[Link to the test](https://build.prestashop-project.org/test-scenarios/scenarios/core/functional/bo/customers/customers/bo-customers-filter-and-quick-edit.html)
 
 ### UX/UI impact of this BR
 
