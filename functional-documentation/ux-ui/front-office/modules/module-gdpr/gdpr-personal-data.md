@@ -52,7 +52,7 @@ When you click on the contact page link you are redirected to[ Contact us](../..
 
 Let to download a pdf file with datas of the customer (warning multistore)
 
-<figure><img src="../../../../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (175) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
 

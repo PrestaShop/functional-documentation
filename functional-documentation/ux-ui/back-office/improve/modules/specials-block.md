@@ -4,7 +4,7 @@
 
 This is the configuration page for the module.
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 ### Front - office
 

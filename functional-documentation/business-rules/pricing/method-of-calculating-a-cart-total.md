@@ -82,9 +82,60 @@ Cart rules amount
 
 
 
-#### 8 - Display of the chart tax excluded
+#### 8 - Display of the chart tax excluded for B to B
 
 <figure><img src="../../../.gitbook/assets/image (167).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Worflow of pricing - Step Display of the chart tax excluded</a></p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Chart B to B</p></figcaption></figure>
+
+1 - X item : Number before item correspond to the number of article in the chart
+
+2 - Cost excluded of items : Sum of prices tax excluded of each product in the chart
+
+3 - Shipping : Cost tax excluded of shipping + Handling charges
+
+4 - Total (tax excl) : Sum of 1 and 2
+
+6 - Taxes : Sum of rounding of TVA
+
+
+
+
+
+To calculate VAT, first group the excluded tax costs by VAT value, round each one and then add them together. Consider :
+
+* a product A (excluding VAT) of 5.221 euros taxed at 20%, quantity 4
+* a product B HT of 2.506 euros taxed at 10%, quantity 2
+* a product C HT of 6.220 euros taxed at 20%, quantity 3
+* a product D HT of 3.515 euros taxed at 10% quantity 1
+
+We combine products taxed at 20% and those taxed at 10%, as follows
+
+* a product A HT of 5.221 euros taxed at 20%, quantity 4
+* a product C HT of 6.220 euros taxed at 20%, quantity 3
+* a product B HT of 2.506 euros taxed at 10%, quantity 2
+* a product D HT of 3.515 euros taxed at 10%, quantity 1
+
+We calculate the prices of the products taxed at 20% according to the type of rounding (let's use line rounding for the example): 5.221 \* 4 = 20.884 rounded 20.88 6.220 \* 3 = 18.66 rounded 18.66 Sum them up: 20,88 + 18,66 = 39,54
+
+Calculate the prices of products at 10% before tax according to the type of rounding (let's use line rounding for the example): 2.506 \* 2 = 5.012 rounded to 5.01 3.515 \* 1 = 3.515 rounded to 3.52 5,01 + 3,52 = 8,53
+
+Calculate VAT at 20%: 0.20 \* 39.54 = 7.908 rounded up to 7.91
+
+Calculate 10% VAT: 0.1 \* 8.53 = 0.853 rounded up to 0.85
+
+This means a fair tax for the products at : 7,91 + 0,85 = 8,76
+
+
+
+The shipping and handling tax is added to this: Consider :
+
+* shipping at 20 euros, excluding tax, and VAT at 10
+* handling at 2 euros We calculate the shipping VAT: 0,1 \* 20 = 2 Calculate the handling VAT: 0,1 \* 2 = 0,2
+
+For a total tax of : 8,76 + 2 + 0,2
+
+Explain the chosen price rounded off in relation to currency or number of digits after the decimal point in BO (case of petrol) to be parameterized
 
 <table data-full-width="false"><thead><tr><th>Level</th><th>Formula</th></tr></thead><tbody><tr><td>1</td><td><p><strong>Step_Discount_Cart_rule_1_Tax_excluded</strong></p><p><strong>Description:</strong> Using for the display of the discount in the chart tax excluded in case of discount percent tax excluded</p><p><strong>Formula:</strong></p><p>1) If first cart rule </p><p>Discount_Cart_rule_1_Tax_excluded = -1 * (∑ Price_AfterDiscountCatalog_by_item for each item - ∑ Cart_rules_price_tax_excluded_after_discount_percent_excluded_mult_quantity for each item)</p><p></p><p>2) if it exist a precedent discount =</p><p> -1 * (∑ Cart rules price tax excluded after discount_XX * quantity for each item -</p><p>∑ Cart_rules_price_tax_excluded_after_discount_percent included_mult_quantity)</p><p></p><p><strong>US-MOCCT-010</strong></p></td></tr><tr><td>1</td><td><p><strong>Step_Discount_Cart_rule_3_Tax_excluded</strong></p><p>Description :Description: Using for the display of the discount in the chart tax excluded</p><p>Formula : Sum for each item Step_Cart_rules_Amount_display_taxes_excluded</p><p>US : MOCCT_007bis</p></td></tr><tr><td>1</td><td><p><strong>Step_Sum_Cart_rules_discount_Tax_excluded</strong></p><p>Description : Calculation of the total of discount tax excluded</p><p>Formula: Sum of each Step_Discount_Cart_ruleX_Tax_excluded</p><p>US : MOCCT_007bis</p></td></tr><tr><td>1</td><td><p><strong>Step_Taxes_excluded_with_shipping_cost_excluded_total</strong></p><p>Description: Calculation of the total tax excluded adding shipping cost excluding</p><p>Formula: Total_tax_excluded_with_shipping_cost_excluded=Shipping_tax_excluded + Taxes_excluded_Total         </p><p>US: MOCCT_005</p></td></tr><tr><td>1</td><td><h4>Step_Taxes_without_shipping_included_Total</h4><p>Description<mark style="color:purple;">:</mark> Calculation of total taxes included(Total_Taxes_excluded) for all product</p><p>Formula<mark style="color:purple;">:</mark></p><p> Taxes_included_Total =  Taxes_excluded_Total + AmountTVATaxExcluded_Total                    </p><p>US: MOCCT-001, MOCCT_004</p></td></tr></tbody></table>
 
