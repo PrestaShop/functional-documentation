@@ -50,7 +50,7 @@ description: Not used in course of maturation
 
 <figure><img src="../../../.gitbook/assets/image (167).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Worflow of pricing - Step Display of the chart tax excluded</a></p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Chart B to B</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
 1 - X item : Number before item correspond to the number of article in the chart
 
@@ -95,7 +95,7 @@ The shipping and handling tax is added to this: Consider :
 * shipping at 20 euros, excluding tax, and VAT at 10
 * handling at 2 euros We calculate the shipping VAT: 0,1 \* 20 = 2 Calculate the handling VAT: 0,1 \* 2 = 0,2
 
-For a total tax of : 8,76 + 2 + 0,2
+For a total tax of : 8,76 + 2 + 0,2 = 10.96
 
 Explain the chosen price rounded off in relation to currency or number of digits after the decimal point in BO (case of petrol) to be parameterized
 
