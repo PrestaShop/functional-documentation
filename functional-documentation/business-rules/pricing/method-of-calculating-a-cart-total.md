@@ -14,6 +14,20 @@ description: Not used in course of maturation
 
 <figure><img src="../../../.gitbook/assets/image (172).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflow Pricing - Step Standard Price + Impact Price</a></p></figcaption></figure>
 
+#### It exists 4 types of products&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
+
+#### To calculate the price of a product before the discount :
+
+#### For Products with combination :
+
+&#x20;you have to sum the standard price (tax <mark style="color:red;">excl</mark>.) and impact price.&#x20;
+
+#### For the other products :
+
+you have to retrieve the standard price.
+
 #### 2 - Discount Specific price
 
 <figure><img src="../../../.gitbook/assets/image (171).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflow Pricing - Discount Specific Price</a></p></figcaption></figure>
