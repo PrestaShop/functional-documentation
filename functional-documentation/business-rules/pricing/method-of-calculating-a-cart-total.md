@@ -22,7 +22,11 @@ description: Not used in course of maturation
 
 <figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflow of pricing - Step Discount Catalog Price Rules</a></p></figcaption></figure>
 
-#### 4 - Discount - Customer Group
+To know if the prioritary between specific price and catalog price rules look at[ the diagram](https://miro.com/app/board/uXjVMuh8JPM=/) below&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+#### 4 - Discount - Customer Group (maybe included in catalog price rules)
 
 <figure><img src="../../../.gitbook/assets/image (170).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Worklfow of pricing - Step Discount Customer Group</a></p></figcaption></figure>
 
@@ -34,21 +38,23 @@ description: Not used in course of maturation
 
 
 
-#### 5 - VAT
-
-<figure><img src="../../../.gitbook/assets/image (165).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflow of pricing - Step VAT</a></p></figcaption></figure>
+####
 
 
 
 #### 6 - Retrieve cost of Shipping
 
-<figure><img src="../../../.gitbook/assets/image (166).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflow of pricing - Step Retrieve cost of shipping</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
-#### 8 - Display of the chart tax excluded for B to B
+#### 7 - Calculation of TVA
 
-<figure><img src="../../../.gitbook/assets/image (167).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Worflow of pricing - Step Display of the chart tax excluded</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+#### 8.1 - Display of the chart tax excluded for B to B
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
@@ -99,9 +105,9 @@ For a total tax of : 8,76 + 2 + 0,2 = 10.96
 
 Explain the chosen price rounded off in relation to currency or number of digits after the decimal point in BO (case of petrol) to be parameterized
 
-#### 8 - Display of the chart tax included for B to C
+#### 8.2 - Display of the chart tax included for B to C
 
-<figure><img src="../../../.gitbook/assets/image (168).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflof of pricing - Step display of the chart tax included</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 
 
