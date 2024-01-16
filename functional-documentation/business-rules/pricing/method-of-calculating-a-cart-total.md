@@ -26,9 +26,9 @@ In case of B to B merchant this one will enter in the catalog the retail price (
 
 &#x20;The retail price (tax incl.) and the impact on price (tax incl.) have to stay empty.
 
-&#x20;_<mark style="color:blue;">Price of product before the discounts = Sum the standard price (tax excl.) and impact price (tax excl).</mark>_&#x20;
+&#x20;_<mark style="color:blue;">Price of product before the discounts = Retail price (tax excl.) and impact price (tax excl).</mark>_&#x20;
 
-Standard price = Retail price
+
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -38,9 +38,7 @@ In case of B to B merchant this one will enter in the catalog the retail price (
 
 &#x20;The retail price (tax incl.) has to stay empty.
 
-_<mark style="color:blue;">Price of product tax excludedc before the discounts = Standard price (tax excl.)</mark>_&#x20;
-
-Standard price = Retail price
+_<mark style="color:blue;">Price of product tax excludedc before the discounts = Retail price (tax excl.)</mark>_&#x20;
 
 
 
