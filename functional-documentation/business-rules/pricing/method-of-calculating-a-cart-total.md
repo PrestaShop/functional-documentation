@@ -8,9 +8,7 @@ description: Not used in course of maturation
 
 
 
-###
-
-#### <mark style="color:blue;">1 - Standard Price and impact price</mark>
+## 1 - Standard Price and impact price
 
 <figure><img src="../../../.gitbook/assets/image (172).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflow Pricing - Step Standard Price + Impact Price</a></p></figcaption></figure>
 
@@ -20,15 +18,17 @@ description: Not used in course of maturation
 
 #### To calculate the price of a product before the discount :
 
-1\) In case of B to B merchant this one will enter in the catalog the retail price (tax excl.)
 
-#### For Products with combination :
 
-&#x20;you have to sum the standard price (tax <mark style="color:red;">excl</mark>.) and impact price.&#x20;
+#### For Products with combination :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+In case of B to B merchant this one will enter in the catalog the retail price (tax excl.) and the impact on price (tax excl.)
 
-#### <mark style="color:red;">You have two notions :the display price and the price use for calculation</mark>
+&#x20;_<mark style="color:blue;">Price of product before the discounts = Sum the standard price (tax excl.) and impact price (tax excl).</mark>_&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+
+####
 
 #### For the other products&#x20;
 
@@ -38,13 +38,25 @@ You have to retrieve the standard price.
 
 
 
+## Rounding 1
+
+Each data displayed in the FO has to be rounding depending on
+
+#### <mark style="color:red;">You have two notions : the display price and the price use for calculation</mark>
+
+<mark style="color:red;">Display price =</mark>  _<mark style="color:blue;">Price of product before the discounts on which will be apply rounding taking into account</mark>_
+
+<figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+
+
+
 2\) In case of B to C merchant&#x20;
 
-#### 2 - Discount Specific price
+## 2 - Discount Specific price
 
 <figure><img src="../../../.gitbook/assets/image (171).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflow Pricing - Discount Specific Price</a></p></figcaption></figure>
 
-#### 3 - Discount Catalog Price Rules
+## 3 - Discount Catalog Price Rules
 
 <figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflow of pricing - Step Discount Catalog Price Rules</a></p></figcaption></figure>
 
@@ -52,13 +64,13 @@ To know if the prioritary between specific price and catalog price rules look at
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-#### 4 - Discount - Customer Group (maybe included in catalog price rules)
+## 4 - Discount - Customer Group (maybe included in catalog price rules)
 
 <figure><img src="../../../.gitbook/assets/image (170).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Worklfow of pricing - Step Discount Customer Group</a></p></figcaption></figure>
 
 
 
-#### 5 - Discount- Cart Rules
+## 5 - Discount- Cart Rules
 
 <figure><img src="../../../.gitbook/assets/image (173).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflow of pricing - Step Discount - Cart rules</a></p></figcaption></figure>
 
@@ -68,7 +80,7 @@ To know if the prioritary between specific price and catalog price rules look at
 
 
 
-#### 6 - Retrieve cost of Shipping
+## 6 - Retrieve cost of Shipping
 
 <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -106,7 +118,7 @@ Three things to retrieve
 
 3- Handling charges tax excluded
 
-#### 7 - Calculation of TVA
+## 7 - Calculation of TVA
 
 <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -157,7 +169,7 @@ Explain the chosen price rounded off about currency or number of digits after th
 
 2\) To calculate multi VAT : TODO
 
-#### 8.1 - Display of the chart tax excluded for B to B
+## 8.1 - Display of the chart tax excluded for B to B
 
 <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -175,7 +187,7 @@ Explain the chosen price rounded off about currency or number of digits after th
 
 
 
-#### 8.2 - Display of the chart tax included for B to C
+## 8.2 - Display of the chart tax included for B to C
 
 <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
