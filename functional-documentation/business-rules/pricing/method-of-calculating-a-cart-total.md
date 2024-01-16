@@ -16,35 +16,81 @@ description: Not used in course of maturation
 
 <figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
-#### To calculate the price of a product before the discount :
+To calculate the price of a product before the discount :
 
-
+### B to B
 
 #### For Products with combination :&#x20;
 
 In case of B to B merchant this one will enter in the catalog the retail price (tax excl.) and the impact on price (tax excl.)
 
+&#x20;The retail price (tax incl.) and the impact on price (tax incl.) have to stay empty.
+
 &#x20;_<mark style="color:blue;">Price of product before the discounts = Sum the standard price (tax excl.) and impact price (tax excl).</mark>_&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (187).png" alt=""><figcaption></figcaption></figure>
+Standard price = Retail price
 
-####
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### For the other products&#x20;
 
+In case of B to B merchant this one will enter in the catalog the retail price (tax excl.)&#x20;
+
+&#x20;The retail price (tax incl.) has to stay empty.
+
+_<mark style="color:blue;">Price of product tax excludedc before the discounts = Standard price (tax excl.)</mark>_&#x20;
+
+Standard price = Retail price
+
+
+
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-You have to retrieve the standard price.
+### B to C
+
+<mark style="color:red;">Explain why use data inclu not calculate from excluded but from data display</mark>
+
+{% embed url="https://github.com/PrestaShop/PrestaShop/discussions/34262#discussioncomment-7777008" %}
+
+####
+
+#### For Products with combination :&#x20;
+
+In case of B to C merchant this one will enter in the catalog the retail price (tax incl.) and the impact on price (tax incl.)
+
+&#x20;The retail price (tax excl.) and the impact on price (tax excl.) have to stay empty.
+
+&#x20;_<mark style="color:blue;">Price of product tax included before the discounts = Sum the standard price (tax incl.) and impact price (tax incl).</mark>_&#x20;
+
+Standard price = Retail price
 
 
+
+<mark style="color:red;">CHANGER LES IMPRIX ECRAN AVEC TAX INCL</mark>
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### For the other products&#x20;
+
+In case of B to C merchant this one will enter in the catalog the retail price (tax incl.)&#x20;
+
+&#x20;The retail price (tax excl.) has to stay empty.
+
+_<mark style="color:blue;">Price of product before the discounts = Standard price (tax excl.)</mark>_&#x20;
+
+Standard price = Retail price
+
+<mark style="color:red;">CHANGER LES IMPRIX ECRAN AVEC TAX INCL</mark>
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+###
 
 ## Rounding 1
 
-Each data displayed in the FO has to be rounding depending on
+Each data displayed in the FO has to be rounded depending on the number of decimals of the currency used in the context.
 
-#### <mark style="color:red;">You have two notions : the display price and the price use for calculation</mark>
-
-<mark style="color:red;">Display price =</mark>  _<mark style="color:blue;">Price of product before the discounts on which will be apply rounding taking into account</mark>_
+_<mark style="color:blue;">Display price =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied rounding taking into account</mark>_
 
 <figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
@@ -186,6 +232,16 @@ Explain the chosen price rounded off about currency or number of digits after th
 6 - Taxes : ([VAT retrieved step 7](method-of-calculating-a-cart-total.md#id-7-calculation-of-tva))
 
 
+
+#### <mark style="color:red;">You have two notions : the display price and the price use for calculation</mark>
+
+<mark style="color:red;">That is correct, if you round to the number of displayed decimals, that is solving the problem that the price is a bot off, like 99.999999 in the above example. You are calculating with the same price that is displayed. But there could be merchants that display unit prices with higher precision, lite in the gas stations the litre price would be 1.895 Euros, for example. So I think that we need two settings for the decimals, a separate one for the precision of displayed prices.</mark>
+
+<mark style="color:red;">The requirement would be:</mark>
+
+* <mark style="color:red;">Unit prices can have more decimals than the currency, to support small unit prices which need more precision. In this case, invoice line totals are rounded to the precision of the currency.</mark>
+
+<mark style="color:red;">from</mark> [<mark style="color:red;">https://github.com/PrestaShop/PrestaShop/discussions/32969</mark>](https://github.com/PrestaShop/PrestaShop/discussions/32969)
 
 ## 8.2 - Display of the chart tax included for B to C
 
