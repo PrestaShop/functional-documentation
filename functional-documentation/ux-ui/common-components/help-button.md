@@ -2,7 +2,7 @@
 
 Call-to-action button, which initiates a sidebar UI from the right side of the almost every page. The sidebar contains detailed text about the functionality in the middle part of the page. Once the CTA button is hovered, there is an alt text "Help" alternatively repeated.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="Help button CTA UI"><figcaption><p>Help Button CTA User Interface</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="Help button CTA UI"><figcaption><p>Help Button CTA User Interface</p></figcaption></figure>
 
 ## Extended Help sidebar
 

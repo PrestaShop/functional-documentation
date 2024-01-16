@@ -20,13 +20,25 @@ description: Not used in course of maturation
 
 #### To calculate the price of a product before the discount :
 
+1\) In case of B to B merchant this one will enter in the catalog the retail price (tax excl.)
+
 #### For Products with combination :
 
 &#x20;you have to sum the standard price (tax <mark style="color:red;">excl</mark>.) and impact price.&#x20;
 
-#### For the other products :
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-you have to retrieve the standard price.
+#### <mark style="color:red;">You have two notions :the display price and the price use for calculation</mark>
+
+#### For the other products&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+You have to retrieve the standard price.
+
+
+
+2\) In case of B to C merchant&#x20;
 
 #### 2 - Discount Specific price
 
@@ -58,7 +70,7 @@ To know if the prioritary between specific price and catalog price rules look at
 
 #### 6 - Retrieve cost of Shipping
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Today, we consider only mono-shipping.
 
@@ -96,11 +108,15 @@ Three things to retrieve
 
 #### 7 - Calculation of TVA
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Taxes : Sum of rounding of VAT :
 
-1\) To calculate a unique VAT, first group the excluded tax costs by VAT value, round each one and then add them together. Consider :
+To calculate a unique VAT
+
+1\) VAT of products
+
+first group the excluded tax costs by VAT value, round each one and then add them together. Consider :
 
 * a product A (excluding VAT) of 5.221 euros taxed at 20%, quantity 4
 * a product B (excluding VAT) of 2.506 euros taxed at 10%, quantity 2
@@ -126,6 +142,8 @@ This means a fair tax for the products at : 7,91 + 0,85 = 8,76
 
 
 
+2\) VAT of shipping
+
 The shipping and handling tax is added to this: Consider :
 
 * shipping at 20 euros, excluding tax, and VAT at 10
@@ -141,7 +159,7 @@ Explain the chosen price rounded off about currency or number of digits after th
 
 #### 8.1 - Display of the chart tax excluded for B to B
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
@@ -159,7 +177,7 @@ Explain the chosen price rounded off about currency or number of digits after th
 
 #### 8.2 - Display of the chart tax included for B to C
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
