@@ -60,31 +60,47 @@ To know if the prioritary between specific price and catalog price rules look at
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+Today, we consider only mono-shipping.
 
+You have to retrieve if the shipping is free or not.
+
+1\) Shipping could be free :&#x20;
+
+1.1) If defined like this for the carrier&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+
+1.2) If a cart rule in the chart mentionned free shipping and filled conditions of the cart rules
+
+<figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+
+2\) In case of shipping not free
+
+Three things to retrieve
+
+2.1) In Shipping>Carriers
+
+<figure><img src="../../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+
+1- Carrier's tax
+
+2- Cost tax excluded of shipping
+
+
+
+2.2) In Shipping>Preferences
+
+<figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+
+3- Handling charges tax excluded
 
 #### 7 - Calculation of TVA
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-#### 8.1 - Display of the chart tax excluded for B to B
+&#x20;Taxes : Sum of rounding of VAT :
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
-
-1 - X item : Number before item correspond to the number of article in the chart
-
-2 - Cost excluded of items : Sum of prices tax excluded of each product in the chart
-
-3 - Shipping : Cost tax excluded of shipping + Handling charges
-
-4 - Total (tax excl) : Sum of 1 and 2
-
-6 - Taxes : Sum of rounding of TVA
-
-
-
-To calculate VAT, first group the excluded tax costs by VAT value, round each one and then add them together. Consider :
+1\) To calculate a unique VAT, first group the excluded tax costs by VAT value, round each one and then add them together. Consider :
 
 * a product A (excluding VAT) of 5.221 euros taxed at 20%, quantity 4
 * a product B HT of 2.506 euros taxed at 10%, quantity 2
@@ -117,7 +133,29 @@ The shipping and handling tax is added to this: Consider :
 
 For a total tax of : 8,76 + 2 + 0,2 = 10.96
 
-Explain the chosen price rounded off in relation to currency or number of digits after the decimal point in BO (case of petrol) to be parameterized
+Explain the chosen price rounded off about currency or number of digits after the decimal point in BO (case of petrol) to be parameterized
+
+
+
+2\) To calculate multi VAT : TODO
+
+#### 8.1 - Display of the chart tax excluded for B to B
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+
+1 - X item : Number before _item_ correspond to the number of articles in the chart
+
+2 - Cost excluded of items : Sum of prices tax excluded of each product in the chart ([datas retrieved step 1](method-of-calculating-a-cart-total.md#id-1-standard-price-and-impact-price))
+
+3 - Shipping : Cost tax excluded of shipping + Handling charges tax ecluded ([datas retrieved step 6](method-of-calculating-a-cart-total.md#id-6-retrieve-cost-of-shipping))
+
+4 - Total (tax excl) : Sum of 2 and 3
+
+6 - Taxes : ([VAT retrieved step 7](method-of-calculating-a-cart-total.md#id-7-calculation-of-tva))
+
+
 
 #### 8.2 - Display of the chart tax included for B to C
 
