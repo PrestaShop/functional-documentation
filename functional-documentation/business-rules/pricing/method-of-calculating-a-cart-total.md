@@ -103,9 +103,9 @@ Three things to retrieve
 1\) To calculate a unique VAT, first group the excluded tax costs by VAT value, round each one and then add them together. Consider :
 
 * a product A (excluding VAT) of 5.221 euros taxed at 20%, quantity 4
-* a product B HT of 2.506 euros taxed at 10%, quantity 2
-* a product C HT of 6.220 euros taxed at 20%, quantity 3
-* a product D HT of 3.515 euros taxed at 10%, quantity 1
+* a product B (excluding VAT) of 2.506 euros taxed at 10%, quantity 2
+* a product C (excluding VAT) of 6.220 euros taxed at 20%, quantity 3
+* a product D (excluding VAT) of 3.515 euros taxed at 10%, quantity 1
 
 We combine products taxed at 20% and those taxed at 10%, as follows
 
