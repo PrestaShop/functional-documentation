@@ -122,13 +122,26 @@ If B to B check the number of digits for retail price (tax incl.)
 
 <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Rounding type
+### Round
 
+* Round on each line
+* Round on each item
+* Round on the total
 
+<figure><img src="../../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
-### Rouding mode
+### Roud mode
 
-##
+* Round up away form zero, when it is half way there (recommended)
+* Round down towards zero when it is half way there
+* Round towards the next even value
+* Round towards the next odd value
+* Round up to the nearest value
+* Round down to the nearest value
+
+[cf php documentation](https://www.php.net/manual/en/function.round.php)
+
+<figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
 ## 2 - Discount Specific price
 
