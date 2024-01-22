@@ -30,7 +30,7 @@ In case of B to B merchant this one will enter in the catalog the retail price (
 
 
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### For the other products&#x20;
 
@@ -42,7 +42,7 @@ _<mark style="color:blue;">Price of product tax excludedc before the discounts =
 
 
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### B to C
 
@@ -66,7 +66,7 @@ Standard price = Retail price
 
 <mark style="color:red;">CHANGER LES IMPRIX ECRAN AVEC TAX INCL</mark>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### For the other products&#x20;
 
@@ -80,21 +80,45 @@ Standard price = Retail price
 
 <mark style="color:red;">CHANGER LES IMPRIX ECRAN AVEC TAX INCL</mark>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ###
 
 ## Rounding 1
 
-Each data displayed in the FO has to be rounded depending on the number of decimals of the currency used in the context.
+Each data displayed in the FO has to be&#x20;
+
+Thanks to a toggle button either by  the number of decimals in the currencies (case 1] or depending on the number of digits after coma in the tab pricing of product (case 2).
+
+Why the second option is interesting ?
+
+Case of gas station for fuel. The price is displayed with three digits after coma event if the payment is with two digits in the case of euros. So for the calculation, the rounding has to be done with three digits.
+
+
+
+### Case 1 : Rounding depending on the number of currency decimals used in the context of the FO and configured in the BO.
 
 _<mark style="color:blue;">Display price =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied rounding taking into account</mark>_
 
+_**Configuration in the BO**_
+
 <figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
+**Contextual currency**
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 
-2\) In case of B to C merchant&#x20;
+
+### Case 2 : Rounding depending on the number of digits after coma in the tab pricing of product (case 2).
+
+If B to C check the number of digits for retail price (tax excl.)&#x20;
+
+If B to B check the number of digits for retail price (tax incl.)
+
+<mark style="color:red;">What about retail price by unit ?</mark>
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 2 - Discount Specific price
 
@@ -126,7 +150,7 @@ To know if the prioritary between specific price and catalog price rules look at
 
 ## 6 - Retrieve cost of Shipping
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Today, we consider only mono-shipping.
 
