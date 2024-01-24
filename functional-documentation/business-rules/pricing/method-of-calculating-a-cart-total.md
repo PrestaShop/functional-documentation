@@ -16,31 +16,7 @@ description: Not used in course of maturation
 
 <figure><img src="../../../.gitbook/assets/image (182).png" alt=""><figcaption></figcaption></figure>
 
-To calculate the price of a product before the discount :
-
-### ~~B to B~~ Price filled in the product is tax excluded
-
-#### For Products with combination :&#x20;
-
-~~In case of B to B merchant this one will~~ enter in the catalog the retail price (tax excl.) and the impact on price (tax excl.)
-
-&#x20;The retail price (tax incl.) and the impact on price (tax incl.) have to stay empty or just informative price.
-
-&#x20;_<mark style="color:blue;">Price of product before the discounts = Retail price (tax excl.) and impact price (tax excl).</mark>_&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
-
-#### For the other products&#x20;
-
-~~In case of B to B merchant this one will~~ enter in the catalog the retail price (tax excl.)&#x20;
-
-&#x20;The retail price (tax incl.) has to stay empty.
-
-_<mark style="color:blue;">Price of product tax excludedc before the discounts = Retail price (tax excl.)</mark>_&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
-
-### ~~B to C~~ Price filled in the product is tax incl
+To calculate the price of a product before the discount&#x20;
 
 You need to calculate exactly with the price you are offering the product.&#x20;
 
@@ -64,23 +40,45 @@ So the following calculation have to be bases on the price displays for the cust
 
 #### For Products with combination :&#x20;
 
-~~In case of B to B merchant this one will~~ enter in the catalog the retail price (tax incl.) and the impact on price (tax incl.)
+If you are in a B to B display mode use the following data
 
-&#x20;The retail price (tax excl.) and the impact on price (tax excl.) have to stay empty or just informative price.
+&#x20;_<mark style="color:blue;">Price of product before the discounts = Retail price (tax excl.) and impact price (tax excl).</mark>_&#x20;
 
-&#x20;_<mark style="color:blue;">Price of product before the discounts = Retail price (tax incl.) and impact price (tax incl).</mark>_&#x20;
+<figure><img src="../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+
+If you are in a B to C display mode use the following data
+
+&#x20;_<mark style="color:blue;">Price of product before the discounts = Retail price (tax incl.) + impact price (tax incl).</mark>_&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
 #### For the other products&#x20;
 
-~~In case of B to B merchant this one~~ will enter in the catalog the retail price (tax incl.)&#x20;
+If you are in a B to B display mode use the following data
 
-&#x20;The retail price (tax incl.) has to stay empty.
+_<mark style="color:blue;">Price of product tax excluded before the discounts = Retail price (tax excl.)</mark>_&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+
+If you are in a B to C display mode use the following data
 
 _<mark style="color:blue;">Price of product tax included before the discounts = Retail price (tax incl.)</mark>_&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+
+
+
+#### Output data from this step
+
+_<mark style="color:blue;">Price of product tax included before the discounts for B to C</mark>_
+
+_<mark style="color:blue;">Price of product tax excluded before the discounts for B to B</mark>_
+
+_<mark style="color:blue;">Rate</mark>_
+
+
+
+
 
 ###
 
@@ -90,41 +88,9 @@ _<mark style="color:blue;">Price of product tax included before the discounts = 
 
 {% embed url="https://github.com/PrestaShop/PrestaShop/discussions/34262#discussioncomment-7777008" %}
 
-####
-
-#### For Products with combination :&#x20;
-
-In case of B to C merchant this one will enter in the catalog the retail price (tax incl.) and the impact on price (tax incl.)
-
-&#x20;The retail price (tax excl.) and the impact on price (tax excl.) have to stay empty.
-
-&#x20;_<mark style="color:blue;">Price of product tax included before the discounts = Sum the standard price (tax incl.) and impact price (tax incl).</mark>_&#x20;
-
-Standard price = Retail price
-
-
-
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
-#### For the other products&#x20;
-
-In case of B to C merchant this one will enter in the catalog the retail price (tax incl.)&#x20;
-
-&#x20;The retail price (tax excl.) has to stay empty.
-
-_<mark style="color:blue;">Price of product before the discounts = Standard price (tax excl.)</mark>_&#x20;
-
-
-
-Standard price = Retail price
-
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
-
-###
-
 ## Rounding 1
 
-Each data displayed in the FO has to be&#x20;
+Each data displayed in the FO has to be rounded
 
 Thanks to a toggle button either by  the number of decimals in the currencies (case 1] or depending on the number of digits after coma in the tab pricing of product (case 2).
 
@@ -136,7 +102,7 @@ Case of gas station for fuel. The price is displayed with three digits after com
 
 ### Case 1 : Rounding depending on the number of currency decimals used in the context of the FO and configured in the BO.
 
-_<mark style="color:blue;">Display price =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied rounding taking into account</mark>_
+_<mark style="color:blue;">Display price =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
 
 _**Configuration in the BO**_
 
@@ -152,6 +118,8 @@ _**Configuration in the BO**_
 
 ### Case 2 : Rounding depending on the number of digits after coma in the tab pricing of product (case 2).
 
+_<mark style="color:blue;">Display price =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
+
 If B to C check the number of digits for retail price (tax excl.)&#x20;
 
 If B to B check the number of digits for retail price (tax incl.)
@@ -160,15 +128,9 @@ If B to B check the number of digits for retail price (tax incl.)
 
 <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### Round
 
-* Round on each line
-* Round on each item
-* Round on the total
 
-<figure><img src="../../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
-
-### Roud mode
+### \*Round mode
 
 * Round up away form zero, when it is half way there (recommended)
 * Round down towards zero when it is half way there
@@ -329,6 +291,22 @@ Explain the chosen price rounded off about currency or number of digits after th
 ## 8.2 - Display of the chart tax included for B to C
 
 <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+
+### Round (to move at another place)
+
+* Round on each line
+* Round on each item
+* Round on the total
+
+<figure><img src="../../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
+
+### \*R
 
 
 
