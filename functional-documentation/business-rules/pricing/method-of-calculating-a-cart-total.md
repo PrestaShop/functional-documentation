@@ -90,6 +90,8 @@ _<mark style="color:blue;">Rate</mark>_
 
 ## Rounding 1
 
+<mark style="color:red;">Perhaps suppress rounding 1 and merge it with rounding 2 as the data displayed is this one after (specific price, catalog price rules and customer group even if no discount like this)</mark>
+
 Each data displayed in the FO has to be rounded
 
 Thanks to a toggle button either by  the number of decimals in the currencies (case 1] or depending on the number of digits after coma in the tab pricing of product (case 2).
