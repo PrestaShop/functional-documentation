@@ -104,8 +104,6 @@ Standard price = Retail price
 
 
 
-<mark style="color:red;">CHANGER LES IMPRIX ECRAN AVEC TAX INCL</mark>
-
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### For the other products&#x20;
@@ -116,9 +114,9 @@ In case of B to C merchant this one will enter in the catalog the retail price (
 
 _<mark style="color:blue;">Price of product before the discounts = Standard price (tax excl.)</mark>_&#x20;
 
-Standard price = Retail price
 
-<mark style="color:red;">CHANGER LES IMPRIX ECRAN AVEC TAX INCL</mark>
+
+Standard price = Retail price
 
 <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
