@@ -18,35 +18,75 @@ description: Not used in course of maturation
 
 To calculate the price of a product before the discount :
 
-### B to B
+### ~~B to B~~ Price filled in the product is tax excluded
 
 #### For Products with combination :&#x20;
 
-In case of B to B merchant this one will enter in the catalog the retail price (tax excl.) and the impact on price (tax excl.)
+~~In case of B to B merchant this one will~~ enter in the catalog the retail price (tax excl.) and the impact on price (tax excl.)
 
-&#x20;The retail price (tax incl.) and the impact on price (tax incl.) have to stay empty.
+&#x20;The retail price (tax incl.) and the impact on price (tax incl.) have to stay empty or just informative price.
 
 &#x20;_<mark style="color:blue;">Price of product before the discounts = Retail price (tax excl.) and impact price (tax excl).</mark>_&#x20;
 
-
-
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 #### For the other products&#x20;
 
-In case of B to B merchant this one will enter in the catalog the retail price (tax excl.)&#x20;
+~~In case of B to B merchant this one will~~ enter in the catalog the retail price (tax excl.)&#x20;
 
 &#x20;The retail price (tax incl.) has to stay empty.
 
 _<mark style="color:blue;">Price of product tax excludedc before the discounts = Retail price (tax excl.)</mark>_&#x20;
 
+<figure><img src="../../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
+
+### ~~B to C~~ Price filled in the product is tax incl
+
+You need to calculate exactly with the price you are offering the product.&#x20;
+
+If you want to calculate with fractional cents, then this needs to be able to reproduced by the customer. So you need to show more precision on the product price, invoice positions and then round the final invoiced to something that actually could be transferred.
+
+You calculate either with tax exclusive or tax inclusive prices. If you want to display both prices, the other price would only be informative and imprecise and MUST not be used for any calculation.
 
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-### B to C
+Example&#x20;
 
-<mark style="color:red;">Explain why use data inclu not calculate from excluded but from data display</mark>
+You have a product which price without tax is 1066.34&#x20;
+
+VAT = 21%
+
+The price with tax is 1066.34\*1.21 = 1290,27 considering the price displayed rounded not 1290.2714.
+
+So the following calculation have to be bases on the price displays for the customer
+
+
+
+#### For Products with combination :&#x20;
+
+~~In case of B to B merchant this one will~~ enter in the catalog the retail price (tax incl.) and the impact on price (tax incl.)
+
+&#x20;The retail price (tax excl.) and the impact on price (tax excl.) have to stay empty or just informative price.
+
+&#x20;_<mark style="color:blue;">Price of product before the discounts = Retail price (tax incl.) and impact price (tax incl).</mark>_&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+
+#### For the other products&#x20;
+
+~~In case of B to B merchant this one~~ will enter in the catalog the retail price (tax incl.)&#x20;
+
+&#x20;The retail price (tax incl.) has to stay empty.
+
+_<mark style="color:blue;">Price of product tax included before the discounts = Retail price (tax incl.)</mark>_&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
+
+###
+
+
+
+
 
 {% embed url="https://github.com/PrestaShop/PrestaShop/discussions/34262#discussioncomment-7777008" %}
 
