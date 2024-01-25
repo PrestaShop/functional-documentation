@@ -4,7 +4,7 @@
 
 [The General workflow of the pricing](https://miro.com/app/board/uXjVMuHE5i8=/)
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 It exists different kind of discounts in Prestashop : Specific prices, catalog prices rules, group discounts, cart rules and Pack Produit.
 
