@@ -377,6 +377,10 @@ You have to retrieve if the shipping is free or not.
 
 <figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
 
+1.3) Shipping to 0 by range is like free or could be integrate to shipping not free = 0 and the result will be 0.
+
+<figure><img src="../../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+
 2\) In case of shipping not free
 
 Three things to retrieve
