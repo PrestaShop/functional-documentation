@@ -10,7 +10,7 @@ description: Not used in course of maturation
 
 ## 1 - Standard Price and impact price
 
-<figure><img src="../../../.gitbook/assets/image (172).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflow Pricing - Step Standard Price + Impact Price</a></p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 #### It exists 4 types of products&#x20;
 
@@ -18,7 +18,7 @@ description: Not used in course of maturation
 
 To calculate the price of a product before the discount&#x20;
 
-You need to calculate exactly with the price you are offering the product.&#x20;
+It would help if you calculated exactly with the price you are offering the product.&#x20;
 
 If you want to calculate with fractional cents, then this needs to be able to reproduced by the customer. So you need to show more precision on the product price, invoice positions and then round the final invoiced to something that actually could be transferred.
 
@@ -42,13 +42,13 @@ So the following calculation have to be bases on the price displays for the cust
 
 If you are in a B to B display mode use the following data
 
-&#x20;_<mark style="color:blue;">Price of product before the discounts = Retail price (tax excl.) and impact price (tax excl).</mark>_&#x20;
+&#x20;_<mark style="color:blue;">Price\_of\_product\_tax\_excluded\_step1 = Retail price (tax excl.) and impact price (tax excl).</mark>_&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 If you are in a B to C display mode use the following data
 
-&#x20;_<mark style="color:blue;">Price of product before the discounts = Retail price (tax incl.) + impact price (tax incl).</mark>_&#x20;
+&#x20;_<mark style="color:blue;">Price\_of\_product\_tax\_included\_step1 = Retail price (tax incl.) + impact price (tax incl).</mark>_&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,13 +56,13 @@ If you are in a B to C display mode use the following data
 
 If you are in a B to B display mode use the following data
 
-_<mark style="color:blue;">Price of product tax excluded before the discounts = Retail price (tax excl.)</mark>_&#x20;
+&#x20;_<mark style="color:blue;">Price\_of\_product\_tax\_excluded\_step1  = Retail price (tax excl.)</mark>_&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
 
 If you are in a B to C display mode use the following data
 
-_<mark style="color:blue;">Price of product tax included before the discounts = Retail price (tax incl.)</mark>_&#x20;
+_<mark style="color:blue;">Price\_of\_product\_tax\_included\_step1 = Retail price (tax incl.)</mark>_&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (195).png" alt=""><figcaption></figcaption></figure>
 
@@ -70,17 +70,21 @@ _<mark style="color:blue;">Price of product tax included before the discounts = 
 
 #### Output data from this step
 
-_<mark style="color:blue;">Price of product tax included before the discounts for B to C</mark>_
+If B to C
 
-_<mark style="color:blue;">Price of product tax excluded before the discounts for B to B</mark>_
+_<mark style="color:blue;">Price\_of\_product\_tax\_included\_step1</mark>_
 
-_<mark style="color:blue;">Rate</mark>_
+_<mark style="color:blue;">Rate of the product</mark>_
+
+If B to B
+
+_<mark style="color:blue;">Price\_of\_product\_tax\_excluded\_step1</mark>_
+
+_<mark style="color:blue;">Rate of the product</mark>_
 
 
 
-
-
-###
+_<mark style="color:blue;">The data from this step to the following are sent with the most of precision possible because the data displayed in the FO is this one after step 4 "Discount Customer Group" or step 3 if step 4 is decided to be merged with step 3.</mark>_
 
 
 
@@ -88,11 +92,105 @@ _<mark style="color:blue;">Rate</mark>_
 
 {% embed url="https://github.com/PrestaShop/PrestaShop/discussions/34262#discussioncomment-7777008" %}
 
-## Rounding 1
+## 2 - Discount Specific price
 
-<mark style="color:red;">Perhaps suppress rounding 1 and merge it with rounding 2 as the data displayed is this one after (specific price, catalog price rules and customer group even if no discount like this)</mark>
+This step will be calculated only if it exists some specific prices.
 
-Each data displayed in the FO has to be rounded
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+#### Output data from this step
+
+If B to C
+
+_<mark style="color:blue;">Price\_of\_product\_tax\_included\_step2</mark>_
+
+_<mark style="color:blue;">Rate of the product</mark>_
+
+If B to B
+
+_<mark style="color:blue;">Price\_of\_product\_tax\_excluded\_step2</mark>_
+
+_<mark style="color:blue;">Rate of the product</mark>_
+
+
+
+_<mark style="color:blue;">The data from this step to the following are sent with the most of precision possible because the data displayed in the FO is this one after step 4 "Discount Customer Group" or step 3 if step 4 is decided to be merged with step 3.</mark>_
+
+## 3 - Discount Catalog Price Rules
+
+This step will be calculated only if it exists some Catalog Price Rules.
+
+<figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflow of pricing - Step Discount Catalog Price Rules</a></p></figcaption></figure>
+
+To know if the prioritary between specific price and catalog price rules look at[ the diagram](https://miro.com/app/board/uXjVMuh8JPM=/) below&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+#### Output data from this step
+
+If B to C
+
+_<mark style="color:blue;">Price\_of\_product\_tax\_included\_step3</mark>_
+
+_<mark style="color:blue;">Rate of the product</mark>_
+
+If B to B
+
+_<mark style="color:blue;">Price\_of\_product\_tax\_excluded\_step3</mark>_
+
+_<mark style="color:blue;">Rate of the product</mark>_
+
+
+
+_<mark style="color:blue;">The data from this step to the following are sent with the most of precision possible because the data displayed in the FO is this one after step 4 "Discount Customer Group" or step 3 if step 4 is decided to be merged with step 3.</mark>_
+
+## 4 - Discount - Customer Group (maybe included in catalog price rules)
+
+This step will be calculated only if it exists some Catalog Price Rules.
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+#### Output data from this step
+
+If B to C
+
+_<mark style="color:blue;">Price\_of\_product\_tax\_included\_step4</mark>_
+
+_<mark style="color:blue;">Rate of the product</mark>_
+
+If B to B
+
+_<mark style="color:blue;">Price\_of\_product\_tax\_excluded\_step4</mark>_
+
+_<mark style="color:blue;">Rate of the product</mark>_
+
+
+
+_<mark style="color:blue;">The data from this step to the following are sent with the most of precision possible because the data displayed in the FO is this one after step 4 "Discount Customer Group" or step 3 if step 4 is decided to be merged with step 3.</mark>_
+
+
+
+## Rounding 1 for display price
+
+Each price displayed in the BO (list of products) and in the FO is rounded according to the Decimals defined in currencies.
+
+_<mark style="color:blue;">Display\_price\_rounding\_1 =</mark>_  _<mark style="color:blue;">Price of product after the discounts (step 3) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
+
+_**Configuration in the BO**_
+
+<figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+
+We have to disting data displayed to data used for the following calculations.
+
+#### Output data from this step
+
+_<mark style="color:blue;">Display\_price\_rounding\_1</mark>_
+
+
+
+
+
+## Rounding 1 for calculation
 
 Thanks to a toggle button either by  the number of decimals in the currencies (case 1] or depending on the number of digits after coma in the tab pricing of product (case 2).
 
@@ -104,7 +202,9 @@ Case of gas station for fuel. The price is displayed with three digits after com
 
 ### Case 1 : Rounding depending on the number of currency decimals used in the context of the FO and configured in the BO.
 
-_<mark style="color:blue;">Display price =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
+In this case, rounding for calculation in the next step is the same as the rounding used for displayed prices.
+
+_<mark style="color:blue;">Calculation\_price\_rounding\_1 =</mark>_  _<mark style="color:blue;">Price of the product after the discounts (step 3) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
 
 _**Configuration in the BO**_
 
@@ -120,7 +220,7 @@ _**Configuration in the BO**_
 
 ### Case 2 : Rounding depending on the number of digits after coma in the tab pricing of product (case 2).
 
-_<mark style="color:blue;">Display price =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
+_<mark style="color:blue;">Calculation\_price\_rounding\_1 =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
 
 If B to C check the number of digits for retail price (tax excl.)&#x20;
 
@@ -130,7 +230,9 @@ If B to B check the number of digits for retail price (tax incl.)
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+#### Output data from this step
 
+_<mark style="color:blue;">Calculation\_price\_rounding\_1</mark>_
 
 ### \*Round mode
 
@@ -145,23 +247,7 @@ If B to B check the number of digits for retail price (tax incl.)
 
 <figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
-## 2 - Discount Specific price
-
-<figure><img src="../../../.gitbook/assets/image (171).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflow Pricing - Discount Specific Price</a></p></figcaption></figure>
-
-## 3 - Discount Catalog Price Rules
-
-<figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Workflow of pricing - Step Discount Catalog Price Rules</a></p></figcaption></figure>
-
-To know if the prioritary between specific price and catalog price rules look at[ the diagram](https://miro.com/app/board/uXjVMuh8JPM=/) below&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
-
-## 4 - Discount - Customer Group (maybe included in catalog price rules)
-
-<figure><img src="../../../.gitbook/assets/image (170).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=538880055">Worklfow of pricing - Step Discount Customer Group</a></p></figcaption></figure>
-
-
+##
 
 ## 5 - Discount- Cart Rules
 
