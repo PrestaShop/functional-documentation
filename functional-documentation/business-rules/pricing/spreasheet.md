@@ -1,5 +1,9 @@
 # Spreasheet
 
+## <mark style="color:red;">I have to corrected the calculation of VAT</mark>
+
+## <mark style="color:red;">and separate B to B and B to C</mark>
+
 ## Link to the [spreadsheet](https://docs.google.com/spreadsheets/d/1SKKAMRoQqmfnpv7Hg2fZdsrd1DjfuyYB3u8gmejZ3ZM/edit#gid=1935476460)
 
 ## Description
