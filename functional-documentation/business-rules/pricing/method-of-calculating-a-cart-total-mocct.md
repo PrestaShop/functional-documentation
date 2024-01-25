@@ -2,7 +2,9 @@
 description: Not used in course of maturation
 ---
 
-# Method Of Calculating a Cart Total
+# Method Of Calculating a Cart Total (MOCCT)
+
+<figure><img src="../../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 ## Description
 
@@ -10,7 +12,7 @@ description: Not used in course of maturation
 
 ## 1 - Standard Price and impact price
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
 #### It exists 4 types of products&#x20;
 
@@ -96,7 +98,7 @@ _<mark style="color:blue;">The data from this step to the following are sent wit
 
 This step will be calculated only if it exists some specific prices.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (197).png" alt=""><figcaption></figcaption></figure>
 
 #### Output data from this step
 
@@ -148,7 +150,7 @@ _<mark style="color:blue;">The data from this step to the following are sent wit
 
 This step will be calculated only if it exists some Catalog Price Rules.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
 #### Output data from this step
 
@@ -337,9 +339,9 @@ _**Configuration in the BO**_
 
 ### Case 2  : Rounding depending on the number of digits after coma in the tab pricing of product (case 2).
 
-_<mark style="color:blue;">Calculation\_amount\_rounding\_2 =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+_<mark style="color:blue;">Calculation\_amount\_rounding\_2 =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total-mocct.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
 
-_<mark style="color:blue;">Calculation\_price\_rounding\_2 =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
+_<mark style="color:blue;">Calculation\_price\_rounding\_2 =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total-mocct.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
 
 If B to C check the number of digits for retail price (tax excl.)&#x20;
 
@@ -356,6 +358,8 @@ _<mark style="color:blue;">Calculation\_price\_rounding\_2</mark>_
 If you have another discount Go back to step 5 else go on
 
 ## 6 - Retrieve cost of Shipping
+
+TODO : separate B to B and B to C
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -394,6 +398,8 @@ Three things to retrieve
 3- Handling charges tax excluded
 
 ## 7 - Calculation of TVA
+
+TODO : separate B to B and B to C
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -452,25 +458,15 @@ Explain the chosen price rounded off about currency or number of digits after th
 
 1 - X item : Number before _item_ correspond to the number of articles in the chart
 
-2 - Cost excluded of items : Sum of prices tax excluded of each product in the chart ([datas retrieved step 1](method-of-calculating-a-cart-total.md#id-1-standard-price-and-impact-price))
+2 - Cost excluded of items : Sum of prices tax excluded of each product in the chart ([datas retrieved step 1](method-of-calculating-a-cart-total-mocct.md#id-1-standard-price-and-impact-price))
 
-3 - Shipping : Cost tax excluded of shipping + Handling charges tax ecluded ([datas retrieved step 6](method-of-calculating-a-cart-total.md#id-6-retrieve-cost-of-shipping))
+3 - Shipping : Cost tax excluded of shipping + Handling charges tax ecluded ([datas retrieved step 6](method-of-calculating-a-cart-total-mocct.md#id-6-retrieve-cost-of-shipping))
 
 4 - Total (tax excl) : Sum of 2 and 3
 
-6 - Taxes : ([VAT retrieved step 7](method-of-calculating-a-cart-total.md#id-7-calculation-of-tva))
+6 - Taxes : ([VAT retrieved step 7](method-of-calculating-a-cart-total-mocct.md#id-7-calculation-of-tva))
 
 
-
-#### <mark style="color:red;">You have two notions : the display price and the price use for calculation</mark>
-
-<mark style="color:red;">That is correct, if you round to the number of displayed decimals, that is solving the problem that the price is a bot off, like 99.999999 in the above example. You are calculating with the same price that is displayed. But there could be merchants that display unit prices with higher precision, lite in the gas stations the litre price would be 1.895 Euros, for example. So I think that we need two settings for the decimals, a separate one for the precision of displayed prices.</mark>
-
-<mark style="color:red;">The requirement would be:</mark>
-
-* <mark style="color:red;">Unit prices can have more decimals than the currency, to support small unit prices which need more precision. In this case, invoice line totals are rounded to the precision of the currency.</mark>
-
-<mark style="color:red;">from</mark> [<mark style="color:red;">https://github.com/PrestaShop/PrestaShop/discussions/32969</mark>](https://github.com/PrestaShop/PrestaShop/discussions/32969)
 
 ## 8.2 - Display of the chart tax included for B to C
 
@@ -490,7 +486,7 @@ Explain the chosen price rounded off about currency or number of digits after th
 
 <figure><img src="../../../.gitbook/assets/image (189).png" alt=""><figcaption></figcaption></figure>
 
-### \*R
+###
 
 
 

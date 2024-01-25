@@ -360,7 +360,7 @@
         * [Personal data management](functional-documentation/business-rules/modules/module-gdpr/personal-data-management/README.md)
           * [Customer's personal data](functional-documentation/business-rules/modules/module-gdpr/personal-data-management/customers-personal-data.md)
     * [Pricing](functional-documentation/business-rules/pricing/README.md)
-      * [Method Of Calculating a Cart Total](functional-documentation/business-rules/pricing/method-of-calculating-a-cart-total.md)
+      * [Method Of Calculating a Cart Total (MOCCT)](functional-documentation/business-rules/pricing/method-of-calculating-a-cart-total-mocct.md)
       * [Spreasheet](functional-documentation/business-rules/pricing/spreasheet.md)
       * [Invoice](functional-documentation/business-rules/pricing/invoice.md)
       * [Ecotax](functional-documentation/business-rules/pricing/ecotax.md)
