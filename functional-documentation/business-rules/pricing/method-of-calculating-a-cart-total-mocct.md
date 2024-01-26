@@ -376,30 +376,61 @@ To calculate a unique VAT
 first group the excluded tax costs by VAT value, round each one and then add them together. Consider :
 
 * a product A (excluding VAT) of 5.221 euros taxed at 20%, quantity 4
+
+\==> rounded to 5.22 like displayed in the FO
+
 * a product B (excluding VAT) of 2.506 euros taxed at 10%, quantity 2
+
+\==> rounded to 2.51 like displayed in the FO
+
 * a product C (excluding VAT) of 6.220 euros taxed at 20%, quantity 3
+
+\==> rounded to 6.22 like displayed in the FO
+
 * a product D (excluding VAT) of 3.515 euros taxed at 10%, quantity 1
+
+\==> rounded to 3.52 like displayed in the FO
+
+
 
 We combine products taxed at 20% and those taxed at 10%, as follows
 
-* a product A HT of 5.221 euros taxed at 20%, quantity 4
-* a product C HT of 6.220 euros taxed at 20%, quantity 3
-* a product B HT of 2.506 euros taxed at 10%, quantity 2
-* a product D HT of 3.515 euros taxed at 10%, quantity 1
+* a product A HT of 5.22 euros taxed at 20%, quantity 4
+* a product C HT of 6.22 euros taxed at 20%, quantity 3
+* a product B HT of 2.51 euros taxed at 10%, quantity 2
+* a product D HT of 3.52 euros taxed at 10%, quantity 1
 
 <mark style="color:red;">TO correct with adding rounding like value displayed in the FO</mark>
 
-We calculate the prices of the products taxed at 20% according to the type of rounding (let's use line rounding for the example): 5.221 \* 4 = 20.884 rounded 20.88 6.220 \* 3 = 18.66 rounded 18.66 Sum them up: 20,88 + 18,66 = 39,54
+We calculate the prices tax excluded of products with rate 20% rounded (let's use line rounding for the example): 5.22 \* 4 = 20.88&#x20;
 
-Calculate the prices of products at 10% before tax according to the type of rounding (let's use line rounding for the example): 2.506 \* 2 = 5.012 rounded to 5.01 3.515 \* 1 = 3.515 rounded to 3.52 5,01 + 3,52 = 8,53
+6.22 \* 3 = 18.66
 
-Calculate VAT at 20%: 0.20 \* 39.54 = 7.908 rounded up to 7.91
+Sum them up : 20.88 + 18.66 = 39,54
 
-Calculate 10% VAT: 0.1 \* 8.53 = 0.853 rounded up to 0.85
+VAT of products with rate 20%&#x20;
 
-This means a fair tax for the products at : 7,91 + 0,85 = 8,76
+<mark style="color:blue;">VAT\_rate\_20</mark> = 0.20 \* 39.54 = 7.908 rounded up to 7.91
 
 
+
+We calculate the prices tax excluded of products with rate 20% rounded (let's use line rounding for the example): &#x20;
+
+2.51 \* 2 = 5.02
+
+3.52 \* 1 = 3.52&#x20;
+
+Sum them up :  5.02 + 3.52 = 8,54
+
+VAT of products with rate 10%&#x20;
+
+<mark style="color:blue;">VAT\_rate\_10 =</mark> 0.1 \* 8.54 = 0.854 rounded up to 0.85
+
+
+
+VAT total of products :
+
+<mark style="color:blue;">Total\_VAT</mark> = <mark style="color:blue;">VAT\_rate\_20 + VAT\_rate\_10 = 7.91 + 0.85 = 8.76</mark>
 
 ### B to C
 
@@ -436,7 +467,7 @@ We combine products taxed at 20% and those taxed at 10%, as follows
 * a product B  2.76 euros taxed included with rate at 10%, quantity 2
 * a product D 3.87 euros 2.76 taxed included with rate at 10%, quantity 1
 
-We calculate the VAT of products with rate 20% rounding (let's use line rounding for the example):&#x20;
+We calculate the price of products with rate 20% rounded (let's use line rounding for the example):&#x20;
 
 6.27 \* 4 = 25.08 &#x20;
 
@@ -452,7 +483,7 @@ VAT of products with rate 20%&#x20;
 
 
 
-We calculate the VAT of products with rate 10% rounding (let's use line rounding for the example)<mark style="color:purple;">:</mark>&#x20;
+We calculate the price of products with rate 10% rounded (let's use line rounding for the example)<mark style="color:purple;">:</mark>&#x20;
 
 2.76 \* 2 =  5.52
 
@@ -464,13 +495,13 @@ We calculate the VAT of products with rate 10% rounding (let's use line rounding
 
 VAT of products with rate 10%&#x20;
 
-<mark style="color:blue;">VAT\_rate\_10</mark> = 9.39-(9.39/1.1) = 0.853636...
+<mark style="color:blue;">VAT\_rate\_10</mark> = 9.39-(9.39/1.1) = 0.853636... rounded 0.85 as displayed in the invoice (add print screen)
 
 
 
-VAT of products with rate 10%&#x20;
+VAT total of products
 
-<mark style="color:blue;">Total\_VAT</mark> = <mark style="color:blue;">VAT\_rate\_20 + VAT\_rate\_10 = 7.91+8.53636.. = 16.44636...</mark>
+<mark style="color:blue;">Total\_VAT</mark> = <mark style="color:blue;">VAT\_rate\_20 + VAT\_rate\_10 = 7.91 + 0.85 = 8.76</mark>
 
 #### Output data from this step
 
@@ -504,7 +535,7 @@ _<mark style="color:blue;">Display\_VAT\_rate\_10\_rounding\_3 = VAT\_rate\_20 (
 
 _<mark style="color:blue;">Display\_VAT\_rate\_X\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
 
-<mark style="color:blue;">Total\_VAT\_rounding\_3 = Total\_VAT\_rounding\_3</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">(step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+<mark style="color:blue;">Display\_Total\_VAT\_rounding\_3 = Total\_VAT\_rounding\_3</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">(step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
 
 
 
@@ -522,7 +553,7 @@ _<mark style="color:blue;">Display\_VAT\_rate\_10\_rounding\_3</mark>_&#x20;
 
 _<mark style="color:blue;">Display\_VAT\_rate\_X\_rounding\_3</mark>_&#x20;
 
-<mark style="color:blue;">Total\_VAT\_rounding\_3</mark>
+<mark style="color:blue;">Display\_Total\_VAT\_rounding\_3</mark>
 
 ## Rounding 3 for calculation
 
@@ -562,9 +593,9 @@ _**Configuration in the BO**_
 
 _<mark style="color:blue;">Calculation\_VAT\_rate\_20\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows Calc\_VAT\_rate\_10\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
 
-_<mark style="color:blue;">a\_VAT\_rate\_X\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+_<mark style="color:blue;">Calculation\_VAT\_rate\_X\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
 
-<mark style="color:blue;">Total\_VAT\_rounding\_3 = Total\_VAT\_rounding\_3</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">(step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+_<mark style="color:blue;">Calculation\_</mark>_<mark style="color:blue;">Total\_VAT\_rounding\_3 = Total\_VAT\_rounding\_3</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">(step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
 
 If B to C check the number of digits for retail price (tax excl.)&#x20;
 
@@ -576,7 +607,11 @@ If B to B check the number of digits for retail price (tax incl.)
 
 #### Output data from this step
 
-_<mark style="color:blue;">Calculation\_price\_rounding\_1</mark>_
+_<mark style="color:blue;">Calculation\_VAT\_rate\_20\_rounding\_3</mark>_
+
+_<mark style="color:blue;">Calculation\_VAT\_rate\_X\_rounding\_3</mark>_
+
+_<mark style="color:blue;">Calculation\_</mark>_<mark style="color:blue;">Total\_VAT\_rounding\_3</mark>
 
 \*\*\*
 
