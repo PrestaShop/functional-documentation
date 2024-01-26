@@ -389,6 +389,8 @@ We combine products taxed at 20% and those taxed at 10%, as follows
 * a product B HT of 2.506 euros taxed at 10%, quantity 2
 * a product D HT of 3.515 euros taxed at 10%, quantity 1
 
+<mark style="color:red;">TO correct with adding rounding like value displayed in the FO</mark>
+
 We calculate the prices of the products taxed at 20% according to the type of rounding (let's use line rounding for the example): 5.221 \* 4 = 20.884 rounded 20.88 6.220 \* 3 = 18.66 rounded 18.66 Sum them up: 20,88 + 18,66 = 39,54
 
 Calculate the prices of products at 10% before tax according to the type of rounding (let's use line rounding for the example): 2.506 \* 2 = 5.012 rounded to 5.01 3.515 \* 1 = 3.515 rounded to 3.52 5,01 + 3,52 = 8,53
@@ -402,6 +404,71 @@ This means a fair tax for the products at : 7,91 + 0,85 = 8,76
 
 
 ### B to C
+
+Let's now imagine the same product in B to C
+
+and the parameter of rounding is fixing with this one of the currency so two decimals after coma
+
+<figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+
+
+
+* a product A (excluding VAT) of 5.221 euros taxed at 20%, quantity 4&#x20;
+
+\==> 5.221 \* 1.20 = 6.2652 rounded to 6.27 like displayed in the FO
+
+* a product B (excluding VAT) of 2.506 euros taxed at 10%, quantity 2
+
+\==> 2,506 \* 1.1 =2.7566 rounded to 2.76 like displayed in the FO
+
+* a product C (excluding VAT) of 6.220 euros taxed at 20%, quantity 3
+
+\==> 6.220 \* 1.2 = 7.464 rounded to 7.46 like displayed in the FO
+
+* a product D (excluding VAT) of 3.515 euros taxed at 10%, quantity 1
+
+\==>3.515\*1.1 = 3.8665 rounded to 3.87 like displayed in the FO
+
+
+
+We combine products taxed at 20% and those taxed at 10%, as follows
+
+* a product A  6.27 euros taxed included with rate at 20%, quantity 4
+* a product C  7.46 euros taxed included with rate at 20%, quantity 3
+* a product B  2.76 euros taxed included with rate at 10%, quantity 2
+* a product D 3.87 euros 2.76 taxed included with rate at 10%, quantity 1
+
+We calculate the VAT of products with rate 20% rounding (let's use line rounding for the example):&#x20;
+
+6.27 \* 4 = 25.08 &#x20;
+
+7.46 \* 3 = 22.38
+
+&#x20;Sum them up: 25.08 + 22.38 = 47.46 Price tax included of products with rate 20%
+
+47.46/1.2 = 39.55 Price tax excluded of product with rate 10%
+
+VAT of products with rate 20% = 47.46-39.55 = 7.91
+
+
+
+We calculate the VAT of products with rate 10% rounding (let's use line rounding for the example)<mark style="color:purple;">:</mark>&#x20;
+
+2.76 \* 2 = <mark style="color:orange;">???</mark>
+
+3.87 \* 1 = <mark style="color:orange;">???</mark>
+
+&#x20;Sum them up: <mark style="color:orange;">???</mark> + <mark style="color:orange;">???</mark> = <mark style="color:orange;">???</mark> Price tax included of products with rate 10%
+
+<mark style="color:orange;">???</mark>/1.1 = <mark style="color:orange;">???</mark> Price tax excluded of product with rate 10%
+
+
+
+Total VAT = 7.91 + <mark style="color:orange;">???</mark>
+
+
+
+<mark style="color:orange;">This means a fair tax for the products at : 7,91 + 0,85 = 8,76</mark>
 
 
 
