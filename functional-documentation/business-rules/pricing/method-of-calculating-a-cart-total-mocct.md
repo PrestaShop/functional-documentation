@@ -307,8 +307,6 @@ We have to disting data displayed to data used for the following calculations.
 
 _<mark style="color:blue;">Display\_amount\_discount\_n\_rounding\_2</mark>_
 
-\*\*\*
-
 ### Rounding 2 for calculation
 
 Thanks to a toggle button either by  the number of decimals in the currencies (case 1] or depending on the number of digits after coma in the tab pricing of product (case 2).
@@ -446,29 +444,43 @@ We calculate the VAT of products with rate 20% rounding (let's use line rounding
 
 &#x20;Sum them up: 25.08 + 22.38 = 47.46 Price tax included of products with rate 20%
 
-47.46/1.2 = 39.55 Price tax excluded of product with rate 10%
+47.46/1.2 = 39.55 Price tax excluded of product with rate 20%
 
-VAT of products with rate 20% = 47.46-39.55 = 7.91
+VAT of products with rate 20%&#x20;
+
+<mark style="color:blue;">VAT\_rate\_20</mark> = 47.46-39.55 = 7.91
 
 
 
 We calculate the VAT of products with rate 10% rounding (let's use line rounding for the example)<mark style="color:purple;">:</mark>&#x20;
 
-2.76 \* 2 = <mark style="color:orange;">???</mark>
+2.76 \* 2 =  5.52
 
-3.87 \* 1 = <mark style="color:orange;">???</mark>
+3.87 \* 1 = 3.87
 
-&#x20;Sum them up: <mark style="color:orange;">???</mark> + <mark style="color:orange;">???</mark> = <mark style="color:orange;">???</mark> Price tax included of products with rate 10%
+&#x20;Sum them up: 5.52 + 3.87 = 9.39 Price tax included of products with rate 10%
 
-<mark style="color:orange;">???</mark>/1.1 = <mark style="color:orange;">???</mark> Price tax excluded of product with rate 10%
+9.39/1.1 = 8.536363.. Price tax excluded of product with rate 10%
+
+VAT of products with rate 10%&#x20;
+
+<mark style="color:blue;">VAT\_rate\_10</mark> = 9.39-(9.39/1.1) = 0.853636...
 
 
 
-Total VAT = 7.91 + <mark style="color:orange;">???</mark>
+VAT of products with rate 10%&#x20;
 
+<mark style="color:blue;">Total\_VAT</mark> = <mark style="color:blue;">VAT\_rate\_20 + VAT\_rate\_10 = 7.91+8.53636.. = 16.44636...</mark>
 
+#### Output data from this step
 
-<mark style="color:orange;">This means a fair tax for the products at : 7,91 + 0,85 = 8,76</mark>
+<mark style="color:blue;">Total\_VAT</mark>
+
+<mark style="color:blue;">VAT\_rate\_20</mark>
+
+<mark style="color:blue;">VAT\_rate\_10</mark>
+
+<mark style="color:blue;">VAT\_rate\_X</mark>
 
 
 
@@ -476,7 +488,97 @@ Total VAT = 7.91 + <mark style="color:orange;">???</mark>
 
 2\) To calculate multi VAT : TODO
 
+\*\*\* adapter ce qui est entre les étoiles
 
+## Rounding 3 for display price
+
+The amount of the discount in the chart in the FO is rounded according to the Decimals defined in currencies.
+
+The display mode is used for invoice and chart
+
+<mark style="color:red;">add print screens</mark>
+
+_<mark style="color:blue;">Display\_VAT\_rate\_20\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+
+_<mark style="color:blue;">Display\_VAT\_rate\_10\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+
+_<mark style="color:blue;">Display\_VAT\_rate\_X\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+
+<mark style="color:blue;">Total\_VAT\_rounding\_3 = Total\_VAT\_rounding\_3</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">(step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+
+
+
+_**Configuration in the BO**_
+
+<figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+
+We have to disting data displayed to data used for the following calculations.
+
+#### Output data from this step
+
+_<mark style="color:blue;">Display\_VAT\_rate\_20\_rounding\_3</mark>_&#x20;
+
+_<mark style="color:blue;">Display\_VAT\_rate\_10\_rounding\_3</mark>_&#x20;
+
+_<mark style="color:blue;">Display\_VAT\_rate\_X\_rounding\_3</mark>_&#x20;
+
+<mark style="color:blue;">Total\_VAT\_rounding\_3</mark>
+
+## Rounding 3 for calculation
+
+Thanks to a toggle button either by  the number of decimals in the currencies (case 1] or depending on the number of digits after coma in the tab pricing of product (case 2).
+
+Why the second option is interesting ?
+
+Case of gas station for fuel. The price is displayed with three digits after coma event if the payment is with two digits in the case of euros. So for the calculation, the rounding has to be done with three digits.
+
+
+
+### Case 1 : Rounding depending on the number of currency decimals used in the context of the FO and configured in the BO.
+
+In this case, rounding for calculation in the next step is the same as the rounding used for displayed prices.
+
+_<mark style="color:blue;">Calculation\_VAT\_rate\_20\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+
+_<mark style="color:blue;">Calculation\_VAT\_rate\_10\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+
+_<mark style="color:blue;">Calculation\_VAT\_rate\_X\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+
+<mark style="color:blue;">Calculation\_Total\_VAT\_rounding\_3 = Total\_VAT\_rounding\_3</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">(step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+
+_**Configuration in the BO**_
+
+<figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+
+**Contextual currency in FO**
+
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+#### Contextual currency in BO for order
+
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### Case 2 : Rounding depending on the number of digits after coma in the tab pricing of product (case 2).
+
+_<mark style="color:blue;">Calculation\_VAT\_rate\_20\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows Calc\_VAT\_rate\_10\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+
+_<mark style="color:blue;">a\_VAT\_rate\_X\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+
+<mark style="color:blue;">Total\_VAT\_rounding\_3 = Total\_VAT\_rounding\_3</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">(step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+
+If B to C check the number of digits for retail price (tax excl.)&#x20;
+
+If B to B check the number of digits for retail price (tax incl.)
+
+
+
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+#### Output data from this step
+
+_<mark style="color:blue;">Calculation\_price\_rounding\_1</mark>_
+
+\*\*\*
 
 
 
