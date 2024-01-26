@@ -361,13 +361,13 @@ If you have another discount Go back to step 5 else go on
 
 ## 6 - Calculation of VAT
 
-TODO : separate B to B and B to C
+
 
 <figure><img src="../../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 ### B to B
 
-&#x20;Taxes : Sum of rounding of VAT :
+&#x20;Taxes: Sum of rounding of VAT :
 
 To calculate a unique VAT
 
