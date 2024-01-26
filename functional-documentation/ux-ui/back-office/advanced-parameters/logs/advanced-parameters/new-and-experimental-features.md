@@ -6,7 +6,7 @@ This page allows to test new and experimental features in store.
 
 <figure><img src="../../../../../../.gitbook/assets/image (35).png" alt="New &#x26; Experimental Features in single store User Interface"><figcaption><p>New &#x26; Experimental Features in single store User Interface</p></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="New &#x26; Experimental Features in multi store User Interface"><figcaption><p>New &#x26; Experimental Features in multi store User Interface</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="New &#x26; Experimental Features in multi store User Interface"><figcaption><p>New &#x26; Experimental Features in multi store User Interface</p></figcaption></figure>
 
 ### QA&#x20;
 
