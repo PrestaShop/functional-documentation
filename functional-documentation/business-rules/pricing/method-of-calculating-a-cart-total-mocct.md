@@ -4,7 +4,9 @@ description: Not used in course of maturation
 
 # Method Of Calculating a Cart Total (MOCCT)
 
-<figure><img src="../../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ## Description
 
@@ -22,9 +24,9 @@ To calculate the price of a product before the discount&#x20;
 
 It would help if you calculated exactly with the price you are offering the product.&#x20;
 
-If you want to calculate with fractional cents, then this needs to be able to reproduced by the customer. So you need to show more precision on the product price, invoice positions and then round the final invoiced to something that actually could be transferred.
+If you want to calculate with fractional cents, then this needs to be able to be reproduced by the customer. So you need to show more precision on the product price, invoice positions and then round the final invoice to something that actually could be transferred.
 
-You calculate either with tax exclusive or tax inclusive prices. If you want to display both prices, the other price would only be informative and imprecise and MUST not be used for any calculation.
+You calculate either with tax-exclusive or tax-inclusive prices. If you want to display both prices, the other price would only be informative and imprecise and MUST not be used for any calculation.
 
 
 
@@ -42,13 +44,13 @@ So the following calculation have to be bases on the price displays for the cust
 
 #### For Products with combination :&#x20;
 
-If you are in a B to B display mode use the following data
+If you are in a B to B display mode use the following data for chart calculation
 
 &#x20;_<mark style="color:blue;">Price\_of\_product\_tax\_excluded\_step1 = Retail price (tax excl.) and impact price (tax excl).</mark>_&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
-If you are in a B to C display mode use the following data
+If you are in a B to C display mode use the following data for chart calculation
 
 &#x20;_<mark style="color:blue;">Price\_of\_product\_tax\_included\_step1 = Retail price (tax incl.) + impact price (tax incl).</mark>_&#x20;
 
@@ -357,55 +359,15 @@ _<mark style="color:blue;">Calculation\_price\_rounding\_2</mark>_
 
 If you have another discount Go back to step 5 else go on
 
-## 6 - Retrieve cost of Shipping
+##
+
+## 6 - Calculation of VAT
 
 TODO : separate B to B and B to C
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
-Today, we consider only mono-shipping.
-
-You have to retrieve if the shipping is free or not.
-
-1\) Shipping could be free :&#x20;
-
-1.1) If defined like this for the carrier&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
-
-1.2) If a cart rule in the chart mentionned free shipping and filled conditions of the cart rules
-
-<figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
-
-1.3) Shipping to 0 by range is like free or could be integrate to shipping not free = 0 and the result will be 0.
-
-<figure><img src="../../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
-
-2\) In case of shipping not free
-
-Three things to retrieve
-
-2.1) In Shipping>Carriers
-
-<figure><img src="../../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
-
-1- Carrier's tax
-
-2- Cost tax excluded of shipping
-
-
-
-2.2) In Shipping>Preferences
-
-<figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
-
-3- Handling charges tax excluded
-
-## 7 - Calculation of TVA
-
-TODO : separate B to B and B to C
-
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+### B to B
 
 &#x20;Taxes : Sum of rounding of VAT :
 
@@ -439,7 +401,73 @@ This means a fair tax for the products at : 7,91 + 0,85 = 8,76
 
 
 
-2\) VAT of shipping
+### B to C
+
+
+
+
+
+2\) To calculate multi VAT : TODO
+
+
+
+
+
+## 7 - Retrieve cost of Shipping
+
+<figure><img src="../../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+
+TODO : separate B to B and B to C
+
+Today, we consider only mono-shipping.
+
+You have to determine if the shipping is free or not.
+
+1\) Shipping could be free :&#x20;
+
+1.1) If defined like this for the carrier&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (183).png" alt=""><figcaption></figcaption></figure>
+
+1.2) If a cart rule in the chart mentions free shipping and filled conditions of the cart rules
+
+<figure><img src="../../../.gitbook/assets/image (184).png" alt=""><figcaption></figcaption></figure>
+
+1.3) Shipping to 0 by range is like free or could be integrated to shipping not free = 0 and the result will be 0.
+
+Range and cost are tax excluded : cf 1- and 2- image below
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+1.4) Free shipping starts at in Shipping>Preference (is tax included)
+
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+
+
+2\) In case of shipping not free
+
+Three things to retrieve : Carrier's tax, Cost tax excluded of shipping, handling charges if add handling costs is "Yes"
+
+2.1) In Shipping>Carriers
+
+<figure><img src="../../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
+
+1- Carrier's tax
+
+2- Cost tax excluded of shipping
+
+
+
+2.2) In Shipping>Preferences
+
+<figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+
+3- Handling charges tax excluded
+
+
+
+&#x20;VAT of shipping
 
 The shipping and handling tax is added to this: Consider :
 
@@ -449,10 +477,6 @@ The shipping and handling tax is added to this: Consider :
 For a total tax of : 8,76 + 2 + 0,2 = 10.96
 
 Explain the chosen price rounded off about currency or number of digits after the decimal point in BO (case of petrol) to be parameterized
-
-
-
-2\) To calculate multi VAT : TODO
 
 ## 8.1 - Display of the chart tax excluded for B to B
 
