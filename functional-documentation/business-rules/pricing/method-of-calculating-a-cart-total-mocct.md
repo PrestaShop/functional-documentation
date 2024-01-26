@@ -4,9 +4,7 @@ description: Not used in course of maturation
 
 # Method Of Calculating a Cart Total (MOCCT)
 
-
-
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 ## Description
 
