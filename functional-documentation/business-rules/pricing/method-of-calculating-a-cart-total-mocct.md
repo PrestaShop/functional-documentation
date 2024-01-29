@@ -14,9 +14,9 @@ description: Not used in course of maturation
 
 <figure><img src="../../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
-#### It exists 4 types of products&#x20;
+### It exists 4 types of products&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 To calculate the price of a product before the discount&#x20;
 
@@ -28,41 +28,31 @@ You calculate either with tax-exclusive or tax-inclusive prices. If you want to 
 
 
 
-~~Example~~&#x20;
+#### 1) Product A without combination
 
-~~You have a product which price without tax is 1066.34~~&#x20;
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-~~VAT = 21%~~
+#### 2) Product B without a combination
 
-~~The price with tax is 1066.34\*1.21 = 1290,27 considering the price displayed rounded not 1290.2714.~~
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-~~So the following calculation have to be bases on the price displays for the customer~~
+#### 3) Product C without combination
 
-1\) Product A without combination
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+#### 4) Product D without combination
 
-2\) Product B without combination
-
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
-3\) Product C without combination
-
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-4\) Product D without combination
-
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### For Products with combination :&#x20;
 
-If you are in a B to B display mode use the following data for chart calculation
+If you are in a **B to B** display mode use the following data for chart calculation
 
 &#x20;_<mark style="color:blue;">Price\_of\_product\_tax\_excluded\_step1 = Retail price (tax excl.) and impact price (tax excl).</mark>_&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
-If you are in a B to C display mode use the following data for chart calculation
+If you are in a **B to C** display mode use the following data for chart calculation
 
 &#x20;_<mark style="color:blue;">Price\_of\_product\_tax\_included\_step1 = Retail price (tax incl.) + impact price (tax incl).</mark>_&#x20;
 
@@ -70,13 +60,13 @@ If you are in a B to C display mode use the following data for chart calculation
 
 #### For the other products&#x20;
 
-If you are in a B to B display mode use the following data
+If you are in a **B to B** display mode use the following data
 
 &#x20;_<mark style="color:blue;">Price\_of\_product\_tax\_excluded\_step1  = Retail price (tax excl.)</mark>_&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-If you are in a B to C display mode use the following data
+If you are in a **B to C** display mode use the following data
 
 _<mark style="color:blue;">Price\_of\_product\_tax\_included\_step1 = Retail price (tax incl.)</mark>_&#x20;
 
@@ -116,7 +106,7 @@ Product C : (7.464;20%)
 
 Product D : (3.8665;10%)
 
-_<mark style="color:blue;">The data from this step to the following are sent with the most of precision possible because the data displayed in the FO is this one after step 4 "Discount Customer Group" or step 3 if step 4 is decided to be merged with step 3.</mark>_
+_<mark style="color:blue;">The data from this step to the following are sent with the most precision possible because the data displayed in the FO, so rounded, are this one after step 4 "Discount Customer Group" (or step 3 if step 4 is decided to be merged with step 3)</mark>_
 
 
 
@@ -206,21 +196,35 @@ _<mark style="color:blue;">After each cart rules you have to apply rounding beca
 
 ## Rounding 1 for display price&#x20;
 
-Each price displayed in the BO (list of products) and in the FO is rounded according to the Decimals defined in currencies.
+Each price displayed in the BO (list of products) and the FO is rounded according to the Decimals defined in currencies.
 
-_<mark style="color:blue;">Display\_price\_rounding\_1 =</mark>_  _<mark style="color:blue;">Price of product after the discounts (step 3) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
+Products in BO :&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Products in FO in the details page or in the catalog :&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+
+_<mark style="color:blue;">Display\_price\_rounding\_1 =</mark>_  _<mark style="color:blue;">Price of the product after the discounts (step 3) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
 
 _**Configuration in the BO**_
 
 <figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
-We have to disting data displayed to data used for the following calculations.
+**WARNING**: We have to disting data displayed to data used for the following calculations.
 
 #### Output data from this step
 
 _<mark style="color:blue;">For each product (Display\_price\_rounding\_1, rate)</mark>_
 
-_Example Output data for products A,B,C,D_
+_Example Output data for products A,B, C,D considering_
+
+&#x20;_round mode: Round up away from zero, when it is half way there (recommended)  which is the round merchant_
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Product A : (5.22;20%)
 
@@ -244,17 +248,20 @@ Product D : (3.87;10%)
 
 ## Rounding 1 for calculation
 
-Thanks to a toggle button either by  the number of decimals in the currencies (case 1] or depending on the number of digits after coma in the tab pricing of product (case 2).
+We are going to set the Rounding thanks to a toggle button depending on :&#x20;
 
-Why the second option is interesting ?
+* either by the number of decimals in the currencies \[case 1 -like rounding 1 for display price] or&#x20;
+* the number of digits after coma in the tab pricing of product (case 2).
 
-Case of gas station for fuel. The price is displayed with three digits after coma event if the payment is with two digits in the case of euros. So for the calculation, the rounding has to be done with three digits.
+Why the second option is interesting?
+
+Case of gas station for fuel. The price is calculated with three digits after coma even if the payment is with two digits in the case of euros for instance. So for the calculation, the rounding has to be done with three digits not depending on currency. Only the result will be rounded ate the end.
 
 
 
 ### Case 1 : Rounding depending on the number of currency decimals used in the context of the FO and configured in the BO.
 
-In this case, rounding for calculation in the next step is the same as the rounding used for displayed prices.
+In this case, rounding for calculation in the next step is the same as that used for displayed prices.
 
 _<mark style="color:blue;">Calculation\_price\_rounding\_1 =</mark>_  _<mark style="color:blue;">Price of the product after the catalog discounts (step 4) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
 
@@ -262,13 +269,13 @@ _**Configuration in the BO**_
 
 <figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
 
-**Contextual currency in FO**
+#### **Contextual currency in FO**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Contextual currency in BO for order
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Case 2 : Rounding depending on the number of digits after coma in the tab pricing of product (case 2).
 
@@ -280,13 +287,15 @@ If B to B check the number of digits for retail price (tax incl.)
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Output data from this step
+#### Case 1 : Output data from this step
 
 _<mark style="color:blue;">For each product (Calculation\_price\_rounding\_1, rate)</mark>_
 
-_Example Output data for products A,B,C,D_
+_Example Output data for products A,B,C,D considering_
+
+&#x20;_round mode: Round up away from zero, when it is half way there (recommended)  which is the round merchant_
 
 _Case 1 if B to B_
 
@@ -311,6 +320,12 @@ Product D : (3.87;10%)
 
 
 <mark style="color:red;">Todo case 2</mark>
+
+#### <mark style="color:red;">Case 2 : Output data from this step</mark>
+
+_<mark style="color:red;">For each product (Calculation\_price\_rounding\_1, rate)</mark>_
+
+
 
 ### \*Round mode
 
@@ -363,7 +378,7 @@ The amount of the discount in the chart in the FO is rounded according to the De
 
 _<mark style="color:blue;">Display\_amount\_discount\_n\_rounding\_2 = Price of the product after the previous cart rule (step 5) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _**1 -** <mark style="color:blue;">Display\_amount\_discount\_1\_rounding\_2</mark>_
 
@@ -393,9 +408,9 @@ Case of gas station for fuel. The price is displayed with three digits after com
 
 In this case, rounding for calculation in the next step is the same as the rounding used for displayed prices.
 
-_<mark style="color:blue;">Calculation\_amount\_rounding\_2 =</mark>_   _<mark style="color:blue;">Price of the product after the previous cart rule (step5) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+_<mark style="color:blue;">Calculation\_amount\_rounding\_2 =</mark>_   _<mark style="color:blue;">Price of the product after the previous cart rule (step 5) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
 
-_<mark style="color:blue;">Calculation\_price\_rounding\_2 =</mark>_   _<mark style="color:blue;">Price of the product after the previous cart rule (step5) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_
+
 
 _**Configuration in the BO**_
 
@@ -403,17 +418,17 @@ _**Configuration in the BO**_
 
 **Contextual currency in FO**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Contextual currency in BO for order
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Case 2  : Rounding depending on the number of digits after coma in the tab pricing of product (case 2).
 
-_<mark style="color:blue;">Calculation\_amount\_rounding\_2 =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total-mocct.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+_<mark style="color:blue;">Calculation\_amount\_rounding\_2 =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step</mark>_ ](method-of-calculating-a-cart-total-mocct.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">5) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
 
-_<mark style="color:blue;">Calculation\_price\_rounding\_2 =</mark>_  _<mark style="color:blue;">Price of product before the discounts (</mark>_[_<mark style="color:blue;">value calculated in step 1</mark>_](method-of-calculating-a-cart-total-mocct.md#id-1-standard-price-and-impact-price)_<mark style="color:blue;">) on which will be applied round mode\* taking into account the number of decimals as follows :</mark>_
+
 
 If B to C check the number of digits for retail price (tax excl.)&#x20;
 
@@ -421,13 +436,13 @@ If B to B check the number of digits for retail price (tax incl.)
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Output data from this step
 
 _<mark style="color:blue;">Calculation\_price\_rounding\_2</mark>_
 
-If you have another discount Go back to step 5 else go on
+If you have another discount Go back to step 5 else go on calculation of VATthe&#x20;
 
 ##
 
@@ -635,11 +650,11 @@ _**Configuration in the BO**_
 
 **Contextual currency in FO**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Contextual currency in BO for order
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Case 2 : Rounding depending on the number of digits after coma in the tab pricing of product (case 2).
 
@@ -655,7 +670,7 @@ If B to B check the number of digits for retail price (tax incl.)
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Output data from this step
 
@@ -736,7 +751,7 @@ Explain the chosen price rounded off about currency or number of digits after th
 
 ## 8.1 - Display of the chart tax excluded for B to B
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
 
@@ -754,7 +769,7 @@ Explain the chosen price rounded off about currency or number of digits after th
 
 ## 8.2 - Display of the chart tax included for B to C
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

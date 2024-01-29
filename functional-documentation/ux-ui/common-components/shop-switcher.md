@@ -1,6 +1,6 @@
 # Shop switcher
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Shop switcher dropdown UI</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Shop switcher dropdown UI</p></figcaption></figure>
 
 Shop switcher is dropdown ([Dropdowns basics UI kit](https://build.prestashop-project.org/prestashop-ui-kit/?path=/story/dropdowns--basics)) in multistore webshop. It is in center of subheader under main header. \
 Once clicked on shop name or arrow next to shop name opens dropdown. In dropdown opened context is marked with check mark icon other are shown with color mark next to name. \
