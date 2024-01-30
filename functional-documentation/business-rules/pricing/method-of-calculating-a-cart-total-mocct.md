@@ -4,6 +4,8 @@ description: Not used in course of maturation
 
 # Method Of Calculating a Cart Total (MOCCT)
 
+[General Workflow](https://miro.com/app/board/uXjVMuHE5i8=/)
+
 <figure><img src="../../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
 
 ## Description
