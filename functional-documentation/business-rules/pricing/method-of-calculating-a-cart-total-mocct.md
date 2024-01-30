@@ -478,7 +478,9 @@ We combine products taxed at 20% and those taxed at 10%, as follows
 
 
 
-We calculate the prices tax excluded of products with rate 20% rounded (let's use line rounding for the example): 5.22 \* 4 = 20.88&#x20;
+We calculate the prices tax excluded of products with rate 20% rounded (let's use line rounding for the example):&#x20;
+
+5.22 \* 4 = 20.88&#x20;
 
 6.22 \* 3 = 18.66
 
@@ -486,7 +488,7 @@ Sum them up : 20.88 + 18.66 = 39,54
 
 VAT of products with rate 20%&#x20;
 
-<mark style="color:blue;">VAT\_rate\_20</mark> = 0.20 \* 39.54 = 7.908 rounded up to 7.91
+<mark style="color:blue;">VAT\_rate\_20</mark> = 0.20 \* 39.54 = 7.908 rounded up to 7.91 <mark style="color:red;">(separate the rounding in a step)</mark>
 
 
 
@@ -507,6 +509,18 @@ VAT of products with rate 10%&#x20;
 VAT total of products :
 
 <mark style="color:blue;">Total\_VAT</mark> = <mark style="color:blue;">VAT\_rate\_20 + VAT\_rate\_10 = 7.91 + 0.85 = 8.76</mark>
+
+
+
+FO :
+
+<figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+
+Invoice :
+
+<figure><img src="../../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### B to C
 
@@ -571,6 +585,16 @@ VAT of products with rate 10%&#x20;
 VAT total of products
 
 <mark style="color:blue;">Total\_VAT</mark> = <mark style="color:blue;">VAT\_rate\_20 + VAT\_rate\_10 = 7.91 + 0.85 = 8.76</mark>
+
+
+
+FO :
+
+<figure><img src="../../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+
+Invoice:&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 #### Output data from this step
 
