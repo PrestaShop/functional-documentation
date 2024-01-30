@@ -30,7 +30,7 @@ You calculate either with tax-exclusive or tax-inclusive prices. If you want to 
 
 #### 1) Product A without combination
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2) Product B without a combination
 
@@ -224,7 +224,7 @@ _Example Output data for products A,B, C,D considering_
 
 &#x20;_round mode: Round up away from zero, when it is half way there (recommended)  which is the round merchant_
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Product A : (5.22;20%)
 
@@ -271,11 +271,11 @@ _**Configuration in the BO**_
 
 #### **Contextual currency in FO**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Contextual currency in BO for order
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Case 2 : Rounding depending on the number of digits after coma in the tab pricing of product (case 2).
 
@@ -287,7 +287,7 @@ If B to B check the number of digits for retail price (tax incl.)
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Case 1 : Output data from this step
 
@@ -418,11 +418,11 @@ _**Configuration in the BO**_
 
 **Contextual currency in FO**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Contextual currency in BO for order
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Case 2  : Rounding depending on the number of digits after coma in the tab pricing of product (case 2).
 
@@ -436,7 +436,7 @@ If B to B check the number of digits for retail price (tax incl.)
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Output data from this step
 
@@ -448,9 +448,7 @@ If you have another discount Go back to step 5 else go on calculation of VATthe&
 
 ## 6 - Calculation of VAT
 
-
-
-<figure><img src="../../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### B to B
 
@@ -488,7 +486,7 @@ Sum them up : 20.88 + 18.66 = 39,54
 
 VAT of products with rate 20%&#x20;
 
-<mark style="color:blue;">VAT\_rate\_20</mark> = 0.20 \* 39.54 = 7.908 rounded up to 7.91 <mark style="color:red;">(separate the rounding in a step)</mark>
+<mark style="color:blue;">VAT\_rate\_20</mark> = 0.20 \* 39.54 = 7.908
 
 
 
@@ -502,23 +500,7 @@ Sum them up :  5.02 + 3.52 = 8,54
 
 VAT of products with rate 10%&#x20;
 
-<mark style="color:blue;">VAT\_rate\_10 =</mark> 0.1 \* 8.54 = 0.854 rounded up to 0.85
-
-
-
-VAT total of products :
-
-<mark style="color:blue;">Total\_VAT</mark> = <mark style="color:blue;">VAT\_rate\_20 + VAT\_rate\_10 = 7.91 + 0.85 = 8.76</mark>
-
-
-
-FO :
-
-<figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
-
-Invoice :
-
-<figure><img src="../../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:blue;">VAT\_rate\_10 =</mark> 0.1 \* 8.54 = 0.854
 
 
 
@@ -578,27 +560,11 @@ We calculate the price of products with rate 10% rounded (let's use line roundin
 
 VAT of products with rate 10%&#x20;
 
-<mark style="color:blue;">VAT\_rate\_10</mark> = 9.39-(9.39/1.1) = 0.853636... rounded 0.85 as displayed in the invoice (add print screen)
+<mark style="color:blue;">VAT\_rate\_10</mark> = 9.39-(9.39/1.1) = 0.853636
 
 
-
-VAT total of products
-
-<mark style="color:blue;">Total\_VAT</mark> = <mark style="color:blue;">VAT\_rate\_20 + VAT\_rate\_10 = 7.91 + 0.85 = 8.76</mark>
-
-
-
-FO :
-
-<figure><img src="../../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
-
-Invoice:&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 #### Output data from this step
-
-<mark style="color:blue;">Total\_VAT</mark>
 
 <mark style="color:blue;">VAT\_rate\_20</mark>
 
@@ -610,7 +576,7 @@ Invoice:&#x20;
 
 2\) To calculate multi VAT : TODO
 
-\*\*\* adapter ce qui est entre les étoiles
+
 
 ## Rounding 3 for display price
 
@@ -618,7 +584,7 @@ The amount of the discounts in the chart in the FO is rounded according to the D
 
 The display mode is used for invoice and chart
 
-<mark style="color:red;">add print screens</mark>
+
 
 _<mark style="color:blue;">Display\_VAT\_rate\_20\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
 
@@ -633,6 +599,50 @@ _<mark style="color:blue;">Display\_VAT\_rate\_X\_rounding\_3 = VAT\_rate\_20 (s
 _**Configuration in the BO**_
 
 <figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
+
+B to B : example
+
+
+
+_<mark style="color:blue;">Display\_VAT\_rate\_20\_rounding\_3</mark>_ =  7.91 (rounded up of VAT\_rate\_20 = 7.908)
+
+_<mark style="color:blue;">Display\_VAT\_rate\_10\_rounding\_3</mark>_ <mark style="color:blue;"></mark> <mark style="color:blue;"></mark><mark style="color:blue;">=</mark> 0.85 (rounded up of VAT\_rate\_10 = 0.854)
+
+
+
+VAT total of products :
+
+<mark style="color:blue;">Display\_Total\_VAT\_rounding\_3</mark> = _<mark style="color:blue;">Display\_</mark>_<mark style="color:blue;">VAT\_rate\_20\_rounding +</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">Display\_</mark>_<mark style="color:blue;">VAT\_rate\_10\_rounding = 7.91 + 0.85 = 8.76</mark>
+
+
+
+
+
+FO :
+
+<figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+
+B to C : example
+
+_<mark style="color:blue;">Display\_VAT\_rate\_20\_rounding\_3</mark>_ = 7.91 (rounded up of VAT\_rate\_20 = 7.91)
+
+_<mark style="color:blue;">Display\_VAT\_rate\_10\_rounding\_3</mark>_ = 0.85 (rounded up of VAT\_rate\_10 = 0.853636)
+
+
+
+VAT total of products
+
+<mark style="color:blue;">Display\_Total\_VAT\_rounding\_3</mark> = <mark style="color:blue;">Display\_VAT\_rate\_20\_rounding + Display\_VAT\_rate\_10\_rounding =</mark> 7.91 + 0.85 = 8.76
+
+FO :
+
+<figure><img src="../../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
+
+Invoice:&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 We have to disting data displayed to data used for the following calculations.
 
@@ -674,13 +684,25 @@ _**Configuration in the BO**_
 
 **Contextual currency in FO**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Contextual currency in BO for order
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+_<mark style="color:blue;">Calculation\_VAT\_rate\_20\_rounding\_3 = Display\_VAT\_rate\_20\_rounding\_3</mark>_&#x20;
+
+_<mark style="color:blue;">Calculation\_VAT\_rate\_10\_rounding\_3 = Display\_VAT\_rate\_10\_rounding\_3</mark>_ &#x20;
+
+_<mark style="color:blue;">Calculation\_VAT\_rate\_X\_rounding\_3 = Display\_VAT\_rate\_X\_rounding\_3</mark>_
+
+<mark style="color:blue;">Calculation\_Total\_VAT\_rounding\_3 = Display\_Total\_VAT\_rounding\_3</mark>&#x20;
 
 ### Case 2 : Rounding depending on the number of digits after coma in the tab pricing of product (case 2).
+
+
+
+<mark style="color:red;">TODO : an example</mark>
 
 _<mark style="color:blue;">Calculation\_VAT\_rate\_20\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows Calc\_VAT\_rate\_10\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
 
@@ -694,7 +716,7 @@ If B to B check the number of digits for retail price (tax incl.)
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Output data from this step
 
@@ -703,8 +725,6 @@ _<mark style="color:blue;">Calculation\_VAT\_rate\_20\_rounding\_3</mark>_
 _<mark style="color:blue;">Calculation\_VAT\_rate\_X\_rounding\_3</mark>_
 
 _<mark style="color:blue;">Calculation\_</mark>_<mark style="color:blue;">Total\_VAT\_rounding\_3</mark>
-
-\*\*\*
 
 
 
