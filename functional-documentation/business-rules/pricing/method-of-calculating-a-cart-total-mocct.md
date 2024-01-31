@@ -480,9 +480,9 @@ We combine products taxed at 20% and those taxed at 10%, as follows
 
 We calculate the prices tax excluded of products with rate 20% rounded (let's use line rounding for the example):&#x20;
 
-5.22 \* 4 = 20.88&#x20;
+<mark style="color:blue;">Total\_cost\_excluded\_productA</mark> = 5.22 \* 4 = 20.88 <mark style="color:red;">(TODO : les variables tota\_cost\_excluded peuvent être mises dans une étape à part)</mark>
 
-6.22 \* 3 = 18.66
+<mark style="color:blue;">Total\_cost\_excluded\_productC =</mark> 6.22 \* 3 = 18.66
 
 Sum them up : 20.88 + 18.66 = 39,54
 
@@ -494,9 +494,9 @@ VAT of products with rate 20%&#x20;
 
 We calculate the prices tax excluded of products with rate 20% rounded (let's use line rounding for the example): &#x20;
 
-2.51 \* 2 = 5.02
+<mark style="color:blue;">Total\_cost\_excluded\_productB =</mark> 2.51 \* 2 = 5.02
 
-3.52 \* 1 = 3.52&#x20;
+<mark style="color:blue;">Total\_cost\_excluded\_productD =</mark> 3.52 \* 1 = 3.52&#x20;
 
 Sum them up :  5.02 + 3.52 = 8,54
 
@@ -504,7 +504,7 @@ VAT of products with rate 10%&#x20;
 
 <mark style="color:blue;">VAT\_rate\_10 =</mark> 0.1 \* 8.54 = 0.854
 
-
+<mark style="color:blue;">Total\_cost\_excluded\_produts = Total\_cost\_excluded\_productA + Total\_cost\_excluded\_productB + Total\_cost\_excluded\_productC + Total\_cost\_excluded\_productD = 20.88 + 5.02 + 18.66 + 3.52 = 48.08</mark>
 
 ### B to C
 
@@ -573,6 +573,8 @@ VAT of products with rate 10%&#x20;
 <mark style="color:blue;">VAT\_rate\_10</mark>
 
 <mark style="color:blue;">VAT\_rate\_X</mark>
+
+<mark style="color:blue;">Total\_cost\_excluded\_produts</mark>&#x20;
 
 
 
@@ -800,7 +802,7 @@ For a total tax of :&#x20;
 
 <mark style="color:blue;">Total\_Shipping\_VAT = Carrier\_VAT + Handling\_VAT</mark>&#x20;
 
-8,76 + 2 + 0,2 = 10.96
+2 + 0,2 = 2.02
 
 
 
@@ -828,19 +830,21 @@ For a total tax of :&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (213).png" alt=""><figcaption></figcaption></figure>
 
 1 - X item : Number before _item_ correspond to the number of articles in the chart
 
-2 - Cost excluded of items : Sum of prices tax excluded of each product in the chart ([datas retrieved step 1](method-of-calculating-a-cart-total-mocct.md#id-1-standard-price-and-impact-price))
+2 - <mark style="color:blue;">Total\_cost\_excluded\_produts</mark> : Sum of prices tax excluded of each product in the chart (<mark style="color:red;">step XXX</mark>)
 
-3 - Shipping : Cost tax excluded of shipping + Handling charges tax ecluded ([datas retrieved step 6](method-of-calculating-a-cart-total-mocct.md#id-6-retrieve-cost-of-shipping))
+3 - <mark style="color:blue;">Shipping\_cost\_tax\_excluded</mark> : Cost tax excluded of shipping + Handling charges tax excluded (step 7)
 
-4 - Total (tax excl) : Sum of 2 and 3
+4 - <mark style="color:blue;">Total\_tax\_excluded</mark> =  : <mark style="color:blue;">Total\_cost\_excluded\_produts +</mark> <mark style="color:blue;">Shipping\_cost\_tax\_excluded</mark>&#x20;
 
 6 - Taxes : ([VAT retrieved step 7](method-of-calculating-a-cart-total-mocct.md#id-7-calculation-of-tva), rounding 4)
 
+<mark style="color:blue;">5 - Total\_tax\_included = Total\_tax\_excluded  + Total\_Shipping\_VAT\_rounding\_4 +</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">Calculation\_</mark>_<mark style="color:blue;">Total\_VAT\_rounding\_3 =</mark> 70.08 + 2.02 + 8.76 = <mark style="color:red;">80.86</mark>
 
+##
 
 ## 8.2 - Display of the chart tax included for B to C
 
