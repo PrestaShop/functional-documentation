@@ -450,7 +450,7 @@ If you have another discount Go back to step 5 else go on calculation of VATthe&
 
 ## 6 - Calculation of VAT
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
 
 ### B to B
 
@@ -576,7 +576,7 @@ VAT of products with rate 10%&#x20;
 
 
 
-2\) To calculate multi VAT : TODO
+2\) <mark style="color:red;">To calculate multi VAT : TODO</mark>
 
 
 
@@ -588,13 +588,13 @@ The display mode is used for invoice and chart
 
 
 
-_<mark style="color:blue;">Display\_VAT\_rate\_20\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+_<mark style="color:blue;">Display\_VAT\_rate\_20\_rounding\_3 = VAT\_rate\_20</mark> (step 6) on which will be applied round mode\* taking into account the number of decimals as follows_&#x20;
 
-_<mark style="color:blue;">Display\_VAT\_rate\_10\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+_<mark style="color:blue;">Display\_VAT\_rate\_10\_rounding\_3 = VAT\_rate\_20</mark> (step 6) on which will be applied round mode\* taking into account the number of decimals as follows_&#x20;
 
-_<mark style="color:blue;">Display\_VAT\_rate\_X\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+_<mark style="color:blue;">Display\_VAT\_rate\_X\_rounding\_3 = VAT\_rate\_20</mark> (step 6) on which will be applied round mode\* taking into account the number of decimals as follows_&#x20;
 
-<mark style="color:blue;">Display\_Total\_VAT\_rounding\_3 = Total\_VAT\_rounding\_3</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">(step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+<mark style="color:blue;">Display\_Total\_VAT\_rounding\_3 = Total\_VAT\_rounding\_3</mark>  _(step 6) on which will be applied round mode\* taking into account the number of decimals as follows_&#x20;
 
 
 
@@ -614,7 +614,7 @@ _<mark style="color:blue;">Display\_VAT\_rate\_10\_rounding\_3</mark>_ <mark sty
 
 VAT total of products :
 
-<mark style="color:blue;">Display\_Total\_VAT\_rounding\_3</mark> = _<mark style="color:blue;">Display\_</mark>_<mark style="color:blue;">VAT\_rate\_20\_rounding +</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">Display\_</mark>_<mark style="color:blue;">VAT\_rate\_10\_rounding = 7.91 + 0.85 = 8.76</mark>
+<mark style="color:blue;">Display\_Total\_VAT\_rounding\_3</mark> = _<mark style="color:blue;">Display\_</mark>_<mark style="color:blue;">VAT\_rate\_20\_rounding +</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">Display\_</mark>_<mark style="color:blue;">VAT\_rate\_10\_rounding =</mark> 7.91 + 0.85 = 8.76
 
 
 
@@ -628,9 +628,9 @@ FO :
 
 B to C : example
 
-_<mark style="color:blue;">Display\_VAT\_rate\_20\_rounding\_3</mark>_ = 7.91 (rounded up of VAT\_rate\_20 = 7.91)
+_<mark style="color:blue;">Display\_VAT\_rate\_20\_rounding\_3</mark>_ = 7.91 (rounded up of <mark style="color:blue;">VAT\_rate\_20</mark> = 7.91)
 
-_<mark style="color:blue;">Display\_VAT\_rate\_10\_rounding\_3</mark>_ = 0.85 (rounded up of VAT\_rate\_10 = 0.853636)
+_<mark style="color:blue;">Display\_VAT\_rate\_10\_rounding\_3</mark>_ = 0.85 (rounded up of <mark style="color:blue;">VAT\_rate\_10</mark> = 0.853636)
 
 
 
@@ -672,13 +672,13 @@ Case of gas station for fuel. The price is displayed with three digits after com
 
 In this case, rounding for calculation in the next step is the same as the rounding used for displayed prices.
 
-_<mark style="color:blue;">Calculation\_VAT\_rate\_20\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+_<mark style="color:blue;">Calculation\_VAT\_rate\_20\_rounding\_3 = VAT\_rate\_20</mark> (step 6) on which will be applied round mode\* taking into account the number of decimals as follows_&#x20;
 
-_<mark style="color:blue;">Calculation\_VAT\_rate\_10\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+_<mark style="color:blue;">Calculation\_VAT\_rate\_10\_rounding\_3 = VAT\_rate\_20</mark> (step 6) on which will be applied round mode\* taking into account the number of decimals as follows_&#x20;
 
-_<mark style="color:blue;">Calculation\_VAT\_rate\_X\_rounding\_3 = VAT\_rate\_20 (step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+_<mark style="color:blue;">Calculation\_VAT\_rate\_X\_rounding\_3 = VAT\_rate\_20</mark> (step 6) on which will be applied round mode\* taking into account the number of decimals as follows_&#x20;
 
-<mark style="color:blue;">Calculation\_Total\_VAT\_rounding\_3 = Total\_VAT\_rounding\_3</mark> <mark style="color:blue;"></mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">(step 6) on which will be applied round mode\* taking into account the number of decimals as follows</mark>_&#x20;
+<mark style="color:blue;">Calculation\_Total\_VAT\_rounding\_3 = Total\_VAT\_rounding\_3</mark> <mark style="color:blue;"></mark> _(step 6) on which will be applied round mode\* taking into account the number of decimals as follows_&#x20;
 
 _**Configuration in the BO**_
 
@@ -732,9 +732,9 @@ _<mark style="color:blue;">Calculation\_</mark>_<mark style="color:blue;">Total\
 
 ## 7 - Retrieve cost of Shipping
 
-<figure><img src="../../../.gitbook/assets/image (203).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
-TODO : separate B to B and B to C
+
 
 Today, we consider only mono-shipping.
 
@@ -752,13 +752,13 @@ You have to determine if the shipping is free or not.
 
 1.3) Shipping to 0 by range is like free or could be integrated to shipping not free = 0 and the result will be 0.
 
-Range and cost are tax excluded : cf 1- and 2- image below
+Range and cost are tax excluded: cf 1- and 2- image below
 
 <figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 1.4) Free shipping starts at in Shipping>Preference (is tax included)
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (211).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -770,9 +770,9 @@ Three things to retrieve : Carrier's tax, Cost tax excluded of shipping, handlin
 
 <figure><img src="../../../.gitbook/assets/image (185).png" alt=""><figcaption></figcaption></figure>
 
-1- Carrier's tax
+1- <mark style="color:blue;">Carrier's\_tax</mark>
 
-2- Cost tax excluded of shipping
+2- <mark style="color:blue;">Cost\_of\_ shipping\_tax\_excluded</mark>&#x20;
 
 
 
@@ -780,20 +780,49 @@ Three things to retrieve : Carrier's tax, Cost tax excluded of shipping, handlin
 
 <figure><img src="../../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
 
-3- Handling charges tax excluded
+3- <mark style="color:blue;">Handling\_charges\_tax\_excluded</mark>
 
 
 
 &#x20;VAT of shipping
 
-The shipping and handling tax is added to this: Consider :
+The shipping and handling tax is added&#x20;
 
-* shipping at 20 euros, excluding tax, and VAT at 10
-* handling at 2 euros We calculate the shipping VAT: 0,1 \* 20 = 2 Calculate the handling VAT: 0,1 \* 2 = 0,2
+&#x20;Consider :
 
-For a total tax of : 8,76 + 2 + 0,2 = 10.96
+* <mark style="color:blue;">Cost\_of\_carrier\_tax\_excluded =</mark> 20 euros  and <mark style="color:blue;">Carrier's\_tax =</mark> 10 %
+* <mark style="color:blue;">Handling\_charges\_tax\_excluded =</mark> 2 euros&#x20;
+* <mark style="color:blue;">Shipping\_cost\_tax\_excluded</mark> = <mark style="color:blue;">Cost\_of\_carrier\_tax\_excluded + Handling\_charges\_tax\_excluded = 20 + 2 = 22</mark>
+* We calculate the shipping VAT:  <mark style="color:blue;">Carrier\_VAT</mark> = <mark style="color:blue;">Cost\_of\_carrier\_tax\_excluded \* Carrier's\_tax =</mark> 0,1 \* 20 = 2&#x20;
+* We calculate the handling VAT: <mark style="color:blue;">Handling\_VAT</mark> = <mark style="color:blue;">Handling\_charges\_tax\_excluded \*</mark> <mark style="color:red;">Carrier's\_tax</mark> <mark style="color:blue;">=</mark> 0,1 \* 2 = 0,2
 
-Explain the chosen price rounded off about currency or number of digits after the decimal point in BO (case of petrol) to be parameterized
+For a total tax of :&#x20;
+
+<mark style="color:blue;">Total\_Shipping\_VAT = Carrier\_VAT + Handling\_VAT</mark>&#x20;
+
+8,76 + 2 + 0,2 = 10.96
+
+
+
+#### Output data from this step
+
+<mark style="color:blue;">Shipping\_cost\_tax\_excluded</mark>&#x20;
+
+<mark style="color:blue;">Total\_Shipping\_VAT</mark>
+
+
+
+## Rounding 4
+
+<mark style="color:red;">Explain the chosen price rounded off about currency or number of digits after the decimal point in BO (case of petrol) to be parameterized</mark>
+
+<mark style="color:red;">Add rounding of VAT</mark>
+
+#### Output data from this step
+
+<mark style="color:blue;">Shipping\_cost\_tax\_excluded\_rounding\_4</mark>&#x20;
+
+<mark style="color:blue;">Total\_Shipping\_VAT\_rounding\_4</mark>
 
 ## 8.1 - Display of the chart tax excluded for B to B
 
@@ -809,7 +838,7 @@ Explain the chosen price rounded off about currency or number of digits after th
 
 4 - Total (tax excl) : Sum of 2 and 3
 
-6 - Taxes : ([VAT retrieved step 7](method-of-calculating-a-cart-total-mocct.md#id-7-calculation-of-tva))
+6 - Taxes : ([VAT retrieved step 7](method-of-calculating-a-cart-total-mocct.md#id-7-calculation-of-tva), rounding 4)
 
 
 
