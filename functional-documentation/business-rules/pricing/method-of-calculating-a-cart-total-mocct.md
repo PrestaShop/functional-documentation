@@ -6,7 +6,7 @@ description: Not used in course of maturation
 
 [General Workflow](https://miro.com/app/board/uXjVMuHE5i8=/)
 
-<figure><img src="../../../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
 
 ## Description
 
@@ -446,11 +446,101 @@ _<mark style="color:blue;">Calculation\_price\_rounding\_2</mark>_
 
 If you have another discount Go back to step 5 else go on calculation of VATthe&#x20;
 
-##
+## 6 - Total price excluded/included of products
 
-## 6 - Calculation of VAT
+<figure><img src="../../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
+B to B
+
+* a product A  quantity 4 in the chart
+* a product B quantity 2 in the chart
+* a product C quantity 3 in the chart
+* a product D quantity 1
+
+
+
+* a product A 5.22 euros taxes excluded at rate 20%, quantity 4
+* a product B 2.51  taxes excluded  10%, quantity 2
+* a product C 6.22  taxes excluded at 20%, quantity 3
+* a product D 3.52  taxes excluded  10%, quantity 1
+
+
+
+<mark style="color:blue;">Total\_cost\_excluded\_productA</mark> = 5.22 \* 4 = 20.88&#x20;
+
+<mark style="color:blue;">Total\_cost\_excluded\_productB =</mark> 2.51 \* 2 = 5.02
+
+<mark style="color:blue;">Total\_cost\_excluded\_productC =</mark> 6.22 \* 3 = 18.66
+
+<mark style="color:blue;">Total\_cost\_excluded\_productD =</mark> 3.52 \* 1 = 3.52&#x20;
+
+
+
+<mark style="color:blue;">Total\_cost\_excluded\_products = Total\_cost\_excluded\_productA + Total\_cost\_excluded\_productB + Total\_cost\_excluded\_productC + Total\_cost\_excluded\_productD = 20.88 + 5.02 + 18.66 + 3.52 = 48.08</mark>
+
+#### Output data from this step
+
+<mark style="color:blue;">Total\_cost\_excluded\_productA</mark>
+
+<mark style="color:blue;">Total\_cost\_excluded\_productB</mark>
+
+<mark style="color:blue;">Total\_cost\_excluded\_productC</mark>
+
+<mark style="color:blue;">Total\_cost\_excluded\_productD</mark>
+
+<mark style="color:blue;">Total\_cost\_excluded\_products</mark>&#x20;
+
+
+
+<mark style="color:blue;">B to C</mark>
+
+* a product A  quantity 4 in the chart
+* a product B quantity 2 in the chart
+* a product C quantity 3 in the chart
+* a product D quantity 1
+
+
+
+* a product A 6.27 euros taxes included at rate 20%, quantity 4
+* a product C 7.46 euros taxes included at rate 20%, quantity 3
+* a product B 2.76 euros taxes included at rate 10%, quantity 2
+* a product 3.87 euros taxes included at rate10%, quantity 1
+
+
+
+
+
+<mark style="color:blue;">Total\_cost\_included\_productA =</mark> 6.27 \* 4 = 25.08 &#x20;
+
+<mark style="color:blue;">Total\_cost\_included\_productB =</mark> 2.76 \* 2 =  5.52
+
+<mark style="color:blue;">Total\_cost\_included\_productC =</mark> 7.46 \* 3 = 22.38
+
+<mark style="color:blue;">Total\_cost\_included\_productD</mark> **=** 3.87 \* 1 = 3.87
+
+
+
+<mark style="color:blue;">Total\_cost\_included\_products = Total\_cost\_included\_productA + Total\_cost\_included\_productB + Total\_cost\_included\_productC + Total\_cost\_included\_productD =</mark> 25.08 + 5.52 + 22.38 + 3.87 = 56.85
+
+
+
+#### Output data from this step
+
+<mark style="color:blue;">Total\_cost\_included\_productA</mark>&#x20;
+
+<mark style="color:blue;">Total\_cost\_included\_productB</mark>
+
+<mark style="color:blue;">Total\_cost\_included\_productC</mark>
+
+<mark style="color:blue;">Total\_cost\_included\_productD</mark>
+
+<mark style="color:blue;">Total\_cost\_included\_products</mark>&#x20;
+
+
+
+## 7 - Calculation of VAT
+
+<figure><img src="../../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 ### B to B
 
@@ -461,11 +551,6 @@ To calculate a unique VAT
 1\) VAT of products
 
 First group the excluded tax costs by VAT value, round each one and then add them together. Consider Let's take the products A,B,C,D like rounded step 1
-
-* a product A  quantity 4 in the chart
-* a product B quantity 2 in the chart
-* a product C quantity 3 in the chart
-* a product D quantity 1
 
 
 
@@ -480,31 +565,29 @@ We combine products taxed at 20% and those taxed at 10%, as follows
 
 We calculate the prices tax excluded of products with rate 20% rounded (let's use line rounding for the example):&#x20;
 
-<mark style="color:blue;">Total\_cost\_excluded\_productA</mark> = 5.22 \* 4 = 20.88 <mark style="color:red;">(TODO : les variables tota\_cost\_excluded peuvent être mises dans une étape à part)</mark>
+Sum them cost of product tax excluded of product with rate 20%&#x20;
 
-<mark style="color:blue;">Total\_cost\_excluded\_productC =</mark> 6.22 \* 3 = 18.66
-
-Sum them up : 20.88 + 18.66 = 39,54
+<mark style="color:blue;">Total\_cost\_excluded\_ rate20 =Total\_cost\_excluded\_productA +Total\_cost\_excluded\_productC =</mark> 20.88 + 18.66 = 39,54
 
 VAT of products with rate 20%&#x20;
 
-<mark style="color:blue;">VAT\_rate\_20</mark> = 0.20 \* 39.54 = 7.908
+<mark style="color:blue;">VAT\_rate\_20</mark> = 20%\*<mark style="color:blue;">Total\_cost\_excluded\_rate20</mark> =0.20 \* 39.54 = 7.908
 
 
 
-We calculate the prices tax excluded of products with rate 20% rounded (let's use line rounding for the example): &#x20;
+We calculate the prices tax excluded of products with rate 10% rounded (let's use line rounding for the example): &#x20;
 
-<mark style="color:blue;">Total\_cost\_excluded\_productB =</mark> 2.51 \* 2 = 5.02
+Sum them cost of product tax excluded of product with rate 10%&#x20;
 
-<mark style="color:blue;">Total\_cost\_excluded\_productD =</mark> 3.52 \* 1 = 3.52&#x20;
+<mark style="color:blue;">Total\_cost\_excluded\_ rate10 =Total\_cost\_excluded\_productB +Total\_cost\_excluded\_productD =</mark> 5.02 + 3.52 = 8,54
 
-Sum them up :  5.02 + 3.52 = 8,54
+
 
 VAT of products with rate 10%&#x20;
 
-<mark style="color:blue;">VAT\_rate\_10 =</mark> 0.1 \* 8.54 = 0.854
+<mark style="color:blue;">VAT\_rate\_10 = 10%\*Total\_cost\_excluded\_rate10 =</mark> 0.1 \* 8.54 = 0.854
 
-<mark style="color:blue;">Total\_cost\_excluded\_products = Total\_cost\_excluded\_productA + Total\_cost\_excluded\_productB + Total\_cost\_excluded\_productC + Total\_cost\_excluded\_productD = 20.88 + 5.02 + 18.66 + 3.52 = 48.08</mark>
+
 
 ### B to C
 
@@ -513,15 +596,6 @@ Let's now imagine the same product in B to C
 and the parameter of rounding is fixing with this one of the currency so two decimals after coma
 
 <figure><img src="../../../.gitbook/assets/image (188).png" alt=""><figcaption></figcaption></figure>
-
-
-
-Let's take the products A,B,C,D like rounded step 1
-
-* a product A  quantity 4 in the chart
-* a product B quantity 2 in the chart
-* a product C quantity 3 in the chart
-* a product D quantity 1
 
 
 
@@ -534,13 +608,13 @@ We combine products taxed at 20% and those taxed at 10%, as follows
 
 
 
-We calculate the price of products with rate 20% rounded (let's use line rounding for the example):&#x20;
+We calculate the prices tax included of products with rate 20% rounded (let's use line rounding for the example):&#x20;
 
-<mark style="color:blue;">Total\_cost\_included\_productA =</mark> 6.27 \* 4 = 25.08 &#x20;
+Sum them cost of product tax included of product with rate 20%&#x20;
 
-<mark style="color:blue;">Total\_cost\_included\_productC =</mark> 7.46 \* 3 = 22.38
+<mark style="color:blue;">Total\_cost\_included\_ rate20 =Total\_cost\_included\_productA +Total\_cost\_included\_productC =</mark> 25.08 + 22.38
 
-&#x20;Sum them up: 25.08 + 22.38 = 47.46 Price tax included of products with rate 20%
+
 
 47.46/1.2 = 39.55 Price tax excluded of product with rate 20%
 
@@ -550,13 +624,13 @@ VAT of products with rate 20%&#x20;
 
 
 
-We calculate the price of products with rate 10% rounded (let's use line rounding for the example)<mark style="color:purple;">:</mark>&#x20;
+We calculate the prices tax included of products with rate 10% rounded (let's use line rounding for the example):&#x20;
 
-<mark style="color:blue;">Total\_cost\_included\_productB =</mark> 2.76 \* 2 =  5.52
+Sum them cost of product tax included of product with rate 10%&#x20;
 
-<mark style="color:blue;">Total\_cost\_included\_productD</mark> **=** 3.87 \* 1 = 3.87
+<mark style="color:blue;">Total\_cost\_included\_ rate10 =Total\_cost\_included\_productB +Total\_cost\_included\_productD =</mark>
 
-&#x20;Sum them up: 5.52 + 3.87 = 9.39 Price tax included of products with rate 10%
+&#x20; 5.52 + 3.87 = 9.39 Price tax included of products with rate 10%
 
 9.39/1.1 = 8.536363.. Price tax excluded of product with rate 10%
 
@@ -566,7 +640,7 @@ VAT of products with rate 10%&#x20;
 
 
 
-<mark style="color:blue;">Total\_cost\_included\_products = Total\_cost\_included\_productA + Total\_cost\_included\_productB + Total\_cost\_included\_productC + Total\_cost\_included\_productD =</mark> 25.08 + 5.52 + 22.38 + 3.87 = 56.85
+
 
 #### Output data from this step
 
