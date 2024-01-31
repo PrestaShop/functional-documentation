@@ -902,9 +902,11 @@ For a total tax of :&#x20;
 
 <mark style="color:blue;">Total\_Shipping\_VAT\_rounding\_4</mark>
 
-## 8.1 - Display of the chart tax excluded for B to B
+## 9 - Display of the chart
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
+
+#### B to B
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -920,11 +922,7 @@ For a total tax of :&#x20;
 
 <mark style="color:blue;">5 - Total\_tax\_included = Total\_tax\_excluded  + Total\_Shipping\_VAT\_rounding\_4 +</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">Calculation\_</mark>_<mark style="color:blue;">Total\_VAT\_rounding\_3 =</mark> 70.08 + 2.2 + 8.76 = 81.04
 
-##
-
-## 8.2 - Display of the chart tax included for B to C
-
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+#### B to C
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
