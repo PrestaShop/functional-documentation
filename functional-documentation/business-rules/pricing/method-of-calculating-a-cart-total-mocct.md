@@ -712,10 +712,6 @@ VAT total of products
 
 <mark style="color:blue;">Display\_Total\_VAT\_rounding\_3</mark> = <mark style="color:blue;">Display\_VAT\_rate\_20\_rounding + Display\_VAT\_rate\_10\_rounding =</mark> 7.91 + 0.85 = 8.76
 
-Invoice:&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
-
 We have to disting data displayed to data used for the following calculations.
 
 #### Output data from this step
@@ -882,17 +878,31 @@ For a total tax of :&#x20;
 
 
 
-## Rounding 4
+## Rounding 4 for display
 
-<mark style="color:red;">Explain the chosen price rounded off about currency or number of digits after the decimal point in BO (case of petrol) to be parameterized</mark>
+The amount of the discounts in the chart in the FO is rounded according to the Decimals defined in currencies.
 
-<mark style="color:red;">Add rounding of VAT</mark>
+<mark style="color:blue;">Display\_Shipping\_cost\_tax\_excluded\_rounding\_4 = Shipping\_cost\_tax\_excluded</mark>  _(step 7) on which will be applied round mode\* taking into account the number of decimals as follows_&#x20;
+
+<mark style="color:blue;">Display\_Total\_Shipping\_VAT\_rounding\_4 = Total\_Shipping\_VAT</mark>  _(step 7) on which will be applied round mode\* taking into account the number of decimals as follows_&#x20;
+
+
+
+_**Configuration in the BO**_
+
+<figure><img src="../../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 #### Output data from this step
 
-<mark style="color:blue;">Shipping\_cost\_tax\_excluded\_rounding\_4</mark>&#x20;
+<mark style="color:blue;">Display\_Shipping\_cost\_tax\_excluded\_rounding\_4</mark>&#x20;
 
-<mark style="color:blue;">Total\_Shipping\_VAT\_rounding\_4</mark>
+<mark style="color:blue;">Display\_Total\_Shipping\_VAT\_rounding\_4</mark>
+
+
+
+## Rounding 4 for calculation
+
+
 
 ## 9 - Display of the chart
 
