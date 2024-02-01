@@ -900,19 +900,21 @@ For a total tax of :&#x20;
 
 #### B to B
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (219).png" alt=""><figcaption></figcaption></figure>
 
-1 - X item : Number before _item_ correspond to the number of articles in the chart
+2 - _<mark style="color:blue;">Display\_price\_rounding\_1</mark>_
 
-2 - <mark style="color:blue;">Total\_cost\_excluded\_products</mark> : Sum of prices tax excluded of each product in the chart (<mark style="color:red;">step XXX</mark>)
+_3 -_ <mark style="color:blue;">Total\_cost\_excluded\_productX</mark> (step 6)
 
-3 - <mark style="color:blue;">Shipping\_cost\_tax\_excluded</mark> : Cost tax excluded of shipping + Handling charges tax excluded (step 7)
+4 - <mark style="color:blue;">Total\_cost\_included\_products</mark> (step 6)
 
-4 - <mark style="color:blue;">Total\_tax\_excluded</mark> =  : <mark style="color:blue;">Total\_cost\_excluded\_produts +</mark> <mark style="color:blue;">Shipping\_cost\_tax\_excluded</mark>&#x20;
+5 - <mark style="color:blue;">Shipping\_cost\_tax\_excluded</mark> (step 7)
 
-6 - <mark style="color:blue;">Taxes</mark> =  <mark style="color:blue;">Display\_Total\_VAT\_rounding\_3</mark> + <mark style="color:blue;">Total\_Shipping\_VAT\_rounding\_4</mark> = 8.76 + 2.2 = 10.96 (stepXXX)
+6 - <mark style="color:blue;">Total\_tax\_excluded = Total\_cost\_excluded\_products</mark> (step 6)  + <mark style="color:blue;">Shipping\_cost\_tax\_excluded</mark> (step 7)
 
-<mark style="color:blue;">5 - Total\_tax\_included = Total\_tax\_excluded  + Total\_Shipping\_VAT\_rounding\_4 +</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">Calculation\_</mark>_<mark style="color:blue;">Total\_VAT\_rounding\_3 =</mark> 70.08 + 2.2 + 8.76 = 81.04
+9 -  <mark style="color:blue;">Taxes =</mark> <mark style="color:blue;">Display\_Total\_VAT\_rounding\_3</mark> + <mark style="color:blue;">Total\_Shipping\_VAT\_rounding\_4</mark> = 8.76 + 2.2 = 10.96 (stepXXX)
+
+10 - <mark style="color:blue;">Total</mark> = <mark style="color:blue;">Total\_tax\_excluded + Taxes</mark>&#x20;
 
 #### B to C
 
@@ -938,7 +940,27 @@ _3 -_ <mark style="color:blue;">Total\_cost\_excluded\_productX</mark> (step 6)
 
 ### B to B
 
+<figure><img src="../../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
+1 - <mark style="color:blue;">Rate of the product</mark> (step 1)
+
+2 - _<mark style="color:blue;">Display\_price\_rounding\_1</mark>_
+
+_3 -_ <mark style="color:blue;">Total\_cost\_excluded\_productX</mark> (step 6)
+
+4 - <mark style="color:blue;">Total\_cost\_included\_products</mark> (step 6)
+
+5 - <mark style="color:blue;">Shipping\_cost\_tax\_excluded</mark> (step 7)
+
+6 - <mark style="color:blue;">Total\_tax\_excluded = Total\_cost\_excluded\_products</mark> (step 6)  + <mark style="color:blue;">Shipping\_cost\_tax\_excluded</mark> (step 7)
+
+7 - <mark style="color:blue;">VAT\_rate\_X</mark>
+
+8 - <mark style="color:blue;">Total\_Shipping\_VAT</mark> (step7)
+
+9 -  <mark style="color:blue;">Taxes (</mark>step 9)
+
+10 - <mark style="color:blue;">Total</mark> (step 9)
 
 ### B to C
 
