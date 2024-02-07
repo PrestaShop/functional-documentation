@@ -365,3 +365,4 @@
       * [Invoice](functional-documentation/business-rules/pricing/invoice.md)
       * [Ecotax](functional-documentation/business-rules/pricing/ecotax.md)
       * [Rounding](functional-documentation/business-rules/pricing/rounding.md)
+* [Page 1test](page-1test.md)
