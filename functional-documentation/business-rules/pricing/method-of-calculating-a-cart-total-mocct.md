@@ -1,5 +1,7 @@
 ---
-description: Not used in course of maturation
+description: >-
+  Technical highlight: Introducing strong typing DecimalNumberNot used in course
+  of maturation
 ---
 
 # Method Of Calculating a Cart Total (MOCCT)
