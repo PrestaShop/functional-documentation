@@ -954,6 +954,8 @@ _3 -_ <mark style="color:blue;">Total\_cost\_excluded\_productX</mark> (step 6)
 
 <figure><img src="../../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
+<mark style="color:red;">Dans la partie Base price changer les valeurs avec le prix included</mark>
+
 1 - <mark style="color:blue;">Rate of the product</mark> (step 1)
 
 2 - _<mark style="color:blue;">Display\_price\_rounding\_1</mark>_
