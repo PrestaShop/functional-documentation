@@ -982,7 +982,7 @@ _3 -_ <mark style="color:blue;">Total\_cost\_excluded\_productX</mark> (step 6)
 
 2 - _<mark style="color:blue;">Price\_of\_product\_tax\_included\_step1</mark>_
 
-_3 -_ <mark style="color:blue;">Total\_cost\_excluded\_productX</mark> (step 6)
+_3 -_ <mark style="color:blue;">Total\_cost\_included\_productX</mark> (step 6)
 
 4 - <mark style="color:blue;">Total\_cost\_included\_products</mark> (step 6)
 
