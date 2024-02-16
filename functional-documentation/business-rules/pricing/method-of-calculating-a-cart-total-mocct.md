@@ -8,13 +8,13 @@ description: >-
 
 [General Workflow](https://miro.com/app/board/uXjVMuHE5i8=/)
 
-<figure><img src="../../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Description
 
 
 
-## 1 - Standard Price and impact price
+## Step 1 - Standard Price and impact price
 
 <figure><img src="../../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
@@ -34,7 +34,7 @@ You calculate either with tax-exclusive or tax-inclusive prices. If you want to 
 
 #### 1) Product A without combination
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 2) Product B without a combination
 
@@ -118,7 +118,7 @@ _<mark style="color:blue;">The data from this step to the following are sent wit
 
 {% embed url="https://github.com/PrestaShop/PrestaShop/discussions/34262#discussioncomment-7777008" %}
 
-## 2 - Discount Specific price <mark style="color:orange;">for now consider no discount</mark>
+## Step 2 - Discount Specific price <mark style="color:orange;">for now consider no discount</mark>
 
 This step will be calculated only if it exists some specific prices.
 
@@ -142,7 +142,7 @@ _<mark style="color:blue;">Rate of the product</mark>_
 
 _<mark style="color:blue;">The data from this step to the following are sent with the most of precision possible because the data displayed in the FO is this one after step 4 "Discount Customer Group" or step 3 if step 4 is decided to be merged with step 3.</mark>_
 
-## 3 - Discount Catalog Price Rules <mark style="color:orange;">for now consider no discount</mark>
+## Step 3 - Discount Catalog Price Rules <mark style="color:orange;">for now consider no discount</mark>
 
 This step will be calculated only if it exists some Catalog Price Rules.
 
@@ -170,7 +170,7 @@ _<mark style="color:blue;">Rate of the product</mark>_
 
 _<mark style="color:blue;">The data from this step to the following are sent with the most of precision possible because the data displayed in the FO is this one after step 4 "Discount Customer Group" or step 3 if step 4 is decided to be merged with step 3.</mark>_
 
-## 4 - Discount - Customer Group (maybe included in catalog price rules) <mark style="color:orange;">for now consider no discount</mark>
+## Step 4 - Discount - Customer Group (maybe included in catalog price rules) <mark style="color:orange;">for now consider no discount</mark>
 
 This step will be calculated only if it exists some Catalog Price Rules.
 
@@ -228,7 +228,7 @@ _Example Output data for products A,B, C,D considering_
 
 &#x20;_round mode: Round up away from zero, when it is half way there (recommended)  which is the round merchant_
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Product A : (5.22;20%)
 
@@ -275,11 +275,11 @@ _**Configuration in the BO**_
 
 #### **Contextual currency in FO**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Contextual currency in BO for order
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Case 2 : Rounding depending on the number of digits after coma in the tab pricing of product (case 2).
 
@@ -291,7 +291,7 @@ If B to B check the number of digits for retail price (tax incl.)
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Case 1 : Output data from this step
 
@@ -346,7 +346,7 @@ _<mark style="color:red;">For each product (Calculation\_price\_rounding\_1, rat
 
 ##
 
-## 5 - Discount- Cart Rules <mark style="color:orange;">for now consider no discount</mark>
+## Step 5 - Discount- Cart Rules <mark style="color:orange;">for now consider no discount</mark>
 
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
@@ -422,11 +422,11 @@ _**Configuration in the BO**_
 
 **Contextual currency in FO**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Contextual currency in BO for order
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Case 2  : Rounding depending on the number of digits after coma in the tab pricing of product (case 2).
 
@@ -440,7 +440,7 @@ If B to B check the number of digits for retail price (tax incl.)
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Output data from this step
 
@@ -448,7 +448,7 @@ _<mark style="color:blue;">Calculation\_price\_rounding\_2</mark>_
 
 If you have another discount Go back to step 5 else go on calculation of VATthe&#x20;
 
-## 6 - Total price excluded/included of products
+## Step 6 - Total price excluded/included of products
 
 <figure><img src="../../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
@@ -540,7 +540,7 @@ B to B
 
 
 
-## 7 - Calculation of VAT
+## Step 7 - Calculation of VAT
 
 <figure><img src="../../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
@@ -726,7 +726,7 @@ _<mark style="color:blue;">Display\_VAT\_rate\_X\_rounding\_3</mark>_&#x20;
 
 <mark style="color:blue;">Display\_Total\_VAT\_rounding\_3</mark>
 
-## Rounding 3 for calculation
+## Step Rounding 3 for calculation
 
 Thanks to a toggle button either by  the number of decimals in the currencies (case 1] or depending on the number of digits after coma in the tab pricing of product (case 2).
 
@@ -754,11 +754,11 @@ _**Configuration in the BO**_
 
 **Contextual currency in FO**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Contextual currency in BO for order
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _<mark style="color:blue;">Calculation\_VAT\_rate\_20\_rounding\_3 = Display\_VAT\_rate\_20\_rounding\_3</mark>_&#x20;
 
@@ -786,7 +786,7 @@ If B to B check the number of digits for retail price (tax incl.)
 
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Output data from this step
 
@@ -798,7 +798,7 @@ _<mark style="color:blue;">Calculation\_</mark>_<mark style="color:blue;">Total\
 
 
 
-## 7 - Retrieve cost of Shipping
+## Step 8 - Retrieve cost of Shipping
 
 <figure><img src="../../../.gitbook/assets/image (209).png" alt=""><figcaption></figcaption></figure>
 
@@ -906,7 +906,7 @@ _**Configuration in the BO**_
 
 
 
-## 9 - Display of the chart
+## Step 9 - Display of the chart
 
 <figure><img src="../../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
 
@@ -948,7 +948,7 @@ _3 -_ <mark style="color:blue;">Total\_cost\_excluded\_productX</mark> (step 6)
 
 
 
-## 10 - Display of invoices
+## Step 10 - Display of invoices
 
 ### B to B
 
@@ -978,7 +978,7 @@ _3 -_ <mark style="color:blue;">Total\_cost\_excluded\_productX</mark> (step 6)
 
 ### B to C
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1 - <mark style="color:blue;">Rate of the product</mark> (step 1)
 
